@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="1024" height="1024" role="img" aria-label="halb: 30 minutes">
+  <!-- Clock face matching TimerIcon from the time lesson -->
+  <circle cx="12" cy="12" r="10" fill="#d4d4d4" stroke="none"/>
+  <path d="M12 2 A10 10 0 0 1 12.0000 22.0000 L12 12 Z" fill="#525252" stroke="none"/>
+  <circle cx="12.0000" cy="4.0000" r="0.5" fill="#737373"/>
+  <circle cx="16.0000" cy="5.0718" r="0.5" fill="#737373"/>
+  <circle cx="18.9282" cy="8.0000" r="0.5" fill="#737373"/>
+  <circle cx="20.0000" cy="12.0000" r="0.5" fill="#737373"/>
+  <circle cx="18.9282" cy="16.0000" r="0.5" fill="#737373"/>
+  <circle cx="16.0000" cy="18.9282" r="0.5" fill="#737373"/>
+  <circle cx="12.0000" cy="20.0000" r="0.5" fill="#737373"/>
+  <circle cx="8.0000" cy="18.9282" r="0.5" fill="#737373"/>
+  <circle cx="5.0718" cy="16.0000" r="0.5" fill="#737373"/>
+  <circle cx="4.0000" cy="12.0000" r="0.5" fill="#737373"/>
+  <circle cx="5.0718" cy="8.0000" r="0.5" fill="#737373"/>
+  <circle cx="8.0000" cy="5.0718" r="0.5" fill="#737373"/>
+</svg>
