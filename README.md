@@ -1,1 +1,1 @@
-# wowgerman-data
+# Static Data
