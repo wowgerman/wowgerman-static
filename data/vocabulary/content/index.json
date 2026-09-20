@@ -1,31 +1,187 @@
 {
   "levels": ["a1", "a2", "b1", "b2", "c1", "c2"],
   "topics": [
-    "greetings-and-expressions",
-    "communication-and-personal-information",
-    "countries-and-languages",
-    "numbers-and-quantities",
-    "time-and-dates",
-    "family-and-relationships",
-    "body-parts",
-    "health-and-medicine",
-    "emotions-and-feelings",
-    "daily-routines",
-    "food-and-drinks",
-    "clothing-and-fashion",
-    "colors-and-descriptions",
-    "housing-and-living",
-    "directions-and-locations",
-    "transportation-and-travel",
-    "geography-and-places",
-    "shopping-and-commerce",
-    "education-and-learning",
-    "professions-and-work",
-    "sports-and-hobbies",
-    "entertainment-and-culture",
-    "technology-and-communication",
-    "weather-and-seasons",
-    "grammar-and-language",
-    "other"
+    {
+      "level": "a1",
+      "slug": "greetings-and-expressions",
+      "title": "Greetings & Expressions",
+      "wordCount": 37,
+      "image": "data/vocabulary/images/greetings-and-expressions/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "communication-and-personal-information",
+      "title": "Communication & Personal Information",
+      "wordCount": 20,
+      "image": "data/vocabulary/images/communication-and-personal-information/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "countries-and-languages",
+      "title": "Countries & Languages",
+      "wordCount": 67,
+      "image": "data/vocabulary/images/countries-and-languages/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "numbers-and-quantities",
+      "title": "Numbers & Quantities",
+      "wordCount": 48,
+      "image": "data/vocabulary/images/numbers-and-quantities/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "time-and-dates",
+      "title": "Time & Dates",
+      "wordCount": 81,
+      "image": "data/vocabulary/images/time-and-dates/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "family-and-relationships",
+      "title": "Family & Relationships",
+      "wordCount": 40,
+      "image": "data/vocabulary/images/family-and-relationships/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "body-parts",
+      "title": "Body Parts",
+      "wordCount": 31,
+      "image": "data/vocabulary/images/body-parts/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "health-and-medicine",
+      "title": "Health & Medicine",
+      "wordCount": 42,
+      "image": "data/vocabulary/images/health-and-medicine/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "emotions-and-feelings",
+      "title": "Emotions & Feelings",
+      "wordCount": 28,
+      "image": "data/vocabulary/images/emotions-and-feelings/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "daily-routines",
+      "title": "Daily Routines",
+      "wordCount": 40,
+      "image": "data/vocabulary/images/daily-routines/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "food-and-drinks",
+      "title": "Food & Drinks",
+      "wordCount": 70,
+      "image": "data/vocabulary/images/food-and-drinks/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "clothing-and-fashion",
+      "title": "Clothing & Fashion",
+      "wordCount": 35,
+      "image": "data/vocabulary/images/clothing-and-fashion/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "colors-and-descriptions",
+      "title": "Colors & Descriptions",
+      "wordCount": 42,
+      "image": "data/vocabulary/images/colors-and-descriptions/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "housing-and-living",
+      "title": "Housing & Living",
+      "wordCount": 56,
+      "image": "data/vocabulary/images/housing-and-living/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "directions-and-locations",
+      "title": "Directions & Locations",
+      "wordCount": 55,
+      "image": "data/vocabulary/images/directions-and-locations/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "transportation-and-travel",
+      "title": "Transportation & Travel",
+      "wordCount": 53,
+      "image": "data/vocabulary/images/transportation-and-travel/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "geography-and-places",
+      "title": "Geography & Places",
+      "wordCount": 33,
+      "image": "data/vocabulary/images/geography-and-places/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "shopping-and-commerce",
+      "title": "Shopping & Commerce",
+      "wordCount": 54,
+      "image": "data/vocabulary/images/shopping-and-commerce/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "education-and-learning",
+      "title": "Education & Learning",
+      "wordCount": 37,
+      "image": "data/vocabulary/images/education-and-learning/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "professions-and-work",
+      "title": "Professions & Work",
+      "wordCount": 68,
+      "image": "data/vocabulary/images/professions-and-work/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "sports-and-hobbies",
+      "title": "Sports & Hobbies",
+      "wordCount": 43,
+      "image": "data/vocabulary/images/sports-and-hobbies/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "entertainment-and-culture",
+      "title": "Entertainment & Culture",
+      "wordCount": 58,
+      "image": "data/vocabulary/images/entertainment-and-culture/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "technology-and-communication",
+      "title": "Technology & Communication",
+      "wordCount": 37,
+      "image": "data/vocabulary/images/technology-and-communication/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "weather-and-seasons",
+      "title": "Weather & Seasons",
+      "wordCount": 16,
+      "image": "data/vocabulary/images/weather-and-seasons/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "grammar-and-language",
+      "title": "Grammar & Language",
+      "wordCount": 106,
+      "image": "data/vocabulary/images/grammar-and-language/index.png"
+    },
+    {
+      "level": "a1",
+      "slug": "other",
+      "title": "Other",
+      "wordCount": 19,
+      "image": "data/vocabulary/images/other/index.png"
+    }
   ]
 }
