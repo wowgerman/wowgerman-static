@@ -1,0 +1,31 @@
+{
+  "levels": ["a1", "a2", "b1", "b2", "c1", "c2"],
+  "topics": [
+    "greetings-and-expressions",
+    "communication-and-personal-information",
+    "countries-and-languages",
+    "numbers-and-quantities",
+    "time-and-dates",
+    "family-and-relationships",
+    "body-parts",
+    "health-and-medicine",
+    "emotions-and-feelings",
+    "daily-routines",
+    "food-and-drinks",
+    "clothing-and-fashion",
+    "colors-and-descriptions",
+    "housing-and-living",
+    "directions-and-locations",
+    "transportation-and-travel",
+    "geography-and-places",
+    "shopping-and-commerce",
+    "education-and-learning",
+    "professions-and-work",
+    "sports-and-hobbies",
+    "entertainment-and-culture",
+    "technology-and-communication",
+    "weather-and-seasons",
+    "grammar-and-language",
+    "other"
+  ]
+}
