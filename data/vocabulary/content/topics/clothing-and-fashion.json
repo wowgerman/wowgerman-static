@@ -1,5 +1,7 @@
 [
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "verb",
     "word": "anziehen",
     "infinitive": "anziehen",
@@ -9,485 +11,623 @@
     "auxiliary_verb": "haben",
     "verb_type": "irregular",
     "separable_prefix": "an",
-    "sentence_de": "Ich ziehe die Jacke an.",
-    "sentence_en": "I put on the jacket.",
-    "translation_en": "to put on",
-    "translation_bn": "পরা",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich ziehe die Jacke an." },
+      { "languageCode": "en", "text": "I put on the jacket." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to put on" },
+      { "languageCode": "bn", "text": "পরা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Anzug",
     "article": "der",
     "gender": "masculine",
     "plural": "Anzüge",
     "genitive_singular": "des Anzugs",
-    "sentence_de": "Der Anzug ist elegant.",
-    "sentence_en": "The suit is elegant.",
-    "translation_en": "suit",
-    "translation_bn": "স্যুট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Anzug ist elegant." },
+      { "languageCode": "en", "text": "The suit is elegant." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "suit" },
+      { "languageCode": "bn", "text": "স্যুট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Badeanzug",
     "article": "der",
     "gender": "masculine",
     "plural": "Badeanzüge",
     "genitive_singular": "des Badeanzugs",
-    "sentence_de": "Der Badeanzug ist gelb.",
-    "sentence_en": "The swimsuit is yellow.",
-    "translation_en": "swimsuit",
-    "translation_bn": "সাঁতারের পোশাক",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Badeanzug ist gelb." },
+      { "languageCode": "en", "text": "The swimsuit is yellow." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "swimsuit" },
+      { "languageCode": "bn", "text": "সাঁতারের পোশাক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Badehose",
     "article": "die",
     "gender": "feminine",
     "plural": "Badehosen",
     "genitive_singular": "der Badehose",
-    "sentence_de": "Die Badehose ist kurz.",
-    "sentence_en": "The swim trunks are short.",
-    "translation_en": "swim trunks",
-    "translation_bn": "সাঁতারের প্যান্ট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Badehose ist kurz." },
+      { "languageCode": "en", "text": "The swim trunks are short." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "swim trunks" },
+      { "languageCode": "bn", "text": "সাঁতারের প্যান্ট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "adjective",
     "word": "bequem",
     "comparative": "bequemer",
     "superlative": "am bequemsten",
     "gradable": true,
-    "sentence_de": "Die Schuhe sind bequem.",
-    "sentence_en": "The shoes are comfortable.",
-    "translation_en": "comfortable",
-    "translation_bn": "আরামদায়ক",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Schuhe sind bequem." },
+      { "languageCode": "en", "text": "The shoes are comfortable." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "comfortable" },
+      { "languageCode": "bn", "text": "আরামদায়ক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "adjective",
     "word": "elegant",
     "comparative": "eleganter",
     "superlative": "am elegantesten",
     "gradable": true,
-    "sentence_de": "Das Kleid ist elegant.",
-    "sentence_en": "The dress is elegant.",
-    "translation_en": "elegant",
-    "translation_bn": "মার্জিত",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kleid ist elegant." },
+      { "languageCode": "en", "text": "The dress is elegant." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "elegant" },
+      { "languageCode": "bn", "text": "মার্জিত" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Handschuh",
     "article": "der",
     "gender": "masculine",
     "plural": "Handschuhe",
     "genitive_singular": "des Handschuhs",
-    "sentence_de": "Der Handschuh ist warm.",
-    "sentence_en": "The glove is warm.",
-    "translation_en": "glove",
-    "translation_bn": "দস্তানা",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Handschuh ist warm." },
+      { "languageCode": "en", "text": "The glove is warm." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "glove" },
+      { "languageCode": "bn", "text": "দস্তানা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Handtasche",
     "article": "die",
     "gender": "feminine",
     "plural": "Handtaschen",
     "genitive_singular": "der Handtasche",
-    "sentence_de": "Die Handtasche ist teuer.",
-    "sentence_en": "The handbag is expensive.",
-    "translation_en": "handbag",
-    "translation_bn": "হ্যান্ডব্যাগ",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Handtasche ist teuer." },
+      { "languageCode": "en", "text": "The handbag is expensive." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "handbag" },
+      { "languageCode": "bn", "text": "হ্যান্ডব্যাগ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Handtuch",
     "article": "das",
     "gender": "neuter",
     "plural": "Handtücher",
     "genitive_singular": "des Handtuchs",
-    "sentence_de": "Das Handtuch ist sauber.",
-    "sentence_en": "The towel is clean.",
-    "translation_en": "towel",
-    "translation_bn": "তোয়ালে",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Handtuch ist sauber." },
+      { "languageCode": "en", "text": "The towel is clean." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "towel" },
+      { "languageCode": "bn", "text": "তোয়ালে" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Helm",
     "article": "der",
     "gender": "masculine",
     "plural": "Helme",
     "genitive_singular": "des Helms",
-    "sentence_de": "Der Helm ist schwer.",
-    "sentence_en": "The helmet is heavy.",
-    "translation_en": "helmet",
-    "translation_bn": "হেলমেট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Helm ist schwer." },
+      { "languageCode": "en", "text": "The helmet is heavy." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "helmet" },
+      { "languageCode": "bn", "text": "হেলমেট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Hemd",
     "article": "das",
     "gender": "neuter",
     "plural": "Hemden",
     "genitive_singular": "des Hemdes",
-    "sentence_de": "Das Hemd ist weiß.",
-    "sentence_en": "The shirt is white.",
-    "translation_en": "shirt",
-    "translation_bn": "শার্ট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Hemd ist weiß." },
+      { "languageCode": "en", "text": "The shirt is white." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "shirt" },
+      { "languageCode": "bn", "text": "শার্ট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Hose",
     "article": "die",
     "gender": "feminine",
     "plural": "Hosen",
     "genitive_singular": "der Hose",
-    "sentence_de": "Die Hose ist blau.",
-    "sentence_en": "The pants are blue.",
-    "translation_en": "pants/trousers",
-    "translation_bn": "প্যান্ট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Hose ist blau." },
+      { "languageCode": "en", "text": "The pants are blue." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "pants/trousers" },
+      { "languageCode": "bn", "text": "প্যান্ট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Hut",
     "article": "der",
     "gender": "masculine",
     "plural": "Hüte",
     "genitive_singular": "des Huts",
-    "sentence_de": "Der Hut ist groß.",
-    "sentence_en": "The hat is big.",
-    "translation_en": "hat",
-    "translation_bn": "টুপি",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Hut ist groß." },
+      { "languageCode": "en", "text": "The hat is big." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hat" },
+      { "languageCode": "bn", "text": "টুপি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Jacke",
     "article": "die",
     "gender": "feminine",
     "plural": "Jacken",
     "genitive_singular": "der Jacke",
-    "sentence_de": "Die Jacke ist warm.",
-    "sentence_en": "The jacket is warm.",
-    "translation_en": "jacket",
-    "translation_bn": "জ্যাকেট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Jacke ist warm." },
+      { "languageCode": "en", "text": "The jacket is warm." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "jacket" },
+      { "languageCode": "bn", "text": "জ্যাকেট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Klamotten",
     "article": "die",
     "gender": "feminine",
     "plural": "Klamotten",
     "genitive_singular": "der Klamotten",
-    "sentence_de": "Die Klamotten sind alt.",
-    "sentence_en": "The clothes are old.",
-    "translation_en": "clothes",
-    "translation_bn": "কাপড়-চোপড়",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Klamotten sind alt." },
+      { "languageCode": "en", "text": "The clothes are old." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "clothes" },
+      { "languageCode": "bn", "text": "কাপড়-চোপড়" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Kleid",
     "article": "das",
     "gender": "neuter",
     "plural": "Kleider",
     "genitive_singular": "des Kleides",
-    "sentence_de": "Das Kleid ist schön.",
-    "sentence_en": "The dress is beautiful.",
-    "translation_en": "dress",
-    "translation_bn": "পোশাক",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kleid ist schön." },
+      { "languageCode": "en", "text": "The dress is beautiful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "dress" },
+      { "languageCode": "bn", "text": "পোশাক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Kleidung",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Kleidung",
-    "sentence_de": "Die Kleidung ist sauber.",
-    "sentence_en": "The clothing is clean.",
-    "translation_en": "clothing",
-    "translation_bn": "পোশাক-আশাক",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kleidung ist sauber." },
+      { "languageCode": "en", "text": "The clothing is clean." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "clothing" },
+      { "languageCode": "bn", "text": "পোশাক-আশাক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Krawatte",
     "article": "die",
     "gender": "feminine",
     "plural": "Krawatten",
     "genitive_singular": "der Krawatte",
-    "sentence_de": "Die Krawatte ist schwarz.",
-    "sentence_en": "The tie is black.",
-    "translation_en": "tie",
-    "translation_bn": "টাই",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Krawatte ist schwarz." },
+      { "languageCode": "en", "text": "The tie is black." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tie" },
+      { "languageCode": "bn", "text": "টাই" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Mantel",
     "article": "der",
     "gender": "masculine",
     "plural": "Mäntel",
     "genitive_singular": "des Mantels",
-    "sentence_de": "Der Mantel ist lang.",
-    "sentence_en": "The coat is long.",
-    "translation_en": "coat",
-    "translation_bn": "কোট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Mantel ist lang." },
+      { "languageCode": "en", "text": "The coat is long." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "coat" },
+      { "languageCode": "bn", "text": "কোট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Modefan",
     "article": "der",
     "gender": "masculine",
     "plural": "Modefans",
     "genitive_singular": "des Modefans",
-    "sentence_de": "Der Modefan kauft viele Kleider.",
-    "sentence_en": "The fashion fan buys many clothes.",
-    "translation_en": "fashion fan",
-    "translation_bn": "ফ্যাশন ভক্ত",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Modefan kauft viele Kleider." },
+      { "languageCode": "en", "text": "The fashion fan buys many clothes." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fashion fan" },
+      { "languageCode": "bn", "text": "ফ্যাশন ভক্ত" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Modeschule",
     "article": "die",
     "gender": "feminine",
     "plural": "Modeschulen",
     "genitive_singular": "der Modeschule",
-    "sentence_de": "Die Modeschule ist berühmt.",
-    "sentence_en": "The fashion school is famous.",
-    "translation_en": "fashion school",
-    "translation_bn": "ফ্যাশন স্কুল",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Modeschule ist berühmt." },
+      { "languageCode": "en", "text": "The fashion school is famous." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fashion school" },
+      { "languageCode": "bn", "text": "ফ্যাশন স্কুল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Pullover",
     "article": "der",
     "gender": "masculine",
     "plural": "Pullover",
     "genitive_singular": "des Pullovers",
-    "sentence_de": "Der Pullover ist dick.",
-    "sentence_en": "The sweater is thick.",
-    "translation_en": "sweater",
-    "translation_bn": "সোয়েটার",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Pullover ist dick." },
+      { "languageCode": "en", "text": "The sweater is thick." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sweater" },
+      { "languageCode": "bn", "text": "সোয়েটার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Regenjacke",
     "article": "die",
     "gender": "feminine",
     "plural": "Regenjacken",
     "genitive_singular": "der Regenjacke",
-    "sentence_de": "Die Regenjacke ist wasserdicht.",
-    "sentence_en": "The rain jacket is waterproof.",
-    "translation_en": "rain jacket",
-    "translation_bn": "বৃষ্টির জ্যাকেট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Regenjacke ist wasserdicht." },
+      { "languageCode": "en", "text": "The rain jacket is waterproof." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "rain jacket" },
+      { "languageCode": "bn", "text": "বৃষ্টির জ্যাকেট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Regenschirm",
     "article": "der",
     "gender": "masculine",
     "plural": "Regenschirme",
     "genitive_singular": "des Regenschirms",
-    "sentence_de": "Der Regenschirm ist nass.",
-    "sentence_en": "The umbrella is wet.",
-    "translation_en": "umbrella",
-    "translation_bn": "ছাতা",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Regenschirm ist nass." },
+      { "languageCode": "en", "text": "The umbrella is wet." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "umbrella" },
+      { "languageCode": "bn", "text": "ছাতা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Rock",
     "article": "der",
     "gender": "masculine",
     "plural": "Röcke",
     "genitive_singular": "des Rocks",
-    "sentence_de": "Der Rock ist kurz.",
-    "sentence_en": "The skirt is short.",
-    "translation_en": "skirt",
-    "translation_bn": "স্কার্ট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Rock ist kurz." },
+      { "languageCode": "en", "text": "The skirt is short." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "skirt" },
+      { "languageCode": "bn", "text": "স্কার্ট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Schal",
     "article": "der",
     "gender": "masculine",
     "plural": "Schals",
     "genitive_singular": "des Schals",
-    "sentence_de": "Der Schal ist warm.",
-    "sentence_en": "The scarf is warm.",
-    "translation_en": "scarf",
-    "translation_bn": "গলার কাপড়",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Schal ist warm." },
+      { "languageCode": "en", "text": "The scarf is warm." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "scarf" },
+      { "languageCode": "bn", "text": "গলার কাপড়" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Schuh",
     "article": "der",
     "gender": "masculine",
     "plural": "Schuhe",
     "genitive_singular": "des Schuhs",
-    "sentence_de": "Der Schuh ist neu.",
-    "sentence_en": "The shoe is new.",
-    "translation_en": "shoe",
-    "translation_bn": "জুতা",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Schuh ist neu." },
+      { "languageCode": "en", "text": "The shoe is new." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "shoe" },
+      { "languageCode": "bn", "text": "জুতা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Schuhfan",
     "article": "der",
     "gender": "masculine",
     "plural": "Schuhfans",
     "genitive_singular": "des Schuhfans",
-    "sentence_de": "Der Schuhfan hat viele Schuhe.",
-    "sentence_en": "The shoe fan has many shoes.",
-    "translation_en": "shoe fan",
-    "translation_bn": "জুতার ভক্ত",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Schuhfan hat viele Schuhe." },
+      { "languageCode": "en", "text": "The shoe fan has many shoes." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "shoe fan" },
+      { "languageCode": "bn", "text": "জুতার ভক্ত" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Skischuh",
     "article": "der",
     "gender": "masculine",
     "plural": "Skischuhe",
     "genitive_singular": "des Skischuhs",
-    "sentence_de": "Der Skischuh ist hart.",
-    "sentence_en": "The ski boot is hard.",
-    "translation_en": "ski boot",
-    "translation_bn": "স্কি বুট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Skischuh ist hart." },
+      { "languageCode": "en", "text": "The ski boot is hard." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ski boot" },
+      { "languageCode": "bn", "text": "স্কি বুট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Sonnenbrille",
     "article": "die",
     "gender": "feminine",
     "plural": "Sonnenbrillen",
     "genitive_singular": "der Sonnenbrille",
-    "sentence_de": "Die Sonnenbrille ist dunkel.",
-    "sentence_en": "The sunglasses are dark.",
-    "translation_en": "sunglasses",
-    "translation_bn": "সানগ্লাস",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Sonnenbrille ist dunkel." },
+      { "languageCode": "en", "text": "The sunglasses are dark." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sunglasses" },
+      { "languageCode": "bn", "text": "সানগ্লাস" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Stiefel",
     "article": "der",
     "gender": "masculine",
     "plural": "Stiefel",
     "genitive_singular": "des Stiefels",
-    "sentence_de": "Der Stiefel ist braun.",
-    "sentence_en": "The boot is brown.",
-    "translation_en": "boot",
-    "translation_bn": "বুট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Stiefel ist braun." },
+      { "languageCode": "en", "text": "The boot is brown." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "boot" },
+      { "languageCode": "bn", "text": "বুট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Sweatshirt",
     "article": "das",
     "gender": "neuter",
     "plural": "Sweatshirts",
     "genitive_singular": "des Sweatshirts",
-    "sentence_de": "Das Sweatshirt ist bequem.",
-    "sentence_en": "The sweatshirt is comfortable.",
-    "translation_en": "sweatshirt",
-    "translation_bn": "সোয়েটশার্ট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Sweatshirt ist bequem." },
+      { "languageCode": "en", "text": "The sweatshirt is comfortable." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sweatshirt" },
+      { "languageCode": "bn", "text": "সোয়েটশার্ট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "T-Shirt",
     "article": "das",
     "gender": "neuter",
     "plural": "T-Shirts",
     "genitive_singular": "des T-Shirts",
-    "sentence_de": "Das T-Shirt ist rot.",
-    "sentence_en": "The t-shirt is red.",
-    "translation_en": "t-shirt",
-    "translation_bn": "টি-শার্ট",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das T-Shirt ist rot." },
+      { "languageCode": "en", "text": "The t-shirt is red." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "t-shirt" },
+      { "languageCode": "bn", "text": "টি-শার্ট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Tasche",
     "article": "die",
     "gender": "feminine",
     "plural": "Taschen",
     "genitive_singular": "der Tasche",
-    "sentence_de": "Die Tasche ist klein.",
-    "sentence_en": "The bag is small.",
-    "translation_en": "bag",
-    "translation_bn": "ব্যাগ",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Tasche ist klein." },
+      { "languageCode": "en", "text": "The bag is small." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bag" },
+      { "languageCode": "bn", "text": "ব্যাগ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "clothing-and-fashion",
     "part_of_speech": "noun",
     "word": "Tuch",
     "article": "das",
     "gender": "neuter",
     "plural": "Tücher",
     "genitive_singular": "des Tuchs",
-    "sentence_de": "Das Tuch ist bunt.",
-    "sentence_en": "The cloth is colorful.",
-    "translation_en": "cloth",
-    "translation_bn": "কাপড়",
-    "topic": "clothing-and-fashion",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Tuch ist bunt." },
+      { "languageCode": "en", "text": "The cloth is colorful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cloth" },
+      { "languageCode": "bn", "text": "কাপড়" }
+    ]
   }
 ]

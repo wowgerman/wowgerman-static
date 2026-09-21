@@ -1,398 +1,540 @@
 [
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "null",
-    "sentence_de": "Die Nummer ist null.",
-    "sentence_en": "The number is zero.",
-    "translation_en": "zero",
-    "translation_bn": "শূন্য",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Nummer ist null." },
+      { "languageCode": "en", "text": "The number is zero." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "zero" },
+      { "languageCode": "bn", "text": "শূন্য" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/zero.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "eins",
-    "sentence_de": "Ich habe nur eins.",
-    "sentence_en": "I have only one.",
-    "translation_en": "one",
-    "translation_bn": "এক",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich habe nur eins." },
+      { "languageCode": "en", "text": "I have only one." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "one" },
+      { "languageCode": "bn", "text": "এক" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/one.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "zwei",
-    "sentence_de": "Wir brauchen zwei Stühle.",
-    "sentence_en": "We need two chairs.",
-    "translation_en": "two",
-    "translation_bn": "দুই",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir brauchen zwei Stühle." },
+      { "languageCode": "en", "text": "We need two chairs." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "two" },
+      { "languageCode": "bn", "text": "দুই" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/two.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "sechs",
-    "sentence_de": "Das Kind ist sechs Jahre alt.",
-    "sentence_en": "The child is six years old.",
-    "translation_en": "six",
-    "translation_bn": "ছয়",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kind ist sechs Jahre alt." },
+      { "languageCode": "en", "text": "The child is six years old." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "six" },
+      { "languageCode": "bn", "text": "ছয়" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/six.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "sieben",
-    "sentence_de": "Die Woche hat sieben Tage.",
-    "sentence_en": "The week has seven days.",
-    "translation_en": "seven",
-    "translation_bn": "সাত",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Woche hat sieben Tage." },
+      { "languageCode": "en", "text": "The week has seven days." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "seven" },
+      { "languageCode": "bn", "text": "সাত" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/seven.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "zehn",
-    "sentence_de": "Ich kaufe zehn Äpfel.",
-    "sentence_en": "I buy ten apples.",
-    "translation_en": "ten",
-    "translation_bn": "দশ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich kaufe zehn Äpfel." },
+      { "languageCode": "en", "text": "I buy ten apples." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ten" },
+      { "languageCode": "bn", "text": "দশ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/ten.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "elf",
-    "sentence_de": "Es ist elf Uhr.",
-    "sentence_en": "It is eleven o'clock.",
-    "translation_en": "eleven",
-    "translation_bn": "এগারো",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Es ist elf Uhr." },
+      { "languageCode": "en", "text": "It is eleven o'clock." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "eleven" },
+      { "languageCode": "bn", "text": "এগারো" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/eleven.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "zwölf",
-    "sentence_de": "Das Jahr hat zwölf Monate.",
-    "sentence_en": "The year has twelve months.",
-    "translation_en": "twelve",
-    "translation_bn": "বারো",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Jahr hat zwölf Monate." },
+      { "languageCode": "en", "text": "The year has twelve months." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "twelve" },
+      { "languageCode": "bn", "text": "বারো" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/twelve.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "sechzehn",
-    "sentence_de": "Sie ist sechzehn Jahre alt.",
-    "sentence_en": "She is sixteen years old.",
-    "translation_en": "sixteen",
-    "translation_bn": "ষোলো",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie ist sechzehn Jahre alt." },
+      { "languageCode": "en", "text": "She is sixteen years old." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sixteen" },
+      { "languageCode": "bn", "text": "ষোলো" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/sixteen.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "siebzehn",
-    "sentence_de": "Er wohnt in Hausnummer siebzehn.",
-    "sentence_en": "He lives at house number seventeen.",
-    "translation_en": "seventeen",
-    "translation_bn": "সতেরো",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Er wohnt in Hausnummer siebzehn." },
+      { "languageCode": "en", "text": "He lives at house number seventeen." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "seventeen" },
+      { "languageCode": "bn", "text": "সতেরো" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/seventeen.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "zwanzig",
-    "sentence_de": "Das Ticket kostet zwanzig Euro.",
-    "sentence_en": "The ticket costs twenty euros.",
-    "translation_en": "twenty",
-    "translation_bn": "বিশ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Ticket kostet zwanzig Euro." },
+      { "languageCode": "en", "text": "The ticket costs twenty euros." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "twenty" },
+      { "languageCode": "bn", "text": "বিশ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/twenty.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "neunundzwanzig",
-    "sentence_de": "Ich bin neunundzwanzig Jahre alt.",
-    "sentence_en": "I am twenty-nine years old.",
-    "translation_en": "twenty-nine",
-    "translation_bn": "উনত্রিশ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin neunundzwanzig Jahre alt." },
+      { "languageCode": "en", "text": "I am twenty-nine years old." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "twenty-nine" },
+      { "languageCode": "bn", "text": "উনত্রিশ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/twenty-nine.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "dreißig",
-    "sentence_de": "Der Bus kommt in dreißig Minuten.",
-    "sentence_en": "The bus comes in thirty minutes.",
-    "translation_en": "thirty",
-    "translation_bn": "ত্রিশ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Bus kommt in dreißig Minuten." },
+      { "languageCode": "en", "text": "The bus comes in thirty minutes." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "thirty" },
+      { "languageCode": "bn", "text": "ত্রিশ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/thirty.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "vierzig",
-    "sentence_de": "Meine Mutter ist vierzig Jahre alt.",
-    "sentence_en": "My mother is forty years old.",
-    "translation_en": "forty",
-    "translation_bn": "চল্লিশ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Mutter ist vierzig Jahre alt." },
+      { "languageCode": "en", "text": "My mother is forty years old." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "forty" },
+      { "languageCode": "bn", "text": "চল্লিশ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/forty.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "fünfzig",
-    "sentence_de": "Das Buch hat fünfzig Seiten.",
-    "sentence_en": "The book has fifty pages.",
-    "translation_en": "fifty",
-    "translation_bn": "পঞ্চাশ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Buch hat fünfzig Seiten." },
+      { "languageCode": "en", "text": "The book has fifty pages." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fifty" },
+      { "languageCode": "bn", "text": "পঞ্চাশ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/fifty.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "sechzig",
-    "sentence_de": "Eine Stunde hat sechzig Minuten.",
-    "sentence_en": "One hour has sixty minutes.",
-    "translation_en": "sixty",
-    "translation_bn": "ষাট",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Eine Stunde hat sechzig Minuten." },
+      { "languageCode": "en", "text": "One hour has sixty minutes." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sixty" },
+      { "languageCode": "bn", "text": "ষাট" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/sixty.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "siebzig",
-    "sentence_de": "Der Großvater ist siebzig Jahre alt.",
-    "sentence_en": "The grandfather is seventy years old.",
-    "translation_en": "seventy",
-    "translation_bn": "সত্তর",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Großvater ist siebzig Jahre alt." },
+      { "languageCode": "en", "text": "The grandfather is seventy years old." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "seventy" },
+      { "languageCode": "bn", "text": "সত্তর" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/seventy.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "achtzig",
-    "sentence_de": "Die Straße ist achtzig Meter lang.",
-    "sentence_en": "The street is eighty meters long.",
-    "translation_en": "eighty",
-    "translation_bn": "আশি",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Straße ist achtzig Meter lang." },
+      { "languageCode": "en", "text": "The street is eighty meters long." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "eighty" },
+      { "languageCode": "bn", "text": "আশি" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/eighty.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "neunzig",
-    "sentence_de": "Das Auto fährt neunzig Kilometer pro Stunde.",
-    "sentence_en": "The car drives ninety kilometers per hour.",
-    "translation_en": "ninety",
-    "translation_bn": "নব্বই",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Auto fährt neunzig Kilometer pro Stunde." },
+      { "languageCode": "en", "text": "The car drives ninety kilometers per hour." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ninety" },
+      { "languageCode": "bn", "text": "নব্বই" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/ninety.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "hundert",
-    "sentence_de": "Im Saal sind hundert Leute.",
-    "sentence_en": "There are a hundred people in the hall.",
-    "translation_en": "hundred",
-    "translation_bn": "একশো",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Im Saal sind hundert Leute." },
+      { "languageCode": "en", "text": "There are a hundred people in the hall." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hundred" },
+      { "languageCode": "bn", "text": "একশো" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/hundred.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "zweihundert",
-    "sentence_de": "Das Hotel hat zweihundert Zimmer.",
-    "sentence_en": "The hotel has two hundred rooms.",
-    "translation_en": "two hundred",
-    "translation_bn": "দুইশো",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Hotel hat zweihundert Zimmer." },
+      { "languageCode": "en", "text": "The hotel has two hundred rooms." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "two hundred" },
+      { "languageCode": "bn", "text": "দুইশো" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/two-hundred.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "tausend",
-    "sentence_de": "Tausend Menschen warten draußen.",
-    "sentence_en": "A thousand people are waiting outside.",
-    "translation_en": "thousand",
-    "translation_bn": "হাজার",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Tausend Menschen warten draußen." },
+      { "languageCode": "en", "text": "A thousand people are waiting outside." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "thousand" },
+      { "languageCode": "bn", "text": "হাজার" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/thousand.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "zehntausend",
-    "sentence_de": "Die Stadt hat zehntausend Einwohner.",
-    "sentence_en": "The city has ten thousand residents.",
-    "translation_en": "ten thousand",
-    "translation_bn": "দশ হাজার",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Stadt hat zehntausend Einwohner." },
+      { "languageCode": "en", "text": "The city has ten thousand residents." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ten thousand" },
+      { "languageCode": "bn", "text": "দশ হাজার" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/ten-thousand.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "noun",
     "word": "Million",
     "article": "die",
     "gender": "feminine",
     "plural": "Millionen",
     "genitive_singular": "der Million",
-    "sentence_de": "Die Stadt hat eine Million Einwohner.",
-    "sentence_en": "The city has one million residents.",
-    "translation_en": "million",
-    "translation_bn": "মিলিয়ন",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Stadt hat eine Million Einwohner." },
+      { "languageCode": "en", "text": "The city has one million residents." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "million" },
+      { "languageCode": "bn", "text": "মিলিয়ন" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/million.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "noun",
     "word": "Milliarde",
     "article": "die",
     "gender": "feminine",
     "plural": "Milliarden",
     "genitive_singular": "der Milliarde",
-    "sentence_de": "Das kostet eine Milliarde Euro.",
-    "sentence_en": "That costs one billion euros.",
-    "translation_en": "billion",
-    "translation_bn": "বিলিয়ন",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das kostet eine Milliarde Euro." },
+      { "languageCode": "en", "text": "That costs one billion euros." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "billion" },
+      { "languageCode": "bn", "text": "বিলিয়ন" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/billion.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "erste",
-    "sentence_de": "Das ist die erste Seite.",
-    "sentence_en": "That is the first page.",
-    "translation_en": "first",
-    "translation_bn": "প্রথম",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist die erste Seite." },
+      { "languageCode": "en", "text": "That is the first page." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "first" },
+      { "languageCode": "bn", "text": "প্রথম" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/first.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "zweite",
-    "sentence_de": "Wir wohnen im zweiten Stock.",
-    "sentence_en": "We live on the second floor.",
-    "translation_en": "second",
-    "translation_bn": "দ্বিতীয়",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir wohnen im zweiten Stock." },
+      { "languageCode": "en", "text": "We live on the second floor." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "second" },
+      { "languageCode": "bn", "text": "দ্বিতীয়" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/second.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "dritte",
-    "sentence_de": "Er ist der dritte Gast.",
-    "sentence_en": "He is the third guest.",
-    "translation_en": "third",
-    "translation_bn": "তৃতীয়",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Er ist der dritte Gast." },
+      { "languageCode": "en", "text": "He is the third guest." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "third" },
+      { "languageCode": "bn", "text": "তৃতীয়" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/third.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "vierte",
-    "sentence_de": "Heute ist der vierte Mai.",
-    "sentence_en": "Today is the fourth of May.",
-    "translation_en": "fourth",
-    "translation_bn": "চতুর্থ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Heute ist der vierte Mai." },
+      { "languageCode": "en", "text": "Today is the fourth of May." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fourth" },
+      { "languageCode": "bn", "text": "চতুর্থ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/fourth.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "fünfte",
-    "sentence_de": "Das ist mein fünftes Buch.",
-    "sentence_en": "That is my fifth book.",
-    "translation_en": "fifth",
-    "translation_bn": "পঞ্চম",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist mein fünftes Buch." },
+      { "languageCode": "en", "text": "That is my fifth book." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fifth" },
+      { "languageCode": "bn", "text": "পঞ্চম" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/fifth.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "sechste",
-    "sentence_de": "Die sechste Stunde beginnt jetzt.",
-    "sentence_en": "The sixth period starts now.",
-    "translation_en": "sixth",
-    "translation_bn": "ষষ্ঠ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die sechste Stunde beginnt jetzt." },
+      { "languageCode": "en", "text": "The sixth period starts now." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sixth" },
+      { "languageCode": "bn", "text": "ষষ্ঠ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/sixth.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "siebte",
-    "sentence_de": "Das ist die siebte Frage.",
-    "sentence_en": "That is the seventh question.",
-    "translation_en": "seventh",
-    "translation_bn": "সপ্তম",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist die siebte Frage." },
+      { "languageCode": "en", "text": "That is the seventh question." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "seventh" },
+      { "languageCode": "bn", "text": "সপ্তম" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/seventh.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "achte",
-    "sentence_de": "Wir treffen uns am achten.",
-    "sentence_en": "We meet on the eighth.",
-    "translation_en": "eighth",
-    "translation_bn": "অষ্টম",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir treffen uns am achten." },
+      { "languageCode": "en", "text": "We meet on the eighth." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "eighth" },
+      { "languageCode": "bn", "text": "অষ্টম" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/eighth.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "neunte",
-    "sentence_de": "Das ist die neunte Lektion.",
-    "sentence_en": "That is the ninth lesson.",
-    "translation_en": "ninth",
-    "translation_bn": "নবম",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist die neunte Lektion." },
+      { "languageCode": "en", "text": "That is the ninth lesson." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ninth" },
+      { "languageCode": "bn", "text": "নবম" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/ninth.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
     "word": "zehnte",
-    "sentence_de": "Er gewinnt den zehnten Preis.",
-    "sentence_en": "He wins the tenth prize.",
-    "translation_en": "tenth",
-    "translation_bn": "দশম",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Er gewinnt den zehnten Preis." },
+      { "languageCode": "en", "text": "He wins the tenth prize." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tenth" },
+      { "languageCode": "bn", "text": "দশম" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/tenth.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "pronoun",
     "word": "alle",
     "pronoun_type": "indefinite",
@@ -400,15 +542,19 @@
     "accusative": "alle",
     "dative": "allen",
     "genitive": "aller",
-    "sentence_de": "Alle Kinder sind da.",
-    "sentence_en": "All children are there.",
-    "translation_en": "all",
-    "translation_bn": "সব",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Alle Kinder sind da." },
+      { "languageCode": "en", "text": "All children are there." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "all" },
+      { "languageCode": "bn", "text": "সব" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/all.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "pronoun",
     "word": "beide",
     "pronoun_type": "indefinite",
@@ -416,29 +562,37 @@
     "accusative": "beide",
     "dative": "beiden",
     "genitive": "beider",
-    "sentence_de": "Beide Bücher sind gut.",
-    "sentence_en": "Both books are good.",
-    "translation_en": "both",
-    "translation_bn": "উভয়",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Beide Bücher sind gut." },
+      { "languageCode": "en", "text": "Both books are good." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "both" },
+      { "languageCode": "bn", "text": "উভয়" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/both.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "adverb",
     "word": "circa",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Es kostet circa zehn Euro.",
-    "sentence_en": "It costs approximately ten euros.",
-    "translation_en": "approximately",
-    "translation_bn": "প্রায়",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Es kostet circa zehn Euro." },
+      { "languageCode": "en", "text": "It costs approximately ten euros." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "approximately" },
+      { "languageCode": "bn", "text": "প্রায়" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/approximately.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "pronoun",
     "word": "etwas",
     "pronoun_type": "indefinite",
@@ -446,138 +600,168 @@
     "accusative": "etwas",
     "dative": "etwas",
     "genitive": "etwas",
-    "sentence_de": "Ich brauche etwas Hilfe.",
-    "sentence_en": "I need some help.",
-    "translation_en": "something, some",
-    "translation_bn": "কিছু",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich brauche etwas Hilfe." },
+      { "languageCode": "en", "text": "I need some help." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "something, some" },
+      { "languageCode": "bn", "text": "কিছু" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/some.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "adverb",
     "word": "wenig",
     "comparative": "weniger",
     "superlative": "am wenigsten",
     "gradable": true,
-    "sentence_de": "Ich habe wenig Zeit.",
-    "sentence_en": "I have little time.",
-    "translation_en": "little, few",
-    "translation_bn": "কম",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich habe wenig Zeit." },
+      { "languageCode": "en", "text": "I have little time." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "little, few" },
+      { "languageCode": "bn", "text": "কম" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/little.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "adjective",
     "word": "extra",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich möchte extra Käse.",
-    "sentence_en": "I want extra cheese.",
-    "translation_en": "extra",
-    "translation_bn": "অতিরিক্ত",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich möchte extra Käse." },
+      { "languageCode": "en", "text": "I want extra cheese." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "extra" },
+      { "languageCode": "bn", "text": "অতিরিক্ত" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/extra.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "adverb",
     "word": "mehr",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich möchte mehr Wasser.",
-    "sentence_en": "I want more water.",
-    "translation_en": "more",
-    "translation_bn": "আরো",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich möchte mehr Wasser." },
+      { "languageCode": "en", "text": "I want more water." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "more" },
+      { "languageCode": "bn", "text": "আরো" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/more.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "adverb",
     "word": "viel",
     "comparative": "mehr",
     "superlative": "am meisten",
     "gradable": true,
-    "sentence_de": "Wie viel kostet das?",
-    "sentence_en": "How much does it cost?",
-    "translation_en": "much, many",
-    "translation_bn": "অনেক",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Wie viel kostet das?" },
+      { "languageCode": "en", "text": "How much does it cost?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "much, many" },
+      { "languageCode": "bn", "text": "অনেক" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/much.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "adjective",
     "word": "voll",
     "comparative": "voller",
     "superlative": "am vollsten",
     "gradable": true,
-    "sentence_de": "Das Glas ist voll.",
-    "sentence_en": "The glass is full.",
-    "translation_en": "full",
-    "translation_bn": "পূর্ণ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Glas ist voll." },
+      { "languageCode": "en", "text": "The glass is full." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "full" },
+      { "languageCode": "bn", "text": "পূর্ণ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/full.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "preposition",
     "word": "ohne",
-    "preposition_cases": [
-      "accusative"
+    "preposition_cases": ["accusative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Ich trinke Kaffee ohne Zucker." },
+      { "languageCode": "en", "text": "I drink coffee without sugar." }
     ],
-    "sentence_de": "Ich trinke Kaffee ohne Zucker.",
-    "sentence_en": "I drink coffee without sugar.",
-    "translation_en": "without",
-    "translation_bn": "ছাড়া",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "translations": [
+      { "languageCode": "en", "text": "without" },
+      { "languageCode": "bn", "text": "ছাড়া" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/without.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "preposition",
     "word": "plus",
-    "preposition_cases": [
-      "nominative"
+    "preposition_cases": ["nominative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Zwei plus drei ist fünf." },
+      { "languageCode": "en", "text": "Two plus three is five." }
     ],
-    "sentence_de": "Zwei plus drei ist fünf.",
-    "sentence_en": "Two plus three is five.",
-    "translation_en": "plus",
-    "translation_bn": "যোগ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "translations": [
+      { "languageCode": "en", "text": "plus" },
+      { "languageCode": "bn", "text": "যোগ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/plus.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "preposition",
     "word": "minus",
-    "preposition_cases": [
-      "nominative"
+    "preposition_cases": ["nominative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Zehn minus drei ist sieben." },
+      { "languageCode": "en", "text": "Ten minus three is seven." }
     ],
-    "sentence_de": "Zehn minus drei ist sieben.",
-    "sentence_en": "Ten minus three is seven.",
-    "translation_en": "minus",
-    "translation_bn": "বিয়োগ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "translations": [
+      { "languageCode": "en", "text": "minus" },
+      { "languageCode": "bn", "text": "বিয়োগ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/minus.png"
   },
   {
+    "level": "a1",
+    "topic": "numbers-and-quantities",
     "part_of_speech": "preposition",
     "word": "mal",
-    "preposition_cases": [
-      "nominative"
+    "preposition_cases": ["nominative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Drei mal vier ist zwölf." },
+      { "languageCode": "en", "text": "Three times four is twelve." }
     ],
-    "sentence_de": "Drei mal vier ist zwölf.",
-    "sentence_en": "Three times four is twelve.",
-    "translation_en": "times",
-    "translation_bn": "গুণ",
-    "topic": "numbers-and-quantities",
-    "level": "a1",
+    "translations": [
+      { "languageCode": "en", "text": "times" },
+      { "languageCode": "bn", "text": "গুণ" }
+    ],
     "image": "data/vocabulary/images/numbers-and-quantities/times.png"
   }
 ]

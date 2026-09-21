@@ -1,260 +1,330 @@
 [
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Vorname",
     "article": "der",
     "gender": "masculine",
     "plural": "Vornamen",
     "genitive_singular": "des Vornamens",
-    "sentence_de": "Sein Vorname ist Thomas.",
-    "sentence_en": "His first name is Thomas.",
-    "translation_en": "first name",
-    "translation_bn": "নাম",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sein Vorname ist Thomas." },
+      { "languageCode": "en", "text": "His first name is Thomas." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "first name" },
+      { "languageCode": "bn", "text": "নাম" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/first-name.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Name",
     "article": "der",
     "gender": "masculine",
     "plural": "Namen",
     "genitive_singular": "des Namens",
-    "sentence_de": "Mein Name ist Anna.",
-    "sentence_en": "My name is Anna.",
-    "translation_en": "name",
-    "translation_bn": "নাম",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Name ist Anna." },
+      { "languageCode": "en", "text": "My name is Anna." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "name" },
+      { "languageCode": "bn", "text": "নাম" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/name.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Nachname",
     "article": "der",
     "gender": "masculine",
     "plural": "Nachnamen",
     "genitive_singular": "des Nachnamens",
-    "sentence_de": "Mein Nachname ist Müller.",
-    "sentence_en": "My last name is Müller.",
-    "translation_en": "last name",
-    "translation_bn": "পদবি",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Nachname ist Müller." },
+      { "languageCode": "en", "text": "My last name is Müller." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "last name" },
+      { "languageCode": "bn", "text": "পদবি" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/last-name.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Familienname",
     "article": "der",
     "gender": "masculine",
     "plural": "Familiennamen",
     "genitive_singular": "des Familiennamens",
-    "sentence_de": "Ihr Familienname ist Schmidt.",
-    "sentence_en": "Her family name is Schmidt.",
-    "translation_en": "family name",
-    "translation_bn": "পারিবারিক নাম",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ihr Familienname ist Schmidt." },
+      { "languageCode": "en", "text": "Her family name is Schmidt." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "family name" },
+      { "languageCode": "bn", "text": "পারিবারিক নাম" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/family-name.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Geburtsort",
     "article": "der",
     "gender": "masculine",
     "plural": "Geburtsorte",
     "genitive_singular": "des Geburtsortes",
-    "sentence_de": "Ihr Geburtsort ist Berlin.",
-    "sentence_en": "Her place of birth is Berlin.",
-    "translation_en": "place of birth",
-    "translation_bn": "জন্মস্থান",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ihr Geburtsort ist Berlin." },
+      { "languageCode": "en", "text": "Her place of birth is Berlin." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "place of birth" },
+      { "languageCode": "bn", "text": "জন্মস্থান" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/place-of-birth.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Geburtsdatum",
     "article": "das",
     "gender": "neuter",
     "plural": "Geburtsdaten",
     "genitive_singular": "des Geburtsdatums",
-    "sentence_de": "Mein Geburtsdatum ist der 15. Mai 1990.",
-    "sentence_en": "My date of birth is May 15, 1990.",
-    "translation_en": "date of birth",
-    "translation_bn": "জন্মতারিখ",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Geburtsdatum ist der 15. Mai 1990." },
+      { "languageCode": "en", "text": "My date of birth is May 15, 1990." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "date of birth" },
+      { "languageCode": "bn", "text": "জন্মতারিখ" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/date-of-birth.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "E-Mail-Adresse",
     "article": "die",
     "gender": "feminine",
     "plural": "E-Mail-Adressen",
     "genitive_singular": "der E-Mail-Adresse",
-    "sentence_de": "Meine E-Mail-Adresse ist anna@mail.com.",
-    "sentence_en": "My email address is anna@mail.com.",
-    "translation_en": "email address",
-    "translation_bn": "ইমেইল ঠিকানা",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine E-Mail-Adresse ist anna@mail.com." },
+      { "languageCode": "en", "text": "My email address is anna@mail.com." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "email address" },
+      { "languageCode": "bn", "text": "ইমেইল ঠিকানা" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/email-address.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Handynummer",
     "article": "die",
     "gender": "feminine",
     "plural": "Handynummern",
     "genitive_singular": "der Handynummer",
-    "sentence_de": "Ihre Handynummer ist 0172-123456.",
-    "sentence_en": "Her mobile number is 0172-123456.",
-    "translation_en": "mobile number",
-    "translation_bn": "মোবাইল নম্বর",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ihre Handynummer ist 0172-123456." },
+      { "languageCode": "en", "text": "Her mobile number is 0172-123456." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "mobile number" },
+      { "languageCode": "bn", "text": "মোবাইল নম্বর" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/mobile-number.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Hausnummer",
     "article": "die",
     "gender": "feminine",
     "plural": "Hausnummern",
     "genitive_singular": "der Hausnummer",
-    "sentence_de": "Die Hausnummer ist 25.",
-    "sentence_en": "The house number is 25.",
-    "translation_en": "house number",
-    "translation_bn": "বাড়ির নম্বর",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Hausnummer ist 25." },
+      { "languageCode": "en", "text": "The house number is 25." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "house number" },
+      { "languageCode": "bn", "text": "বাড়ির নম্বর" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/house-number.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Postleitzahl",
     "article": "die",
     "gender": "feminine",
     "plural": "Postleitzahlen",
     "genitive_singular": "der Postleitzahl",
-    "sentence_de": "Die Postleitzahl ist 10115.",
-    "sentence_en": "The postal code is 10115.",
-    "translation_en": "postal code",
-    "translation_bn": "পোস্টাল কোড",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Postleitzahl ist 10115." },
+      { "languageCode": "en", "text": "The postal code is 10115." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "postal code" },
+      { "languageCode": "bn", "text": "পোস্টাল কোড" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/postal-code.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Anruf",
     "article": "der",
     "gender": "masculine",
     "plural": "Anrufe",
     "genitive_singular": "des Anrufs",
-    "sentence_de": "Ich bekomme einen Anruf.",
-    "sentence_en": "I receive a call.",
-    "translation_en": "call",
-    "translation_bn": "কল",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bekomme einen Anruf." },
+      { "languageCode": "en", "text": "I receive a call." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "call" },
+      { "languageCode": "bn", "text": "কল" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/call.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Anschluss",
     "article": "der",
     "gender": "masculine",
     "plural": "Anschlüsse",
     "genitive_singular": "des Anschlusses",
-    "sentence_de": "Der Anschluss ist besetzt.",
-    "sentence_en": "The line is busy.",
-    "translation_en": "connection/line",
-    "translation_bn": "সংযোগ",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Anschluss ist besetzt." },
+      { "languageCode": "en", "text": "The line is busy." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "connection/line" },
+      { "languageCode": "bn", "text": "সংযোগ" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/connection.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Telefon",
     "article": "das",
     "gender": "neuter",
     "plural": "Telefone",
     "genitive_singular": "des Telefons",
-    "sentence_de": "Das Telefon klingelt.",
-    "sentence_en": "The telephone is ringing.",
-    "translation_en": "telephone",
-    "translation_bn": "টেলিফোন",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Telefon klingelt." },
+      { "languageCode": "en", "text": "The telephone is ringing." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "telephone" },
+      { "languageCode": "bn", "text": "টেলিফোন" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/telephone.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Telefongespräch",
     "article": "das",
     "gender": "neuter",
     "plural": "Telefongespräche",
     "genitive_singular": "des Telefongesprächs",
-    "sentence_de": "Das Telefongespräch dauert zehn Minuten.",
-    "sentence_en": "The phone call lasts ten minutes.",
-    "translation_en": "phone call",
-    "translation_bn": "টেলিফোন কথোপকথন",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Telefongespräch dauert zehn Minuten." },
+      { "languageCode": "en", "text": "The phone call lasts ten minutes." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "phone call" },
+      { "languageCode": "bn", "text": "টেলিফোন কথোপকথন" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/phone-call.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Durchwahl",
     "article": "die",
     "gender": "feminine",
     "plural": "Durchwahlen",
     "genitive_singular": "der Durchwahl",
-    "sentence_de": "Die Durchwahl ist 123.",
-    "sentence_en": "The extension is 123.",
-    "translation_en": "extension",
-    "translation_bn": "এক্সটেনশন",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Durchwahl ist 123." },
+      { "languageCode": "en", "text": "The extension is 123." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "extension" },
+      { "languageCode": "bn", "text": "এক্সটেনশন" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/extension.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Alphabet",
     "article": "das",
     "gender": "neuter",
     "plural": "Alphabete",
     "genitive_singular": "des Alphabets",
-    "sentence_de": "Das deutsche Alphabet hat 26 Buchstaben.",
-    "sentence_en": "The German alphabet has 26 letters.",
-    "translation_en": "alphabet",
-    "translation_bn": "বর্ণমালা",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das deutsche Alphabet hat 26 Buchstaben." },
+      { "languageCode": "en", "text": "The German alphabet has 26 letters." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "alphabet" },
+      { "languageCode": "bn", "text": "বর্ণমালা" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/alphabet.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "noun",
     "word": "Personalpronomen",
     "article": "das",
     "gender": "neuter",
     "plural": "Personalpronomen",
     "genitive_singular": "des Personalpronomens",
-    "sentence_de": "Ich ist ein Personalpronomen.",
-    "sentence_en": "I is a personal pronoun.",
-    "translation_en": "personal pronoun",
-    "translation_bn": "ব্যক্তিবাচক সর্বনাম",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich ist ein Personalpronomen." },
+      { "languageCode": "en", "text": "I is a personal pronoun." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "personal pronoun" },
+      { "languageCode": "bn", "text": "ব্যক্তিবাচক সর্বনাম" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/personal-pronoun.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "verb",
     "word": "heißen",
     "infinitive": "heißen",
@@ -264,15 +334,19 @@
     "auxiliary_verb": "haben",
     "verb_type": "irregular",
     "separable_prefix": null,
-    "sentence_de": "Ich heiße Anna.",
-    "sentence_en": "My name is Anna.",
-    "translation_en": "to be called",
-    "translation_bn": "নাম হওয়া",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich heiße Anna." },
+      { "languageCode": "en", "text": "My name is Anna." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to be called" },
+      { "languageCode": "bn", "text": "নাম হওয়া" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/to-be-called.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "verb",
     "word": "kennen",
     "infinitive": "kennen",
@@ -282,15 +356,19 @@
     "auxiliary_verb": "haben",
     "verb_type": "irregular",
     "separable_prefix": null,
-    "sentence_de": "Ich kenne ihn gut.",
-    "sentence_en": "I know him well.",
-    "translation_en": "to know",
-    "translation_bn": "চেনা",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich kenne ihn gut." },
+      { "languageCode": "en", "text": "I know him well." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to know" },
+      { "languageCode": "bn", "text": "চেনা" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/to-know.png"
   },
   {
+    "level": "a1",
+    "topic": "communication-and-personal-information",
     "part_of_speech": "verb",
     "word": "besuchen",
     "infinitive": "besuchen",
@@ -300,12 +378,14 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich besuche meine Oma.",
-    "sentence_en": "I visit my grandmother.",
-    "translation_en": "to visit",
-    "translation_bn": "দেখা করা",
-    "topic": "communication-and-personal-information",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich besuche meine Oma." },
+      { "languageCode": "en", "text": "I visit my grandmother." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to visit" },
+      { "languageCode": "bn", "text": "দেখা করা" }
+    ],
     "image": "data/vocabulary/images/communication-and-personal-information/to-visit.png"
   }
 ]

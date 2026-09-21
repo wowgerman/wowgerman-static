@@ -1,983 +1,1251 @@
 [
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Muttersprache",
     "article": "die",
     "gender": "feminine",
     "plural": "Muttersprachen",
     "genitive_singular": "der Muttersprache",
-    "sentence_de": "Deutsch ist meine Muttersprache.",
-    "sentence_en": "German is my mother tongue.",
-    "translation_en": "mother tongue, native language",
-    "translation_bn": "মাতৃভাষা",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Deutsch ist meine Muttersprache." },
+      { "languageCode": "en", "text": "German is my mother tongue." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "mother tongue, native language" },
+      { "languageCode": "bn", "text": "মাতৃভাষা" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/mother-tongue.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "deutschsprachig",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist ein deutschsprachiges Land.",
-    "sentence_en": "That is a German-speaking country.",
-    "translation_en": "German-speaking",
-    "translation_bn": "জার্মান ভাষাভাষী",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist ein deutschsprachiges Land." },
+      { "languageCode": "en", "text": "That is a German-speaking country." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "German-speaking" },
+      { "languageCode": "bn", "text": "জার্মান ভাষাভাষী" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/german-speaking.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Deutschland",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Deutschlands",
-    "sentence_de": "Deutschland ist ein Land in Europa.",
-    "sentence_en": "Germany is a country in Europe.",
-    "translation_en": "Germany",
-    "translation_bn": "জার্মানি",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Deutschland ist ein Land in Europa." },
+      { "languageCode": "en", "text": "Germany is a country in Europe." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Germany" },
+      { "languageCode": "bn", "text": "জার্মানি" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/germany.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "deutsch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist ein deutsches Auto.",
-    "sentence_en": "That is a German car.",
-    "translation_en": "German",
-    "translation_bn": "জার্মান",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist ein deutsches Auto." },
+      { "languageCode": "en", "text": "That is a German car." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "German" },
+      { "languageCode": "bn", "text": "জার্মান" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/german.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Deutsch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Deutsch",
-    "sentence_de": "Mein Deutsch ist gut.",
-    "sentence_en": "My German is good.",
-    "translation_en": "German (language)",
-    "translation_bn": "জার্মান (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Deutsch ist gut." },
+      { "languageCode": "en", "text": "My German is good." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "German (language)" },
+      { "languageCode": "bn", "text": "জার্মান (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/german-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Österreich",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Österreichs",
-    "sentence_de": "Österreich liegt in Europa.",
-    "sentence_en": "Austria is in Europe.",
-    "translation_en": "Austria",
-    "translation_bn": "অস্ট্রিয়া",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Österreich liegt in Europa." },
+      { "languageCode": "en", "text": "Austria is in Europe." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Austria" },
+      { "languageCode": "bn", "text": "অস্ট্রিয়া" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/austria.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "österreichisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist österreichischer Wein.",
-    "sentence_en": "That is Austrian wine.",
-    "translation_en": "Austrian",
-    "translation_bn": "অস্ট্রিয়ান",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist österreichischer Wein." },
+      { "languageCode": "en", "text": "That is Austrian wine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Austrian" },
+      { "languageCode": "bn", "text": "অস্ট্রিয়ান" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/austrian.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Schweiz",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Schweiz",
-    "sentence_de": "Die Schweiz ist sehr schön.",
-    "sentence_en": "Switzerland is very beautiful.",
-    "translation_en": "Switzerland",
-    "translation_bn": "সুইজারল্যান্ড",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Schweiz ist sehr schön." },
+      { "languageCode": "en", "text": "Switzerland is very beautiful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Switzerland" },
+      { "languageCode": "bn", "text": "সুইজারল্যান্ড" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/switzerland.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "schweizerisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist eine schweizerische Bank.",
-    "sentence_en": "That is a Swiss bank.",
-    "translation_en": "Swiss",
-    "translation_bn": "সুইস",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist eine schweizerische Bank." },
+      { "languageCode": "en", "text": "That is a Swiss bank." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Swiss" },
+      { "languageCode": "bn", "text": "সুইস" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/swiss.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Frankreich",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Frankreichs",
-    "sentence_de": "Frankreich ist bekannt für Wein.",
-    "sentence_en": "France is known for wine.",
-    "translation_en": "France",
-    "translation_bn": "ফ্রান্স",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Frankreich ist bekannt für Wein." },
+      { "languageCode": "en", "text": "France is known for wine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "France" },
+      { "languageCode": "bn", "text": "ফ্রান্স" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/france.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "französisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist ein französisches Café.",
-    "sentence_en": "That is a French café.",
-    "translation_en": "French",
-    "translation_bn": "ফরাসি",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist ein französisches Café." },
+      { "languageCode": "en", "text": "That is a French café." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "French" },
+      { "languageCode": "bn", "text": "ফরাসি" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/french.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Französisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Französisch",
-    "sentence_de": "Französisch klingt schön.",
-    "sentence_en": "French sounds beautiful.",
-    "translation_en": "French (language)",
-    "translation_bn": "ফরাসি (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Französisch klingt schön." },
+      { "languageCode": "en", "text": "French sounds beautiful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "French (language)" },
+      { "languageCode": "bn", "text": "ফরাসি (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/french-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Spanien",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Spaniens",
-    "sentence_de": "Spanien ist ein warmes Land.",
-    "sentence_en": "Spain is a warm country.",
-    "translation_en": "Spain",
-    "translation_bn": "স্পেন",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Spanien ist ein warmes Land." },
+      { "languageCode": "en", "text": "Spain is a warm country." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Spain" },
+      { "languageCode": "bn", "text": "স্পেন" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/spain.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "spanisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist spanischer Wein.",
-    "sentence_en": "That is Spanish wine.",
-    "translation_en": "Spanish",
-    "translation_bn": "স্প্যানিশ",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist spanischer Wein." },
+      { "languageCode": "en", "text": "That is Spanish wine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Spanish" },
+      { "languageCode": "bn", "text": "স্প্যানিশ" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/spanish.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Spanisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Spanisch",
-    "sentence_de": "Ich lerne Spanisch.",
-    "sentence_en": "I am learning Spanish.",
-    "translation_en": "Spanish (language)",
-    "translation_bn": "স্প্যানিশ (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich lerne Spanisch." },
+      { "languageCode": "en", "text": "I am learning Spanish." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Spanish (language)" },
+      { "languageCode": "bn", "text": "স্প্যানিশ (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/spanish-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Türkei",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Türkei",
-    "sentence_de": "Die Türkei liegt zwischen Europa und Asien.",
-    "sentence_en": "Turkey is between Europe and Asia.",
-    "translation_en": "Turkey",
-    "translation_bn": "তুরস্ক",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Türkei liegt zwischen Europa und Asien." },
+      { "languageCode": "en", "text": "Turkey is between Europe and Asia." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Turkey" },
+      { "languageCode": "bn", "text": "তুরস্ক" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/turkey.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "türkisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist türkischer Tee.",
-    "sentence_en": "That is Turkish tea.",
-    "translation_en": "Turkish",
-    "translation_bn": "তুর্কি",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist türkischer Tee." },
+      { "languageCode": "en", "text": "That is Turkish tea." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Turkish" },
+      { "languageCode": "bn", "text": "তুর্কি" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/turkish.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Türkisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Türkisch",
-    "sentence_de": "Wir lernen Türkisch.",
-    "sentence_en": "We are learning Turkish.",
-    "translation_en": "Turkish (language)",
-    "translation_bn": "তুর্কি (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir lernen Türkisch." },
+      { "languageCode": "en", "text": "We are learning Turkish." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Turkish (language)" },
+      { "languageCode": "bn", "text": "তুর্কি (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/turkish-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Argentinien",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Argentiniens",
-    "sentence_de": "Argentinien liegt in Südamerika.",
-    "sentence_en": "Argentina is in South America.",
-    "translation_en": "Argentina",
-    "translation_bn": "আর্জেন্টিনা",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Argentinien liegt in Südamerika." },
+      { "languageCode": "en", "text": "Argentina is in South America." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Argentina" },
+      { "languageCode": "bn", "text": "আর্জেন্টিনা" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/argentina.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "argentinisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist ein argentinisches Restaurant.",
-    "sentence_en": "That is an Argentine restaurant.",
-    "translation_en": "Argentinian",
-    "translation_bn": "আর্জেন্টিনিয়ান",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist ein argentinisches Restaurant." },
+      { "languageCode": "en", "text": "That is an Argentine restaurant." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Argentinian" },
+      { "languageCode": "bn", "text": "আর্জেন্টিনিয়ান" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/argentinian.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Vereinigte Königreich",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Vereinigten Königreichs",
-    "sentence_de": "Das Vereinigte Königreich liegt in Europa.",
-    "sentence_en": "The United Kingdom is in Europe.",
-    "translation_en": "United Kingdom",
-    "translation_bn": "যুক্তরাজ্য",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Vereinigte Königreich liegt in Europa." },
+      { "languageCode": "en", "text": "The United Kingdom is in Europe." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "United Kingdom" },
+      { "languageCode": "bn", "text": "যুক্তরাজ্য" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/united-kingdom.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "britisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist ein britisches Museum.",
-    "sentence_en": "That is a British museum.",
-    "translation_en": "British",
-    "translation_bn": "ব্রিটিশ",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist ein britisches Museum." },
+      { "languageCode": "en", "text": "That is a British museum." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "British" },
+      { "languageCode": "bn", "text": "ব্রিটিশ" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/british.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Englisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Englisch",
-    "sentence_de": "Sie spricht Englisch.",
-    "sentence_en": "She speaks English.",
-    "translation_en": "English (language)",
-    "translation_bn": "ইংরেজি (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie spricht Englisch." },
+      { "languageCode": "en", "text": "She speaks English." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "English (language)" },
+      { "languageCode": "bn", "text": "ইংরেজি (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/english-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Portugal",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Portugals",
-    "sentence_de": "Portugal liegt neben Spanien.",
-    "sentence_en": "Portugal is next to Spain.",
-    "translation_en": "Portugal",
-    "translation_bn": "পর্তুগাল",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Portugal liegt neben Spanien." },
+      { "languageCode": "en", "text": "Portugal is next to Spain." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Portugal" },
+      { "languageCode": "bn", "text": "পর্তুগাল" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/portugal.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "portugiesisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist portugiesischer Wein.",
-    "sentence_en": "That is Portuguese wine.",
-    "translation_en": "Portuguese",
-    "translation_bn": "পর্তুগিজ",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist portugiesischer Wein." },
+      { "languageCode": "en", "text": "That is Portuguese wine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Portuguese" },
+      { "languageCode": "bn", "text": "পর্তুগিজ" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/portuguese.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Portugiesisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Portugiesisch",
-    "sentence_de": "Portugiesisch ist eine Weltsprache.",
-    "sentence_en": "Portuguese is a world language.",
-    "translation_en": "Portuguese (language)",
-    "translation_bn": "পর্তুগিজ (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Portugiesisch ist eine Weltsprache." },
+      { "languageCode": "en", "text": "Portuguese is a world language." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Portuguese (language)" },
+      { "languageCode": "bn", "text": "পর্তুগিজ (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/portuguese-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Vereinigten Staaten",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Vereinigten Staaten",
-    "sentence_de": "Die Vereinigten Staaten sind ein großes Land.",
-    "sentence_en": "The United States is a large country.",
-    "translation_en": "United States of America",
-    "translation_bn": "মার্কিন যুক্তরাষ্ট্র",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Vereinigten Staaten sind ein großes Land." },
+      { "languageCode": "en", "text": "The United States is a large country." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "United States of America" },
+      { "languageCode": "bn", "text": "মার্কিন যুক্তরাষ্ট্র" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/united-states-of-america.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "amerikanisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist ein amerikanischer Film.",
-    "sentence_en": "That is an American film.",
-    "translation_en": "American",
-    "translation_bn": "আমেরিকান",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist ein amerikanischer Film." },
+      { "languageCode": "en", "text": "That is an American film." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "American" },
+      { "languageCode": "bn", "text": "আমেরিকান" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/american.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Polen",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Polens",
-    "sentence_de": "Polen ist ein Land in Europa.",
-    "sentence_en": "Poland is a country in Europe.",
-    "translation_en": "Poland",
-    "translation_bn": "পোল্যান্ড",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Polen ist ein Land in Europa." },
+      { "languageCode": "en", "text": "Poland is a country in Europe." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Poland" },
+      { "languageCode": "bn", "text": "পোল্যান্ড" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/poland.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "polnisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist polnische Küche.",
-    "sentence_en": "That is Polish cuisine.",
-    "translation_en": "Polish",
-    "translation_bn": "পোলিশ",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist polnische Küche." },
+      { "languageCode": "en", "text": "That is Polish cuisine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Polish" },
+      { "languageCode": "bn", "text": "পোলিশ" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/polish.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Polnisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Polnisch",
-    "sentence_de": "Polnisch hat viele Konsonanten.",
-    "sentence_en": "Polish has many consonants.",
-    "translation_en": "Polish (language)",
-    "translation_bn": "পোলিশ (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Polnisch hat viele Konsonanten." },
+      { "languageCode": "en", "text": "Polish has many consonants." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Polish (language)" },
+      { "languageCode": "bn", "text": "পোলিশ (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/polish-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Ungarn",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Ungarns",
-    "sentence_de": "Ungarn liegt in Mitteleuropa.",
-    "sentence_en": "Hungary is in Central Europe.",
-    "translation_en": "Hungary",
-    "translation_bn": "হাঙ্গেরি",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ungarn liegt in Mitteleuropa." },
+      { "languageCode": "en", "text": "Hungary is in Central Europe." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Hungary" },
+      { "languageCode": "bn", "text": "হাঙ্গেরি" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/hungary.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "ungarisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist ungarisches Essen.",
-    "sentence_en": "That is Hungarian food.",
-    "translation_en": "Hungarian",
-    "translation_bn": "হাঙ্গেরিয়ান",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist ungarisches Essen." },
+      { "languageCode": "en", "text": "That is Hungarian food." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Hungarian" },
+      { "languageCode": "bn", "text": "হাঙ্গেরিয়ান" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/hungarian.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Ungarisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Ungarisch",
-    "sentence_de": "Ungarisch ist sehr schwer.",
-    "sentence_en": "Hungarian is very difficult.",
-    "translation_en": "Hungarian (language)",
-    "translation_bn": "হাঙ্গেরিয়ান (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ungarisch ist sehr schwer." },
+      { "languageCode": "en", "text": "Hungarian is very difficult." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Hungarian (language)" },
+      { "languageCode": "bn", "text": "হাঙ্গেরিয়ান (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/hungarian-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Italien",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Italiens",
-    "sentence_de": "Italien ist bekannt für Pizza.",
-    "sentence_en": "Italy is known for pizza.",
-    "translation_en": "Italy",
-    "translation_bn": "ইতালি",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Italien ist bekannt für Pizza." },
+      { "languageCode": "en", "text": "Italy is known for pizza." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Italy" },
+      { "languageCode": "bn", "text": "ইতালি" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/italy.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "italienisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist italienische Pasta.",
-    "sentence_en": "That is Italian pasta.",
-    "translation_en": "Italian",
-    "translation_bn": "ইতালিয়ান",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist italienische Pasta." },
+      { "languageCode": "en", "text": "That is Italian pasta." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Italian" },
+      { "languageCode": "bn", "text": "ইতালিয়ান" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/italian.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Italienisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Italienisch",
-    "sentence_de": "Italienisch ist eine schöne Sprache.",
-    "sentence_en": "Italian is a beautiful language.",
-    "translation_en": "Italian (language)",
-    "translation_bn": "ইতালিয়ান (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Italienisch ist eine schöne Sprache." },
+      { "languageCode": "en", "text": "Italian is a beautiful language." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Italian (language)" },
+      { "languageCode": "bn", "text": "ইতালিয়ান (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/italian-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Russland",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Russlands",
-    "sentence_de": "Russland ist ein sehr großes Land.",
-    "sentence_en": "Russia is a very large country.",
-    "translation_en": "Russia",
-    "translation_bn": "রাশিয়া",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Russland ist ein sehr großes Land." },
+      { "languageCode": "en", "text": "Russia is a very large country." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Russia" },
+      { "languageCode": "bn", "text": "রাশিয়া" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/russia.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "russisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist russische Literatur.",
-    "sentence_en": "That is Russian literature.",
-    "translation_en": "Russian",
-    "translation_bn": "রাশিয়ান",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist russische Literatur." },
+      { "languageCode": "en", "text": "That is Russian literature." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Russian" },
+      { "languageCode": "bn", "text": "রাশিয়ান" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/russian.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Russisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Russisch",
-    "sentence_de": "Er kann Russisch sprechen.",
-    "sentence_en": "He can speak Russian.",
-    "translation_en": "Russian (language)",
-    "translation_bn": "রাশিয়ান (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Er kann Russisch sprechen." },
+      { "languageCode": "en", "text": "He can speak Russian." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Russian (language)" },
+      { "languageCode": "bn", "text": "রাশিয়ান (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/russian-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Japan",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Japans",
-    "sentence_de": "Japan liegt in Asien.",
-    "sentence_en": "Japan is in Asia.",
-    "translation_en": "Japan",
-    "translation_bn": "জাপান",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Japan liegt in Asien." },
+      { "languageCode": "en", "text": "Japan is in Asia." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Japan" },
+      { "languageCode": "bn", "text": "জাপান" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/japan.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "japanisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist japanisches Essen.",
-    "sentence_en": "That is Japanese food.",
-    "translation_en": "Japanese",
-    "translation_bn": "জাপানি",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist japanisches Essen." },
+      { "languageCode": "en", "text": "That is Japanese food." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Japanese" },
+      { "languageCode": "bn", "text": "জাপানি" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/japanese.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Japanisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Japanisch",
-    "sentence_de": "Japanisch ist schwer.",
-    "sentence_en": "Japanese is difficult.",
-    "translation_en": "Japanese (language)",
-    "translation_bn": "জাপানি (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Japanisch ist schwer." },
+      { "languageCode": "en", "text": "Japanese is difficult." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Japanese (language)" },
+      { "languageCode": "bn", "text": "জাপানি (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/japanese-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "China",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Chinas",
-    "sentence_de": "China liegt in Asien.",
-    "sentence_en": "China is in Asia.",
-    "translation_en": "China",
-    "translation_bn": "চীন",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "China liegt in Asien." },
+      { "languageCode": "en", "text": "China is in Asia." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "China" },
+      { "languageCode": "bn", "text": "চীন" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/china.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "chinesisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist chinesischer Tee.",
-    "sentence_en": "That is Chinese tea.",
-    "translation_en": "Chinese",
-    "translation_bn": "চীনা",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist chinesischer Tee." },
+      { "languageCode": "en", "text": "That is Chinese tea." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Chinese" },
+      { "languageCode": "bn", "text": "চীনা" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/chinese.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Chinesisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Chinesisch",
-    "sentence_de": "Sie lernt Chinesisch.",
-    "sentence_en": "She is learning Chinese.",
-    "translation_en": "Chinese (language)",
-    "translation_bn": "চীনা (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie lernt Chinesisch." },
+      { "languageCode": "en", "text": "She is learning Chinese." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Chinese (language)" },
+      { "languageCode": "bn", "text": "চীনা (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/chinese-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Bulgarien",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Bulgariens",
-    "sentence_de": "Bulgarien liegt in Südosteuropa.",
-    "sentence_en": "Bulgaria is in southeastern Europe.",
-    "translation_en": "Bulgaria",
-    "translation_bn": "বুলগেরিয়া",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Bulgarien liegt in Südosteuropa." },
+      { "languageCode": "en", "text": "Bulgaria is in southeastern Europe." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Bulgaria" },
+      { "languageCode": "bn", "text": "বুলগেরিয়া" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/bulgaria.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "bulgarisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist bulgarischer Käse.",
-    "sentence_en": "That is Bulgarian cheese.",
-    "translation_en": "Bulgarian",
-    "translation_bn": "বুলগেরিয়ান",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist bulgarischer Käse." },
+      { "languageCode": "en", "text": "That is Bulgarian cheese." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Bulgarian" },
+      { "languageCode": "bn", "text": "বুলগেরিয়ান" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/bulgarian.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Bulgarisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Bulgarisch",
-    "sentence_de": "Ich lerne Bulgarisch.",
-    "sentence_en": "I am learning Bulgarian.",
-    "translation_en": "Bulgarian (language)",
-    "translation_bn": "বুলগেরিয়ান (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich lerne Bulgarisch." },
+      { "languageCode": "en", "text": "I am learning Bulgarian." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Bulgarian (language)" },
+      { "languageCode": "bn", "text": "বুলগেরিয়ান (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/bulgarian-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Bangladesch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Bangladeschs",
-    "sentence_de": "Bangladesch liegt in Südasien.",
-    "sentence_en": "Bangladesh is in South Asia.",
-    "translation_en": "Bangladesh",
-    "translation_bn": "বাংলাদেশ",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Bangladesch liegt in Südasien." },
+      { "languageCode": "en", "text": "Bangladesh is in South Asia." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Bangladesh" },
+      { "languageCode": "bn", "text": "বাংলাদেশ" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/bangladesh.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "bangladeschisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist bangladeschische Küche.",
-    "sentence_en": "That is Bangladeshi cuisine.",
-    "translation_en": "Bangladeshi",
-    "translation_bn": "বাংলাদেশি",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist bangladeschische Küche." },
+      { "languageCode": "en", "text": "That is Bangladeshi cuisine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Bangladeshi" },
+      { "languageCode": "bn", "text": "বাংলাদেশি" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/bangladeshi.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Bengalisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Bengalisch",
-    "sentence_de": "Sie lernt Bengalisch an der Universität.",
-    "sentence_en": "She is learning Bengali at the university.",
-    "translation_en": "Bengali (language)",
-    "translation_bn": "বাংলা (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie lernt Bengalisch an der Universität." },
+      { "languageCode": "en", "text": "She is learning Bengali at the university." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Bengali (language)" },
+      { "languageCode": "bn", "text": "বাংলা (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/bengali-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Indien",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Indiens",
-    "sentence_de": "Indien liegt in Südasien.",
-    "sentence_en": "India is in South Asia.",
-    "translation_en": "India",
-    "translation_bn": "ভারত",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Indien liegt in Südasien." },
+      { "languageCode": "en", "text": "India is in South Asia." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "India" },
+      { "languageCode": "bn", "text": "ভারত" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/india.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "indisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist indisches Essen.",
-    "sentence_en": "That is Indian food.",
-    "translation_en": "Indian",
-    "translation_bn": "ভারতীয়",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist indisches Essen." },
+      { "languageCode": "en", "text": "That is Indian food." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Indian" },
+      { "languageCode": "bn", "text": "ভারতীয়" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/indian.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Hindi",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Hindi",
-    "sentence_de": "Hindi wird in Indien gesprochen.",
-    "sentence_en": "Hindi is spoken in India.",
-    "translation_en": "Hindi (language)",
-    "translation_bn": "হিন্দি (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Hindi wird in Indien gesprochen." },
+      { "languageCode": "en", "text": "Hindi is spoken in India." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Hindi (language)" },
+      { "languageCode": "bn", "text": "হিন্দি (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/hindi-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Nepal",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Nepals",
-    "sentence_de": "Nepal liegt im Himalaya.",
-    "sentence_en": "Nepal is in the Himalayas.",
-    "translation_en": "Nepal",
-    "translation_bn": "নেপাল",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Nepal liegt im Himalaya." },
+      { "languageCode": "en", "text": "Nepal is in the Himalayas." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Nepal" },
+      { "languageCode": "bn", "text": "নেপাল" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/nepal.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "nepalesisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist nepalesische Kultur.",
-    "sentence_en": "That is Nepalese culture.",
-    "translation_en": "Nepalese",
-    "translation_bn": "নেপালি",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist nepalesische Kultur." },
+      { "languageCode": "en", "text": "That is Nepalese culture." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Nepalese" },
+      { "languageCode": "bn", "text": "নেপালি" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/nepalese.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Nepalesisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Nepalesisch",
-    "sentence_de": "Nepalesisch ist die Amtssprache in Nepal.",
-    "sentence_en": "Nepali is the official language in Nepal.",
-    "translation_en": "Nepali (language)",
-    "translation_bn": "নেপালি (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Nepalesisch ist die Amtssprache in Nepal." },
+      { "languageCode": "en", "text": "Nepali is the official language in Nepal." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Nepali (language)" },
+      { "languageCode": "bn", "text": "নেপালি (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/nepali-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Thailand",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Thailands",
-    "sentence_de": "Thailand ist ein tropisches Land.",
-    "sentence_en": "Thailand is a tropical country.",
-    "translation_en": "Thailand",
-    "translation_bn": "থাইল্যান্ড",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Thailand ist ein tropisches Land." },
+      { "languageCode": "en", "text": "Thailand is a tropical country." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Thailand" },
+      { "languageCode": "bn", "text": "থাইল্যান্ড" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/thailand.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "thailändisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist thailändisches Essen.",
-    "sentence_en": "That is Thai food.",
-    "translation_en": "Thai",
-    "translation_bn": "থাই",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist thailändisches Essen." },
+      { "languageCode": "en", "text": "That is Thai food." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Thai" },
+      { "languageCode": "bn", "text": "থাই" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/thai.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Thailändisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Thailändisch",
-    "sentence_de": "Ich lerne Thailändisch.",
-    "sentence_en": "I am learning Thai.",
-    "translation_en": "Thai (language)",
-    "translation_bn": "থাই (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich lerne Thailändisch." },
+      { "languageCode": "en", "text": "I am learning Thai." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Thai (language)" },
+      { "languageCode": "bn", "text": "থাই (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/thai-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Pakistan",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Pakistans",
-    "sentence_de": "Pakistan liegt in Südasien.",
-    "sentence_en": "Pakistan is in South Asia.",
-    "translation_en": "Pakistan",
-    "translation_bn": "পাকিস্তান",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Pakistan liegt in Südasien." },
+      { "languageCode": "en", "text": "Pakistan is in South Asia." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Pakistan" },
+      { "languageCode": "bn", "text": "পাকিস্তান" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/pakistan.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "pakistanisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist pakistanische Musik.",
-    "sentence_en": "That is Pakistani music.",
-    "translation_en": "Pakistani",
-    "translation_bn": "পাকিস্তানি",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist pakistanische Musik." },
+      { "languageCode": "en", "text": "That is Pakistani music." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Pakistani" },
+      { "languageCode": "bn", "text": "পাকিস্তানি" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/pakistani.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Urdu",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Urdu",
-    "sentence_de": "Urdu wird in Pakistan gesprochen.",
-    "sentence_en": "Urdu is spoken in Pakistan.",
-    "translation_en": "Urdu (language)",
-    "translation_bn": "উর্দু (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Urdu wird in Pakistan gesprochen." },
+      { "languageCode": "en", "text": "Urdu is spoken in Pakistan." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Urdu (language)" },
+      { "languageCode": "bn", "text": "উর্দু (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/urdu-language.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Vietnam",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Vietnams",
-    "sentence_de": "Vietnam liegt in Südostasien.",
-    "sentence_en": "Vietnam is in Southeast Asia.",
-    "translation_en": "Vietnam",
-    "translation_bn": "ভিয়েতনাম",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Vietnam liegt in Südostasien." },
+      { "languageCode": "en", "text": "Vietnam is in Southeast Asia." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Vietnam" },
+      { "languageCode": "bn", "text": "ভিয়েতনাম" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/vietnam.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "adjective",
     "word": "vietnamesisch",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das ist vietnamesische Küche.",
-    "sentence_en": "That is Vietnamese cuisine.",
-    "translation_en": "Vietnamese",
-    "translation_bn": "ভিয়েতনামি",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist vietnamesische Küche." },
+      { "languageCode": "en", "text": "That is Vietnamese cuisine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Vietnamese" },
+      { "languageCode": "bn", "text": "ভিয়েতনামি" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/vietnamese.png"
   },
   {
+    "level": "a1",
+    "topic": "countries-and-languages",
     "part_of_speech": "noun",
     "word": "Vietnamesisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Vietnamesisch",
-    "sentence_de": "Vietnamesisch hat sechs Töne.",
-    "sentence_en": "Vietnamese has six tones.",
-    "translation_en": "Vietnamese (language)",
-    "translation_bn": "ভিয়েতনামি (ভাষা)",
-    "topic": "countries-and-languages",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Vietnamesisch hat sechs Töne." },
+      { "languageCode": "en", "text": "Vietnamese has six tones." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Vietnamese (language)" },
+      { "languageCode": "bn", "text": "ভিয়েতনামি (ভাষা)" }
+    ],
     "image": "data/vocabulary/images/countries-and-languages/vietnamese-language.png"
   }
 ]

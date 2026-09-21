@@ -1,464 +1,596 @@
 [
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Altstadt",
     "article": "die",
     "gender": "feminine",
     "plural": "Altstädte",
     "genitive_singular": "der Altstadt",
-    "sentence_de": "Die Altstadt ist sehr schön.",
-    "sentence_en": "The old town is very beautiful.",
-    "translation_en": "old town",
-    "translation_bn": "পুরাতন শহর",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Altstadt ist sehr schön." },
+      { "languageCode": "en", "text": "The old town is very beautiful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "old town" },
+      { "languageCode": "bn", "text": "পুরাতন শহর" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Deutschland",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Deutschlands",
-    "sentence_de": "Deutschland ist ein Land in Europa.",
-    "sentence_en": "Germany is a country in Europe.",
-    "translation_en": "Germany",
-    "translation_bn": "জার্মানি",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Deutschland ist ein Land in Europa." },
+      { "languageCode": "en", "text": "Germany is a country in Europe." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Germany" },
+      { "languageCode": "bn", "text": "জার্মানি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Dorf",
     "article": "das",
     "gender": "neuter",
     "plural": "Dörfer",
     "genitive_singular": "des Dorfes",
-    "sentence_de": "Das Dorf ist sehr klein.",
-    "sentence_en": "The village is very small.",
-    "translation_en": "village",
-    "translation_bn": "গ্রাম",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Dorf ist sehr klein." },
+      { "languageCode": "en", "text": "The village is very small." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "village" },
+      { "languageCode": "bn", "text": "গ্রাম" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Fluss",
     "article": "der",
     "gender": "masculine",
     "plural": "Flüsse",
     "genitive_singular": "des Flusses",
-    "sentence_de": "Der Fluss ist sehr lang.",
-    "sentence_en": "The river is very long.",
-    "translation_en": "river",
-    "translation_bn": "নদী",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Fluss ist sehr lang." },
+      { "languageCode": "en", "text": "The river is very long." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "river" },
+      { "languageCode": "bn", "text": "নদী" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Frankreich",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Frankreichs",
-    "sentence_de": "Frankreich ist bekannt für Wein.",
-    "sentence_en": "France is known for wine.",
-    "translation_en": "France",
-    "translation_bn": "ফ্রান্স",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Frankreich ist bekannt für Wein." },
+      { "languageCode": "en", "text": "France is known for wine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "France" },
+      { "languageCode": "bn", "text": "ফ্রান্স" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Griechenland",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Griechenlands",
-    "sentence_de": "Griechenland hat viele Inseln.",
-    "sentence_en": "Greece has many islands.",
-    "translation_en": "Greece",
-    "translation_bn": "গ্রিস",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Griechenland hat viele Inseln." },
+      { "languageCode": "en", "text": "Greece has many islands." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Greece" },
+      { "languageCode": "bn", "text": "গ্রিস" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Hafen",
     "article": "der",
     "gender": "masculine",
     "plural": "Häfen",
     "genitive_singular": "des Hafens",
-    "sentence_de": "Der Hafen ist sehr groß.",
-    "sentence_en": "The harbor is very big.",
-    "translation_en": "harbor",
-    "translation_bn": "বন্দর",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Hafen ist sehr groß." },
+      { "languageCode": "en", "text": "The harbor is very big." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "harbor" },
+      { "languageCode": "bn", "text": "বন্দর" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Insel",
     "article": "die",
     "gender": "feminine",
     "plural": "Inseln",
     "genitive_singular": "der Insel",
-    "sentence_de": "Die Insel ist wunderschön.",
-    "sentence_en": "The island is wonderful.",
-    "translation_en": "island",
-    "translation_bn": "দ্বীপ",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Insel ist wunderschön." },
+      { "languageCode": "en", "text": "The island is wonderful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "island" },
+      { "languageCode": "bn", "text": "দ্বীপ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Italien",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Italiens",
-    "sentence_de": "Italien ist bekannt für Pizza.",
-    "sentence_en": "Italy is known for pizza.",
-    "translation_en": "Italy",
-    "translation_bn": "ইতালি",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Italien ist bekannt für Pizza." },
+      { "languageCode": "en", "text": "Italy is known for pizza." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Italy" },
+      { "languageCode": "bn", "text": "ইতালি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Kirche",
     "article": "die",
     "gender": "feminine",
     "plural": "Kirchen",
     "genitive_singular": "der Kirche",
-    "sentence_de": "Die Kirche ist sehr alt.",
-    "sentence_en": "The church is very old.",
-    "translation_en": "church",
-    "translation_bn": "গির্জা",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kirche ist sehr alt." },
+      { "languageCode": "en", "text": "The church is very old." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "church" },
+      { "languageCode": "bn", "text": "গির্জা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Konzert",
     "article": "das",
     "gender": "neuter",
     "plural": "Konzerte",
     "genitive_singular": "des Konzerts",
-    "sentence_de": "Das Konzert ist heute Abend.",
-    "sentence_en": "The concert is tonight.",
-    "translation_en": "concert",
-    "translation_bn": "কনসার্ট",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Konzert ist heute Abend." },
+      { "languageCode": "en", "text": "The concert is tonight." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "concert" },
+      { "languageCode": "bn", "text": "কনসার্ট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Konzerthaus",
     "article": "das",
     "gender": "neuter",
     "plural": "Konzerthäuser",
     "genitive_singular": "des Konzerthauses",
-    "sentence_de": "Das Konzerthaus ist sehr elegant.",
-    "sentence_en": "The concert hall is very elegant.",
-    "translation_en": "concert hall",
-    "translation_bn": "কনসার্ট হল",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Konzerthaus ist sehr elegant." },
+      { "languageCode": "en", "text": "The concert hall is very elegant." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "concert hall" },
+      { "languageCode": "bn", "text": "কনসার্ট হল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Kultur",
     "article": "die",
     "gender": "feminine",
     "plural": "Kulturen",
     "genitive_singular": "der Kultur",
-    "sentence_de": "Die Kultur ist sehr interessant.",
-    "sentence_en": "The culture is very interesting.",
-    "translation_en": "culture",
-    "translation_bn": "সংস্কৃতি",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kultur ist sehr interessant." },
+      { "languageCode": "en", "text": "The culture is very interesting." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "culture" },
+      { "languageCode": "bn", "text": "সংস্কৃতি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Land",
     "article": "das",
     "gender": "neuter",
     "plural": "Länder",
     "genitive_singular": "des Landes",
-    "sentence_de": "Das Land ist sehr schön.",
-    "sentence_en": "The country is very beautiful.",
-    "translation_en": "country",
-    "translation_bn": "দেশ",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Land ist sehr schön." },
+      { "languageCode": "en", "text": "The country is very beautiful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "country" },
+      { "languageCode": "bn", "text": "দেশ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Landschaft",
     "article": "die",
     "gender": "feminine",
     "plural": "Landschaften",
     "genitive_singular": "der Landschaft",
-    "sentence_de": "Die Landschaft ist sehr schön.",
-    "sentence_en": "The landscape is very beautiful.",
-    "translation_en": "landscape",
-    "translation_bn": "ভূদৃশ্য",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Landschaft ist sehr schön." },
+      { "languageCode": "en", "text": "The landscape is very beautiful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "landscape" },
+      { "languageCode": "bn", "text": "ভূদৃশ্য" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Markt",
     "article": "der",
     "gender": "masculine",
     "plural": "Märkte",
     "genitive_singular": "des Markts",
-    "sentence_de": "Der Markt ist am Samstag.",
-    "sentence_en": "The market is on Saturday.",
-    "translation_en": "market",
-    "translation_bn": "বাজার",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Markt ist am Samstag." },
+      { "languageCode": "en", "text": "The market is on Saturday." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "market" },
+      { "languageCode": "bn", "text": "বাজার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Meer",
     "article": "das",
     "gender": "neuter",
     "plural": "Meere",
     "genitive_singular": "des Meeres",
-    "sentence_de": "Das Meer ist blau.",
-    "sentence_en": "The sea is blue.",
-    "translation_en": "sea",
-    "translation_bn": "সমুদ্র",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Meer ist blau." },
+      { "languageCode": "en", "text": "The sea is blue." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sea" },
+      { "languageCode": "bn", "text": "সমুদ্র" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Mexiko",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Mexikos",
-    "sentence_de": "Mexiko ist ein warmes Land.",
-    "sentence_en": "Mexico is a warm country.",
-    "translation_en": "Mexico",
-    "translation_bn": "মেক্সিকো",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Mexiko ist ein warmes Land." },
+      { "languageCode": "en", "text": "Mexico is a warm country." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Mexico" },
+      { "languageCode": "bn", "text": "মেক্সিকো" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Mitte",
     "article": "die",
     "gender": "feminine",
     "plural": "Mitten",
     "genitive_singular": "der Mitte",
-    "sentence_de": "Die Kirche ist in der Mitte.",
-    "sentence_en": "The church is in the middle.",
-    "translation_en": "middle",
-    "translation_bn": "মধ্য",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kirche ist in der Mitte." },
+      { "languageCode": "en", "text": "The church is in the middle." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "middle" },
+      { "languageCode": "bn", "text": "মধ্য" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Ortsangabe",
     "article": "die",
     "gender": "feminine",
     "plural": "Ortsangaben",
     "genitive_singular": "der Ortsangabe",
-    "sentence_de": "Die Ortsangabe ist wichtig.",
-    "sentence_en": "The location information is important.",
-    "translation_en": "location information",
-    "translation_bn": "স্থানের তথ্য",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Ortsangabe ist wichtig." },
+      { "languageCode": "en", "text": "The location information is important." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "location information" },
+      { "languageCode": "bn", "text": "স্থানের তথ্য" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Park",
     "article": "der",
     "gender": "masculine",
     "plural": "Parks",
     "genitive_singular": "des Parks",
-    "sentence_de": "Der Park ist sehr grün.",
-    "sentence_en": "The park is very green.",
-    "translation_en": "park",
-    "translation_bn": "পার্ক",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Park ist sehr grün." },
+      { "languageCode": "en", "text": "The park is very green." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "park" },
+      { "languageCode": "bn", "text": "পার্ক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Polen",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Polens",
-    "sentence_de": "Polen ist ein Land in Europa.",
-    "sentence_en": "Poland is a country in Europe.",
-    "translation_en": "Poland",
-    "translation_bn": "পোল্যান্ড",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Polen ist ein Land in Europa." },
+      { "languageCode": "en", "text": "Poland is a country in Europe." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Poland" },
+      { "languageCode": "bn", "text": "পোল্যান্ড" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Portugal",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Portugals",
-    "sentence_de": "Portugal liegt neben Spanien.",
-    "sentence_en": "Portugal is next to Spain.",
-    "translation_en": "Portugal",
-    "translation_bn": "পর্তুগাল",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Portugal liegt neben Spanien." },
+      { "languageCode": "en", "text": "Portugal is next to Spain." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Portugal" },
+      { "languageCode": "bn", "text": "পর্তুগাল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Rathaus",
     "article": "das",
     "gender": "neuter",
     "plural": "Rathäuser",
     "genitive_singular": "des Rathauses",
-    "sentence_de": "Das Rathaus ist im Zentrum.",
-    "sentence_en": "The town hall is in the center.",
-    "translation_en": "town hall",
-    "translation_bn": "টাউন হল",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Rathaus ist im Zentrum." },
+      { "languageCode": "en", "text": "The town hall is in the center." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "town hall" },
+      { "languageCode": "bn", "text": "টাউন হল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Russland",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Russlands",
-    "sentence_de": "Russland ist ein sehr großes Land.",
-    "sentence_en": "Russia is a very large country.",
-    "translation_en": "Russia",
-    "translation_bn": "রাশিয়া",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Russland ist ein sehr großes Land." },
+      { "languageCode": "en", "text": "Russia is a very large country." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Russia" },
+      { "languageCode": "bn", "text": "রাশিয়া" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Schweiz",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Schweiz",
-    "sentence_de": "Die Schweiz ist sehr schön.",
-    "sentence_en": "Switzerland is very beautiful.",
-    "translation_en": "Switzerland",
-    "translation_bn": "সুইজারল্যান্ড",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Schweiz ist sehr schön." },
+      { "languageCode": "en", "text": "Switzerland is very beautiful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Switzerland" },
+      { "languageCode": "bn", "text": "সুইজারল্যান্ড" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "See",
     "article": "der",
     "gender": "masculine",
     "plural": "Seen",
     "genitive_singular": "des Sees",
-    "sentence_de": "Der See ist sehr ruhig.",
-    "sentence_en": "The lake is very calm.",
-    "translation_en": "lake",
-    "translation_bn": "হ্রদ",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der See ist sehr ruhig." },
+      { "languageCode": "en", "text": "The lake is very calm." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lake" },
+      { "languageCode": "bn", "text": "হ্রদ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Spanien",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Spaniens",
-    "sentence_de": "Spanien ist ein warmes Land.",
-    "sentence_en": "Spain is a warm country.",
-    "translation_en": "Spain",
-    "translation_bn": "স্পেন",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Spanien ist ein warmes Land." },
+      { "languageCode": "en", "text": "Spain is a warm country." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Spain" },
+      { "languageCode": "bn", "text": "স্পেন" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Thailand",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "Thailands",
-    "sentence_de": "Thailand ist ein tropisches Land.",
-    "sentence_en": "Thailand is a tropical country.",
-    "translation_en": "Thailand",
-    "translation_bn": "থাইল্যান্ড",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Thailand ist ein tropisches Land." },
+      { "languageCode": "en", "text": "Thailand is a tropical country." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Thailand" },
+      { "languageCode": "bn", "text": "থাইল্যান্ড" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Türkei",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Türkei",
-    "sentence_de": "Die Türkei liegt zwischen Europa und Asien.",
-    "sentence_en": "Turkey is between Europe and Asia.",
-    "translation_en": "Turkey",
-    "translation_bn": "তুরস্ক",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Türkei liegt zwischen Europa und Asien." },
+      { "languageCode": "en", "text": "Turkey is between Europe and Asia." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Turkey" },
+      { "languageCode": "bn", "text": "তুরস্ক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Turm",
     "article": "der",
     "gender": "masculine",
     "plural": "Türme",
     "genitive_singular": "des Turms",
-    "sentence_de": "Der Turm ist sehr hoch.",
-    "sentence_en": "The tower is very high.",
-    "translation_en": "tower",
-    "translation_bn": "টাওয়ার",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Turm ist sehr hoch." },
+      { "languageCode": "en", "text": "The tower is very high." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tower" },
+      { "languageCode": "bn", "text": "টাওয়ার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "Ukraine",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Ukraine",
-    "sentence_de": "Die Ukraine ist ein Land in Europa.",
-    "sentence_en": "Ukraine is a country in Europe.",
-    "translation_en": "Ukraine",
-    "translation_bn": "ইউক্রেন",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Ukraine ist ein Land in Europa." },
+      { "languageCode": "en", "text": "Ukraine is a country in Europe." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Ukraine" },
+      { "languageCode": "bn", "text": "ইউক্রেন" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "geography-and-places",
     "part_of_speech": "noun",
     "word": "USA",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der USA",
-    "sentence_de": "Die USA sind ein großes Land.",
-    "sentence_en": "The USA is a large country.",
-    "translation_en": "USA",
-    "translation_bn": "যুক্তরাষ্ট্র",
-    "topic": "geography-and-places",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die USA sind ein großes Land." },
+      { "languageCode": "en", "text": "The USA is a large country." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "USA" },
+      { "languageCode": "bn", "text": "যুক্তরাষ্ট্র" }
+    ]
   }
 ]

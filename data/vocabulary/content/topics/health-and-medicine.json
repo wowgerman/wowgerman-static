@@ -1,110 +1,140 @@
 [
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Kranke",
     "article": "der/die",
     "gender": "masculine/feminine",
     "plural": "Kranken",
     "genitive_singular": "des/der Kranken",
-    "sentence_de": "Der Kranke liegt im Bett.",
-    "sentence_en": "The sick person is lying in bed.",
-    "translation_en": "sick person",
-    "translation_bn": "অসুস্থ ব্যক্তি",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Kranke liegt im Bett." },
+      { "languageCode": "en", "text": "The sick person is lying in bed." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sick person" },
+      { "languageCode": "bn", "text": "অসুস্থ ব্যক্তি" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/sick-person.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Patient",
     "article": "der",
     "gender": "masculine",
     "plural": "Patienten",
     "genitive_singular": "des Patienten",
-    "sentence_de": "Der Patient wartet im Wartezimmer.",
-    "sentence_en": "The patient is waiting in the waiting room.",
-    "translation_en": "patient (male)",
-    "translation_bn": "রোগী (পুরুষ)",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Patient wartet im Wartezimmer." },
+      { "languageCode": "en", "text": "The patient is waiting in the waiting room." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "patient (male)" },
+      { "languageCode": "bn", "text": "রোগী (পুরুষ)" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/male-patient.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Patientin",
     "article": "die",
     "gender": "feminine",
     "plural": "Patientinnen",
     "genitive_singular": "der Patientin",
-    "sentence_de": "Die Patientin fühlt sich besser.",
-    "sentence_en": "The patient feels better.",
-    "translation_en": "patient (female)",
-    "translation_bn": "রোগী (মহিলা)",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Patientin fühlt sich besser." },
+      { "languageCode": "en", "text": "The patient feels better." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "patient (female)" },
+      { "languageCode": "bn", "text": "রোগী (মহিলা)" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/female-patient.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Arzt",
     "article": "der",
     "gender": "masculine",
     "plural": "Ärzte",
     "genitive_singular": "des Arztes",
-    "sentence_de": "Der Arzt hilft kranken Menschen.",
-    "sentence_en": "The doctor helps sick people.",
-    "translation_en": "doctor (male)",
-    "translation_bn": "ডাক্তার (পুরুষ)",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Arzt hilft kranken Menschen." },
+      { "languageCode": "en", "text": "The doctor helps sick people." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "doctor (male)" },
+      { "languageCode": "bn", "text": "ডাক্তার (পুরুষ)" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/male-doctor.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Ärztin",
     "article": "die",
     "gender": "feminine",
     "plural": "Ärztinnen",
     "genitive_singular": "der Ärztin",
-    "sentence_de": "Die Ärztin gibt mir ein Medikament.",
-    "sentence_en": "The doctor gives me a medicine.",
-    "translation_en": "doctor (female)",
-    "translation_bn": "ডাক্তার (মহিলা)",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Ärztin gibt mir ein Medikament." },
+      { "languageCode": "en", "text": "The doctor gives me a medicine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "doctor (female)" },
+      { "languageCode": "bn", "text": "ডাক্তার (মহিলা)" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/female-doctor.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Arztbesuch",
     "article": "der",
     "gender": "masculine",
     "plural": "Arztbesuche",
     "genitive_singular": "des Arztbesuchs",
-    "sentence_de": "Der Arztbesuch ist heute um 10 Uhr.",
-    "sentence_en": "The doctor's visit is today at 10 o'clock.",
-    "translation_en": "doctor's visit",
-    "translation_bn": "ডাক্তারের কাছে যাওয়া",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Arztbesuch ist heute um 10 Uhr." },
+      { "languageCode": "en", "text": "The doctor's visit is today at 10 o'clock." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "doctor's visit" },
+      { "languageCode": "bn", "text": "ডাক্তারের কাছে যাওয়া" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/doctors-visit.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Labor",
     "article": "das",
     "gender": "neuter",
     "plural": "Labore",
     "genitive_singular": "des Labors",
-    "sentence_de": "Das Blut geht ins Labor.",
-    "sentence_en": "The blood goes to the laboratory.",
-    "translation_en": "laboratory",
-    "translation_bn": "গবেষণাগার",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Blut geht ins Labor." },
+      { "languageCode": "en", "text": "The blood goes to the laboratory." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "laboratory" },
+      { "languageCode": "bn", "text": "গবেষণাগার" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/laboratory.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "verb",
     "word": "untersuchen",
     "infinitive": "untersuchen",
@@ -114,399 +144,507 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Der Arzt untersucht den Patienten.",
-    "sentence_en": "The doctor examines the patient.",
-    "translation_en": "to examine",
-    "translation_bn": "পরীক্ষা করা",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Arzt untersucht den Patienten." },
+      { "languageCode": "en", "text": "The doctor examines the patient." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to examine" },
+      { "languageCode": "bn", "text": "পরীক্ষা করা" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/to-examine.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Ergebnis",
     "article": "das",
     "gender": "neuter",
     "plural": "Ergebnisse",
     "genitive_singular": "des Ergebnisses",
-    "sentence_de": "Das Ergebnis der Untersuchung ist gut.",
-    "sentence_en": "The result of the examination is good.",
-    "translation_en": "result",
-    "translation_bn": "ফলাফল",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Ergebnis der Untersuchung ist gut." },
+      { "languageCode": "en", "text": "The result of the examination is good." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "result" },
+      { "languageCode": "bn", "text": "ফলাফল" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/result.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Fieber",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Fiebers",
-    "sentence_de": "Das Kind hat hohes Fieber.",
-    "sentence_en": "The child has a high fever.",
-    "translation_en": "fever",
-    "translation_bn": "জ্বর",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kind hat hohes Fieber." },
+      { "languageCode": "en", "text": "The child has a high fever." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fever" },
+      { "languageCode": "bn", "text": "জ্বর" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/fever.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Kopfschmerzen",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Kopfschmerzen",
-    "sentence_de": "Ich habe starke Kopfschmerzen.",
-    "sentence_en": "I have a severe headache.",
-    "translation_en": "headache",
-    "translation_bn": "মাথাব্যথা",
-    "topic": "health-and-medicine",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich habe starke Kopfschmerzen." },
+      { "languageCode": "en", "text": "I have a severe headache." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "headache" },
+      { "languageCode": "bn", "text": "মাথাব্যথা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "adjective",
     "word": "erkältet",
     "comparative": "erkälteter",
     "superlative": "am erkältetsten",
     "gradable": true,
-    "sentence_de": "Ich bin erkältet und huste viel.",
-    "sentence_en": "I have a cold and cough a lot.",
-    "translation_en": "having a cold",
-    "translation_bn": "সর্দি-কাশি",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin erkältet und huste viel." },
+      { "languageCode": "en", "text": "I have a cold and cough a lot." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "having a cold" },
+      { "languageCode": "bn", "text": "সর্দি-কাশি" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/having-a-cold.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Hustensaft",
     "article": "der",
     "gender": "masculine",
     "plural": "Hustensäfte",
     "genitive_singular": "des Hustensafts",
-    "sentence_de": "Der Hustensaft schmeckt süß.",
-    "sentence_en": "The cough syrup tastes sweet.",
-    "translation_en": "cough syrup",
-    "translation_bn": "কাশির সিরাপ",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Hustensaft schmeckt süß." },
+      { "languageCode": "en", "text": "The cough syrup tastes sweet." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cough syrup" },
+      { "languageCode": "bn", "text": "কাশির সিরাপ" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/cough-syrup.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Spritze",
     "article": "die",
     "gender": "feminine",
     "plural": "Spritzen",
     "genitive_singular": "der Spritze",
-    "sentence_de": "Der Arzt gibt eine Spritze.",
-    "sentence_en": "The doctor gives an injection.",
-    "translation_en": "injection",
-    "translation_bn": "ইনজেকশন",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Arzt gibt eine Spritze." },
+      { "languageCode": "en", "text": "The doctor gives an injection." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "injection" },
+      { "languageCode": "bn", "text": "ইনজেকশন" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/injection.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Blut",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Bluts",
-    "sentence_de": "Der Arzt nimmt Blut für die Untersuchung.",
-    "sentence_en": "The doctor takes blood for the examination.",
-    "translation_en": "blood",
-    "translation_bn": "রক্ত",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Arzt nimmt Blut für die Untersuchung." },
+      { "languageCode": "en", "text": "The doctor takes blood for the examination." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "blood" },
+      { "languageCode": "bn", "text": "রক্ত" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/blood.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Wunde",
     "article": "die",
     "gender": "feminine",
     "plural": "Wunden",
     "genitive_singular": "der Wunde",
-    "sentence_de": "Die Wunde tut weh.",
-    "sentence_en": "The wound hurts.",
-    "translation_en": "wound",
-    "translation_bn": "ক্ষত",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Wunde tut weh." },
+      { "languageCode": "en", "text": "The wound hurts." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "wound" },
+      { "languageCode": "bn", "text": "ক্ষত" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/wound.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Schmerz",
     "article": "der",
     "gender": "masculine",
     "plural": "Schmerzen",
     "genitive_singular": "des Schmerzes",
-    "sentence_de": "Ich habe einen Schmerz im Ellbogen.",
-    "sentence_en": "I have a pain in my elbow.",
-    "translation_en": "pain",
-    "translation_bn": "ব্যথা",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich habe einen Schmerz im Ellbogen." },
+      { "languageCode": "en", "text": "I have a pain in my elbow." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "pain" },
+      { "languageCode": "bn", "text": "ব্যথা" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/pain.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Bauchschmerzen",
     "article": "die",
     "gender": "feminine",
     "plural": "Bauchschmerzen",
     "genitive_singular": "der Bauchschmerzen",
-    "sentence_de": "Ich habe starke Bauchschmerzen.",
-    "sentence_en": "I have severe stomach pain.",
-    "translation_en": "stomach pain",
-    "translation_bn": "পেটের ব্যথা",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich habe starke Bauchschmerzen." },
+      { "languageCode": "en", "text": "I have severe stomach pain." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "stomach pain" },
+      { "languageCode": "bn", "text": "পেটের ব্যথা" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/stomach-pain.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Medikament",
     "article": "das",
     "gender": "neuter",
     "plural": "Medikamente",
     "genitive_singular": "des Medikaments",
-    "sentence_de": "Das Medikament hilft gegen Schmerzen.",
-    "sentence_en": "The medicine helps against pain.",
-    "translation_en": "medicine",
-    "translation_bn": "ঔষধ",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Medikament hilft gegen Schmerzen." },
+      { "languageCode": "en", "text": "The medicine helps against pain." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "medicine" },
+      { "languageCode": "bn", "text": "ঔষধ" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/medicine.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Physiotherapeut",
     "article": "der",
     "gender": "masculine",
     "plural": "Physiotherapeuten",
     "genitive_singular": "des Physiotherapeuten",
-    "sentence_de": "Der Physiotherapeut zeigt mir neue Übungen.",
-    "sentence_en": "The physiotherapist shows me new exercises.",
-    "translation_en": "physiotherapist (male)",
-    "translation_bn": "ফিজিওথেরাপিস্ট (পুরুষ)",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Physiotherapeut zeigt mir neue Übungen." },
+      { "languageCode": "en", "text": "The physiotherapist shows me new exercises." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "physiotherapist (male)" },
+      { "languageCode": "bn", "text": "ফিজিওথেরাপিস্ট (পুরুষ)" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/male-physiotherapist.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Physiotherapeutin",
     "article": "die",
     "gender": "feminine",
     "plural": "Physiotherapeutinnen",
     "genitive_singular": "der Physiotherapeutin",
-    "sentence_de": "Die Physiotherapeutin behandelt meine Schulter.",
-    "sentence_en": "The physiotherapist treats my shoulder.",
-    "translation_en": "physiotherapist (female)",
-    "translation_bn": "ফিজিওথেরাপিস্ট (মহিলা)",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Physiotherapeutin behandelt meine Schulter." },
+      { "languageCode": "en", "text": "The physiotherapist treats my shoulder." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "physiotherapist (female)" },
+      { "languageCode": "bn", "text": "ফিজিওথেরাপিস্ট (মহিলা)" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/female-physiotherapist.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Physiotherapie",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Physiotherapie",
-    "sentence_de": "Die Physiotherapie ist gut für die Schultern.",
-    "sentence_en": "The physiotherapy is good for the shoulders.",
-    "translation_en": "physiotherapy",
-    "translation_bn": "ফিজিওথেরাপি",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Physiotherapie ist gut für die Schultern." },
+      { "languageCode": "en", "text": "The physiotherapy is good for the shoulders." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "physiotherapy" },
+      { "languageCode": "bn", "text": "ফিজিওথেরাপি" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/physiotherapy.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Übung",
     "article": "die",
     "gender": "feminine",
     "plural": "Übungen",
     "genitive_singular": "der Übung",
-    "sentence_de": "Die Übung ist gut für die Beine.",
-    "sentence_en": "The exercise is good for the legs.",
-    "translation_en": "exercise, practice",
-    "translation_bn": "ব্যায়াম, অনুশীলন",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Übung ist gut für die Beine." },
+      { "languageCode": "en", "text": "The exercise is good for the legs." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "exercise, practice" },
+      { "languageCode": "bn", "text": "ব্যায়াম, অনুশীলন" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/exercise.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Anweisung",
     "article": "die",
     "gender": "feminine",
     "plural": "Anweisungen",
     "genitive_singular": "der Anweisung",
-    "sentence_de": "Ich folge der Anweisung des Arztes.",
-    "sentence_en": "I follow the doctor's instruction.",
-    "translation_en": "instruction",
-    "translation_bn": "নির্দেশনা",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich folge der Anweisung des Arztes." },
+      { "languageCode": "en", "text": "I follow the doctor's instruction." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "instruction" },
+      { "languageCode": "bn", "text": "নির্দেশনা" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/instruction.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Strategie",
     "article": "die",
     "gender": "feminine",
     "plural": "Strategien",
     "genitive_singular": "der Strategie",
-    "sentence_de": "Wir brauchen eine neue Strategie gegen die Krankheit.",
-    "sentence_en": "We need a new strategy against the disease.",
-    "translation_en": "strategy",
-    "translation_bn": "কৌশল",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir brauchen eine neue Strategie gegen die Krankheit." },
+      { "languageCode": "en", "text": "We need a new strategy against the disease." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "strategy" },
+      { "languageCode": "bn", "text": "কৌশল" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/strategy.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Tipp",
     "article": "der",
     "gender": "masculine",
     "plural": "Tipps",
     "genitive_singular": "des Tipps",
-    "sentence_de": "Der Arzt gibt mir einen guten Tipp.",
-    "sentence_en": "The doctor gives me a good tip.",
-    "translation_en": "tip",
-    "translation_bn": "পরামর্শ",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Arzt gibt mir einen guten Tipp." },
+      { "languageCode": "en", "text": "The doctor gives me a good tip." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tip" },
+      { "languageCode": "bn", "text": "পরামর্শ" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/tip.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "adjective",
     "word": "fit",
     "comparative": "fitter",
     "superlative": "am fittesten",
     "gradable": true,
-    "sentence_de": "Nach dem Sport fühle ich mich fit.",
-    "sentence_en": "After sports I feel fit.",
-    "translation_en": "fit",
-    "translation_bn": "সুস্থ",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Nach dem Sport fühle ich mich fit." },
+      { "languageCode": "en", "text": "After sports I feel fit." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fit" },
+      { "languageCode": "bn", "text": "সুস্থ" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/fit.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Müdigkeit",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Müdigkeit",
-    "sentence_de": "Die Müdigkeit kommt nach der Arbeit.",
-    "sentence_en": "The tiredness comes after work.",
-    "translation_en": "tiredness",
-    "translation_bn": "ক্লান্তি",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Müdigkeit kommt nach der Arbeit." },
+      { "languageCode": "en", "text": "The tiredness comes after work." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tiredness" },
+      { "languageCode": "bn", "text": "ক্লান্তি" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/tiredness.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "adjective",
     "word": "müde",
     "comparative": "müder",
     "superlative": "am müdesten",
     "gradable": true,
-    "sentence_de": "Ich bin sehr müde.",
-    "sentence_en": "I am very tired.",
-    "translation_en": "tired",
-    "translation_bn": "ক্লান্ত",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin sehr müde." },
+      { "languageCode": "en", "text": "I am very tired." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tired" },
+      { "languageCode": "bn", "text": "ক্লান্ত" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/tired.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Erschöpfung",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Erschöpfung",
-    "sentence_de": "Nach dem langen Tag fühle ich starke Erschöpfung.",
-    "sentence_en": "After the long day I feel strong exhaustion.",
-    "translation_en": "exhaustion",
-    "translation_bn": "অবসাদ",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Nach dem langen Tag fühle ich starke Erschöpfung." },
+      { "languageCode": "en", "text": "After the long day I feel strong exhaustion." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "exhaustion" },
+      { "languageCode": "bn", "text": "অবসাদ" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/exhaustion.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "adjective",
     "word": "erschöpft (k.o.)",
     "comparative": "erschöpfter",
     "superlative": "am erschöpftesten",
     "gradable": true,
-    "sentence_de": "Nach der Arbeit bin ich total erschöpft.",
-    "sentence_en": "After work I am totally exhausted.",
-    "translation_en": "exhausted",
-    "translation_bn": "অবসন্ন",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Nach der Arbeit bin ich total erschöpft." },
+      { "languageCode": "en", "text": "After work I am totally exhausted." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "exhausted" },
+      { "languageCode": "bn", "text": "অবসন্ন" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/exhausted.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Schlaftablette",
     "article": "die",
     "gender": "feminine",
     "plural": "Schlaftabletten",
     "genitive_singular": "der Schlaftablette",
-    "sentence_de": "Die Schlaftablette hilft beim Einschlafen.",
-    "sentence_en": "The sleeping pill helps with falling asleep.",
-    "translation_en": "sleeping pill",
-    "translation_bn": "ঘুমের ওষুধ",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Schlaftablette hilft beim Einschlafen." },
+      { "languageCode": "en", "text": "The sleeping pill helps with falling asleep." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sleeping pill" },
+      { "languageCode": "bn", "text": "ঘুমের ওষুধ" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/sleeping-pill.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Hunger",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Hungers",
-    "sentence_de": "Der Hunger ist nach dem Sport groß.",
-    "sentence_en": "The hunger is great after sports.",
-    "translation_en": "hunger",
-    "translation_bn": "ক্ষুধা",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Hunger ist nach dem Sport groß." },
+      { "languageCode": "en", "text": "The hunger is great after sports." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hunger" },
+      { "languageCode": "bn", "text": "ক্ষুধা" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/hunger.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "adjective",
     "word": "hungrig",
     "comparative": "hungriger",
     "superlative": "am hungrigsten",
     "gradable": true,
-    "sentence_de": "Ich bin sehr hungrig.",
-    "sentence_en": "I am very hungry.",
-    "translation_en": "hungry",
-    "translation_bn": "ক্ষুধার্ত",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin sehr hungrig." },
+      { "languageCode": "en", "text": "I am very hungry." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hungry" },
+      { "languageCode": "bn", "text": "ক্ষুধার্ত" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/hungry.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "verb",
     "word": "rauchen",
     "infinitive": "rauchen",
@@ -516,15 +654,19 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Rauchen ist schlecht für die Gesundheit.",
-    "sentence_en": "Smoking is bad for health.",
-    "translation_en": "to smoke",
-    "translation_bn": "ধূমপান করা",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Rauchen ist schlecht für die Gesundheit." },
+      { "languageCode": "en", "text": "Smoking is bad for health." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to smoke" },
+      { "languageCode": "bn", "text": "ধূমপান করা" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/to-smoke.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "verb",
     "word": "dürfen",
     "infinitive": "dürfen",
@@ -534,15 +676,19 @@
     "auxiliary_verb": "haben",
     "verb_type": "modal",
     "separable_prefix": null,
-    "sentence_de": "Sie dürfen das Medikament nehmen.",
-    "sentence_en": "You may take the medicine.",
-    "translation_en": "may/to be allowed",
-    "translation_bn": "অনুমতি থাকা",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie dürfen das Medikament nehmen." },
+      { "languageCode": "en", "text": "You may take the medicine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "may/to be allowed" },
+      { "languageCode": "bn", "text": "অনুমতি থাকা" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/to-be-allowed.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "verb",
     "word": "sollen",
     "infinitive": "sollen",
@@ -552,15 +698,19 @@
     "auxiliary_verb": "haben",
     "verb_type": "modal",
     "separable_prefix": null,
-    "sentence_de": "Du sollst viel Wasser trinken.",
-    "sentence_en": "You should drink a lot of water.",
-    "translation_en": "should",
-    "translation_bn": "উচিত",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Du sollst viel Wasser trinken." },
+      { "languageCode": "en", "text": "You should drink a lot of water." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "should" },
+      { "languageCode": "bn", "text": "উচিত" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/should.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "verb",
     "word": "nehmen",
     "infinitive": "nehmen",
@@ -570,15 +720,19 @@
     "auxiliary_verb": "haben",
     "verb_type": "irregular",
     "separable_prefix": null,
-    "sentence_de": "Ich nehme die Tablette dreimal am Tag.",
-    "sentence_en": "I take the tablet three times a day.",
-    "translation_en": "to take",
-    "translation_bn": "নেওয়া",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich nehme die Tablette dreimal am Tag." },
+      { "languageCode": "en", "text": "I take the tablet three times a day." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to take" },
+      { "languageCode": "bn", "text": "নেওয়া" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/to-take.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "verb",
     "word": "weh tun",
     "infinitive": "weh tun",
@@ -588,15 +742,19 @@
     "auxiliary_verb": "haben",
     "verb_type": "irregular",
     "separable_prefix": null,
-    "sentence_de": "Mein Kopf tut weh.",
-    "sentence_en": "My head hurts.",
-    "translation_en": "to hurt",
-    "translation_bn": "ব্যথা করা",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Kopf tut weh." },
+      { "languageCode": "en", "text": "My head hurts." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to hurt" },
+      { "languageCode": "bn", "text": "ব্যথা করা" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/to-hurt.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "verb",
     "word": "versuchen",
     "infinitive": "versuchen",
@@ -606,30 +764,38 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich versuche, gesund zu leben.",
-    "sentence_en": "I try to live healthy.",
-    "translation_en": "to try",
-    "translation_bn": "চেষ্টা করা",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich versuche, gesund zu leben." },
+      { "languageCode": "en", "text": "I try to live healthy." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to try" },
+      { "languageCode": "bn", "text": "চেষ্টা করা" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/to-try.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "noun",
     "word": "Bad",
     "article": "das",
     "gender": "neuter",
     "plural": "Bäder",
     "genitive_singular": "des Bades",
-    "sentence_de": "Das Bad ist neben dem Schlafzimmer.",
-    "sentence_en": "The bathroom is next to the bedroom.",
-    "translation_en": "bathroom",
-    "translation_bn": "বাথরুম",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Bad ist neben dem Schlafzimmer." },
+      { "languageCode": "en", "text": "The bathroom is next to the bedroom." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bathroom" },
+      { "languageCode": "bn", "text": "বাথরুম" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/bathroom.png"
   },
   {
+    "level": "a1",
+    "topic": "health-and-medicine",
     "part_of_speech": "verb",
     "word": "baden",
     "infinitive": "baden",
@@ -639,12 +805,14 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich bade jeden Tag.",
-    "sentence_en": "I bathe every day.",
-    "translation_en": "to bathe",
-    "translation_bn": "গোসল করা",
-    "topic": "health-and-medicine",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bade jeden Tag." },
+      { "languageCode": "en", "text": "I bathe every day." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to bathe" },
+      { "languageCode": "bn", "text": "গোসল করা" }
+    ],
     "image": "data/vocabulary/images/health-and-medicine/to-bathe.png"
   }
 ]

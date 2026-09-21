@@ -1,467 +1,591 @@
 [
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Haar",
     "article": "das",
     "gender": "neuter",
     "plural": "Haare",
     "genitive_singular": "des Haars",
-    "sentence_de": "Das Haar ist braun.",
-    "sentence_en": "The hair is brown.",
-    "translation_en": "hair",
-    "translation_bn": "চুল",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Haar ist braun." },
+      { "languageCode": "en", "text": "The hair is brown." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hair" },
+      { "languageCode": "bn", "text": "চুল" }
+    ],
     "image": "data/vocabulary/images/body-parts/hair.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Ohr",
     "article": "das",
     "gender": "neuter",
     "plural": "Ohren",
     "genitive_singular": "des Ohrs",
-    "sentence_de": "Das Ohr hört Musik.",
-    "sentence_en": "The ear hears music.",
-    "translation_en": "ear",
-    "translation_bn": "কান",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Ohr hört Musik." },
+      { "languageCode": "en", "text": "The ear hears music." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ear" },
+      { "languageCode": "bn", "text": "কান" }
+    ],
     "image": "data/vocabulary/images/body-parts/ear.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Kopf",
     "article": "der",
     "gender": "masculine",
     "plural": "Köpfe",
     "genitive_singular": "des Kopfs",
-    "sentence_de": "Der Kopf ist rund.",
-    "sentence_en": "The head is round.",
-    "translation_en": "head",
-    "translation_bn": "মাথা",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Kopf ist rund." },
+      { "languageCode": "en", "text": "The head is round." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "head" },
+      { "languageCode": "bn", "text": "মাথা" }
+    ],
     "image": "data/vocabulary/images/body-parts/head.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Hals",
     "article": "der",
     "gender": "masculine",
     "plural": "Hälse",
     "genitive_singular": "des Halses",
-    "sentence_de": "Der Hals ist lang.",
-    "sentence_en": "The neck is long.",
-    "translation_en": "neck",
-    "translation_bn": "ঘাড়",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Hals ist lang." },
+      { "languageCode": "en", "text": "The neck is long." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "neck" },
+      { "languageCode": "bn", "text": "ঘাড়" }
+    ],
     "image": "data/vocabulary/images/body-parts/neck.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Gesicht",
     "article": "das",
     "gender": "neuter",
     "plural": "Gesichter",
     "genitive_singular": "des Gesichts",
-    "sentence_de": "Das Gesicht ist rund.",
-    "sentence_en": "The face is round.",
-    "translation_en": "face",
-    "translation_bn": "মুখমণ্ডল",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Gesicht ist rund." },
+      { "languageCode": "en", "text": "The face is round." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "face" },
+      { "languageCode": "bn", "text": "মুখমণ্ডল" }
+    ],
     "image": "data/vocabulary/images/body-parts/face.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Kinn",
     "article": "das",
     "gender": "neuter",
     "plural": "Kinne",
     "genitive_singular": "des Kinns",
-    "sentence_de": "Das Kinn ist spitz.",
-    "sentence_en": "The chin is pointed.",
-    "translation_en": "chin",
-    "translation_bn": "থুতনি",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kinn ist spitz." },
+      { "languageCode": "en", "text": "The chin is pointed." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "chin" },
+      { "languageCode": "bn", "text": "থুতনি" }
+    ],
     "image": "data/vocabulary/images/body-parts/chin.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Stirn",
     "article": "die",
     "gender": "feminine",
     "plural": "Stirnen",
     "genitive_singular": "der Stirn",
-    "sentence_de": "Die Stirn ist hoch.",
-    "sentence_en": "The forehead is high.",
-    "translation_en": "forehead",
-    "translation_bn": "কপাল",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Stirn ist hoch." },
+      { "languageCode": "en", "text": "The forehead is high." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "forehead" },
+      { "languageCode": "bn", "text": "কপাল" }
+    ],
     "image": "data/vocabulary/images/body-parts/forehead.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Nase",
     "article": "die",
     "gender": "feminine",
     "plural": "Nasen",
     "genitive_singular": "der Nase",
-    "sentence_de": "Die Nase ist klein.",
-    "sentence_en": "The nose is small.",
-    "translation_en": "nose",
-    "translation_bn": "নাক",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Nase ist klein." },
+      { "languageCode": "en", "text": "The nose is small." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "nose" },
+      { "languageCode": "bn", "text": "নাক" }
+    ],
     "image": "data/vocabulary/images/body-parts/nose.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Augenbraue",
     "article": "die",
     "gender": "feminine",
     "plural": "Augenbrauen",
     "genitive_singular": "der Augenbraue",
-    "sentence_de": "Die Augenbraue ist dunkel.",
-    "sentence_en": "The eyebrow is dark.",
-    "translation_en": "eyebrow",
-    "translation_bn": "ভ্রু",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Augenbraue ist dunkel." },
+      { "languageCode": "en", "text": "The eyebrow is dark." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "eyebrow" },
+      { "languageCode": "bn", "text": "ভ্রু" }
+    ],
     "image": "data/vocabulary/images/body-parts/eyebrow.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Auge",
     "article": "das",
     "gender": "neuter",
     "plural": "Augen",
     "genitive_singular": "des Auges",
-    "sentence_de": "Das Auge ist blau.",
-    "sentence_en": "The eye is blue.",
-    "translation_en": "eye",
-    "translation_bn": "চোখ",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Auge ist blau." },
+      { "languageCode": "en", "text": "The eye is blue." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "eye" },
+      { "languageCode": "bn", "text": "চোখ" }
+    ],
     "image": "data/vocabulary/images/body-parts/eye.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Zahn",
     "article": "der",
     "gender": "masculine",
     "plural": "Zähne",
     "genitive_singular": "des Zahns",
-    "sentence_de": "Der Zahn ist weiß.",
-    "sentence_en": "The tooth is white.",
-    "translation_en": "tooth",
-    "translation_bn": "দাঁত",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Zahn ist weiß." },
+      { "languageCode": "en", "text": "The tooth is white." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tooth" },
+      { "languageCode": "bn", "text": "দাঁত" }
+    ],
     "image": "data/vocabulary/images/body-parts/tooth.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Mund",
     "article": "der",
     "gender": "masculine",
     "plural": "Münder",
     "genitive_singular": "des Mundes",
-    "sentence_de": "Der Mund ist rot.",
-    "sentence_en": "The mouth is red.",
-    "translation_en": "mouth",
-    "translation_bn": "মুখ",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Mund ist rot." },
+      { "languageCode": "en", "text": "The mouth is red." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "mouth" },
+      { "languageCode": "bn", "text": "মুখ" }
+    ],
     "image": "data/vocabulary/images/body-parts/mouth.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Lippe",
     "article": "die",
     "gender": "feminine",
     "plural": "Lippen",
     "genitive_singular": "der Lippe",
-    "sentence_de": "Die Lippe ist rot.",
-    "sentence_en": "The lip is red.",
-    "translation_en": "lip",
-    "translation_bn": "ঠোঁট",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Lippe ist rot." },
+      { "languageCode": "en", "text": "The lip is red." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lip" },
+      { "languageCode": "bn", "text": "ঠোঁট" }
+    ],
     "image": "data/vocabulary/images/body-parts/lip.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Arm",
     "article": "der",
     "gender": "masculine",
     "plural": "Arme",
     "genitive_singular": "des Arms",
-    "sentence_de": "Mein Arm tut weh.",
-    "sentence_en": "My arm hurts.",
-    "translation_en": "arm",
-    "translation_bn": "হাত",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Arm tut weh." },
+      { "languageCode": "en", "text": "My arm hurts." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "arm" },
+      { "languageCode": "bn", "text": "হাত" }
+    ],
     "image": "data/vocabulary/images/body-parts/arm.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Ellbogen",
     "article": "der",
     "gender": "masculine",
     "plural": "Ellbogen",
     "genitive_singular": "des Ellbogens",
-    "sentence_de": "Der Ellbogen tut weh.",
-    "sentence_en": "The elbow hurts.",
-    "translation_en": "elbow",
-    "translation_bn": "কনুই",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Ellbogen tut weh." },
+      { "languageCode": "en", "text": "The elbow hurts." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "elbow" },
+      { "languageCode": "bn", "text": "কনুই" }
+    ],
     "image": "data/vocabulary/images/body-parts/elbow.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Rücken",
     "article": "der",
     "gender": "masculine",
     "plural": "Rücken",
     "genitive_singular": "des Rückens",
-    "sentence_de": "Der Rücken ist stark.",
-    "sentence_en": "The back is strong.",
-    "translation_en": "back",
-    "translation_bn": "পিঠ",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Rücken ist stark." },
+      { "languageCode": "en", "text": "The back is strong." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "back" },
+      { "languageCode": "bn", "text": "পিঠ" }
+    ],
     "image": "data/vocabulary/images/body-parts/back.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Bauch",
     "article": "der",
     "gender": "masculine",
     "plural": "Bäuche",
     "genitive_singular": "des Bauchs",
-    "sentence_de": "Der Bauch ist voll.",
-    "sentence_en": "The belly is full.",
-    "translation_en": "belly/stomach",
-    "translation_bn": "পেট",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Bauch ist voll." },
+      { "languageCode": "en", "text": "The belly is full." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "belly/stomach" },
+      { "languageCode": "bn", "text": "পেট" }
+    ],
     "image": "data/vocabulary/images/body-parts/belly.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Finger",
     "article": "der",
     "gender": "masculine",
     "plural": "Finger",
     "genitive_singular": "des Fingers",
-    "sentence_de": "Der Finger ist dünn.",
-    "sentence_en": "The finger is thin.",
-    "translation_en": "finger",
-    "translation_bn": "আঙুল",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Finger ist dünn." },
+      { "languageCode": "en", "text": "The finger is thin." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "finger" },
+      { "languageCode": "bn", "text": "আঙুল" }
+    ],
     "image": "data/vocabulary/images/body-parts/finger.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Haut",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Haut",
-    "sentence_de": "Die Haut ist weich.",
-    "sentence_en": "The skin is soft.",
-    "translation_en": "skin",
-    "translation_bn": "চামড়া",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Haut ist weich." },
+      { "languageCode": "en", "text": "The skin is soft." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "skin" },
+      { "languageCode": "bn", "text": "চামড়া" }
+    ],
     "image": "data/vocabulary/images/body-parts/skin.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Schulter",
     "article": "die",
     "gender": "feminine",
     "plural": "Schultern",
     "genitive_singular": "der Schulter",
-    "sentence_de": "Die Schulter ist stark.",
-    "sentence_en": "The shoulder is strong.",
-    "translation_en": "shoulder",
-    "translation_bn": "কাঁধ",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Schulter ist stark." },
+      { "languageCode": "en", "text": "The shoulder is strong." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "shoulder" },
+      { "languageCode": "bn", "text": "কাঁধ" }
+    ],
     "image": "data/vocabulary/images/body-parts/shoulder.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Brust",
     "article": "die",
     "gender": "feminine",
     "plural": "Brüste",
     "genitive_singular": "der Brust",
-    "sentence_de": "Die Brust ist breit.",
-    "sentence_en": "The chest is broad.",
-    "translation_en": "chest",
-    "translation_bn": "বুক",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Brust ist breit." },
+      { "languageCode": "en", "text": "The chest is broad." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "chest" },
+      { "languageCode": "bn", "text": "বুক" }
+    ],
     "image": "data/vocabulary/images/body-parts/chest.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Taille",
     "article": "die",
     "gender": "feminine",
     "plural": "Taillen",
     "genitive_singular": "der Taille",
-    "sentence_de": "Die Taille ist schmal.",
-    "sentence_en": "The waist is slim.",
-    "translation_en": "waist",
-    "translation_bn": "কোমর",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Taille ist schmal." },
+      { "languageCode": "en", "text": "The waist is slim." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "waist" },
+      { "languageCode": "bn", "text": "কোমর" }
+    ],
     "image": "data/vocabulary/images/body-parts/waist.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Hand",
     "article": "die",
     "gender": "feminine",
     "plural": "Hände",
     "genitive_singular": "der Hand",
-    "sentence_de": "Die Hand ist sauber.",
-    "sentence_en": "The hand is clean.",
-    "translation_en": "hand",
-    "translation_bn": "হাত",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Hand ist sauber." },
+      { "languageCode": "en", "text": "The hand is clean." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hand" },
+      { "languageCode": "bn", "text": "হাত" }
+    ],
     "image": "data/vocabulary/images/body-parts/hand.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Handgelenk",
     "article": "das",
     "gender": "neuter",
     "plural": "Handgelenke",
     "genitive_singular": "des Handgelenks",
-    "sentence_de": "Das Handgelenk tut weh.",
-    "sentence_en": "The wrist hurts.",
-    "translation_en": "wrist",
-    "translation_bn": "কব্জি",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Handgelenk tut weh." },
+      { "languageCode": "en", "text": "The wrist hurts." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "wrist" },
+      { "languageCode": "bn", "text": "কব্জি" }
+    ],
     "image": "data/vocabulary/images/body-parts/wrist.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Knie",
     "article": "das",
     "gender": "neuter",
     "plural": "Knie",
     "genitive_singular": "des Knies",
-    "sentence_de": "Das Knie tut weh.",
-    "sentence_en": "The knee hurts.",
-    "translation_en": "knee",
-    "translation_bn": "হাঁটু",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Knie tut weh." },
+      { "languageCode": "en", "text": "The knee hurts." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "knee" },
+      { "languageCode": "bn", "text": "হাঁটু" }
+    ],
     "image": "data/vocabulary/images/body-parts/knee.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Bein",
     "article": "das",
     "gender": "neuter",
     "plural": "Beine",
     "genitive_singular": "des Beins",
-    "sentence_de": "Das Bein ist lang.",
-    "sentence_en": "The leg is long.",
-    "translation_en": "leg",
-    "translation_bn": "পা",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Bein ist lang." },
+      { "languageCode": "en", "text": "The leg is long." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "leg" },
+      { "languageCode": "bn", "text": "পা" }
+    ],
     "image": "data/vocabulary/images/body-parts/leg.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Oberschenkel",
     "article": "der",
     "gender": "masculine",
     "plural": "Oberschenkel",
     "genitive_singular": "des Oberschenkels",
-    "sentence_de": "Der Oberschenkel ist stark.",
-    "sentence_en": "The thigh is strong.",
-    "translation_en": "thigh",
-    "translation_bn": "উরু",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Oberschenkel ist stark." },
+      { "languageCode": "en", "text": "The thigh is strong." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "thigh" },
+      { "languageCode": "bn", "text": "উরু" }
+    ],
     "image": "data/vocabulary/images/body-parts/thigh.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Knöchel",
     "article": "der",
     "gender": "masculine",
     "plural": "Knöchel",
     "genitive_singular": "des Knöchels",
-    "sentence_de": "Der Knöchel tut weh.",
-    "sentence_en": "The ankle hurts.",
-    "translation_en": "ankle",
-    "translation_bn": "গোড়ালি",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Knöchel tut weh." },
+      { "languageCode": "en", "text": "The ankle hurts." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ankle" },
+      { "languageCode": "bn", "text": "গোড়ালি" }
+    ],
     "image": "data/vocabulary/images/body-parts/ankle.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Fuß",
     "article": "der",
     "gender": "masculine",
     "plural": "Füße",
     "genitive_singular": "des Fußes",
-    "sentence_de": "Der Fuß ist groß.",
-    "sentence_en": "The foot is big.",
-    "translation_en": "foot",
-    "translation_bn": "পা",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Fuß ist groß." },
+      { "languageCode": "en", "text": "The foot is big." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "foot" },
+      { "languageCode": "bn", "text": "পা" }
+    ],
     "image": "data/vocabulary/images/body-parts/foot.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Zehe",
     "article": "die",
     "gender": "feminine",
     "plural": "Zehen",
     "genitive_singular": "der Zehe",
-    "sentence_de": "Die Zehe ist klein.",
-    "sentence_en": "The toe is small.",
-    "translation_en": "toe",
-    "translation_bn": "পায়ের আঙুল",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Zehe ist klein." },
+      { "languageCode": "en", "text": "The toe is small." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "toe" },
+      { "languageCode": "bn", "text": "পায়ের আঙুল" }
+    ],
     "image": "data/vocabulary/images/body-parts/toe.png"
   },
   {
+    "level": "a1",
+    "topic": "body-parts",
     "part_of_speech": "noun",
     "word": "Herz",
     "article": "das",
     "gender": "neuter",
     "plural": "Herzen",
     "genitive_singular": "des Herzens",
-    "sentence_de": "Das Herz schlägt schnell.",
-    "sentence_en": "The heart beats fast.",
-    "translation_en": "heart",
-    "translation_bn": "হৃদয়",
-    "topic": "body-parts",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Herz schlägt schnell." },
+      { "languageCode": "en", "text": "The heart beats fast." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "heart" },
+      { "languageCode": "bn", "text": "হৃদয়" }
+    ],
     "image": "data/vocabulary/images/body-parts/heart.png"
   }
 ]

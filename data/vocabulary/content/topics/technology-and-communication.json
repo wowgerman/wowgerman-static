@@ -1,145 +1,187 @@
 [
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Absender",
     "article": "der",
     "gender": "masculine",
     "plural": "Absender",
     "genitive_singular": "des Absenders",
-    "sentence_de": "Der Absender ist unbekannt.",
-    "sentence_en": "The sender is unknown.",
-    "translation_en": "sender",
-    "translation_bn": "প্রেরক",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Absender ist unbekannt." },
+      { "languageCode": "en", "text": "The sender is unknown." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sender" },
+      { "languageCode": "bn", "text": "প্রেরক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Akku",
     "article": "der",
     "gender": "masculine",
     "plural": "Akkus",
     "genitive_singular": "des Akkus",
-    "sentence_de": "Der Akku ist leer.",
-    "sentence_en": "The battery is empty.",
-    "translation_en": "battery",
-    "translation_bn": "ব্যাটারি",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Akku ist leer." },
+      { "languageCode": "en", "text": "The battery is empty." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "battery" },
+      { "languageCode": "bn", "text": "ব্যাটারি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Anruf",
     "article": "der",
     "gender": "masculine",
     "plural": "Anrufe",
     "genitive_singular": "des Anrufs",
-    "sentence_de": "Der Anruf ist wichtig.",
-    "sentence_en": "The call is important.",
-    "translation_en": "call",
-    "translation_bn": "কল",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Anruf ist wichtig." },
+      { "languageCode": "en", "text": "The call is important." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "call" },
+      { "languageCode": "bn", "text": "কল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Anschluss",
     "article": "der",
     "gender": "masculine",
     "plural": "Anschlüsse",
     "genitive_singular": "des Anschlusses",
-    "sentence_de": "Der Anschluss funktioniert gut.",
-    "sentence_en": "The connection works well.",
-    "translation_en": "connection",
-    "translation_bn": "সংযোগ",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Anschluss funktioniert gut." },
+      { "languageCode": "en", "text": "The connection works well." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "connection" },
+      { "languageCode": "bn", "text": "সংযোগ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Blog",
     "article": "der",
     "gender": "masculine",
     "plural": "Blogs",
     "genitive_singular": "des Blogs",
-    "sentence_de": "Ich lese einen Blog.",
-    "sentence_en": "I read a blog.",
-    "translation_en": "blog",
-    "translation_bn": "ব্লগ",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich lese einen Blog." },
+      { "languageCode": "en", "text": "I read a blog." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "blog" },
+      { "languageCode": "bn", "text": "ব্লগ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Computer",
     "article": "der",
     "gender": "masculine",
     "plural": "Computer",
     "genitive_singular": "des Computers",
-    "sentence_de": "Der Computer ist neu.",
-    "sentence_en": "The computer is new.",
-    "translation_en": "computer",
-    "translation_bn": "কম্পিউটার",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Computer ist neu." },
+      { "languageCode": "en", "text": "The computer is new." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "computer" },
+      { "languageCode": "bn", "text": "কম্পিউটার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Computerarbeit",
     "article": "die",
     "gender": "feminine",
     "plural": "Computerarbeiten",
     "genitive_singular": "der Computerarbeit",
-    "sentence_de": "Die Computerarbeit ist schwer.",
-    "sentence_en": "The computer work is difficult.",
-    "translation_en": "computer work",
-    "translation_bn": "কম্পিউটার কাজ",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Computerarbeit ist schwer." },
+      { "languageCode": "en", "text": "The computer work is difficult." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "computer work" },
+      { "languageCode": "bn", "text": "কম্পিউটার কাজ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Computerfirma",
     "article": "die",
     "gender": "feminine",
     "plural": "Computerfirmen",
     "genitive_singular": "der Computerfirma",
-    "sentence_de": "Die Computerfirma ist groß.",
-    "sentence_en": "The computer company is large.",
-    "translation_en": "computer company",
-    "translation_bn": "কম্পিউটার কোম্পানি",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Computerfirma ist groß." },
+      { "languageCode": "en", "text": "The computer company is large." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "computer company" },
+      { "languageCode": "bn", "text": "কম্পিউটার কোম্পানি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Computerproblem",
     "article": "das",
     "gender": "neuter",
     "plural": "Computerprobleme",
     "genitive_singular": "des Computerproblems",
-    "sentence_de": "Das Computerproblem ist schwer.",
-    "sentence_en": "The computer problem is difficult.",
-    "translation_en": "computer problem",
-    "translation_bn": "কম্পিউটার সমস্যা",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Computerproblem ist schwer." },
+      { "languageCode": "en", "text": "The computer problem is difficult." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "computer problem" },
+      { "languageCode": "bn", "text": "কম্পিউটার সমস্যা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Datei",
     "article": "die",
     "gender": "feminine",
     "plural": "Dateien",
     "genitive_singular": "der Datei",
-    "sentence_de": "Die Datei ist groß.",
-    "sentence_en": "The file is large.",
-    "translation_en": "file",
-    "translation_bn": "ফাইল",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Datei ist groß." },
+      { "languageCode": "en", "text": "The file is large." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "file" },
+      { "languageCode": "bn", "text": "ফাইল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "verb",
     "word": "drucken",
     "infinitive": "drucken",
@@ -149,56 +191,72 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich drucke das Dokument.",
-    "sentence_en": "I print the document.",
-    "translation_en": "to print",
-    "translation_bn": "প্রিন্ট করা",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich drucke das Dokument." },
+      { "languageCode": "en", "text": "I print the document." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to print" },
+      { "languageCode": "bn", "text": "প্রিন্ট করা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Drucker",
     "article": "der",
     "gender": "masculine",
     "plural": "Drucker",
     "genitive_singular": "des Druckers",
-    "sentence_de": "Der Drucker funktioniert nicht.",
-    "sentence_en": "The printer doesn't work.",
-    "translation_en": "printer",
-    "translation_bn": "প্রিন্টার",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Drucker funktioniert nicht." },
+      { "languageCode": "en", "text": "The printer doesn't work." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "printer" },
+      { "languageCode": "bn", "text": "প্রিন্টার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Durchwahl",
     "article": "die",
     "gender": "feminine",
     "plural": "Durchwahlen",
     "genitive_singular": "der Durchwahl",
-    "sentence_de": "Die Durchwahl ist 123.",
-    "sentence_en": "The extension is 123.",
-    "translation_en": "extension",
-    "translation_bn": "এক্সটেনশন",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Durchwahl ist 123." },
+      { "languageCode": "en", "text": "The extension is 123." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "extension" },
+      { "languageCode": "bn", "text": "এক্সটেনশন" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "E-Mail-Adresse",
     "article": "die",
     "gender": "feminine",
     "plural": "E-Mail-Adressen",
     "genitive_singular": "der E-Mail-Adresse",
-    "sentence_de": "Wie ist Ihre E-Mail-Adresse?",
-    "sentence_en": "What is your email address?",
-    "translation_en": "email address",
-    "translation_bn": "ইমেইল ঠিকানা",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Wie ist Ihre E-Mail-Adresse?" },
+      { "languageCode": "en", "text": "What is your email address?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "email address" },
+      { "languageCode": "bn", "text": "ইমেইল ঠিকানা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "verb",
     "word": "eingeben",
     "infinitive": "eingeben",
@@ -208,196 +266,252 @@
     "auxiliary_verb": "haben",
     "verb_type": "irregular",
     "separable_prefix": "ein",
-    "sentence_de": "Ich gebe die Nummer ein.",
-    "sentence_en": "I enter the number.",
-    "translation_en": "to enter/input",
-    "translation_bn": "প্রবেশ করানো",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gebe die Nummer ein." },
+      { "languageCode": "en", "text": "I enter the number." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to enter/input" },
+      { "languageCode": "bn", "text": "প্রবেশ করানো" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Einladungsmail",
     "article": "die",
     "gender": "feminine",
     "plural": "Einladungsmails",
     "genitive_singular": "der Einladungsmail",
-    "sentence_de": "Die Einladungsmail ist freundlich.",
-    "sentence_en": "The invitation email is friendly.",
-    "translation_en": "invitation email",
-    "translation_bn": "আমন্ত্রণ ইমেইল",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Einladungsmail ist freundlich." },
+      { "languageCode": "en", "text": "The invitation email is friendly." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "invitation email" },
+      { "languageCode": "bn", "text": "আমন্ত্রণ ইমেইল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Eintrag",
     "article": "der",
     "gender": "masculine",
     "plural": "Einträge",
     "genitive_singular": "des Eintrags",
-    "sentence_de": "Der Eintrag ist interessant.",
-    "sentence_en": "The entry is interesting.",
-    "translation_en": "entry",
-    "translation_bn": "এন্ট্রি",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Eintrag ist interessant." },
+      { "languageCode": "en", "text": "The entry is interesting." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "entry" },
+      { "languageCode": "bn", "text": "এন্ট্রি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Empfänger",
     "article": "der",
     "gender": "masculine",
     "plural": "Empfänger",
     "genitive_singular": "des Empfängers",
-    "sentence_de": "Der Empfänger bekommt die E-Mail.",
-    "sentence_en": "The recipient receives the email.",
-    "translation_en": "recipient",
-    "translation_bn": "গ্রহীতা",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Empfänger bekommt die E-Mail." },
+      { "languageCode": "en", "text": "The recipient receives the email." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "recipient" },
+      { "languageCode": "bn", "text": "গ্রহীতা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Empfängerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Empfängerinnen",
     "genitive_singular": "der Empfängerin",
-    "sentence_de": "Die Empfängerin liest die Nachricht.",
-    "sentence_en": "The recipient reads the message.",
-    "translation_en": "recipient (female)",
-    "translation_bn": "গ্রহীতা (মহিলা)",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Empfängerin liest die Nachricht." },
+      { "languageCode": "en", "text": "The recipient reads the message." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "recipient (female)" },
+      { "languageCode": "bn", "text": "গ্রহীতা (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Experiment",
     "article": "das",
     "gender": "neuter",
     "plural": "Experimente",
     "genitive_singular": "des Experiments",
-    "sentence_de": "Das Experiment ist erfolgreich.",
-    "sentence_en": "The experiment is successful.",
-    "translation_en": "experiment",
-    "translation_bn": "পরীক্ষা",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Experiment ist erfolgreich." },
+      { "languageCode": "en", "text": "The experiment is successful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "experiment" },
+      { "languageCode": "bn", "text": "পরীক্ষা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Gespräch",
     "article": "das",
     "gender": "neuter",
     "plural": "Gespräche",
     "genitive_singular": "des Gesprächs",
-    "sentence_de": "Das Gespräch dauert lange.",
-    "sentence_en": "The conversation lasts long.",
-    "translation_en": "conversation",
-    "translation_bn": "কথোপকথন",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Gespräch dauert lange." },
+      { "languageCode": "en", "text": "The conversation lasts long." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "conversation" },
+      { "languageCode": "bn", "text": "কথোপকথন" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Handy",
     "article": "das",
     "gender": "neuter",
     "plural": "Handys",
     "genitive_singular": "des Handys",
-    "sentence_de": "Mein Handy ist kaputt.",
-    "sentence_en": "My mobile phone is broken.",
-    "translation_en": "mobile phone",
-    "translation_bn": "মোবাইল ফোন",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Handy ist kaputt." },
+      { "languageCode": "en", "text": "My mobile phone is broken." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "mobile phone" },
+      { "languageCode": "bn", "text": "মোবাইল ফোন" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Handy-Akku",
     "article": "der",
     "gender": "masculine",
     "plural": "Handy-Akkus",
     "genitive_singular": "des Handy-Akkus",
-    "sentence_de": "Der Handy-Akku ist fast leer.",
-    "sentence_en": "The mobile phone battery is almost empty.",
-    "translation_en": "mobile phone battery",
-    "translation_bn": "মোবাইল ফোন ব্যাটারি",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Handy-Akku ist fast leer." },
+      { "languageCode": "en", "text": "The mobile phone battery is almost empty." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "mobile phone battery" },
+      { "languageCode": "bn", "text": "মোবাইল ফোন ব্যাটারি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Handynummer",
     "article": "die",
     "gender": "feminine",
     "plural": "Handynummern",
     "genitive_singular": "der Handynummer",
-    "sentence_de": "Meine Handynummer ist 123456789.",
-    "sentence_en": "My mobile number is 123456789.",
-    "translation_en": "mobile number",
-    "translation_bn": "মোবাইল নম্বর",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Handynummer ist 123456789." },
+      { "languageCode": "en", "text": "My mobile number is 123456789." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "mobile number" },
+      { "languageCode": "bn", "text": "মোবাইল নম্বর" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Homepage",
     "article": "die",
     "gender": "feminine",
     "plural": "Homepages",
     "genitive_singular": "der Homepage",
-    "sentence_de": "Die Homepage ist sehr schön.",
-    "sentence_en": "The homepage is very beautiful.",
-    "translation_en": "homepage",
-    "translation_bn": "হোমপেজ",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Homepage ist sehr schön." },
+      { "languageCode": "en", "text": "The homepage is very beautiful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "homepage" },
+      { "languageCode": "bn", "text": "হোমপেজ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Kamera",
     "article": "die",
     "gender": "feminine",
     "plural": "Kameras",
     "genitive_singular": "der Kamera",
-    "sentence_de": "Die Kamera macht gute Fotos.",
-    "sentence_en": "The camera takes good photos.",
-    "translation_en": "camera",
-    "translation_bn": "ক্যামেরা",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kamera macht gute Fotos." },
+      { "languageCode": "en", "text": "The camera takes good photos." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "camera" },
+      { "languageCode": "bn", "text": "ক্যামেরা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Kursplakat",
     "article": "das",
     "gender": "neuter",
     "plural": "Kursplakate",
     "genitive_singular": "des Kursplakats",
-    "sentence_de": "Das Kursplakat ist bunt.",
-    "sentence_en": "The course poster is colorful.",
-    "translation_en": "course poster",
-    "translation_bn": "কোর্সের পোস্টার",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kursplakat ist bunt." },
+      { "languageCode": "en", "text": "The course poster is colorful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "course poster" },
+      { "languageCode": "bn", "text": "কোর্সের পোস্টার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Mail",
     "article": "die",
     "gender": "feminine",
     "plural": "Mails",
     "genitive_singular": "der Mail",
-    "sentence_de": "Die Mail ist angekommen.",
-    "sentence_en": "The email has arrived.",
-    "translation_en": "email",
-    "translation_bn": "ইমেইল",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Mail ist angekommen." },
+      { "languageCode": "en", "text": "The email has arrived." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "email" },
+      { "languageCode": "bn", "text": "ইমেইল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "verb",
     "word": "mailen",
     "infinitive": "mailen",
@@ -407,28 +521,36 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich maile dir die Datei.",
-    "sentence_en": "I email the file to you.",
-    "translation_en": "to email",
-    "translation_bn": "ইমেইল করা",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich maile dir die Datei." },
+      { "languageCode": "en", "text": "I email the file to you." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to email" },
+      { "languageCode": "bn", "text": "ইমেইল করা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Nachricht",
     "article": "die",
     "gender": "feminine",
     "plural": "Nachrichten",
     "genitive_singular": "der Nachricht",
-    "sentence_de": "Ich bekomme eine Nachricht.",
-    "sentence_en": "I receive a message.",
-    "translation_en": "message",
-    "translation_bn": "বার্তা",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bekomme eine Nachricht." },
+      { "languageCode": "en", "text": "I receive a message." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "message" },
+      { "languageCode": "bn", "text": "বার্তা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "verb",
     "word": "schicken",
     "infinitive": "schicken",
@@ -438,56 +560,72 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich schicke eine E-Mail.",
-    "sentence_en": "I send an email.",
-    "translation_en": "to send",
-    "translation_bn": "পাঠানো",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich schicke eine E-Mail." },
+      { "languageCode": "en", "text": "I send an email." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to send" },
+      { "languageCode": "bn", "text": "পাঠানো" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Sprachnachricht",
     "article": "die",
     "gender": "feminine",
     "plural": "Sprachnachrichten",
     "genitive_singular": "der Sprachnachricht",
-    "sentence_de": "Ich höre eine Sprachnachricht.",
-    "sentence_en": "I listen to a voice message.",
-    "translation_en": "voice message",
-    "translation_bn": "ভয়েস মেসেজ",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich höre eine Sprachnachricht." },
+      { "languageCode": "en", "text": "I listen to a voice message." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "voice message" },
+      { "languageCode": "bn", "text": "ভয়েস মেসেজ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Technik",
     "article": "die",
     "gender": "feminine",
     "plural": "Techniken",
     "genitive_singular": "der Technik",
-    "sentence_de": "Die Technik ist modern.",
-    "sentence_en": "The technology is modern.",
-    "translation_en": "technology",
-    "translation_bn": "প্রযুক্তি",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Technik ist modern." },
+      { "languageCode": "en", "text": "The technology is modern." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "technology" },
+      { "languageCode": "bn", "text": "প্রযুক্তি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Telefon",
     "article": "das",
     "gender": "neuter",
     "plural": "Telefone",
     "genitive_singular": "des Telefons",
-    "sentence_de": "Das Telefon klingelt.",
-    "sentence_en": "The telephone is ringing.",
-    "translation_en": "telephone",
-    "translation_bn": "টেলিফোন",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Telefon klingelt." },
+      { "languageCode": "en", "text": "The telephone is ringing." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "telephone" },
+      { "languageCode": "bn", "text": "টেলিফোন" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "verb",
     "word": "telefonieren",
     "infinitive": "telefonieren",
@@ -497,39 +635,49 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich telefoniere mit meiner Mutter.",
-    "sentence_en": "I am calling my mother.",
-    "translation_en": "to call/telephone",
-    "translation_bn": "ফোন করা",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich telefoniere mit meiner Mutter." },
+      { "languageCode": "en", "text": "I am calling my mother." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to call/telephone" },
+      { "languageCode": "bn", "text": "ফোন করা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "Unterschrift",
     "article": "die",
     "gender": "feminine",
     "plural": "Unterschriften",
     "genitive_singular": "der Unterschrift",
-    "sentence_de": "Ich brauche Ihre Unterschrift.",
-    "sentence_en": "I need your signature.",
-    "translation_en": "signature",
-    "translation_bn": "স্বাক্ষর",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich brauche Ihre Unterschrift." },
+      { "languageCode": "en", "text": "I need your signature." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "signature" },
+      { "languageCode": "bn", "text": "স্বাক্ষর" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "technology-and-communication",
     "part_of_speech": "noun",
     "word": "USB-Stick",
     "article": "der",
     "gender": "masculine",
     "plural": "USB-Sticks",
     "genitive_singular": "des USB-Sticks",
-    "sentence_de": "Der USB-Stick ist klein.",
-    "sentence_en": "The USB stick is small.",
-    "translation_en": "USB stick",
-    "translation_bn": "ইউএসবি স্টিক",
-    "topic": "technology-and-communication",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der USB-Stick ist klein." },
+      { "languageCode": "en", "text": "The USB stick is small." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "USB stick" },
+      { "languageCode": "bn", "text": "ইউএসবি স্টিক" }
+    ]
   }
 ]

@@ -1,88 +1,114 @@
 [
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Abendessen",
     "article": "das",
     "gender": "neuter",
     "plural": "Abendessen",
     "genitive_singular": "des Abendessens",
-    "sentence_de": "Das Abendessen ist fertig.",
-    "sentence_en": "The dinner is ready.",
-    "translation_en": "dinner",
-    "translation_bn": "রাতের খাবার",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Abendessen ist fertig." },
+      { "languageCode": "en", "text": "The dinner is ready." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "dinner" },
+      { "languageCode": "bn", "text": "রাতের খাবার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Apfel",
     "article": "der",
     "gender": "masculine",
     "plural": "Äpfel",
     "genitive_singular": "des Apfels",
-    "sentence_de": "Der Apfel ist rot.",
-    "sentence_en": "The apple is red.",
-    "translation_en": "apple",
-    "translation_bn": "আপেল",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Apfel ist rot." },
+      { "languageCode": "en", "text": "The apple is red." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "apple" },
+      { "languageCode": "bn", "text": "আপেল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Apfelsaft",
     "article": "der",
     "gender": "masculine",
     "plural": "Apfelsäfte",
     "genitive_singular": "des Apfelsafts",
-    "sentence_de": "Der Apfelsaft schmeckt süß.",
-    "sentence_en": "The apple juice tastes sweet.",
-    "translation_en": "apple juice",
-    "translation_bn": "আপেল জুস",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Apfelsaft schmeckt süß." },
+      { "languageCode": "en", "text": "The apple juice tastes sweet." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "apple juice" },
+      { "languageCode": "bn", "text": "আপেল জুস" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Apfelsaftschorle",
     "article": "die",
     "gender": "feminine",
     "plural": "Apfelsaftschorlen",
     "genitive_singular": "der Apfelsaftschorle",
-    "sentence_de": "Die Apfelsaftschorle ist erfrischend.",
-    "sentence_en": "The apple juice spritzer is refreshing.",
-    "translation_en": "apple juice spritzer",
-    "translation_bn": "আপেল জুস স্প্রিটজার",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Apfelsaftschorle ist erfrischend." },
+      { "languageCode": "en", "text": "The apple juice spritzer is refreshing." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "apple juice spritzer" },
+      { "languageCode": "bn", "text": "আপেল জুস স্প্রিটজার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "adjective",
     "word": "asiatisch",
     "comparative": "asiatischer",
     "superlative": "am asiatischsten",
     "gradable": true,
-    "sentence_de": "Das ist ein asiatisches Restaurant.",
-    "sentence_en": "That is an Asian restaurant.",
-    "translation_en": "Asian",
-    "translation_bn": "এশিয়ান",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist ein asiatisches Restaurant." },
+      { "languageCode": "en", "text": "That is an Asian restaurant." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Asian" },
+      { "languageCode": "bn", "text": "এশিয়ান" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Banane",
     "article": "die",
     "gender": "feminine",
     "plural": "Bananen",
     "genitive_singular": "der Banane",
-    "sentence_de": "Die Banane ist gelb.",
-    "sentence_en": "The banana is yellow.",
-    "translation_en": "banana",
-    "translation_bn": "কলা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Banane ist gelb." },
+      { "languageCode": "en", "text": "The banana is yellow." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "banana" },
+      { "languageCode": "bn", "text": "কলা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "verb",
     "word": "bestellen",
     "infinitive": "bestellen",
@@ -92,168 +118,216 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich bestelle eine Pizza.",
-    "sentence_en": "I order a pizza.",
-    "translation_en": "to order",
-    "translation_bn": "অর্ডার করা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bestelle eine Pizza." },
+      { "languageCode": "en", "text": "I order a pizza." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to order" },
+      { "languageCode": "bn", "text": "অর্ডার করা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Bestellung",
     "article": "die",
     "gender": "feminine",
     "plural": "Bestellungen",
     "genitive_singular": "der Bestellung",
-    "sentence_de": "Die Bestellung ist da.",
-    "sentence_en": "The order is here.",
-    "translation_en": "order",
-    "translation_bn": "অর্ডার",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Bestellung ist da." },
+      { "languageCode": "en", "text": "The order is here." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "order" },
+      { "languageCode": "bn", "text": "অর্ডার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Birne",
     "article": "die",
     "gender": "feminine",
     "plural": "Birnen",
     "genitive_singular": "der Birne",
-    "sentence_de": "Die Birne ist gelb.",
-    "sentence_en": "The pear is yellow.",
-    "translation_en": "pear",
-    "translation_bn": "নাশপাতি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Birne ist gelb." },
+      { "languageCode": "en", "text": "The pear is yellow." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "pear" },
+      { "languageCode": "bn", "text": "নাশপাতি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Brot",
     "article": "das",
     "gender": "neuter",
     "plural": "Brote",
     "genitive_singular": "des Brotes",
-    "sentence_de": "Das Brot ist frisch.",
-    "sentence_en": "The bread is fresh.",
-    "translation_en": "bread",
-    "translation_bn": "রুটি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Brot ist frisch." },
+      { "languageCode": "en", "text": "The bread is fresh." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bread" },
+      { "languageCode": "bn", "text": "রুটি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Brötchen",
     "article": "das",
     "gender": "neuter",
     "plural": "Brötchen",
     "genitive_singular": "des Brötchens",
-    "sentence_de": "Das Brötchen ist frisch.",
-    "sentence_en": "The bread roll is fresh.",
-    "translation_en": "bread roll",
-    "translation_bn": "রুটি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Brötchen ist frisch." },
+      { "languageCode": "en", "text": "The bread roll is fresh." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bread roll" },
+      { "languageCode": "bn", "text": "রুটি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Butter",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Butter",
-    "sentence_de": "Die Butter ist auf dem Brot.",
-    "sentence_en": "The butter is on the bread.",
-    "translation_en": "butter",
-    "translation_bn": "মাখন",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Butter ist auf dem Brot." },
+      { "languageCode": "en", "text": "The butter is on the bread." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "butter" },
+      { "languageCode": "bn", "text": "মাখন" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Butterbrot",
     "article": "das",
     "gender": "neuter",
     "plural": "Butterbrote",
     "genitive_singular": "des Butterbrots",
-    "sentence_de": "Das Butterbrot schmeckt gut.",
-    "sentence_en": "The buttered bread tastes good.",
-    "translation_en": "buttered bread",
-    "translation_bn": "মাখন রুটি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Butterbrot schmeckt gut." },
+      { "languageCode": "en", "text": "The buttered bread tastes good." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "buttered bread" },
+      { "languageCode": "bn", "text": "মাখন রুটি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Chips",
     "article": "die",
     "gender": "feminine",
     "plural": "Chips",
     "genitive_singular": "der Chips",
-    "sentence_de": "Die Chips sind knusprig.",
-    "sentence_en": "The chips are crispy.",
-    "translation_en": "chips",
-    "translation_bn": "চিপস",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Chips sind knusprig." },
+      { "languageCode": "en", "text": "The chips are crispy." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "chips" },
+      { "languageCode": "bn", "text": "চিপস" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Cola",
     "article": "die",
     "gender": "feminine",
     "plural": "Colas",
     "genitive_singular": "der Cola",
-    "sentence_de": "Die Cola ist kalt.",
-    "sentence_en": "The cola is cold.",
-    "translation_en": "cola",
-    "translation_bn": "কোলা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Cola ist kalt." },
+      { "languageCode": "en", "text": "The cola is cold." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cola" },
+      { "languageCode": "bn", "text": "কোলা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Döner",
     "article": "der",
     "gender": "masculine",
     "plural": "Döner",
     "genitive_singular": "des Döners",
-    "sentence_de": "Der Döner schmeckt gut.",
-    "sentence_en": "The döner tastes good.",
-    "translation_en": "döner kebab",
-    "translation_bn": "দোনার কাবাব",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Döner schmeckt gut." },
+      { "languageCode": "en", "text": "The döner tastes good." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "döner kebab" },
+      { "languageCode": "bn", "text": "দোনার কাবাব" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Durst",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Durstes",
-    "sentence_de": "Ich habe Durst.",
-    "sentence_en": "I am thirsty.",
-    "translation_en": "thirst",
-    "translation_bn": "তৃষ্ণা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich habe Durst." },
+      { "languageCode": "en", "text": "I am thirsty." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "thirst" },
+      { "languageCode": "bn", "text": "তৃষ্ণা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Ei",
     "article": "das",
     "gender": "neuter",
     "plural": "Eier",
     "genitive_singular": "des Eis",
-    "sentence_de": "Das Ei ist gekocht.",
-    "sentence_en": "The egg is cooked.",
-    "translation_en": "egg",
-    "translation_bn": "ডিম",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Ei ist gekocht." },
+      { "languageCode": "en", "text": "The egg is cooked." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "egg" },
+      { "languageCode": "bn", "text": "ডিম" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "verb",
     "word": "essen",
     "infinitive": "essen",
@@ -263,210 +337,270 @@
     "auxiliary_verb": "haben",
     "verb_type": "irregular",
     "separable_prefix": null,
-    "sentence_de": "Ich esse gerne Pizza.",
-    "sentence_en": "I like to eat pizza.",
-    "translation_en": "to eat",
-    "translation_bn": "খাওয়া",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich esse gerne Pizza." },
+      { "languageCode": "en", "text": "I like to eat pizza." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to eat" },
+      { "languageCode": "bn", "text": "খাওয়া" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Essig",
     "article": "der",
     "gender": "masculine",
     "plural": "Essige",
     "genitive_singular": "des Essigs",
-    "sentence_de": "Der Essig ist sauer.",
-    "sentence_en": "The vinegar is sour.",
-    "translation_en": "vinegar",
-    "translation_bn": "ভিনেগার",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Essig ist sauer." },
+      { "languageCode": "en", "text": "The vinegar is sour." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "vinegar" },
+      { "languageCode": "bn", "text": "ভিনেগার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Fisch",
     "article": "der",
     "gender": "masculine",
     "plural": "Fische",
     "genitive_singular": "des Fisches",
-    "sentence_de": "Der Fisch ist frisch.",
-    "sentence_en": "The fish is fresh.",
-    "translation_en": "fish",
-    "translation_bn": "মাছ",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Fisch ist frisch." },
+      { "languageCode": "en", "text": "The fish is fresh." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fish" },
+      { "languageCode": "bn", "text": "মাছ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Fleisch",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Fleisches",
-    "sentence_de": "Das Fleisch ist lecker.",
-    "sentence_en": "The meat is delicious.",
-    "translation_en": "meat",
-    "translation_bn": "মাংস",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Fleisch ist lecker." },
+      { "languageCode": "en", "text": "The meat is delicious." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "meat" },
+      { "languageCode": "bn", "text": "মাংস" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Frühstück",
     "article": "das",
     "gender": "neuter",
     "plural": "Frühstücke",
     "genitive_singular": "des Frühstücks",
-    "sentence_de": "Das Frühstück ist fertig.",
-    "sentence_en": "The breakfast is ready.",
-    "translation_en": "breakfast",
-    "translation_bn": "নাস্তা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Frühstück ist fertig." },
+      { "languageCode": "en", "text": "The breakfast is ready." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "breakfast" },
+      { "languageCode": "bn", "text": "নাস্তা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Gemüse",
     "article": "das",
     "gender": "neuter",
     "plural": "Gemüse",
     "genitive_singular": "des Gemüses",
-    "sentence_de": "Das Gemüse ist gesund.",
-    "sentence_en": "The vegetables are healthy.",
-    "translation_en": "vegetables",
-    "translation_bn": "সবজি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Gemüse ist gesund." },
+      { "languageCode": "en", "text": "The vegetables are healthy." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "vegetables" },
+      { "languageCode": "bn", "text": "সবজি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Geschirr",
     "article": "das",
     "gender": "neuter",
     "plural": "Geschirre",
     "genitive_singular": "des Geschirrs",
-    "sentence_de": "Das Geschirr ist sauber.",
-    "sentence_en": "The dishes are clean.",
-    "translation_en": "dishes",
-    "translation_bn": "থালা-বাসন",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Geschirr ist sauber." },
+      { "languageCode": "en", "text": "The dishes are clean." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "dishes" },
+      { "languageCode": "bn", "text": "থালা-বাসন" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Gurke",
     "article": "die",
     "gender": "feminine",
     "plural": "Gurken",
     "genitive_singular": "der Gurke",
-    "sentence_de": "Die Gurke ist grün.",
-    "sentence_en": "The cucumber is green.",
-    "translation_en": "cucumber",
-    "translation_bn": "শসা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Gurke ist grün." },
+      { "languageCode": "en", "text": "The cucumber is green." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cucumber" },
+      { "languageCode": "bn", "text": "শসা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Hähnchen",
     "article": "das",
     "gender": "neuter",
     "plural": "Hähnchen",
     "genitive_singular": "des Hähnchens",
-    "sentence_de": "Das Hähnchen ist sehr lecker.",
-    "sentence_en": "The chicken is very tasty.",
-    "translation_en": "chicken",
-    "translation_bn": "মুরগি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Hähnchen ist sehr lecker." },
+      { "languageCode": "en", "text": "The chicken is very tasty." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "chicken" },
+      { "languageCode": "bn", "text": "মুরগি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Hunger",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Hungers",
-    "sentence_de": "Ich habe Hunger.",
-    "sentence_en": "I am hungry.",
-    "translation_en": "hunger",
-    "translation_bn": "ক্ষুধা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich habe Hunger." },
+      { "languageCode": "en", "text": "I am hungry." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hunger" },
+      { "languageCode": "bn", "text": "ক্ষুধা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Joghurt",
     "article": "der",
     "gender": "masculine",
     "plural": "Joghurts",
     "genitive_singular": "des Joghurts",
-    "sentence_de": "Der Joghurt ist cremig.",
-    "sentence_en": "The yogurt is creamy.",
-    "translation_en": "yogurt",
-    "translation_bn": "দই",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Joghurt ist cremig." },
+      { "languageCode": "en", "text": "The yogurt is creamy." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "yogurt" },
+      { "languageCode": "bn", "text": "দই" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Kaffee",
     "article": "der",
     "gender": "masculine",
     "plural": "Kaffees",
     "genitive_singular": "des Kaffees",
-    "sentence_de": "Der Kaffee ist stark.",
-    "sentence_en": "The coffee is strong.",
-    "translation_en": "coffee",
-    "translation_bn": "কফি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Kaffee ist stark." },
+      { "languageCode": "en", "text": "The coffee is strong." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "coffee" },
+      { "languageCode": "bn", "text": "কফি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Kartoffel",
     "article": "die",
     "gender": "feminine",
     "plural": "Kartoffeln",
     "genitive_singular": "der Kartoffel",
-    "sentence_de": "Die Kartoffel ist groß.",
-    "sentence_en": "The potato is big.",
-    "translation_en": "potato",
-    "translation_bn": "আলু",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kartoffel ist groß." },
+      { "languageCode": "en", "text": "The potato is big." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "potato" },
+      { "languageCode": "bn", "text": "আলু" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Käse",
     "article": "der",
     "gender": "masculine",
     "plural": "Käse",
     "genitive_singular": "des Käses",
-    "sentence_de": "Der Käse ist mild.",
-    "sentence_en": "The cheese is mild.",
-    "translation_en": "cheese",
-    "translation_bn": "পনির",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Käse ist mild." },
+      { "languageCode": "en", "text": "The cheese is mild." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cheese" },
+      { "languageCode": "bn", "text": "পনির" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Keks",
     "article": "der",
     "gender": "masculine",
     "plural": "Kekse",
     "genitive_singular": "des Kekses",
-    "sentence_de": "Der Keks ist süß.",
-    "sentence_en": "The cookie is sweet.",
-    "translation_en": "cookie",
-    "translation_bn": "বিস্কুট",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Keks ist süß." },
+      { "languageCode": "en", "text": "The cookie is sweet." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cookie" },
+      { "languageCode": "bn", "text": "বিস্কুট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "verb",
     "word": "kochen",
     "infinitive": "kochen",
@@ -476,320 +610,412 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Meine Mutter kocht Nudeln.",
-    "sentence_en": "My mother cooks pasta.",
-    "translation_en": "to cook",
-    "translation_bn": "রান্না করা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Mutter kocht Nudeln." },
+      { "languageCode": "en", "text": "My mother cooks pasta." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to cook" },
+      { "languageCode": "bn", "text": "রান্না করা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Kuchen",
     "article": "der",
     "gender": "masculine",
     "plural": "Kuchen",
     "genitive_singular": "des Kuchens",
-    "sentence_de": "Der Kuchen ist lecker.",
-    "sentence_en": "The cake is delicious.",
-    "translation_en": "cake",
-    "translation_bn": "কেক",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Kuchen ist lecker." },
+      { "languageCode": "en", "text": "The cake is delicious." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cake" },
+      { "languageCode": "bn", "text": "কেক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Lebensmittel",
     "article": "die",
     "gender": "neuter",
     "plural": "Lebensmittel",
     "genitive_singular": "der Lebensmittel",
-    "sentence_de": "Die Lebensmittel sind frisch.",
-    "sentence_en": "The food items are fresh.",
-    "translation_en": "food items",
-    "translation_bn": "খাদ্য দ্রব্য",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Lebensmittel sind frisch." },
+      { "languageCode": "en", "text": "The food items are fresh." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "food items" },
+      { "languageCode": "bn", "text": "খাদ্য দ্রব্য" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "adjective",
     "word": "lecker",
     "comparative": "leckerer",
     "superlative": "am leckersten",
     "gradable": true,
-    "sentence_de": "Das Brot ist sehr lecker.",
-    "sentence_en": "The bread is very delicious.",
-    "translation_en": "delicious/tasty",
-    "translation_bn": "সুস্বাদু",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Brot ist sehr lecker." },
+      { "languageCode": "en", "text": "The bread is very delicious." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "delicious/tasty" },
+      { "languageCode": "bn", "text": "সুস্বাদু" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Mahlzeit",
     "article": "die",
     "gender": "feminine",
     "plural": "Mahlzeiten",
     "genitive_singular": "der Mahlzeit",
-    "sentence_de": "Die Mahlzeit ist fertig.",
-    "sentence_en": "The meal is ready.",
-    "translation_en": "meal",
-    "translation_bn": "খাবার",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Mahlzeit ist fertig." },
+      { "languageCode": "en", "text": "The meal is ready." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "meal" },
+      { "languageCode": "bn", "text": "খাবার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Marmelade",
     "article": "die",
     "gender": "feminine",
     "plural": "Marmeladen",
     "genitive_singular": "der Marmelade",
-    "sentence_de": "Die Marmelade ist süß.",
-    "sentence_en": "The jam is sweet.",
-    "translation_en": "jam",
-    "translation_bn": "জ্যাম",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Marmelade ist süß." },
+      { "languageCode": "en", "text": "The jam is sweet." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "jam" },
+      { "languageCode": "bn", "text": "জ্যাম" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Milch",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Milch",
-    "sentence_de": "Die Milch ist weiß.",
-    "sentence_en": "The milk is white.",
-    "translation_en": "milk",
-    "translation_bn": "দুধ",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Milch ist weiß." },
+      { "languageCode": "en", "text": "The milk is white." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "milk" },
+      { "languageCode": "bn", "text": "দুধ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Mittagessen",
     "article": "das",
     "gender": "neuter",
     "plural": "Mittagessen",
     "genitive_singular": "des Mittagessens",
-    "sentence_de": "Das Mittagessen ist warm.",
-    "sentence_en": "The lunch is warm.",
-    "translation_en": "lunch",
-    "translation_bn": "দুপুরের খাবার",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Mittagessen ist warm." },
+      { "languageCode": "en", "text": "The lunch is warm." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lunch" },
+      { "languageCode": "bn", "text": "দুপুরের খাবার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Müsli",
     "article": "das",
     "gender": "neuter",
     "plural": "Müslis",
     "genitive_singular": "des Müslis",
-    "sentence_de": "Das Müsli ist gesund.",
-    "sentence_en": "The muesli is healthy.",
-    "translation_en": "muesli",
-    "translation_bn": "মুসলি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Müsli ist gesund." },
+      { "languageCode": "en", "text": "The muesli is healthy." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "muesli" },
+      { "languageCode": "bn", "text": "মুসলি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Nudel",
     "article": "die",
     "gender": "feminine",
     "plural": "Nudeln",
     "genitive_singular": "der Nudel",
-    "sentence_de": "Die Nudel ist lecker.",
-    "sentence_en": "The noodle is delicious.",
-    "translation_en": "noodle",
-    "translation_bn": "নুডলস",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Nudel ist lecker." },
+      { "languageCode": "en", "text": "The noodle is delicious." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "noodle" },
+      { "languageCode": "bn", "text": "নুডলস" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Öl",
     "article": "das",
     "gender": "neuter",
     "plural": "Öle",
     "genitive_singular": "des Öls",
-    "sentence_de": "Das Öl ist zum Kochen.",
-    "sentence_en": "The oil is for cooking.",
-    "translation_en": "oil",
-    "translation_bn": "তেল",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Öl ist zum Kochen." },
+      { "languageCode": "en", "text": "The oil is for cooking." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "oil" },
+      { "languageCode": "bn", "text": "তেল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Olive",
     "article": "die",
     "gender": "feminine",
     "plural": "Oliven",
     "genitive_singular": "der Olive",
-    "sentence_de": "Die Olive ist grün.",
-    "sentence_en": "The olive is green.",
-    "translation_en": "olive",
-    "translation_bn": "জলপাই",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Olive ist grün." },
+      { "languageCode": "en", "text": "The olive is green." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "olive" },
+      { "languageCode": "bn", "text": "জলপাই" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Orangensaft",
     "article": "der",
     "gender": "masculine",
     "plural": "Orangensäfte",
     "genitive_singular": "des Orangensafts",
-    "sentence_de": "Der Orangensaft ist frisch.",
-    "sentence_en": "The orange juice is fresh.",
-    "translation_en": "orange juice",
-    "translation_bn": "কমলার জুস",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Orangensaft ist frisch." },
+      { "languageCode": "en", "text": "The orange juice is fresh." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "orange juice" },
+      { "languageCode": "bn", "text": "কমলার জুস" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Pfeffer",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Pfeffers",
-    "sentence_de": "Der Pfeffer ist scharf.",
-    "sentence_en": "The pepper is spicy.",
-    "translation_en": "pepper",
-    "translation_bn": "মরিচ",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Pfeffer ist scharf." },
+      { "languageCode": "en", "text": "The pepper is spicy." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "pepper" },
+      { "languageCode": "bn", "text": "মরিচ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Pommes frites",
     "article": "die",
     "gender": "feminine",
     "plural": "Pommes frites",
     "genitive_singular": "der Pommes frites",
-    "sentence_de": "Die Pommes frites sind heiß.",
-    "sentence_en": "The French fries are hot.",
-    "translation_en": "French fries",
-    "translation_bn": "ফ্রেঞ্চ ফ্রাই",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Pommes frites sind heiß." },
+      { "languageCode": "en", "text": "The French fries are hot." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "French fries" },
+      { "languageCode": "bn", "text": "ফ্রেঞ্চ ফ্রাই" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Reis",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Reises",
-    "sentence_de": "Der Reis ist gekocht.",
-    "sentence_en": "The rice is cooked.",
-    "translation_en": "rice",
-    "translation_bn": "ভাত",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Reis ist gekocht." },
+      { "languageCode": "en", "text": "The rice is cooked." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "rice" },
+      { "languageCode": "bn", "text": "ভাত" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Saft",
     "article": "der",
     "gender": "masculine",
     "plural": "Säfte",
     "genitive_singular": "des Saftes",
-    "sentence_de": "Der Saft ist süß.",
-    "sentence_en": "The juice is sweet.",
-    "translation_en": "juice",
-    "translation_bn": "রস",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Saft ist süß." },
+      { "languageCode": "en", "text": "The juice is sweet." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "juice" },
+      { "languageCode": "bn", "text": "রস" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Sahne",
     "article": "die",
     "gender": "feminine",
     "plural": "-",
     "genitive_singular": "der Sahne",
-    "sentence_de": "Die Sahne ist dick.",
-    "sentence_en": "The cream is thick.",
-    "translation_en": "cream",
-    "translation_bn": "ক্রিম",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Sahne ist dick." },
+      { "languageCode": "en", "text": "The cream is thick." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cream" },
+      { "languageCode": "bn", "text": "ক্রিম" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Salat",
     "article": "der",
     "gender": "masculine",
     "plural": "Salate",
     "genitive_singular": "des Salats",
-    "sentence_de": "Der Salat ist frisch.",
-    "sentence_en": "The salad is fresh.",
-    "translation_en": "salad",
-    "translation_bn": "সালাদ",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Salat ist frisch." },
+      { "languageCode": "en", "text": "The salad is fresh." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "salad" },
+      { "languageCode": "bn", "text": "সালাদ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Salz",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Salzes",
-    "sentence_de": "Das Salz ist weiß.",
-    "sentence_en": "The salt is white.",
-    "translation_en": "salt",
-    "translation_bn": "লবণ",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Salz ist weiß." },
+      { "languageCode": "en", "text": "The salt is white." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "salt" },
+      { "languageCode": "bn", "text": "লবণ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Sandwich",
     "article": "das",
     "gender": "neuter",
     "plural": "Sandwiches",
     "genitive_singular": "des Sandwiches",
-    "sentence_de": "Das Sandwich ist mit Käse.",
-    "sentence_en": "The sandwich is with cheese.",
-    "translation_en": "sandwich",
-    "translation_bn": "স্যান্ডউইচ",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Sandwich ist mit Käse." },
+      { "languageCode": "en", "text": "The sandwich is with cheese." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sandwich" },
+      { "languageCode": "bn", "text": "স্যান্ডউইচ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "adjective",
     "word": "satt",
     "comparative": "satter",
     "superlative": "am sattesten",
     "gradable": true,
-    "sentence_de": "Ich bin satt.",
-    "sentence_en": "I am full.",
-    "translation_en": "full/satisfied",
-    "translation_bn": "পেট ভরা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin satt." },
+      { "languageCode": "en", "text": "I am full." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "full/satisfied" },
+      { "languageCode": "bn", "text": "পেট ভরা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Schinken",
     "article": "der",
     "gender": "masculine",
     "plural": "Schinken",
     "genitive_singular": "des Schinkens",
-    "sentence_de": "Der Schinken ist rosa.",
-    "sentence_en": "The ham is pink.",
-    "translation_en": "ham",
-    "translation_bn": "হ্যাম",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Schinken ist rosa." },
+      { "languageCode": "en", "text": "The ham is pink." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ham" },
+      { "languageCode": "bn", "text": "হ্যাম" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "verb",
     "word": "schmecken",
     "infinitive": "schmecken",
@@ -799,98 +1025,126 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Das Essen schmeckt gut.",
-    "sentence_en": "The food tastes good.",
-    "translation_en": "to taste",
-    "translation_bn": "স্বাদ হওয়া",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Essen schmeckt gut." },
+      { "languageCode": "en", "text": "The food tastes good." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to taste" },
+      { "languageCode": "bn", "text": "স্বাদ হওয়া" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Schokolade",
     "article": "die",
     "gender": "feminine",
     "plural": "Schokoladen",
     "genitive_singular": "der Schokolade",
-    "sentence_de": "Die Schokolade ist süß.",
-    "sentence_en": "The chocolate is sweet.",
-    "translation_en": "chocolate",
-    "translation_bn": "চকলেট",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Schokolade ist süß." },
+      { "languageCode": "en", "text": "The chocolate is sweet." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "chocolate" },
+      { "languageCode": "bn", "text": "চকলেট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Suppe",
     "article": "die",
     "gender": "feminine",
     "plural": "Suppen",
     "genitive_singular": "der Suppe",
-    "sentence_de": "Die Suppe ist heiß.",
-    "sentence_en": "The soup is hot.",
-    "translation_en": "soup",
-    "translation_bn": "স্যুপ",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Suppe ist heiß." },
+      { "languageCode": "en", "text": "The soup is hot." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "soup" },
+      { "languageCode": "bn", "text": "স্যুপ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Suppenhuhn",
     "article": "das",
     "gender": "neuter",
     "plural": "Suppenhühner",
     "genitive_singular": "des Suppenhuhns",
-    "sentence_de": "Das Suppenhuhn ist für die Suppe.",
-    "sentence_en": "The soup chicken is for the soup.",
-    "translation_en": "soup chicken",
-    "translation_bn": "স্যুপের মুরগি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Suppenhuhn ist für die Suppe." },
+      { "languageCode": "en", "text": "The soup chicken is for the soup." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "soup chicken" },
+      { "languageCode": "bn", "text": "স্যুপের মুরগি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Süßigkeit",
     "article": "die",
     "gender": "feminine",
     "plural": "Süßigkeiten",
     "genitive_singular": "der Süßigkeit",
-    "sentence_de": "Die Süßigkeit ist zu süß.",
-    "sentence_en": "The candy is too sweet.",
-    "translation_en": "candy/sweet",
-    "translation_bn": "মিষ্টি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Süßigkeit ist zu süß." },
+      { "languageCode": "en", "text": "The candy is too sweet." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "candy/sweet" },
+      { "languageCode": "bn", "text": "মিষ্টি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Tee",
     "article": "der",
     "gender": "masculine",
     "plural": "Tees",
     "genitive_singular": "des Tees",
-    "sentence_de": "Der Tee ist heiß.",
-    "sentence_en": "The tea is hot.",
-    "translation_en": "tea",
-    "translation_bn": "চা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Tee ist heiß." },
+      { "languageCode": "en", "text": "The tea is hot." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tea" },
+      { "languageCode": "bn", "text": "চা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Tomate",
     "article": "die",
     "gender": "feminine",
     "plural": "Tomaten",
     "genitive_singular": "der Tomate",
-    "sentence_de": "Die Tomate ist rot.",
-    "sentence_en": "The tomato is red.",
-    "translation_en": "tomato",
-    "translation_bn": "টমেটো",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Tomate ist rot." },
+      { "languageCode": "en", "text": "The tomato is red." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tomato" },
+      { "languageCode": "bn", "text": "টমেটো" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "verb",
     "word": "trinken",
     "infinitive": "trinken",
@@ -900,70 +1154,90 @@
     "auxiliary_verb": "haben",
     "verb_type": "irregular",
     "separable_prefix": null,
-    "sentence_de": "Wir trinken Wasser.",
-    "sentence_en": "We drink water.",
-    "translation_en": "to drink",
-    "translation_bn": "পান করা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Wir trinken Wasser." },
+      { "languageCode": "en", "text": "We drink water." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to drink" },
+      { "languageCode": "bn", "text": "পান করা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Trinkgeld",
     "article": "das",
     "gender": "neuter",
     "plural": "Trinkgelder",
     "genitive_singular": "des Trinkgeldes",
-    "sentence_de": "Das Trinkgeld ist für den Kellner.",
-    "sentence_en": "The tip is for the waiter.",
-    "translation_en": "tip",
-    "translation_bn": "টিপ",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Trinkgeld ist für den Kellner." },
+      { "languageCode": "en", "text": "The tip is for the waiter." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tip" },
+      { "languageCode": "bn", "text": "টিপ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Wasser",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Wassers",
-    "sentence_de": "Das Wasser ist klar.",
-    "sentence_en": "The water is clear.",
-    "translation_en": "water",
-    "translation_bn": "পানি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Wasser ist klar." },
+      { "languageCode": "en", "text": "The water is clear." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "water" },
+      { "languageCode": "bn", "text": "পানি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Wurst",
     "article": "die",
     "gender": "feminine",
     "plural": "Würste",
     "genitive_singular": "der Wurst",
-    "sentence_de": "Die Wurst ist dick.",
-    "sentence_en": "The sausage is thick.",
-    "translation_en": "sausage",
-    "translation_bn": "সসেজ",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Wurst ist dick." },
+      { "languageCode": "en", "text": "The sausage is thick." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sausage" },
+      { "languageCode": "bn", "text": "সসেজ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Würstchen",
     "article": "das",
     "gender": "neuter",
     "plural": "Würstchen",
     "genitive_singular": "des Würstchens",
-    "sentence_de": "Das Würstchen ist heiß.",
-    "sentence_en": "The sausage is hot.",
-    "translation_en": "sausage",
-    "translation_bn": "সসেজ",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Würstchen ist heiß." },
+      { "languageCode": "en", "text": "The sausage is hot." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sausage" },
+      { "languageCode": "bn", "text": "সসেজ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "verb",
     "word": "zubereiten",
     "infinitive": "zubereiten",
@@ -973,25 +1247,31 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": "zu",
-    "sentence_de": "Sie bereitet das Essen zu.",
-    "sentence_en": "She prepares the food.",
-    "translation_en": "to prepare",
-    "translation_bn": "প্রস্তুত করা",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Sie bereitet das Essen zu." },
+      { "languageCode": "en", "text": "She prepares the food." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to prepare" },
+      { "languageCode": "bn", "text": "প্রস্তুত করা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "food-and-drinks",
     "part_of_speech": "noun",
     "word": "Zucker",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Zuckers",
-    "sentence_de": "Der Zucker ist süß.",
-    "sentence_en": "The sugar is sweet.",
-    "translation_en": "sugar",
-    "translation_bn": "চিনি",
-    "topic": "food-and-drinks",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Zucker ist süß." },
+      { "languageCode": "en", "text": "The sugar is sweet." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sugar" },
+      { "languageCode": "bn", "text": "চিনি" }
+    ]
   }
 ]

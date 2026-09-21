@@ -1,5 +1,7 @@
 [
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "verb",
     "word": "gefallen",
     "infinitive": "gefallen",
@@ -9,172 +11,220 @@
     "auxiliary_verb": "haben",
     "verb_type": "irregular",
     "separable_prefix": null,
-    "sentence_de": "Das Buch gefällt mir.",
-    "sentence_en": "I like the book.",
-    "translation_en": "to like",
-    "translation_bn": "পছন্দ করা",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Buch gefällt mir." },
+      { "languageCode": "en", "text": "I like the book." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to like" },
+      { "languageCode": "bn", "text": "পছন্দ করা" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/to-like.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "noun",
     "word": "Gefallen",
     "article": "der",
     "gender": "masculine",
     "plural": "Gefallen",
     "genitive_singular": "des Gefallens",
-    "sentence_de": "Kannst du mir einen Gefallen tun?",
-    "sentence_en": "Can you do me a favor?",
-    "translation_en": "favor",
-    "translation_bn": "উপকার",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Kannst du mir einen Gefallen tun?" },
+      { "languageCode": "en", "text": "Can you do me a favor?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "favor" },
+      { "languageCode": "bn", "text": "উপকার" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/favor.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "noun",
     "word": "Missfallen",
     "article": "das",
     "gender": "neuter",
     "plural": "-",
     "genitive_singular": "des Missfallens",
-    "sentence_de": "Das Kind zeigt sein Missfallen.",
-    "sentence_en": "The child shows his dissatisfaction.",
-    "translation_en": "dissatisfaction",
-    "translation_bn": "অসন্তুষ্টি",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kind zeigt sein Missfallen." },
+      { "languageCode": "en", "text": "The child shows his dissatisfaction." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "dissatisfaction" },
+      { "languageCode": "bn", "text": "অসন্তুষ্টি" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/dissatisfaction.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "fröhlich",
     "comparative": "fröhlicher",
     "superlative": "am fröhlichsten",
     "gradable": true,
-    "sentence_de": "Die Kinder sind fröhlich.",
-    "sentence_en": "The children are cheerful.",
-    "translation_en": "cheerful",
-    "translation_bn": "প্রফুল্ল",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kinder sind fröhlich." },
+      { "languageCode": "en", "text": "The children are cheerful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cheerful" },
+      { "languageCode": "bn", "text": "প্রফুল্ল" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/cheerful.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "zufrieden",
     "comparative": "zufriedener",
     "superlative": "am zufriedensten",
     "gradable": true,
-    "sentence_de": "Ich bin zufrieden mit dem Essen.",
-    "sentence_en": "I am satisfied with the food.",
-    "translation_en": "satisfied",
-    "translation_bn": "সন্তুষ্ট",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin zufrieden mit dem Essen." },
+      { "languageCode": "en", "text": "I am satisfied with the food." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "satisfied" },
+      { "languageCode": "bn", "text": "সন্তুষ্ট" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/satisfied.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "hoffnungsvoll",
     "comparative": "hoffnungsvoller",
     "superlative": "am hoffnungsvollsten",
     "gradable": true,
-    "sentence_de": "Wir sind hoffnungsvoll für die Zukunft.",
-    "sentence_en": "We are hopeful for the future.",
-    "translation_en": "hopeful",
-    "translation_bn": "আশাবাদী",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir sind hoffnungsvoll für die Zukunft." },
+      { "languageCode": "en", "text": "We are hopeful for the future." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hopeful" },
+      { "languageCode": "bn", "text": "আশাবাদী" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/hopeful.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "stolz",
     "comparative": "stolzer",
     "superlative": "am stolzesten",
     "gradable": true,
-    "sentence_de": "Ich fühle mich stolz.",
-    "sentence_en": "I am feeling proud.",
-    "translation_en": "proud",
-    "translation_bn": "গর্বিত",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich fühle mich stolz." },
+      { "languageCode": "en", "text": "I am feeling proud." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "proud" },
+      { "languageCode": "bn", "text": "গর্বিত" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/proud.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "ruhig",
     "comparative": "ruhiger",
     "superlative": "am ruhigsten",
     "gradable": true,
-    "sentence_de": "Yoga macht sie ruhig.",
-    "sentence_en": "Yoga makes her feel calm.",
-    "translation_en": "calm",
-    "translation_bn": "শান্ত",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Yoga macht sie ruhig." },
+      { "languageCode": "en", "text": "Yoga makes her feel calm." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "calm" },
+      { "languageCode": "bn", "text": "শান্ত" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/calm.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "entspannt",
     "comparative": "entspannter",
     "superlative": "am entspanntesten",
     "gradable": true,
-    "sentence_de": "Nach der Massage bin ich entspannt.",
-    "sentence_en": "After the massage I am relaxed.",
-    "translation_en": "relaxed",
-    "translation_bn": "শিথিল",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Nach der Massage bin ich entspannt." },
+      { "languageCode": "en", "text": "After the massage I am relaxed." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "relaxed" },
+      { "languageCode": "bn", "text": "শিথিল" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/relaxed.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "nervös",
     "comparative": "nervöser",
     "superlative": "am nervösesten",
     "gradable": true,
-    "sentence_de": "Sie ist nervös vor der Menge.",
-    "sentence_en": "She is nervous before the crowd.",
-    "translation_en": "nervous",
-    "translation_bn": "নার্ভাস",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie ist nervös vor der Menge." },
+      { "languageCode": "en", "text": "She is nervous before the crowd." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "nervous" },
+      { "languageCode": "bn", "text": "নার্ভাস" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/nervous.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "ängstlich",
     "comparative": "ängstlicher",
     "superlative": "am ängstlichsten",
     "gradable": true,
-    "sentence_de": "Das Mädchen ist ängstlich.",
-    "sentence_en": "The girl is anxious.",
-    "translation_en": "anxious",
-    "translation_bn": "উদ্বিগ্ন",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Mädchen ist ängstlich." },
+      { "languageCode": "en", "text": "The girl is anxious." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "anxious" },
+      { "languageCode": "bn", "text": "উদ্বিগ্ন" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/anxious.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "noun",
     "word": "Quatsch",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Quatschs",
-    "sentence_de": "Das ist doch Quatsch!",
-    "sentence_en": "That's nonsense!",
-    "translation_en": "nonsense",
-    "translation_bn": "আজেবাজে কথা",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist doch Quatsch!" },
+      { "languageCode": "en", "text": "That's nonsense!" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "nonsense" },
+      { "languageCode": "bn", "text": "আজেবাজে কথা" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/nonsense.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "verb",
     "word": "wünschen",
     "infinitive": "wünschen",
@@ -184,127 +234,163 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich wünsche dir viel Glück.",
-    "sentence_en": "I wish you good luck.",
-    "translation_en": "to wish",
-    "translation_bn": "ইচ্ছা করা",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich wünsche dir viel Glück." },
+      { "languageCode": "en", "text": "I wish you good luck." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to wish" },
+      { "languageCode": "bn", "text": "ইচ্ছা করা" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/to-wish.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "gestresst",
     "comparative": "gestresster",
     "superlative": "am gestressten",
     "gradable": true,
-    "sentence_de": "Ich bin gestresst bei der Arbeit.",
-    "sentence_en": "I am stressed at work.",
-    "translation_en": "stressed",
-    "translation_bn": "চাপগ্রস্ত",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin gestresst bei der Arbeit." },
+      { "languageCode": "en", "text": "I am stressed at work." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "stressed" },
+      { "languageCode": "bn", "text": "চাপগ্রস্ত" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/stressed.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "wach",
     "comparative": "wacher",
     "superlative": "am wachsten",
     "gradable": true,
-    "sentence_de": "Sie ist noch wach.",
-    "sentence_en": "She is still awake.",
-    "translation_en": "awake",
-    "translation_bn": "জাগ্রত",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie ist noch wach." },
+      { "languageCode": "en", "text": "She is still awake." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "awake" },
+      { "languageCode": "bn", "text": "জাগ্রত" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/awake.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "selten",
     "comparative": "seltener",
     "superlative": "am seltensten",
     "gradable": true,
-    "sentence_de": "Das ist ein seltenes Buch.",
-    "sentence_en": "That is a rare book.",
-    "translation_en": "rare",
-    "translation_bn": "বিরল",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist ein seltenes Buch." },
+      { "languageCode": "en", "text": "That is a rare book." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "rare" },
+      { "languageCode": "bn", "text": "বিরল" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/rare.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "überrascht",
     "comparative": "überraschter",
     "superlative": "am überraschtesten",
     "gradable": true,
-    "sentence_de": "Ich bin überrascht von der Nachricht.",
-    "sentence_en": "I am surprised by the news.",
-    "translation_en": "surprised",
-    "translation_bn": "অবাক",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin überrascht von der Nachricht." },
+      { "languageCode": "en", "text": "I am surprised by the news." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "surprised" },
+      { "languageCode": "bn", "text": "অবাক" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/surprised.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "aufgeregt",
     "comparative": "aufgeregter",
     "superlative": "am aufgeregtesten",
     "gradable": true,
-    "sentence_de": "Ich bin aufgeregt wegen der Reise.",
-    "sentence_en": "I am excited about the trip.",
-    "translation_en": "excited",
-    "translation_bn": "উত্তেজিত",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin aufgeregt wegen der Reise." },
+      { "languageCode": "en", "text": "I am excited about the trip." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "excited" },
+      { "languageCode": "bn", "text": "উত্তেজিত" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/excited.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "traurig",
     "comparative": "trauriger",
     "superlative": "am traurigsten",
     "gradable": true,
-    "sentence_de": "Sie ist heute traurig.",
-    "sentence_en": "She is sad today.",
-    "translation_en": "sad",
-    "translation_bn": "দুঃখিত",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie ist heute traurig." },
+      { "languageCode": "en", "text": "She is sad today." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sad" },
+      { "languageCode": "bn", "text": "দুঃখিত" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/sad.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "einsam",
     "comparative": "einsamer",
     "superlative": "am einsamsten",
     "gradable": true,
-    "sentence_de": "Ich fühle mich einsam.",
-    "sentence_en": "I feel lonely.",
-    "translation_en": "lonely",
-    "translation_bn": "একাকী",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich fühle mich einsam." },
+      { "languageCode": "en", "text": "I feel lonely." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lonely" },
+      { "languageCode": "bn", "text": "একাকী" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/lonely.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "enttäuscht",
     "comparative": "enttäuschter",
     "superlative": "am enttäuschtesten",
     "gradable": true,
-    "sentence_de": "Sie ist enttäuscht von dem Ergebnis.",
-    "sentence_en": "She is disappointed with the result.",
-    "translation_en": "disappointed",
-    "translation_bn": "হতাশ",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie ist enttäuscht von dem Ergebnis." },
+      { "languageCode": "en", "text": "She is disappointed with the result." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "disappointed" },
+      { "languageCode": "bn", "text": "হতাশ" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/disappointed.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "verb",
     "word": "nerven",
     "infinitive": "nerven",
@@ -314,43 +400,55 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Das nervt mich sehr.",
-    "sentence_en": "That annoys me a lot.",
-    "translation_en": "to annoy",
-    "translation_bn": "বিরক্ত করা",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das nervt mich sehr." },
+      { "languageCode": "en", "text": "That annoys me a lot." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to annoy" },
+      { "languageCode": "bn", "text": "বিরক্ত করা" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/to-annoy.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "wütend",
     "comparative": "wütender",
     "superlative": "am wütendsten",
     "gradable": true,
-    "sentence_de": "Sie ist wütend auf ihren Bruder.",
-    "sentence_en": "She is angry with her brother.",
-    "translation_en": "angry",
-    "translation_bn": "রাগান্বিত",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie ist wütend auf ihren Bruder." },
+      { "languageCode": "en", "text": "She is angry with her brother." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "angry" },
+      { "languageCode": "bn", "text": "রাগান্বিত" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/angry.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "adjective",
     "word": "verliebt",
     "comparative": "verliebter",
     "superlative": "am verliebsten",
     "gradable": true,
-    "sentence_de": "Sie ist verliebt.",
-    "sentence_en": "She is in love.",
-    "translation_en": "in love",
-    "translation_bn": "প্রেমে পড়া",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie ist verliebt." },
+      { "languageCode": "en", "text": "She is in love." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "in love" },
+      { "languageCode": "bn", "text": "প্রেমে পড়া" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/in-love.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "verb",
     "word": "vermissen",
     "infinitive": "vermissen",
@@ -360,57 +458,71 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich vermisse dich, Mama.",
-    "sentence_en": "I miss you, Mom.",
-    "translation_en": "to miss",
-    "translation_bn": "মিস করা",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich vermisse dich, Mama." },
+      { "languageCode": "en", "text": "I miss you, Mom." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to miss" },
+      { "languageCode": "bn", "text": "মিস করা" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/to-miss.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "noun",
     "word": "Entscheidung",
     "article": "die",
     "gender": "feminine",
     "plural": "Entscheidungen",
     "genitive_singular": "der Entscheidung",
-    "sentence_de": "Das ist eine schwere Entscheidung.",
-    "sentence_en": "That is a difficult decision.",
-    "translation_en": "decision",
-    "translation_bn": "সিদ্ধান্ত",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist eine schwere Entscheidung." },
+      { "languageCode": "en", "text": "That is a difficult decision." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "decision" },
+      { "languageCode": "bn", "text": "সিদ্ধান্ত" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/decision.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "noun",
     "word": "Reaktion",
     "article": "die",
     "gender": "feminine",
     "plural": "Reaktionen",
     "genitive_singular": "der Reaktion",
-    "sentence_de": "Ihre Reaktion war positiv.",
-    "sentence_en": "Her reaction was positive.",
-    "translation_en": "reaction",
-    "translation_bn": "প্রতিক্রিয়া",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ihre Reaktion war positiv." },
+      { "languageCode": "en", "text": "Her reaction was positive." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "reaction" },
+      { "languageCode": "bn", "text": "প্রতিক্রিয়া" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/reaction.png"
   },
   {
+    "level": "a1",
+    "topic": "emotions-and-feelings",
     "part_of_speech": "noun",
     "word": "Sache",
     "article": "die",
     "gender": "feminine",
     "plural": "Sachen",
     "genitive_singular": "der Sache",
-    "sentence_de": "Das ist eine wichtige Sache.",
-    "sentence_en": "That is an important thing.",
-    "translation_en": "thing",
-    "translation_bn": "বিষয়",
-    "topic": "emotions-and-feelings",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist eine wichtige Sache." },
+      { "languageCode": "en", "text": "That is an important thing." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "thing" },
+      { "languageCode": "bn", "text": "বিষয়" }
+    ],
     "image": "data/vocabulary/images/emotions-and-feelings/thing.png"
   }
 ]
