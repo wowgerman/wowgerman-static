@@ -10,7 +10,8 @@
     "genitive_singular": "der Agentur für Arbeit",
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe zur Agentur für Arbeit." },
-      { "languageCode": "en", "text": "I go to the employment agency." }
+      { "languageCode": "en", "text": "I go to the employment agency." },
+      { "languageCode": "bn", "text": "আমি কর্মসংস্থান সংস্থায় যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "employment agency" },
@@ -28,7 +29,8 @@
     "genitive_singular": "des Angebots",
     "sentences": [
       { "languageCode": "de", "text": "Das Angebot ist sehr gut." },
-      { "languageCode": "en", "text": "The offer is very good." }
+      { "languageCode": "en", "text": "The offer is very good." },
+      { "languageCode": "bn", "text": "অফারটা খুব ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "offer" },
@@ -46,7 +48,8 @@
     "genitive_singular": "der Arbeit",
     "sentences": [
       { "languageCode": "de", "text": "Die Arbeit ist sehr interessant." },
-      { "languageCode": "en", "text": "The work is very interesting." }
+      { "languageCode": "en", "text": "The work is very interesting." },
+      { "languageCode": "bn", "text": "কাজটা খুব আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "work" },
@@ -64,7 +67,8 @@
     "genitive_singular": "des Arbeitsplatzes",
     "sentences": [
       { "languageCode": "de", "text": "Mein Arbeitsplatz ist im Büro." },
-      { "languageCode": "en", "text": "My workplace is in the office." }
+      { "languageCode": "en", "text": "My workplace is in the office." },
+      { "languageCode": "bn", "text": "আমার কর্মক্ষেত্র অফিসে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "workplace" },
@@ -82,7 +86,8 @@
     "genitive_singular": "des Arztes",
     "sentences": [
       { "languageCode": "de", "text": "Der Arzt hilft kranken Menschen." },
-      { "languageCode": "en", "text": "The doctor helps sick people." }
+      { "languageCode": "en", "text": "The doctor helps sick people." },
+      { "languageCode": "bn", "text": "ডাক্তার অসুস্থ মানুষদের সাহায্য করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "doctor (male)" },
@@ -100,7 +105,8 @@
     "genitive_singular": "der Ärztin",
     "sentences": [
       { "languageCode": "de", "text": "Die Ärztin untersucht den Patienten." },
-      { "languageCode": "en", "text": "The doctor examines the patient." }
+      { "languageCode": "en", "text": "The doctor examines the patient." },
+      { "languageCode": "bn", "text": "ডাক্তার রোগীকে পরীক্ষা করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "doctor (female)" },
@@ -118,7 +124,8 @@
     "genitive_singular": "des Bäckers",
     "sentences": [
       { "languageCode": "de", "text": "Der Bäcker backt frisches Brot." },
-      { "languageCode": "en", "text": "The baker bakes fresh bread." }
+      { "languageCode": "en", "text": "The baker bakes fresh bread." },
+      { "languageCode": "bn", "text": "রুটিওয়ালা তাজা রুটি বানাচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "baker (male)" },
@@ -136,7 +143,8 @@
     "genitive_singular": "des Berufs",
     "sentences": [
       { "languageCode": "de", "text": "Was ist dein Beruf?" },
-      { "languageCode": "en", "text": "What is your profession?" }
+      { "languageCode": "en", "text": "What is your profession?" },
+      { "languageCode": "bn", "text": "তোমার পেশা কী?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "profession" },
@@ -154,7 +162,8 @@
     "genitive_singular": "der Computerfirma",
     "sentences": [
       { "languageCode": "de", "text": "Die Computerfirma ist sehr modern." },
-      { "languageCode": "en", "text": "The computer company is very modern." }
+      { "languageCode": "en", "text": "The computer company is very modern." },
+      { "languageCode": "bn", "text": "কম্পিউটার কোম্পানিটা খুব আধুনিক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "computer company" },
@@ -172,7 +181,8 @@
     "genitive_singular": "des Computerproblems",
     "sentences": [
       { "languageCode": "de", "text": "Ich habe ein Computerproblem." },
-      { "languageCode": "en", "text": "I have a computer problem." }
+      { "languageCode": "en", "text": "I have a computer problem." },
+      { "languageCode": "bn", "text": "আমার একটা কম্পিউটার সমস্যা আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "computer problem" },
@@ -190,7 +200,8 @@
     "genitive_singular": "des Elektrikers",
     "sentences": [
       { "languageCode": "de", "text": "Der Elektriker repariert das Licht." },
-      { "languageCode": "en", "text": "The electrician repairs the light." }
+      { "languageCode": "en", "text": "The electrician repairs the light." },
+      { "languageCode": "bn", "text": "বিদ্যুৎকর্মী লাইটটা মেরামত করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "electrician (male)" },
@@ -208,7 +219,8 @@
     "genitive_singular": "der Elektrikerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Elektrikerin installiert neue Kabel." },
-      { "languageCode": "en", "text": "The electrician installs new cables." }
+      { "languageCode": "en", "text": "The electrician installs new cables." },
+      { "languageCode": "bn", "text": "বিদ্যুৎকর্মী নতুন তার লাগাচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "electrician (female)" },
@@ -226,7 +238,8 @@
     "genitive_singular": "des Erziehers",
     "sentences": [
       { "languageCode": "de", "text": "Der Erzieher spielt mit den Kindern." },
-      { "languageCode": "en", "text": "The educator plays with the children." }
+      { "languageCode": "en", "text": "The educator plays with the children." },
+      { "languageCode": "bn", "text": "শিক্ষাবিদ শিশুদের সাথে খেলছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "educator (male)" },
@@ -244,7 +257,8 @@
     "genitive_singular": "der Erzieherin",
     "sentences": [
       { "languageCode": "de", "text": "Die Erzieherin liest den Kindern vor." },
-      { "languageCode": "en", "text": "The educator reads to the children." }
+      { "languageCode": "en", "text": "The educator reads to the children." },
+      { "languageCode": "bn", "text": "শিক্ষাবিদ শিশুদের বই পড়ে শোনাচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "educator (female)" },
@@ -262,7 +276,8 @@
     "genitive_singular": "des Handwerkers",
     "sentences": [
       { "languageCode": "de", "text": "Der Handwerker repariert den Tisch." },
-      { "languageCode": "en", "text": "The craftsman repairs the table." }
+      { "languageCode": "en", "text": "The craftsman repairs the table." },
+      { "languageCode": "bn", "text": "কারিগর টেবিলটা মেরামত করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "craftsman" },
@@ -280,7 +295,8 @@
     "genitive_singular": "der Handwerkerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Handwerkerin baut einen Stuhl." },
-      { "languageCode": "en", "text": "The craftswoman builds a chair." }
+      { "languageCode": "en", "text": "The craftswoman builds a chair." },
+      { "languageCode": "bn", "text": "কারিগর একটা চেয়ার তৈরি করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "craftswoman" },
@@ -298,7 +314,8 @@
     "genitive_singular": "des Hausmeisters",
     "sentences": [
       { "languageCode": "de", "text": "Der Hausmeister reinigt das Gebäude." },
-      { "languageCode": "en", "text": "The janitor cleans the building." }
+      { "languageCode": "en", "text": "The janitor cleans the building." },
+      { "languageCode": "bn", "text": "রক্ষণাবেক্ষণকারী ভবনটা পরিষ্কার করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "janitor (male)" },
@@ -316,7 +333,8 @@
     "genitive_singular": "der Hausmeisterin",
     "sentences": [
       { "languageCode": "de", "text": "Die Hausmeisterin öffnet die Türen." },
-      { "languageCode": "en", "text": "The janitor opens the doors." }
+      { "languageCode": "en", "text": "The janitor opens the doors." },
+      { "languageCode": "bn", "text": "রক্ষণাবেক্ষণকারী দরজাগুলো খুলছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "janitor (female)" },
@@ -334,7 +352,8 @@
     "genitive_singular": "der Informatikerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Informatikerin arbeitet mit Computern." },
-      { "languageCode": "en", "text": "The computer scientist works with computers." }
+      { "languageCode": "en", "text": "The computer scientist works with computers." },
+      { "languageCode": "bn", "text": "কম্পিউটার বিজ্ঞানী কম্পিউটার নিয়ে কাজ করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "computer scientist (female)" },
@@ -352,7 +371,8 @@
     "genitive_singular": "des Ingenieurs",
     "sentences": [
       { "languageCode": "de", "text": "Der Ingenieur baut Brücken." },
-      { "languageCode": "en", "text": "The engineer builds bridges." }
+      { "languageCode": "en", "text": "The engineer builds bridges." },
+      { "languageCode": "bn", "text": "প্রকৌশলী সেতু নির্মাণ করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "engineer (male)" },
@@ -370,7 +390,8 @@
     "genitive_singular": "der Ingenieurin",
     "sentences": [
       { "languageCode": "de", "text": "Die Ingenieurin plant neue Gebäude." },
-      { "languageCode": "en", "text": "The engineer plans new buildings." }
+      { "languageCode": "en", "text": "The engineer plans new buildings." },
+      { "languageCode": "bn", "text": "প্রকৌশলী নতুন ভবনের পরিকল্পনা করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "engineer (female)" },
@@ -388,7 +409,8 @@
     "genitive_singular": "des Journalisten",
     "sentences": [
       { "languageCode": "de", "text": "Der Journalist schreibt Artikel." },
-      { "languageCode": "en", "text": "The journalist writes articles." }
+      { "languageCode": "en", "text": "The journalist writes articles." },
+      { "languageCode": "bn", "text": "সাংবাদিক নিবন্ধ লেখেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "journalist (male)" },
@@ -406,7 +428,8 @@
     "genitive_singular": "der Journalistin",
     "sentences": [
       { "languageCode": "de", "text": "Die Journalistin macht Interviews." },
-      { "languageCode": "en", "text": "The journalist conducts interviews." }
+      { "languageCode": "en", "text": "The journalist conducts interviews." },
+      { "languageCode": "bn", "text": "সাংবাদিক সাক্ষাৎকার নিচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "journalist (female)" },
@@ -424,7 +447,8 @@
     "genitive_singular": "des Juristen",
     "sentences": [
       { "languageCode": "de", "text": "Der Jurist arbeitet vor Gericht." },
-      { "languageCode": "en", "text": "The lawyer works in court." }
+      { "languageCode": "en", "text": "The lawyer works in court." },
+      { "languageCode": "bn", "text": "আইনজীবী আদালতে কাজ করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lawyer (male)" },
@@ -442,7 +466,8 @@
     "genitive_singular": "der Juristin",
     "sentences": [
       { "languageCode": "de", "text": "Die Juristin berät ihre Klienten." },
-      { "languageCode": "en", "text": "The lawyer advises her clients." }
+      { "languageCode": "en", "text": "The lawyer advises her clients." },
+      { "languageCode": "bn", "text": "আইনজীবী তার মক্কেলদের পরামর্শ দিচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lawyer (female)" },
@@ -460,7 +485,8 @@
     "genitive_singular": "des Kellners",
     "sentences": [
       { "languageCode": "de", "text": "Der Kellner bringt das Essen." },
-      { "languageCode": "en", "text": "The waiter brings the food." }
+      { "languageCode": "en", "text": "The waiter brings the food." },
+      { "languageCode": "bn", "text": "ওয়েটার খাবার নিয়ে আসছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "waiter" },
@@ -478,7 +504,8 @@
     "genitive_singular": "der Kellnerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Kellnerin nimmt die Bestellung auf." },
-      { "languageCode": "en", "text": "The waitress takes the order." }
+      { "languageCode": "en", "text": "The waitress takes the order." },
+      { "languageCode": "bn", "text": "ওয়েট্রেস অর্ডার নিচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "waitress" },
@@ -496,7 +523,8 @@
     "genitive_singular": "des Kochs",
     "sentences": [
       { "languageCode": "de", "text": "Der Koch kocht leckeres Essen." },
-      { "languageCode": "en", "text": "The chef cooks delicious food." }
+      { "languageCode": "en", "text": "The chef cooks delicious food." },
+      { "languageCode": "bn", "text": "রাঁধুনি সুস্বাদু খাবার রান্না করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "chef/cook (male)" },
@@ -514,7 +542,8 @@
     "genitive_singular": "der Köchin",
     "sentences": [
       { "languageCode": "de", "text": "Die Köchin macht Suppe." },
-      { "languageCode": "en", "text": "The chef makes soup." }
+      { "languageCode": "en", "text": "The chef makes soup." },
+      { "languageCode": "bn", "text": "রাঁধুনি স্যুপ তৈরি করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "chef/cook (female)" },
@@ -532,7 +561,8 @@
     "genitive_singular": "des Krankenhauses",
     "sentences": [
       { "languageCode": "de", "text": "Das Krankenhaus ist sehr groß." },
-      { "languageCode": "en", "text": "The hospital is very big." }
+      { "languageCode": "en", "text": "The hospital is very big." },
+      { "languageCode": "bn", "text": "হাসপাতালটা খুব বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hospital" },
@@ -550,7 +580,8 @@
     "genitive_singular": "des Krankenpflegers",
     "sentences": [
       { "languageCode": "de", "text": "Der Krankenpfleger arbeitet im Krankenhaus." },
-      { "languageCode": "en", "text": "The male nurse works in the hospital." }
+      { "languageCode": "en", "text": "The male nurse works in the hospital." },
+      { "languageCode": "bn", "text": "পুরুষ নার্স হাসপাতালে কাজ করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "male nurse" },
@@ -568,7 +599,8 @@
     "genitive_singular": "der Krankenpflegerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Krankenpflegerin pflegt die Patienten." },
-      { "languageCode": "en", "text": "The nurse takes care of the patients." }
+      { "languageCode": "en", "text": "The nurse takes care of the patients." },
+      { "languageCode": "bn", "text": "নার্স রোগীদের সেবা করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "nurse (female)" },
@@ -586,7 +618,8 @@
     "genitive_singular": "des Kunden",
     "sentences": [
       { "languageCode": "de", "text": "Der Kunde kauft ein Auto." },
-      { "languageCode": "en", "text": "The customer buys a car." }
+      { "languageCode": "en", "text": "The customer buys a car." },
+      { "languageCode": "bn", "text": "গ্রাহক একটা গাড়ি কিনছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "customer (male)" },
@@ -604,11 +637,12 @@
     "genitive_singular": "des Kundenbesuchs",
     "sentences": [
       { "languageCode": "de", "text": "Der Kundenbesuch ist um 15 Uhr." },
-      { "languageCode": "en", "text": "The customer visit is at 3 PM." }
+      { "languageCode": "en", "text": "The customer visit is at 3 PM." },
+      { "languageCode": "bn", "text": "গ্রাহকের সাথে দেখা বিকেল ৩টায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "customer visit" },
-      { "languageCode": "bn", "text": "গ্রাহক দেখা" }
+      { "languageCode": "bn", "text": "গ্রাহকের সাথে দেখা" }
     ]
   },
   {
@@ -622,7 +656,8 @@
     "genitive_singular": "der Kundin",
     "sentences": [
       { "languageCode": "de", "text": "Die Kundin ist sehr zufrieden." },
-      { "languageCode": "en", "text": "The customer is very satisfied." }
+      { "languageCode": "en", "text": "The customer is very satisfied." },
+      { "languageCode": "bn", "text": "গ্রাহক খুবই সন্তুষ্ট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "customer (female)" },
@@ -640,7 +675,8 @@
     "genitive_singular": "des Künstlers",
     "sentences": [
       { "languageCode": "de", "text": "Der Künstler malt ein Bild." },
-      { "languageCode": "en", "text": "The artist paints a picture." }
+      { "languageCode": "en", "text": "The artist paints a picture." },
+      { "languageCode": "bn", "text": "শিল্পী একটা ছবি আঁকছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "artist (male)" },
@@ -658,7 +694,8 @@
     "genitive_singular": "der Künstlerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Künstlerin arbeitet in ihrem Atelier." },
-      { "languageCode": "en", "text": "The artist works in her studio." }
+      { "languageCode": "en", "text": "The artist works in her studio." },
+      { "languageCode": "bn", "text": "শিল্পী তার স্টুডিওতে কাজ করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "artist (female)" },
@@ -676,7 +713,8 @@
     "genitive_singular": "des Laboranten",
     "sentences": [
       { "languageCode": "de", "text": "Der Laborant macht Experimente." },
-      { "languageCode": "en", "text": "The lab technician conducts experiments." }
+      { "languageCode": "en", "text": "The lab technician conducts experiments." },
+      { "languageCode": "bn", "text": "পরীক্ষাগার কর্মী পরীক্ষা-নিরীক্ষা করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lab technician (male)" },
@@ -694,7 +732,8 @@
     "genitive_singular": "der Laborantin",
     "sentences": [
       { "languageCode": "de", "text": "Die Laborantin analysiert Proben." },
-      { "languageCode": "en", "text": "The lab technician analyzes samples." }
+      { "languageCode": "en", "text": "The lab technician analyzes samples." },
+      { "languageCode": "bn", "text": "পরীক্ষাগার কর্মী নমুনা বিশ্লেষণ করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lab technician (female)" },
@@ -712,7 +751,8 @@
     "genitive_singular": "des Lehrers",
     "sentences": [
       { "languageCode": "de", "text": "Der Lehrer unterrichtet die Schüler." },
-      { "languageCode": "en", "text": "The teacher teaches the students." }
+      { "languageCode": "en", "text": "The teacher teaches the students." },
+      { "languageCode": "bn", "text": "শিক্ষক শিক্ষার্থীদের শেখাচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "teacher (male)" },
@@ -730,7 +770,8 @@
     "genitive_singular": "der Lehrerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Lehrerin erklärt die Aufgabe." },
-      { "languageCode": "en", "text": "The teacher explains the task." }
+      { "languageCode": "en", "text": "The teacher explains the task." },
+      { "languageCode": "bn", "text": "শিক্ষক কাজটা ব্যাখ্যা করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "teacher (female)" },
@@ -748,7 +789,8 @@
     "genitive_singular": "des Mechanikers",
     "sentences": [
       { "languageCode": "de", "text": "Der Mechaniker repariert Autos." },
-      { "languageCode": "en", "text": "The mechanic repairs cars." }
+      { "languageCode": "en", "text": "The mechanic repairs cars." },
+      { "languageCode": "bn", "text": "যান্ত্রিক গাড়ি মেরামত করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "mechanic (male)" },
@@ -766,7 +808,8 @@
     "genitive_singular": "der Mechanikerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Mechanikerin prüft den Motor." },
-      { "languageCode": "en", "text": "The mechanic checks the engine." }
+      { "languageCode": "en", "text": "The mechanic checks the engine." },
+      { "languageCode": "bn", "text": "যান্ত্রিক ইঞ্জিনটা পরীক্ষা করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "mechanic (female)" },
@@ -784,7 +827,8 @@
     "genitive_singular": "des Mitarbeiters",
     "sentences": [
       { "languageCode": "de", "text": "Der Mitarbeiter ist sehr freundlich." },
-      { "languageCode": "en", "text": "The employee is very friendly." }
+      { "languageCode": "en", "text": "The employee is very friendly." },
+      { "languageCode": "bn", "text": "কর্মচারীটি খুব বন্ধুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "employee (male)" },
@@ -802,7 +846,8 @@
     "genitive_singular": "der Mitarbeiterin",
     "sentences": [
       { "languageCode": "de", "text": "Die Mitarbeiterin kommt heute spät." },
-      { "languageCode": "en", "text": "The employee comes late today." }
+      { "languageCode": "en", "text": "The employee comes late today." },
+      { "languageCode": "bn", "text": "কর্মচারী আজ দেরিতে আসছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "employee (female)" },
@@ -820,7 +865,8 @@
     "genitive_singular": "des Modedesigners",
     "sentences": [
       { "languageCode": "de", "text": "Der Modedesigner macht schöne Kleider." },
-      { "languageCode": "en", "text": "The fashion designer makes beautiful clothes." }
+      { "languageCode": "en", "text": "The fashion designer makes beautiful clothes." },
+      { "languageCode": "bn", "text": "ফ্যাশন ডিজাইনার সুন্দর পোশাক তৈরি করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fashion designer (male)" },
@@ -838,7 +884,8 @@
     "genitive_singular": "der Modedesignerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Modedesignerin arbeitet in Paris." },
-      { "languageCode": "en", "text": "The fashion designer works in Paris." }
+      { "languageCode": "en", "text": "The fashion designer works in Paris." },
+      { "languageCode": "bn", "text": "ফ্যাশন ডিজাইনার প্যারিসে কাজ করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fashion designer (female)" },
@@ -856,7 +903,8 @@
     "genitive_singular": "des Notarztes",
     "sentences": [
       { "languageCode": "de", "text": "Der Notarzt kommt schnell." },
-      { "languageCode": "en", "text": "The emergency doctor comes quickly." }
+      { "languageCode": "en", "text": "The emergency doctor comes quickly." },
+      { "languageCode": "bn", "text": "জরুরি চিকিৎসক দ্রুত আসছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "emergency doctor (male)" },
@@ -874,7 +922,8 @@
     "genitive_singular": "der Notärztin",
     "sentences": [
       { "languageCode": "de", "text": "Die Notärztin rettet Leben." },
-      { "languageCode": "en", "text": "The emergency doctor saves lives." }
+      { "languageCode": "en", "text": "The emergency doctor saves lives." },
+      { "languageCode": "bn", "text": "জরুরি চিকিৎসক জীবন বাঁচান।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "emergency doctor (female)" },
@@ -892,7 +941,8 @@
     "genitive_singular": "des Physiotherapeuten",
     "sentences": [
       { "languageCode": "de", "text": "Der Physiotherapeut hilft bei Schmerzen." },
-      { "languageCode": "en", "text": "The physiotherapist helps with pain." }
+      { "languageCode": "en", "text": "The physiotherapist helps with pain." },
+      { "languageCode": "bn", "text": "ফিজিওথেরাপিস্ট ব্যথায় সাহায্য করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "physiotherapist (male)" },
@@ -910,7 +960,8 @@
     "genitive_singular": "der Physiotherapeutin",
     "sentences": [
       { "languageCode": "de", "text": "Die Physiotherapeutin hilft meinem Vater." },
-      { "languageCode": "en", "text": "The physiotherapist helps my father." }
+      { "languageCode": "en", "text": "The physiotherapist helps my father." },
+      { "languageCode": "bn", "text": "ফিজিওথেরাপিস্ট আমার বাবাকে সাহায্য করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "physiotherapist (female)" },
@@ -928,7 +979,8 @@
     "genitive_singular": "des Polizisten",
     "sentences": [
       { "languageCode": "de", "text": "Der Polizist hilft den Menschen." },
-      { "languageCode": "en", "text": "The police officer helps people." }
+      { "languageCode": "en", "text": "The police officer helps people." },
+      { "languageCode": "bn", "text": "পুলিশ মানুষদের সাহায্য করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "police officer (male)" },
@@ -946,7 +998,8 @@
     "genitive_singular": "der Polizistin",
     "sentences": [
       { "languageCode": "de", "text": "Die Polizistin regelt den Verkehr." },
-      { "languageCode": "en", "text": "The police officer directs traffic." }
+      { "languageCode": "en", "text": "The police officer directs traffic." },
+      { "languageCode": "bn", "text": "পুলিশ ট্রাফিক নিয়ন্ত্রণ করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "police officer (female)" },
@@ -964,7 +1017,8 @@
     "genitive_singular": "des Praktikums",
     "sentences": [
       { "languageCode": "de", "text": "Ich mache ein Praktikum bei einer Firma." },
-      { "languageCode": "en", "text": "I am doing an internship at a company." }
+      { "languageCode": "en", "text": "I am doing an internship at a company." },
+      { "languageCode": "bn", "text": "আমি একটা কোম্পানিতে ইন্টার্নশিপ করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "internship" },
@@ -982,7 +1036,8 @@
     "genitive_singular": "der Professorin",
     "sentences": [
       { "languageCode": "de", "text": "Die Professorin unterrichtet an der Universität." },
-      { "languageCode": "en", "text": "The professor teaches at the university." }
+      { "languageCode": "en", "text": "The professor teaches at the university." },
+      { "languageCode": "bn", "text": "অধ্যাপক বিশ্ববিদ্যালয়ে পড়ান।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "professor (female)" },
@@ -1000,7 +1055,8 @@
     "genitive_singular": "des Saison-Jobs",
     "sentences": [
       { "languageCode": "de", "text": "Ich suche einen Saison-Job." },
-      { "languageCode": "en", "text": "I am looking for a seasonal job." }
+      { "languageCode": "en", "text": "I am looking for a seasonal job." },
+      { "languageCode": "bn", "text": "আমি একটা মৌসুমী কাজ খুঁজছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "seasonal job" },
@@ -1018,7 +1074,8 @@
     "genitive_singular": "des Schaffners",
     "sentences": [
       { "languageCode": "de", "text": "Der Schaffner kontrolliert die Tickets." },
-      { "languageCode": "en", "text": "The conductor checks the tickets." }
+      { "languageCode": "en", "text": "The conductor checks the tickets." },
+      { "languageCode": "bn", "text": "টিকিট পরীক্ষক টিকিটগুলো পরীক্ষা করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "conductor (male)" },
@@ -1036,7 +1093,8 @@
     "genitive_singular": "der Schaffnerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Schaffnerin hilft den Passagieren." },
-      { "languageCode": "en", "text": "The conductor helps the passengers." }
+      { "languageCode": "en", "text": "The conductor helps the passengers." },
+      { "languageCode": "bn", "text": "টিকিট পরীক্ষক যাত্রীদের সাহায্য করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "conductor (female)" },
@@ -1054,7 +1112,8 @@
     "genitive_singular": "des Segellehrers",
     "sentences": [
       { "languageCode": "de", "text": "Der Segellehrer zeigt uns das Boot." },
-      { "languageCode": "en", "text": "The sailing instructor shows us the boat." }
+      { "languageCode": "en", "text": "The sailing instructor shows us the boat." },
+      { "languageCode": "bn", "text": "নৌকা চালানোর শিক্ষক আমাদের নৌকাটা দেখাচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sailing instructor (male)" },
@@ -1072,7 +1131,8 @@
     "genitive_singular": "der Segellehrerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Segellehrerin erklärt die Regeln." },
-      { "languageCode": "en", "text": "The sailing instructor explains the rules." }
+      { "languageCode": "en", "text": "The sailing instructor explains the rules." },
+      { "languageCode": "bn", "text": "নৌকা চালানোর শিক্ষক নিয়মগুলো ব্যাখ্যা করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sailing instructor (female)" },
@@ -1090,7 +1150,8 @@
     "genitive_singular": "des Sommerfests",
     "sentences": [
       { "languageCode": "de", "text": "Das Sommerfest ist im Juli." },
-      { "languageCode": "en", "text": "The summer party is in July." }
+      { "languageCode": "en", "text": "The summer party is in July." },
+      { "languageCode": "bn", "text": "গ্রীষ্মকালীন উৎসবটা জুলাই মাসে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "summer party" },
@@ -1108,7 +1169,8 @@
     "genitive_singular": "des Sportlers",
     "sentences": [
       { "languageCode": "de", "text": "Der Sportler trainiert jeden Tag." },
-      { "languageCode": "en", "text": "The athlete trains every day." }
+      { "languageCode": "en", "text": "The athlete trains every day." },
+      { "languageCode": "bn", "text": "ক্রীড়াবিদ প্রতিদিন অনুশীলন করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "athlete (male)" },
@@ -1126,7 +1188,8 @@
     "genitive_singular": "der Sportlerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Sportlerin läuft sehr schnell." },
-      { "languageCode": "en", "text": "The athlete runs very fast." }
+      { "languageCode": "en", "text": "The athlete runs very fast." },
+      { "languageCode": "bn", "text": "ক্রীড়াবিদ খুব দ্রুত দৌড়ান।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "athlete (female)" },
@@ -1144,7 +1207,8 @@
     "genitive_singular": "des Urlaubs",
     "sentences": [
       { "languageCode": "de", "text": "Ich mache im August Urlaub." },
-      { "languageCode": "en", "text": "I am going on vacation in August." }
+      { "languageCode": "en", "text": "I am going on vacation in August." },
+      { "languageCode": "bn", "text": "আমি আগস্ট মাসে ছুটি কাটাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "vacation" },
@@ -1162,7 +1226,8 @@
     "genitive_singular": "des Verkäufers",
     "sentences": [
       { "languageCode": "de", "text": "Der Verkäufer verkauft Obst." },
-      { "languageCode": "en", "text": "The salesman sells fruit." }
+      { "languageCode": "en", "text": "The salesman sells fruit." },
+      { "languageCode": "bn", "text": "বিক্রয়কারী ফল বিক্রি করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "salesman" },
@@ -1180,7 +1245,8 @@
     "genitive_singular": "der Verkäuferin",
     "sentences": [
       { "languageCode": "de", "text": "Die Verkäuferin ist sehr freundlich." },
-      { "languageCode": "en", "text": "The saleswoman is very friendly." }
+      { "languageCode": "en", "text": "The saleswoman is very friendly." },
+      { "languageCode": "bn", "text": "বিক্রয়কারী খুবই বন্ধুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "saleswoman" },
@@ -1198,7 +1264,8 @@
     "genitive_singular": "des Zahnarztes",
     "sentences": [
       { "languageCode": "de", "text": "Der Zahnarzt behandelt die Zähne." },
-      { "languageCode": "en", "text": "The dentist treats teeth." }
+      { "languageCode": "en", "text": "The dentist treats teeth." },
+      { "languageCode": "bn", "text": "দাঁতের ডাক্তার দাঁতের চিকিৎসা করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "dentist (male)" },
@@ -1216,7 +1283,8 @@
     "genitive_singular": "der Zahnärztin",
     "sentences": [
       { "languageCode": "de", "text": "Die Zahnärztin putzt die Zähne." },
-      { "languageCode": "en", "text": "The dentist cleans the teeth." }
+      { "languageCode": "en", "text": "The dentist cleans the teeth." },
+      { "languageCode": "bn", "text": "দাঁতের ডাক্তার দাঁত পরিষ্কার করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "dentist (female)" },

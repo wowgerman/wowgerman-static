@@ -13,7 +13,8 @@
     "separable_prefix": "an",
     "sentences": [
       { "languageCode": "de", "text": "Ich ziehe die Jacke an." },
-      { "languageCode": "en", "text": "I put on the jacket." }
+      { "languageCode": "en", "text": "I put on the jacket." },
+      { "languageCode": "bn", "text": "আমি জ্যাকেটটা পরছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to put on" },
@@ -31,7 +32,8 @@
     "genitive_singular": "des Anzugs",
     "sentences": [
       { "languageCode": "de", "text": "Der Anzug ist elegant." },
-      { "languageCode": "en", "text": "The suit is elegant." }
+      { "languageCode": "en", "text": "The suit is elegant." },
+      { "languageCode": "bn", "text": "স্যুটটি মার্জিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "suit" },
@@ -49,7 +51,8 @@
     "genitive_singular": "des Badeanzugs",
     "sentences": [
       { "languageCode": "de", "text": "Der Badeanzug ist gelb." },
-      { "languageCode": "en", "text": "The swimsuit is yellow." }
+      { "languageCode": "en", "text": "The swimsuit is yellow." },
+      { "languageCode": "bn", "text": "সাঁতারের পোশাকটি হলুদ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "swimsuit" },
@@ -67,7 +70,8 @@
     "genitive_singular": "der Badehose",
     "sentences": [
       { "languageCode": "de", "text": "Die Badehose ist kurz." },
-      { "languageCode": "en", "text": "The swim trunks are short." }
+      { "languageCode": "en", "text": "The swim trunks are short." },
+      { "languageCode": "bn", "text": "সাঁতারের প্যান্টটি ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "swim trunks" },
@@ -84,7 +88,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Die Schuhe sind bequem." },
-      { "languageCode": "en", "text": "The shoes are comfortable." }
+      { "languageCode": "en", "text": "The shoes are comfortable." },
+      { "languageCode": "bn", "text": "জুতাগুলো আরামদায়ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "comfortable" },
@@ -101,7 +106,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Kleid ist elegant." },
-      { "languageCode": "en", "text": "The dress is elegant." }
+      { "languageCode": "en", "text": "The dress is elegant." },
+      { "languageCode": "bn", "text": "পোশাকটি মার্জিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "elegant" },
@@ -119,7 +125,8 @@
     "genitive_singular": "des Handschuhs",
     "sentences": [
       { "languageCode": "de", "text": "Der Handschuh ist warm." },
-      { "languageCode": "en", "text": "The glove is warm." }
+      { "languageCode": "en", "text": "The glove is warm." },
+      { "languageCode": "bn", "text": "দস্তানাটি গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "glove" },
@@ -137,7 +144,8 @@
     "genitive_singular": "der Handtasche",
     "sentences": [
       { "languageCode": "de", "text": "Die Handtasche ist teuer." },
-      { "languageCode": "en", "text": "The handbag is expensive." }
+      { "languageCode": "en", "text": "The handbag is expensive." },
+      { "languageCode": "bn", "text": "হ্যান্ডব্যাগটি দামি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "handbag" },
@@ -155,7 +163,8 @@
     "genitive_singular": "des Handtuchs",
     "sentences": [
       { "languageCode": "de", "text": "Das Handtuch ist sauber." },
-      { "languageCode": "en", "text": "The towel is clean." }
+      { "languageCode": "en", "text": "The towel is clean." },
+      { "languageCode": "bn", "text": "তোয়ালেটি পরিষ্কার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "towel" },
@@ -173,7 +182,8 @@
     "genitive_singular": "des Helms",
     "sentences": [
       { "languageCode": "de", "text": "Der Helm ist schwer." },
-      { "languageCode": "en", "text": "The helmet is heavy." }
+      { "languageCode": "en", "text": "The helmet is heavy." },
+      { "languageCode": "bn", "text": "হেলমেটটি ভারী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "helmet" },
@@ -191,7 +201,8 @@
     "genitive_singular": "des Hemdes",
     "sentences": [
       { "languageCode": "de", "text": "Das Hemd ist weiß." },
-      { "languageCode": "en", "text": "The shirt is white." }
+      { "languageCode": "en", "text": "The shirt is white." },
+      { "languageCode": "bn", "text": "শার্টটি সাদা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "shirt" },
@@ -209,7 +220,8 @@
     "genitive_singular": "der Hose",
     "sentences": [
       { "languageCode": "de", "text": "Die Hose ist blau." },
-      { "languageCode": "en", "text": "The pants are blue." }
+      { "languageCode": "en", "text": "The pants are blue." },
+      { "languageCode": "bn", "text": "প্যান্টটি নীল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "pants/trousers" },
@@ -227,7 +239,8 @@
     "genitive_singular": "des Huts",
     "sentences": [
       { "languageCode": "de", "text": "Der Hut ist groß." },
-      { "languageCode": "en", "text": "The hat is big." }
+      { "languageCode": "en", "text": "The hat is big." },
+      { "languageCode": "bn", "text": "টুপিটি বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hat" },
@@ -245,7 +258,8 @@
     "genitive_singular": "der Jacke",
     "sentences": [
       { "languageCode": "de", "text": "Die Jacke ist warm." },
-      { "languageCode": "en", "text": "The jacket is warm." }
+      { "languageCode": "en", "text": "The jacket is warm." },
+      { "languageCode": "bn", "text": "জ্যাকেটটি গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "jacket" },
@@ -263,7 +277,8 @@
     "genitive_singular": "der Klamotten",
     "sentences": [
       { "languageCode": "de", "text": "Die Klamotten sind alt." },
-      { "languageCode": "en", "text": "The clothes are old." }
+      { "languageCode": "en", "text": "The clothes are old." },
+      { "languageCode": "bn", "text": "কাপড়-চোপড়গুলো পুরনো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "clothes" },
@@ -281,7 +296,8 @@
     "genitive_singular": "des Kleides",
     "sentences": [
       { "languageCode": "de", "text": "Das Kleid ist schön." },
-      { "languageCode": "en", "text": "The dress is beautiful." }
+      { "languageCode": "en", "text": "The dress is beautiful." },
+      { "languageCode": "bn", "text": "পোশাকটি সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "dress" },
@@ -299,7 +315,8 @@
     "genitive_singular": "der Kleidung",
     "sentences": [
       { "languageCode": "de", "text": "Die Kleidung ist sauber." },
-      { "languageCode": "en", "text": "The clothing is clean." }
+      { "languageCode": "en", "text": "The clothing is clean." },
+      { "languageCode": "bn", "text": "পোশাক-আশাক পরিষ্কার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "clothing" },
@@ -317,7 +334,8 @@
     "genitive_singular": "der Krawatte",
     "sentences": [
       { "languageCode": "de", "text": "Die Krawatte ist schwarz." },
-      { "languageCode": "en", "text": "The tie is black." }
+      { "languageCode": "en", "text": "The tie is black." },
+      { "languageCode": "bn", "text": "টাইটি কালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tie" },
@@ -335,7 +353,8 @@
     "genitive_singular": "des Mantels",
     "sentences": [
       { "languageCode": "de", "text": "Der Mantel ist lang." },
-      { "languageCode": "en", "text": "The coat is long." }
+      { "languageCode": "en", "text": "The coat is long." },
+      { "languageCode": "bn", "text": "কোটটি লম্বা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "coat" },
@@ -353,7 +372,8 @@
     "genitive_singular": "des Modefans",
     "sentences": [
       { "languageCode": "de", "text": "Der Modefan kauft viele Kleider." },
-      { "languageCode": "en", "text": "The fashion fan buys many clothes." }
+      { "languageCode": "en", "text": "The fashion fan buys many clothes." },
+      { "languageCode": "bn", "text": "ফ্যাশন ভক্তটি অনেক পোশাক কেনে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fashion fan" },
@@ -371,7 +391,8 @@
     "genitive_singular": "der Modeschule",
     "sentences": [
       { "languageCode": "de", "text": "Die Modeschule ist berühmt." },
-      { "languageCode": "en", "text": "The fashion school is famous." }
+      { "languageCode": "en", "text": "The fashion school is famous." },
+      { "languageCode": "bn", "text": "ফ্যাশন স্কুলটি বিখ্যাত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fashion school" },
@@ -389,7 +410,8 @@
     "genitive_singular": "des Pullovers",
     "sentences": [
       { "languageCode": "de", "text": "Der Pullover ist dick." },
-      { "languageCode": "en", "text": "The sweater is thick." }
+      { "languageCode": "en", "text": "The sweater is thick." },
+      { "languageCode": "bn", "text": "সোয়েটারটি মোটা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sweater" },
@@ -407,7 +429,8 @@
     "genitive_singular": "der Regenjacke",
     "sentences": [
       { "languageCode": "de", "text": "Die Regenjacke ist wasserdicht." },
-      { "languageCode": "en", "text": "The rain jacket is waterproof." }
+      { "languageCode": "en", "text": "The rain jacket is waterproof." },
+      { "languageCode": "bn", "text": "বৃষ্টির জ্যাকেটটি জলরোধী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "rain jacket" },
@@ -425,7 +448,8 @@
     "genitive_singular": "des Regenschirms",
     "sentences": [
       { "languageCode": "de", "text": "Der Regenschirm ist nass." },
-      { "languageCode": "en", "text": "The umbrella is wet." }
+      { "languageCode": "en", "text": "The umbrella is wet." },
+      { "languageCode": "bn", "text": "ছাতাটি ভেজা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "umbrella" },
@@ -443,7 +467,8 @@
     "genitive_singular": "des Rocks",
     "sentences": [
       { "languageCode": "de", "text": "Der Rock ist kurz." },
-      { "languageCode": "en", "text": "The skirt is short." }
+      { "languageCode": "en", "text": "The skirt is short." },
+      { "languageCode": "bn", "text": "স্কার্টটি ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "skirt" },
@@ -461,7 +486,8 @@
     "genitive_singular": "des Schals",
     "sentences": [
       { "languageCode": "de", "text": "Der Schal ist warm." },
-      { "languageCode": "en", "text": "The scarf is warm." }
+      { "languageCode": "en", "text": "The scarf is warm." },
+      { "languageCode": "bn", "text": "গলার কাপড়টি গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "scarf" },
@@ -479,7 +505,8 @@
     "genitive_singular": "des Schuhs",
     "sentences": [
       { "languageCode": "de", "text": "Der Schuh ist neu." },
-      { "languageCode": "en", "text": "The shoe is new." }
+      { "languageCode": "en", "text": "The shoe is new." },
+      { "languageCode": "bn", "text": "জুতাটি নতুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "shoe" },
@@ -497,7 +524,8 @@
     "genitive_singular": "des Schuhfans",
     "sentences": [
       { "languageCode": "de", "text": "Der Schuhfan hat viele Schuhe." },
-      { "languageCode": "en", "text": "The shoe fan has many shoes." }
+      { "languageCode": "en", "text": "The shoe fan has many shoes." },
+      { "languageCode": "bn", "text": "জুতার ভক্তটির অনেক জুতা আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "shoe fan" },
@@ -515,7 +543,8 @@
     "genitive_singular": "des Skischuhs",
     "sentences": [
       { "languageCode": "de", "text": "Der Skischuh ist hart." },
-      { "languageCode": "en", "text": "The ski boot is hard." }
+      { "languageCode": "en", "text": "The ski boot is hard." },
+      { "languageCode": "bn", "text": "স্কি বুটটি শক্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ski boot" },
@@ -533,7 +562,8 @@
     "genitive_singular": "der Sonnenbrille",
     "sentences": [
       { "languageCode": "de", "text": "Die Sonnenbrille ist dunkel." },
-      { "languageCode": "en", "text": "The sunglasses are dark." }
+      { "languageCode": "en", "text": "The sunglasses are dark." },
+      { "languageCode": "bn", "text": "সানগ্লাসটি গাঢ়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sunglasses" },
@@ -551,7 +581,8 @@
     "genitive_singular": "des Stiefels",
     "sentences": [
       { "languageCode": "de", "text": "Der Stiefel ist braun." },
-      { "languageCode": "en", "text": "The boot is brown." }
+      { "languageCode": "en", "text": "The boot is brown." },
+      { "languageCode": "bn", "text": "বুটটি বাদামী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "boot" },
@@ -569,7 +600,8 @@
     "genitive_singular": "des Sweatshirts",
     "sentences": [
       { "languageCode": "de", "text": "Das Sweatshirt ist bequem." },
-      { "languageCode": "en", "text": "The sweatshirt is comfortable." }
+      { "languageCode": "en", "text": "The sweatshirt is comfortable." },
+      { "languageCode": "bn", "text": "সোয়েটশার্টটি আরামদায়ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sweatshirt" },
@@ -587,7 +619,8 @@
     "genitive_singular": "des T-Shirts",
     "sentences": [
       { "languageCode": "de", "text": "Das T-Shirt ist rot." },
-      { "languageCode": "en", "text": "The t-shirt is red." }
+      { "languageCode": "en", "text": "The t-shirt is red." },
+      { "languageCode": "bn", "text": "টি-শার্টটি লাল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "t-shirt" },
@@ -605,7 +638,8 @@
     "genitive_singular": "der Tasche",
     "sentences": [
       { "languageCode": "de", "text": "Die Tasche ist klein." },
-      { "languageCode": "en", "text": "The bag is small." }
+      { "languageCode": "en", "text": "The bag is small." },
+      { "languageCode": "bn", "text": "ব্যাগটি ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bag" },
@@ -623,7 +657,8 @@
     "genitive_singular": "des Tuchs",
     "sentences": [
       { "languageCode": "de", "text": "Das Tuch ist bunt." },
-      { "languageCode": "en", "text": "The cloth is colorful." }
+      { "languageCode": "en", "text": "The cloth is colorful." },
+      { "languageCode": "bn", "text": "কাপড়টি রঙিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cloth" },

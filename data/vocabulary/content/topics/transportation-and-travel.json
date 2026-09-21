@@ -13,7 +13,8 @@
     "separable_prefix": "ab",
     "sentences": [
       { "languageCode": "de", "text": "Der Zug fährt um 8 Uhr ab." },
-      { "languageCode": "en", "text": "The train departs at 8 o'clock." }
+      { "languageCode": "en", "text": "The train departs at 8 o'clock." },
+      { "languageCode": "bn", "text": "ট্রেনটা সকাল ৮টায় ছাড়ে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to depart" },
@@ -31,7 +32,8 @@
     "genitive_singular": "der Abfahrt",
     "sentences": [
       { "languageCode": "de", "text": "Die Abfahrt ist um 9 Uhr." },
-      { "languageCode": "en", "text": "The departure is at 9 o'clock." }
+      { "languageCode": "en", "text": "The departure is at 9 o'clock." },
+      { "languageCode": "bn", "text": "প্রস্থানের সময় সকাল ৯টা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "departure" },
@@ -49,7 +51,8 @@
     "genitive_singular": "der Ankunft",
     "sentences": [
       { "languageCode": "de", "text": "Die Ankunft ist um 15 Uhr." },
-      { "languageCode": "en", "text": "The arrival is at 3 PM." }
+      { "languageCode": "en", "text": "The arrival is at 3 PM." },
+      { "languageCode": "bn", "text": "আগমনের সময় বিকেল ৩টা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "arrival" },
@@ -67,7 +70,8 @@
     "genitive_singular": "des Autos",
     "sentences": [
       { "languageCode": "de", "text": "Das Auto ist schnell." },
-      { "languageCode": "en", "text": "The car is fast." }
+      { "languageCode": "en", "text": "The car is fast." },
+      { "languageCode": "bn", "text": "গাড়িটা দ্রুতগামী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "car" },
@@ -85,7 +89,8 @@
     "genitive_singular": "der Autobahn",
     "sentences": [
       { "languageCode": "de", "text": "Wir fahren auf der Autobahn." },
-      { "languageCode": "en", "text": "We drive on the highway." }
+      { "languageCode": "en", "text": "We drive on the highway." },
+      { "languageCode": "bn", "text": "আমরা মহাসড়কে গাড়ি চালাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "highway" },
@@ -103,7 +108,8 @@
     "genitive_singular": "des Badeurlaubs",
     "sentences": [
       { "languageCode": "de", "text": "Ich mache Badeurlaub am Meer." },
-      { "languageCode": "en", "text": "I go on a beach holiday by the sea." }
+      { "languageCode": "en", "text": "I go on a beach holiday by the sea." },
+      { "languageCode": "bn", "text": "আমি সমুদ্রের ধারে সমুদ্র সৈকত ছুটি কাটাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "beach holiday" },
@@ -121,7 +127,8 @@
     "genitive_singular": "der Bergtour",
     "sentences": [
       { "languageCode": "de", "text": "Wir machen eine Bergtour." },
-      { "languageCode": "en", "text": "We go on a mountain tour." }
+      { "languageCode": "en", "text": "We go on a mountain tour." },
+      { "languageCode": "bn", "text": "আমরা একটা পর্বত ভ্রমণে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "mountain tour" },
@@ -142,7 +149,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir besichtigen das Museum." },
-      { "languageCode": "en", "text": "We visit the museum." }
+      { "languageCode": "en", "text": "We visit the museum." },
+      { "languageCode": "bn", "text": "আমরা জাদুঘরটা পরিদর্শন করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to visit/sightsee" },
@@ -160,7 +168,8 @@
     "genitive_singular": "des Busses",
     "sentences": [
       { "languageCode": "de", "text": "Der Bus kommt um 8 Uhr." },
-      { "languageCode": "en", "text": "The bus comes at 8 o'clock." }
+      { "languageCode": "en", "text": "The bus comes at 8 o'clock." },
+      { "languageCode": "bn", "text": "বাসটা সকাল ৮টায় আসে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bus" },
@@ -178,7 +187,8 @@
     "genitive_singular": "des Campingurlaubs",
     "sentences": [
       { "languageCode": "de", "text": "Wir machen Campingurlaub." },
-      { "languageCode": "en", "text": "We go on a camping holiday." }
+      { "languageCode": "en", "text": "We go on a camping holiday." },
+      { "languageCode": "bn", "text": "আমরা ক্যাম্পিং ছুটি কাটাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "camping holiday" },
@@ -199,7 +209,8 @@
     "separable_prefix": "ein",
     "sentences": [
       { "languageCode": "de", "text": "Ich steige in den Zug ein." },
-      { "languageCode": "en", "text": "I get on the train." }
+      { "languageCode": "en", "text": "I get on the train." },
+      { "languageCode": "bn", "text": "আমি ট্রেনে উঠছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to get on/board" },
@@ -220,7 +231,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich fahre mit dem Bus." },
-      { "languageCode": "en", "text": "I travel by bus." }
+      { "languageCode": "en", "text": "I travel by bus." },
+      { "languageCode": "bn", "text": "আমি বাসে করে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to drive/travel" },
@@ -238,7 +250,8 @@
     "genitive_singular": "der Fahrkarte",
     "sentences": [
       { "languageCode": "de", "text": "Ich kaufe eine Fahrkarte." },
-      { "languageCode": "en", "text": "I buy a ticket." }
+      { "languageCode": "en", "text": "I buy a ticket." },
+      { "languageCode": "bn", "text": "আমি একটা টিকেট কিনছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ticket" },
@@ -256,7 +269,8 @@
     "genitive_singular": "des Fahrrads",
     "sentences": [
       { "languageCode": "de", "text": "Ich fahre mit dem Fahrrad zur Arbeit." },
-      { "languageCode": "en", "text": "I go to work by bicycle." }
+      { "languageCode": "en", "text": "I go to work by bicycle." },
+      { "languageCode": "bn", "text": "আমি সাইকেলে করে কাজে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bicycle" },
@@ -274,7 +288,8 @@
     "genitive_singular": "der Fahrradtour",
     "sentences": [
       { "languageCode": "de", "text": "Die Fahrradtour macht Spaß." },
-      { "languageCode": "en", "text": "The bicycle tour is fun." }
+      { "languageCode": "en", "text": "The bicycle tour is fun." },
+      { "languageCode": "bn", "text": "সাইকেল ভ্রমণটা মজার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bicycle tour" },
@@ -292,7 +307,8 @@
     "genitive_singular": "des Gepäcks",
     "sentences": [
       { "languageCode": "de", "text": "Mein Gepäck ist schwer." },
-      { "languageCode": "en", "text": "My luggage is heavy." }
+      { "languageCode": "en", "text": "My luggage is heavy." },
+      { "languageCode": "bn", "text": "আমার লাগেজ ভারী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "luggage" },
@@ -310,7 +326,8 @@
     "genitive_singular": "der Haltestelle",
     "sentences": [
       { "languageCode": "de", "text": "Ich warte an der Haltestelle." },
-      { "languageCode": "en", "text": "I wait at the bus stop." }
+      { "languageCode": "en", "text": "I wait at the bus stop." },
+      { "languageCode": "bn", "text": "আমি বাস স্টপে অপেক্ষা করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bus stop" },
@@ -328,7 +345,8 @@
     "genitive_singular": "des Handy-Akkus",
     "sentences": [
       { "languageCode": "de", "text": "Mein Handy-Akku ist leer." },
-      { "languageCode": "en", "text": "My phone battery is empty." }
+      { "languageCode": "en", "text": "My phone battery is empty." },
+      { "languageCode": "bn", "text": "আমার ফোনের ব্যাটারি শেষ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "phone battery" },
@@ -346,7 +364,8 @@
     "genitive_singular": "der Jugendherberge",
     "sentences": [
       { "languageCode": "de", "text": "Wir übernachten in der Jugendherberge." },
-      { "languageCode": "en", "text": "We stay overnight in the youth hostel." }
+      { "languageCode": "en", "text": "We stay overnight in the youth hostel." },
+      { "languageCode": "bn", "text": "আমরা যুব হোস্টেলে রাত কাটাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "youth hostel" },
@@ -364,7 +383,8 @@
     "genitive_singular": "der Karte",
     "sentences": [
       { "languageCode": "de", "text": "Ich brauche eine Karte von der Stadt." },
-      { "languageCode": "en", "text": "I need a map of the city." }
+      { "languageCode": "en", "text": "I need a map of the city." },
+      { "languageCode": "bn", "text": "আমার শহরের একটা মানচিত্র দরকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "map" },
@@ -382,7 +402,8 @@
     "genitive_singular": "des Koffers",
     "sentences": [
       { "languageCode": "de", "text": "Der Koffer ist schwer." },
-      { "languageCode": "en", "text": "The suitcase is heavy." }
+      { "languageCode": "en", "text": "The suitcase is heavy." },
+      { "languageCode": "bn", "text": "স্যুটকেসটা ভারী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "suitcase" },
@@ -403,7 +424,8 @@
     "separable_prefix": "los",
     "sentences": [
       { "languageCode": "de", "text": "Wir fahren morgen früh los." },
-      { "languageCode": "en", "text": "We start driving early tomorrow." }
+      { "languageCode": "en", "text": "We start driving early tomorrow." },
+      { "languageCode": "bn", "text": "আমরা আগামীকাল সকালে রওনা দেব।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to start driving/leave" },
@@ -421,7 +443,8 @@
     "genitive_singular": "des Motorrads",
     "sentences": [
       { "languageCode": "de", "text": "Das Motorrad ist sehr schnell." },
-      { "languageCode": "en", "text": "The motorcycle is very fast." }
+      { "languageCode": "en", "text": "The motorcycle is very fast." },
+      { "languageCode": "bn", "text": "মোটরসাইকেলটা খুব দ্রুতগামী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "motorcycle" },
@@ -442,7 +465,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich packe meinen Koffer." },
-      { "languageCode": "en", "text": "I pack my suitcase." }
+      { "languageCode": "en", "text": "I pack my suitcase." },
+      { "languageCode": "bn", "text": "আমি আমার স্যুটকেস গোছাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to pack" },
@@ -460,7 +484,8 @@
     "genitive_singular": "der Pension",
     "sentences": [
       { "languageCode": "de", "text": "Die Pension ist sehr günstig." },
-      { "languageCode": "en", "text": "The guesthouse is very cheap." }
+      { "languageCode": "en", "text": "The guesthouse is very cheap." },
+      { "languageCode": "bn", "text": "গেস্ট হাউসটা খুব সস্তা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "guesthouse" },
@@ -478,7 +503,8 @@
     "genitive_singular": "des Picknicks",
     "sentences": [
       { "languageCode": "de", "text": "Wir machen ein Picknick im Park." },
-      { "languageCode": "en", "text": "We are having a picnic in the park." }
+      { "languageCode": "en", "text": "We are having a picnic in the park." },
+      { "languageCode": "bn", "text": "আমরা পার্কে একটা পিকনিক করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "picnic" },
@@ -496,7 +522,8 @@
     "genitive_singular": "des Platzes",
     "sentences": [
       { "languageCode": "de", "text": "Der Platz ist sehr groß." },
-      { "languageCode": "en", "text": "The square is very big." }
+      { "languageCode": "en", "text": "The square is very big." },
+      { "languageCode": "bn", "text": "চত্বরটা খুব বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "square" },
@@ -514,7 +541,8 @@
     "genitive_singular": "des Reiseberichts",
     "sentences": [
       { "languageCode": "de", "text": "Ich schreibe einen Reisebericht." },
-      { "languageCode": "en", "text": "I write a travel report." }
+      { "languageCode": "en", "text": "I write a travel report." },
+      { "languageCode": "bn", "text": "আমি একটা ভ্রমণের রিপোর্ট লিখছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "travel report" },
@@ -532,7 +560,8 @@
     "genitive_singular": "des Reiseführers",
     "sentences": [
       { "languageCode": "de", "text": "Der Reiseführer zeigt uns die Stadt." },
-      { "languageCode": "en", "text": "The tour guide shows us the city." }
+      { "languageCode": "en", "text": "The tour guide shows us the city." },
+      { "languageCode": "bn", "text": "ট্যুর গাইড আমাদের শহরটা দেখাচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tour guide" },
@@ -550,7 +579,8 @@
     "genitive_singular": "der Reiseführerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Reiseführerin ist sehr nett." },
-      { "languageCode": "en", "text": "The female tour guide is very nice." }
+      { "languageCode": "en", "text": "The female tour guide is very nice." },
+      { "languageCode": "bn", "text": "মহিলা ট্যুর গাইডটি খুব ভালো মানুষ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "female tour guide" },
@@ -571,7 +601,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir reisen nach Deutschland." },
-      { "languageCode": "en", "text": "We are traveling to Germany." }
+      { "languageCode": "en", "text": "We are traveling to Germany." },
+      { "languageCode": "bn", "text": "আমরা জার্মানিতে ভ্রমণ করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to travel" },
@@ -589,7 +620,8 @@
     "genitive_singular": "der Reisetasche",
     "sentences": [
       { "languageCode": "de", "text": "Ich packe die Reisetasche." },
-      { "languageCode": "en", "text": "I pack the travel bag." }
+      { "languageCode": "en", "text": "I pack the travel bag." },
+      { "languageCode": "bn", "text": "আমি ভ্রমণের ব্যাগটা গোছাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "travel bag" },
@@ -607,7 +639,8 @@
     "genitive_singular": "des Reiseziels",
     "sentences": [
       { "languageCode": "de", "text": "Mein Reiseziel ist Italien." },
-      { "languageCode": "en", "text": "My travel destination is Italy." }
+      { "languageCode": "en", "text": "My travel destination is Italy." },
+      { "languageCode": "bn", "text": "আমার ভ্রমণের গন্তব্য ইতালি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "travel destination" },
@@ -625,7 +658,8 @@
     "genitive_singular": "der Route",
     "sentences": [
       { "languageCode": "de", "text": "Wir planen unsere Route." },
-      { "languageCode": "en", "text": "We plan our route." }
+      { "languageCode": "en", "text": "We plan our route." },
+      { "languageCode": "bn", "text": "আমরা আমাদের পথ পরিকল্পনা করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "route" },
@@ -643,7 +677,8 @@
     "genitive_singular": "des Schlafsacks",
     "sentences": [
       { "languageCode": "de", "text": "Ich nehme einen Schlafsack mit." },
-      { "languageCode": "en", "text": "I take a sleeping bag with me." }
+      { "languageCode": "en", "text": "I take a sleeping bag with me." },
+      { "languageCode": "bn", "text": "আমি আমার সাথে একটা স্লিপিং ব্যাগ নিচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sleeping bag" },
@@ -661,7 +696,8 @@
     "genitive_singular": "des Ski-Urlaubs",
     "sentences": [
       { "languageCode": "de", "text": "Ich fahre in den Ski-Urlaub." },
-      { "languageCode": "en", "text": "I go on a ski holiday." }
+      { "languageCode": "en", "text": "I go on a ski holiday." },
+      { "languageCode": "bn", "text": "আমি স্কি ছুটিতে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ski holiday" },
@@ -679,7 +715,8 @@
     "genitive_singular": "des Snowboard-Urlaubs",
     "sentences": [
       { "languageCode": "de", "text": "Mein Snowboard-Urlaub war toll." },
-      { "languageCode": "en", "text": "My snowboard holiday was great." }
+      { "languageCode": "en", "text": "My snowboard holiday was great." },
+      { "languageCode": "bn", "text": "আমার স্নোবোর্ড ছুটিটা দারুণ ছিল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "snowboard holiday" },
@@ -697,7 +734,8 @@
     "genitive_singular": "der Sonnencreme",
     "sentences": [
       { "languageCode": "de", "text": "Die Sonnencreme ist wichtig." },
-      { "languageCode": "en", "text": "The sunscreen is important." }
+      { "languageCode": "en", "text": "The sunscreen is important." },
+      { "languageCode": "bn", "text": "সানস্ক্রিনটা গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sunscreen" },
@@ -718,7 +756,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe im Park spazieren." },
-      { "languageCode": "en", "text": "I go for a walk in the park." }
+      { "languageCode": "en", "text": "I go for a walk in the park." },
+      { "languageCode": "bn", "text": "আমি পার্কে হাঁটতে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to go for a walk" },
@@ -736,11 +775,12 @@
     "genitive_singular": "des Spaziergangs",
     "sentences": [
       { "languageCode": "de", "text": "Der Spaziergang ist sehr schön." },
-      { "languageCode": "en", "text": "The walk is very beautiful." }
+      { "languageCode": "en", "text": "The walk is very beautiful." },
+      { "languageCode": "bn", "text": "এই হাঁটাটা খুব চমৎকার ছিল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "walk" },
-      { "languageCode": "bn", "text": "পায়ে চলা" }
+      { "languageCode": "bn", "text": "হাঁটা" }
     ]
   },
   {
@@ -754,7 +794,8 @@
     "genitive_singular": "des Stadturlaubs",
     "sentences": [
       { "languageCode": "de", "text": "Wir machen Stadturlaub in Berlin." },
-      { "languageCode": "en", "text": "We go on a city holiday in Berlin." }
+      { "languageCode": "en", "text": "We go on a city holiday in Berlin." },
+      { "languageCode": "bn", "text": "আমরা বার্লিনে শহর ছুটি কাটাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "city holiday" },
@@ -772,7 +813,8 @@
     "genitive_singular": "der Straße",
     "sentences": [
       { "languageCode": "de", "text": "Die Straße ist sehr lang." },
-      { "languageCode": "en", "text": "The street is very long." }
+      { "languageCode": "en", "text": "The street is very long." },
+      { "languageCode": "bn", "text": "রাস্তাটা খুব লম্বা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "street" },
@@ -790,7 +832,8 @@
     "genitive_singular": "der Straßenbahn",
     "sentences": [
       { "languageCode": "de", "text": "Die Straßenbahn fährt durch die Stadt." },
-      { "languageCode": "en", "text": "The tram drives through the city." }
+      { "languageCode": "en", "text": "The tram drives through the city." },
+      { "languageCode": "bn", "text": "ট্রামটা শহরের মধ্য দিয়ে চলে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tram" },
@@ -808,7 +851,8 @@
     "genitive_singular": "der Tour",
     "sentences": [
       { "languageCode": "de", "text": "Die Tour durch die Stadt ist interessant." },
-      { "languageCode": "en", "text": "The tour through the city is interesting." }
+      { "languageCode": "en", "text": "The tour through the city is interesting." },
+      { "languageCode": "bn", "text": "শহরের মধ্য দিয়ে ভ্রমণটা আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tour" },
@@ -826,7 +870,8 @@
     "genitive_singular": "der Tram",
     "sentences": [
       { "languageCode": "de", "text": "Die Tram ist pünktlich." },
-      { "languageCode": "en", "text": "The tram is on time." }
+      { "languageCode": "en", "text": "The tram is on time." },
+      { "languageCode": "bn", "text": "ট্রামটা সময়মতো আসে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tram" },
@@ -844,7 +889,8 @@
     "genitive_singular": "der U-Bahn",
     "sentences": [
       { "languageCode": "de", "text": "Die U-Bahn ist sehr schnell." },
-      { "languageCode": "en", "text": "The subway is very fast." }
+      { "languageCode": "en", "text": "The subway is very fast." },
+      { "languageCode": "bn", "text": "পাতাল রেলটা খুব দ্রুতগামী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "subway" },
@@ -865,7 +911,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir übernachten im Hotel." },
-      { "languageCode": "en", "text": "We stay overnight at the hotel." }
+      { "languageCode": "en", "text": "We stay overnight at the hotel." },
+      { "languageCode": "bn", "text": "আমরা হোটেলে রাত কাটাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to stay overnight" },
@@ -886,7 +933,8 @@
     "separable_prefix": "um",
     "sentences": [
       { "languageCode": "de", "text": "Ich muss am Bahnhof umsteigen." },
-      { "languageCode": "en", "text": "I have to change trains at the station." }
+      { "languageCode": "en", "text": "I have to change trains at the station." },
+      { "languageCode": "bn", "text": "আমাকে স্টেশনে ট্রেন পরিবর্তন করতে হবে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to change/transfer" },
@@ -907,7 +955,8 @@
     "separable_prefix": "um",
     "sentences": [
       { "languageCode": "de", "text": "Wir ziehen nach Berlin um." },
-      { "languageCode": "en", "text": "We are moving to Berlin." }
+      { "languageCode": "en", "text": "We are moving to Berlin." },
+      { "languageCode": "bn", "text": "আমরা বার্লিনে স্থানান্তরিত হচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to move (residence)" },
@@ -928,7 +977,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich verpasse den Bus." },
-      { "languageCode": "en", "text": "I miss the bus." }
+      { "languageCode": "en", "text": "I miss the bus." },
+      { "languageCode": "bn", "text": "আমার বাসটা মিস হয়ে যাচ্ছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to miss" },
@@ -946,7 +996,8 @@
     "genitive_singular": "der Wegbeschreibung",
     "sentences": [
       { "languageCode": "de", "text": "Ich brauche eine Wegbeschreibung." },
-      { "languageCode": "en", "text": "I need directions." }
+      { "languageCode": "en", "text": "I need directions." },
+      { "languageCode": "bn", "text": "আমার দিকনির্দেশনা দরকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "directions" },
@@ -967,7 +1018,8 @@
     "separable_prefix": "zurück",
     "sentences": [
       { "languageCode": "de", "text": "Wir fahren heute zurück." },
-      { "languageCode": "en", "text": "We drive back today." }
+      { "languageCode": "en", "text": "We drive back today." },
+      { "languageCode": "bn", "text": "আমরা আজ ফিরে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to drive back" },
@@ -988,7 +1040,8 @@
     "separable_prefix": "zurück",
     "sentences": [
       { "languageCode": "de", "text": "Ich finde den Weg zurück." },
-      { "languageCode": "en", "text": "I find the way back." }
+      { "languageCode": "en", "text": "I find the way back." },
+      { "languageCode": "bn", "text": "আমি ফিরে যাওয়ার পথ খুঁজে পাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to find one's way back" },

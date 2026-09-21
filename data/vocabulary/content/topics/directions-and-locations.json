@@ -7,7 +7,8 @@
     "preposition_cases": ["accusative", "dative"],
     "sentences": [
       { "languageCode": "de", "text": "Das Bild hängt an der Wand." },
-      { "languageCode": "en", "text": "The picture hangs on the wall." }
+      { "languageCode": "en", "text": "The picture hangs on the wall." },
+      { "languageCode": "bn", "text": "ছবিটা দেয়ালে ঝুলছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "on/at" },
@@ -28,7 +29,8 @@
     "separable_prefix": "an",
     "sentences": [
       { "languageCode": "de", "text": "Wir kommen um 8 Uhr an." },
-      { "languageCode": "en", "text": "We arrive at 8 o'clock." }
+      { "languageCode": "en", "text": "We arrive at 8 o'clock." },
+      { "languageCode": "bn", "text": "আমরা সকাল ৮টায় পৌঁছাব।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to arrive" },
@@ -43,7 +45,8 @@
     "preposition_cases": ["accusative", "dative"],
     "sentences": [
       { "languageCode": "de", "text": "Das Buch liegt auf dem Tisch." },
-      { "languageCode": "en", "text": "The book is on the table." }
+      { "languageCode": "en", "text": "The book is on the table." },
+      { "languageCode": "bn", "text": "বইটা টেবিলের উপর আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "on" },
@@ -58,7 +61,8 @@
     "preposition_cases": ["dative"],
     "sentences": [
       { "languageCode": "de", "text": "Er kommt aus Deutschland." },
-      { "languageCode": "en", "text": "He comes from Germany." }
+      { "languageCode": "en", "text": "He comes from Germany." },
+      { "languageCode": "bn", "text": "সে জার্মানি থেকে এসেছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "from/out of" },
@@ -76,7 +80,8 @@
     "genitive_singular": "des Bahnhofs",
     "sentences": [
       { "languageCode": "de", "text": "Der Bahnhof ist groß." },
-      { "languageCode": "en", "text": "The train station is big." }
+      { "languageCode": "en", "text": "The train station is big." },
+      { "languageCode": "bn", "text": "রেলস্টেশনটা বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "train station" },
@@ -91,7 +96,8 @@
     "preposition_cases": ["dative"],
     "sentences": [
       { "languageCode": "de", "text": "Ich bin bei meiner Mutter." },
-      { "languageCode": "en", "text": "I am at my mother's place." }
+      { "languageCode": "en", "text": "I am at my mother's place." },
+      { "languageCode": "bn", "text": "আমি আমার মায়ের কাছে আছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "at/near" },
@@ -109,7 +115,8 @@
     "genitive_singular": "der Brücke",
     "sentences": [
       { "languageCode": "de", "text": "Die Brücke ist alt." },
-      { "languageCode": "en", "text": "The bridge is old." }
+      { "languageCode": "en", "text": "The bridge is old." },
+      { "languageCode": "bn", "text": "সেতুটা পুরনো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bridge" },
@@ -126,7 +133,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Das Auto ist da." },
-      { "languageCode": "en", "text": "The car is there." }
+      { "languageCode": "en", "text": "The car is there." },
+      { "languageCode": "bn", "text": "গাড়িটা সেখানে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "there" },
@@ -143,7 +151,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Mein Freund wohnt dort." },
-      { "languageCode": "en", "text": "My friend lives there." }
+      { "languageCode": "en", "text": "My friend lives there." },
+      { "languageCode": "bn", "text": "আমার বন্ধু ওখানে থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "there" },
@@ -161,7 +170,8 @@
     "genitive_singular": "der Ecke",
     "sentences": [
       { "languageCode": "de", "text": "An der Ecke ist ein Café." },
-      { "languageCode": "en", "text": "There is a café at the corner." }
+      { "languageCode": "en", "text": "There is a café at the corner." },
+      { "languageCode": "bn", "text": "কোণায় একটা ক্যাফে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "corner" },
@@ -179,7 +189,8 @@
     "genitive_singular": "der Entfernung",
     "sentences": [
       { "languageCode": "de", "text": "Die Entfernung ist groß." },
-      { "languageCode": "en", "text": "The distance is great." }
+      { "languageCode": "en", "text": "The distance is great." },
+      { "languageCode": "bn", "text": "দূরত্বটা অনেক বেশি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "distance" },
@@ -196,7 +207,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Land ist fern." },
-      { "languageCode": "en", "text": "The country is distant." }
+      { "languageCode": "en", "text": "The country is distant." },
+      { "languageCode": "bn", "text": "দেশটা অনেক দূরে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "distant/far" },
@@ -214,7 +226,8 @@
     "genitive_singular": "des Flughafens",
     "sentences": [
       { "languageCode": "de", "text": "Der Flughafen ist weit." },
-      { "languageCode": "en", "text": "The airport is far." }
+      { "languageCode": "en", "text": "The airport is far." },
+      { "languageCode": "bn", "text": "বিমানবন্দরটা অনেক দূরে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "airport" },
@@ -235,7 +248,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Der Weg führt zum Park." },
-      { "languageCode": "en", "text": "The path leads to the park." }
+      { "languageCode": "en", "text": "The path leads to the park." },
+      { "languageCode": "bn", "text": "পথটা পার্কের দিকে নিয়ে যায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to lead" },
@@ -252,7 +266,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Gehen Sie geradeaus." },
-      { "languageCode": "en", "text": "Go straight ahead." }
+      { "languageCode": "en", "text": "Go straight ahead." },
+      { "languageCode": "bn", "text": "সোজা যান।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "straight ahead" },
@@ -270,7 +285,8 @@
     "genitive_singular": "der Haltestelle",
     "sentences": [
       { "languageCode": "de", "text": "Wo ist die Haltestelle?" },
-      { "languageCode": "en", "text": "Where is the bus stop?" }
+      { "languageCode": "en", "text": "Where is the bus stop?" },
+      { "languageCode": "bn", "text": "বাস স্টপটা কোথায়?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bus stop" },
@@ -287,7 +303,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich wohne hier." },
-      { "languageCode": "en", "text": "I live here." }
+      { "languageCode": "en", "text": "I live here." },
+      { "languageCode": "bn", "text": "আমি এখানে থাকি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "here" },
@@ -304,7 +321,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Das Kind sitzt hinten." },
-      { "languageCode": "en", "text": "The child sits in the back." }
+      { "languageCode": "en", "text": "The child sits in the back." },
+      { "languageCode": "bn", "text": "শিশুটি পিছনে বসে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "behind/in the back" },
@@ -319,7 +337,8 @@
     "preposition_cases": ["accusative", "dative"],
     "sentences": [
       { "languageCode": "de", "text": "Das Auto steht hinter dem Baum." },
-      { "languageCode": "en", "text": "The car is behind the tree." }
+      { "languageCode": "en", "text": "The car is behind the tree." },
+      { "languageCode": "bn", "text": "গাড়িটা গাছের পিছনে দাঁড়িয়ে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "behind" },
@@ -334,7 +353,8 @@
     "preposition_cases": ["accusative", "dative"],
     "sentences": [
       { "languageCode": "de", "text": "Ich bin in der Stadt." },
-      { "languageCode": "en", "text": "I am in the city." }
+      { "languageCode": "en", "text": "I am in the city." },
+      { "languageCode": "bn", "text": "আমি শহরে আছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "in" },
@@ -352,7 +372,8 @@
     "genitive_singular": "der Kreuzung",
     "sentences": [
       { "languageCode": "de", "text": "Die Kreuzung ist gefährlich." },
-      { "languageCode": "en", "text": "The intersection is dangerous." }
+      { "languageCode": "en", "text": "The intersection is dangerous." },
+      { "languageCode": "bn", "text": "মোড়টা বিপজ্জনক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "intersection" },
@@ -369,7 +390,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Gehen Sie links." },
-      { "languageCode": "en", "text": "Go left." }
+      { "languageCode": "en", "text": "Go left." },
+      { "languageCode": "bn", "text": "বামে যান।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "left" },
@@ -387,7 +409,8 @@
     "genitive_singular": "des Meters",
     "sentences": [
       { "languageCode": "de", "text": "Es sind hundert Meter." },
-      { "languageCode": "en", "text": "It is one hundred meters." }
+      { "languageCode": "en", "text": "It is one hundred meters." },
+      { "languageCode": "bn", "text": "এটা একশো মিটার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "meter" },
@@ -402,7 +425,8 @@
     "preposition_cases": ["dative"],
     "sentences": [
       { "languageCode": "de", "text": "Ich fahre mit dem Bus." },
-      { "languageCode": "en", "text": "I travel by bus." }
+      { "languageCode": "en", "text": "I travel by bus." },
+      { "languageCode": "bn", "text": "আমি বাসে করে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "with/by" },
@@ -420,7 +444,8 @@
     "genitive_singular": "der Mitte",
     "sentences": [
       { "languageCode": "de", "text": "In der Mitte ist ein Brunnen." },
-      { "languageCode": "en", "text": "In the middle is a fountain." }
+      { "languageCode": "en", "text": "In the middle is a fountain." },
+      { "languageCode": "bn", "text": "মাঝখানে একটা ফোয়ারা আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "middle" },
@@ -435,7 +460,8 @@
     "preposition_cases": ["dative"],
     "sentences": [
       { "languageCode": "de", "text": "Wir fahren nach Berlin." },
-      { "languageCode": "en", "text": "We drive to Berlin." }
+      { "languageCode": "en", "text": "We drive to Berlin." },
+      { "languageCode": "bn", "text": "আমরা বার্লিনের দিকে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to" },
@@ -452,7 +478,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Die Schule ist nah." },
-      { "languageCode": "en", "text": "The school is close." }
+      { "languageCode": "en", "text": "The school is close." },
+      { "languageCode": "bn", "text": "স্কুলটা কাছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "close/near" },
@@ -470,7 +497,8 @@
     "genitive_singular": "der Nähe",
     "sentences": [
       { "languageCode": "de", "text": "Ich wohne in der Nähe." },
-      { "languageCode": "en", "text": "I live nearby." }
+      { "languageCode": "en", "text": "I live nearby." },
+      { "languageCode": "bn", "text": "আমি কাছাকাছি থাকি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "proximity/vicinity" },
@@ -485,7 +513,8 @@
     "preposition_cases": ["dative"],
     "sentences": [
       { "languageCode": "de", "text": "Die Bank ist neben dem Café." },
-      { "languageCode": "en", "text": "The bank is next to the café." }
+      { "languageCode": "en", "text": "The bank is next to the café." },
+      { "languageCode": "bn", "text": "ব্যাংকটা ক্যাফের পাশে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "next to" },
@@ -502,7 +531,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Mein Zimmer ist oben." },
-      { "languageCode": "en", "text": "My room is upstairs." }
+      { "languageCode": "en", "text": "My room is upstairs." },
+      { "languageCode": "bn", "text": "আমার ঘরটা উপরে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "above/upstairs" },
@@ -520,7 +550,8 @@
     "genitive_singular": "der Ortsangabe",
     "sentences": [
       { "languageCode": "de", "text": "Die Ortsangabe ist richtig." },
-      { "languageCode": "en", "text": "The location information is correct." }
+      { "languageCode": "en", "text": "The location information is correct." },
+      { "languageCode": "bn", "text": "স্থানের তথ্যটা সঠিক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "location information" },
@@ -538,7 +569,8 @@
     "genitive_singular": "des Platzes",
     "sentences": [
       { "languageCode": "de", "text": "Der Platz ist sehr schön." },
-      { "languageCode": "en", "text": "The square is very beautiful." }
+      { "languageCode": "en", "text": "The square is very beautiful." },
+      { "languageCode": "bn", "text": "চত্বরটা খুব সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "square/place" },
@@ -556,7 +588,8 @@
     "genitive_singular": "der Position",
     "sentences": [
       { "languageCode": "de", "text": "Meine Position ist gut." },
-      { "languageCode": "en", "text": "My position is good." }
+      { "languageCode": "en", "text": "My position is good." },
+      { "languageCode": "bn", "text": "আমার অবস্থান ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "position" },
@@ -573,7 +606,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Die Post ist rechts." },
-      { "languageCode": "en", "text": "The post office is on the right." }
+      { "languageCode": "en", "text": "The post office is on the right." },
+      { "languageCode": "bn", "text": "পোস্ট অফিসটা ডানে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "right" },
@@ -591,7 +625,8 @@
     "genitive_singular": "der Richtung",
     "sentences": [
       { "languageCode": "de", "text": "In welche Richtung gehen wir?" },
-      { "languageCode": "en", "text": "In which direction are we going?" }
+      { "languageCode": "en", "text": "In which direction are we going?" },
+      { "languageCode": "bn", "text": "আমরা কোন দিকে যাচ্ছি?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "direction" },
@@ -609,7 +644,8 @@
     "genitive_singular": "der Route",
     "sentences": [
       { "languageCode": "de", "text": "Diese Route ist schneller." },
-      { "languageCode": "en", "text": "This route is faster." }
+      { "languageCode": "en", "text": "This route is faster." },
+      { "languageCode": "bn", "text": "এই রুটটা দ্রুততর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "route" },
@@ -627,7 +663,8 @@
     "genitive_singular": "des Starts",
     "sentences": [
       { "languageCode": "de", "text": "Der Start ist hier." },
-      { "languageCode": "en", "text": "The start is here." }
+      { "languageCode": "en", "text": "The start is here." },
+      { "languageCode": "bn", "text": "শুরুটা এখানে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "start" },
@@ -645,7 +682,8 @@
     "genitive_singular": "der Straße",
     "sentences": [
       { "languageCode": "de", "text": "Ich wohne in dieser Straße." },
-      { "languageCode": "en", "text": "I live on this street." }
+      { "languageCode": "en", "text": "I live on this street." },
+      { "languageCode": "bn", "text": "আমি এই রাস্তায় থাকি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "street" },
@@ -663,7 +701,8 @@
     "genitive_singular": "der Tür",
     "sentences": [
       { "languageCode": "de", "text": "Die Tür ist offen." },
-      { "languageCode": "en", "text": "The door is open." }
+      { "languageCode": "en", "text": "The door is open." },
+      { "languageCode": "bn", "text": "দরজাটা খোলা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "door" },
@@ -678,7 +717,8 @@
     "preposition_cases": ["accusative", "dative"],
     "sentences": [
       { "languageCode": "de", "text": "Die Brücke ist über dem Fluss." },
-      { "languageCode": "en", "text": "The bridge is over the river." }
+      { "languageCode": "en", "text": "The bridge is over the river." },
+      { "languageCode": "bn", "text": "সেতুটা নদীর উপরে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "over/above" },
@@ -695,7 +735,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Die Küche ist unten." },
-      { "languageCode": "en", "text": "The kitchen is downstairs." }
+      { "languageCode": "en", "text": "The kitchen is downstairs." },
+      { "languageCode": "bn", "text": "রান্নাঘরটা নিচে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "below/downstairs" },
@@ -710,7 +751,8 @@
     "preposition_cases": ["accusative", "dative"],
     "sentences": [
       { "languageCode": "de", "text": "Der Hund ist unter dem Tisch." },
-      { "languageCode": "en", "text": "The dog is under the table." }
+      { "languageCode": "en", "text": "The dog is under the table." },
+      { "languageCode": "bn", "text": "কুকুরটা টেবিলের নিচে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "under" },
@@ -725,7 +767,8 @@
     "preposition_cases": ["dative"],
     "sentences": [
       { "languageCode": "de", "text": "Ich komme von der Arbeit." },
-      { "languageCode": "en", "text": "I come from work." }
+      { "languageCode": "en", "text": "I come from work." },
+      { "languageCode": "bn", "text": "আমি কাজ থেকে আসছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "from" },
@@ -740,7 +783,8 @@
     "preposition_cases": ["accusative", "dative"],
     "sentences": [
       { "languageCode": "de", "text": "Ich warte vor dem Haus." },
-      { "languageCode": "en", "text": "I wait in front of the house." }
+      { "languageCode": "en", "text": "I wait in front of the house." },
+      { "languageCode": "bn", "text": "আমি বাড়ির সামনে অপেক্ষা করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "in front of" },
@@ -757,7 +801,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich sitze vorne." },
-      { "languageCode": "en", "text": "I sit in the front." }
+      { "languageCode": "en", "text": "I sit in the front." },
+      { "languageCode": "bn", "text": "আমি সামনে বসি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "in front" },
@@ -775,7 +820,8 @@
     "genitive_singular": "des Weges",
     "sentences": [
       { "languageCode": "de", "text": "Kennen Sie den Weg?" },
-      { "languageCode": "en", "text": "Do you know the way?" }
+      { "languageCode": "en", "text": "Do you know the way?" },
+      { "languageCode": "bn", "text": "আপনি কি পথটা জানেন?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "way/path" },
@@ -793,7 +839,8 @@
     "genitive_singular": "der Wegbeschreibung",
     "sentences": [
       { "languageCode": "de", "text": "Können Sie mir eine Wegbeschreibung geben?" },
-      { "languageCode": "en", "text": "Can you give me directions?" }
+      { "languageCode": "en", "text": "Can you give me directions?" },
+      { "languageCode": "bn", "text": "আপনি কি আমাকে একটা পথনির্দেশ দিতে পারবেন?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "directions" },
@@ -810,7 +857,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Weg ist weit." },
-      { "languageCode": "en", "text": "The way is far." }
+      { "languageCode": "en", "text": "The way is far." },
+      { "languageCode": "bn", "text": "পথটা অনেক দূরে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "far" },
@@ -831,7 +879,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Können Sie mir den Weg zeigen?" },
-      { "languageCode": "en", "text": "Can you show me the way?" }
+      { "languageCode": "en", "text": "Can you show me the way?" },
+      { "languageCode": "bn", "text": "আপনি কি আমাকে পথটা দেখাতে পারবেন?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to show" },
@@ -848,7 +897,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Hotel ist zentral gelegen." },
-      { "languageCode": "en", "text": "The hotel is centrally located." }
+      { "languageCode": "en", "text": "The hotel is centrally located." },
+      { "languageCode": "bn", "text": "হোটেলটা কেন্দ্রীয়ভাবে অবস্থিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "central" },
@@ -866,7 +916,8 @@
     "genitive_singular": "des Zentrums",
     "sentences": [
       { "languageCode": "de", "text": "Das Zentrum ist belebter." },
-      { "languageCode": "en", "text": "The center is more lively." }
+      { "languageCode": "en", "text": "The center is more lively." },
+      { "languageCode": "bn", "text": "কেন্দ্রটা বেশি প্রাণবন্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "center" },
@@ -884,7 +935,8 @@
     "genitive_singular": "des Ziels",
     "sentences": [
       { "languageCode": "de", "text": "Das Ziel ist nah." },
-      { "languageCode": "en", "text": "The destination is close." }
+      { "languageCode": "en", "text": "The destination is close." },
+      { "languageCode": "bn", "text": "গন্তব্যটা কাছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "destination/goal" },
@@ -899,7 +951,8 @@
     "preposition_cases": ["dative"],
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe zu meinem Freund." },
-      { "languageCode": "en", "text": "I go to my friend." }
+      { "languageCode": "en", "text": "I go to my friend." },
+      { "languageCode": "bn", "text": "আমি আমার বন্ধুর কাছে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to" },
@@ -920,7 +973,8 @@
     "separable_prefix": "zurück",
     "sentences": [
       { "languageCode": "de", "text": "Ich finde den Weg zurück." },
-      { "languageCode": "en", "text": "I find the way back." }
+      { "languageCode": "en", "text": "I find the way back." },
+      { "languageCode": "bn", "text": "আমি ফিরে যাওয়ার পথ খুঁজে পাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to find the way back" },
@@ -935,7 +989,8 @@
     "preposition_cases": ["dative"],
     "sentences": [
       { "languageCode": "de", "text": "Das Hotel ist zwischen zwei Straßen." },
-      { "languageCode": "en", "text": "The hotel is between two streets." }
+      { "languageCode": "en", "text": "The hotel is between two streets." },
+      { "languageCode": "bn", "text": "হোটেলটা দুটো রাস্তার মধ্যে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "between" },

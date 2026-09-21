@@ -9,7 +9,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Mann ist alt." },
-      { "languageCode": "en", "text": "The man is old." }
+      { "languageCode": "en", "text": "The man is old." },
+      { "languageCode": "bn", "text": "লোকটি বুড়ো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "old" },
@@ -26,7 +27,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Pferd ist braun." },
-      { "languageCode": "en", "text": "The horse is brown." }
+      { "languageCode": "en", "text": "The horse is brown." },
+      { "languageCode": "bn", "text": "ঘোড়াটি বাদামী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "brown" },
@@ -43,7 +45,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Weg ist direkt." },
-      { "languageCode": "en", "text": "The way is direct." }
+      { "languageCode": "en", "text": "The way is direct." },
+      { "languageCode": "bn", "text": "রাস্তাটি সরাসরি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "direct" },
@@ -60,11 +63,12 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Das ist mir egal." },
-      { "languageCode": "en", "text": "That doesn't matter to me." }
+      { "languageCode": "en", "text": "That doesn't matter to me." },
+      { "languageCode": "bn", "text": "এতে আমার কিছু যায় আসে না।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "doesn't matter" },
-      { "languageCode": "bn", "text": "গুরুত্বপূর্ণ নয়" }
+      { "languageCode": "bn", "text": "কিছু যায় আসে না" }
     ]
   },
   {
@@ -77,7 +81,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Die Aufgabe ist einfach." },
-      { "languageCode": "en", "text": "The task is simple." }
+      { "languageCode": "en", "text": "The task is simple." },
+      { "languageCode": "bn", "text": "কাজটি সহজ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "simple" },
@@ -94,7 +99,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist falsch." },
-      { "languageCode": "en", "text": "That is wrong." }
+      { "languageCode": "en", "text": "That is wrong." },
+      { "languageCode": "bn", "text": "এটা ভুল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "wrong" },
@@ -111,7 +117,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Er ist faul." },
-      { "languageCode": "en", "text": "He is lazy." }
+      { "languageCode": "en", "text": "He is lazy." },
+      { "languageCode": "bn", "text": "সে অলস।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lazy" },
@@ -128,7 +135,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Kind ist fröhlich." },
-      { "languageCode": "en", "text": "The child is happy." }
+      { "languageCode": "en", "text": "The child is happy." },
+      { "languageCode": "bn", "text": "শিশুটি খুশি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "happy" },
@@ -145,7 +153,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Die Sonne ist gelb." },
-      { "languageCode": "en", "text": "The sun is yellow." }
+      { "languageCode": "en", "text": "The sun is yellow." },
+      { "languageCode": "bn", "text": "সূর্যটি হলুদ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "yellow" },
@@ -162,7 +171,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Die Uhr ist genau." },
-      { "languageCode": "en", "text": "The clock is exact." }
+      { "languageCode": "en", "text": "The clock is exact." },
+      { "languageCode": "bn", "text": "ঘড়িটি নিখুঁত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "exact" },
@@ -179,7 +189,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Himmel ist grau." },
-      { "languageCode": "en", "text": "The sky is gray." }
+      { "languageCode": "en", "text": "The sky is gray." },
+      { "languageCode": "bn", "text": "আকাশ ধূসর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "gray" },
@@ -196,7 +207,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Haus ist groß." },
-      { "languageCode": "en", "text": "The house is big." }
+      { "languageCode": "en", "text": "The house is big." },
+      { "languageCode": "bn", "text": "বাড়িটি বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "big" },
@@ -213,7 +225,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Essen ist gut." },
-      { "languageCode": "en", "text": "The food is good." }
+      { "languageCode": "en", "text": "The food is good." },
+      { "languageCode": "bn", "text": "খাবারটি ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "good" },
@@ -230,7 +243,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Bild ist hässlich." },
-      { "languageCode": "en", "text": "The picture is ugly." }
+      { "languageCode": "en", "text": "The picture is ugly." },
+      { "languageCode": "bn", "text": "ছবিটি কুৎসিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ugly" },
@@ -247,11 +261,12 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Berg ist hoch." },
-      { "languageCode": "en", "text": "The mountain is high." }
+      { "languageCode": "en", "text": "The mountain is high." },
+      { "languageCode": "bn", "text": "পাহাড়টি উঁচু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "high" },
-      { "languageCode": "bn", "text": "উচ্চ" }
+      { "languageCode": "bn", "text": "উঁচু" }
     ]
   },
   {
@@ -264,7 +279,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist ideal." },
-      { "languageCode": "en", "text": "That is ideal." }
+      { "languageCode": "en", "text": "That is ideal." },
+      { "languageCode": "bn", "text": "এটা আদর্শ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ideal" },
@@ -281,7 +297,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Mädchen ist jung." },
-      { "languageCode": "en", "text": "The girl is young." }
+      { "languageCode": "en", "text": "The girl is young." },
+      { "languageCode": "bn", "text": "মেয়েটি তরুণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "young" },
@@ -298,7 +315,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Baby ist klein." },
-      { "languageCode": "en", "text": "The baby is small." }
+      { "languageCode": "en", "text": "The baby is small." },
+      { "languageCode": "bn", "text": "শিশুটি ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "small" },
@@ -315,7 +333,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Kleid ist kurz." },
-      { "languageCode": "en", "text": "The dress is short." }
+      { "languageCode": "en", "text": "The dress is short." },
+      { "languageCode": "bn", "text": "পোশাকটি ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "short" },
@@ -332,7 +351,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Zug ist lang." },
-      { "languageCode": "en", "text": "The train is long." }
+      { "languageCode": "en", "text": "The train is long." },
+      { "languageCode": "bn", "text": "ট্রেনটি লম্বা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "long" },
@@ -349,7 +369,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Vogel ist lebendig." },
-      { "languageCode": "en", "text": "The bird is alive." }
+      { "languageCode": "en", "text": "The bird is alive." },
+      { "languageCode": "bn", "text": "পাখিটি জীবিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "alive" },
@@ -366,7 +387,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Koffer ist leicht." },
-      { "languageCode": "en", "text": "The suitcase is light." }
+      { "languageCode": "en", "text": "The suitcase is light." },
+      { "languageCode": "bn", "text": "স্যুটকেসটি হালকা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "light" },
@@ -383,7 +405,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Die Blume ist lila." },
-      { "languageCode": "en", "text": "The flower is purple." }
+      { "languageCode": "en", "text": "The flower is purple." },
+      { "languageCode": "bn", "text": "ফুলটি বেগুনি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "purple" },
@@ -400,7 +423,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist negativ." },
-      { "languageCode": "en", "text": "That is negative." }
+      { "languageCode": "en", "text": "That is negative." },
+      { "languageCode": "bn", "text": "এটা নেতিবাচক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "negative" },
@@ -417,7 +441,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Mein Auto ist neu." },
-      { "languageCode": "en", "text": "My car is new." }
+      { "languageCode": "en", "text": "My car is new." },
+      { "languageCode": "bn", "text": "আমার গাড়িটি নতুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "new" },
@@ -434,7 +459,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist normal." },
-      { "languageCode": "en", "text": "That is normal." }
+      { "languageCode": "en", "text": "That is normal." },
+      { "languageCode": "bn", "text": "এটা স্বাভাবিক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "normal" },
@@ -451,7 +477,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Die Orange ist orange." },
-      { "languageCode": "en", "text": "The orange is orange." }
+      { "languageCode": "en", "text": "The orange is orange." },
+      { "languageCode": "bn", "text": "কমলাটি কমলা রঙের।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "orange" },
@@ -468,7 +495,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist perfekt." },
-      { "languageCode": "en", "text": "That is perfect." }
+      { "languageCode": "en", "text": "That is perfect." },
+      { "languageCode": "bn", "text": "এটা নিখুঁত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "perfect" },
@@ -485,7 +513,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin positiv." },
-      { "languageCode": "en", "text": "I am positive." }
+      { "languageCode": "en", "text": "I am positive." },
+      { "languageCode": "bn", "text": "আমি ইতিবাচক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "positive" },
@@ -502,7 +531,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Die Antwort ist richtig." },
-      { "languageCode": "en", "text": "The answer is correct." }
+      { "languageCode": "en", "text": "The answer is correct." },
+      { "languageCode": "bn", "text": "উত্তরটি সঠিক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "correct" },
@@ -519,7 +549,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Ball ist rund." },
-      { "languageCode": "en", "text": "The ball is round." }
+      { "languageCode": "en", "text": "The ball is round." },
+      { "languageCode": "bn", "text": "বলটি গোল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "round" },
@@ -536,7 +567,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Zimmer ist sauber." },
-      { "languageCode": "en", "text": "The room is clean." }
+      { "languageCode": "en", "text": "The room is clean." },
+      { "languageCode": "bn", "text": "ঘরটি পরিষ্কার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "clean" },
@@ -553,7 +585,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Wetter ist schlecht." },
-      { "languageCode": "en", "text": "The weather is bad." }
+      { "languageCode": "en", "text": "The weather is bad." },
+      { "languageCode": "bn", "text": "আবহাওয়া খারাপ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bad" },
@@ -570,7 +603,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Wetter ist schön." },
-      { "languageCode": "en", "text": "The weather is beautiful." }
+      { "languageCode": "en", "text": "The weather is beautiful." },
+      { "languageCode": "bn", "text": "আবহাওয়া সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "beautiful" },
@@ -587,7 +621,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Die Katze ist schwarz." },
-      { "languageCode": "en", "text": "The cat is black." }
+      { "languageCode": "en", "text": "The cat is black." },
+      { "languageCode": "bn", "text": "বিড়ালটি কালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "black" },
@@ -604,7 +639,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Stein ist schwer." },
-      { "languageCode": "en", "text": "The stone is heavy." }
+      { "languageCode": "en", "text": "The stone is heavy." },
+      { "languageCode": "bn", "text": "পাথরটি ভারী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "heavy" },
@@ -621,7 +657,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Das ist tatsächlich richtig." },
-      { "languageCode": "en", "text": "That is actually correct." }
+      { "languageCode": "en", "text": "That is actually correct." },
+      { "languageCode": "bn", "text": "এটা আসলেই সঠিক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "actually" },
@@ -638,7 +675,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Das ist top!" },
-      { "languageCode": "en", "text": "That is great!" }
+      { "languageCode": "en", "text": "That is great!" },
+      { "languageCode": "bn", "text": "এটা দারুণ!" }
     ],
     "translations": [
       { "languageCode": "en", "text": "great" },
@@ -655,7 +693,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Das ist total schön." },
-      { "languageCode": "en", "text": "That is totally beautiful." }
+      { "languageCode": "en", "text": "That is totally beautiful." },
+      { "languageCode": "bn", "text": "এটা সম্পূর্ণভাবে সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "totally" },
@@ -672,7 +711,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Schnee ist weiß." },
-      { "languageCode": "en", "text": "The snow is white." }
+      { "languageCode": "en", "text": "The snow is white." },
+      { "languageCode": "bn", "text": "তুষার সাদা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "white" },
@@ -689,7 +729,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Das ist wirklich gut." },
-      { "languageCode": "en", "text": "That is really good." }
+      { "languageCode": "en", "text": "That is really good." },
+      { "languageCode": "bn", "text": "এটা সত্যিই ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "really" },
@@ -706,7 +747,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin zufrieden." },
-      { "languageCode": "en", "text": "I am satisfied." }
+      { "languageCode": "en", "text": "I am satisfied." },
+      { "languageCode": "bn", "text": "আমি সন্তুষ্ট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "satisfied" },

@@ -10,7 +10,8 @@
     "genitive_singular": "des Absenders",
     "sentences": [
       { "languageCode": "de", "text": "Der Absender ist unbekannt." },
-      { "languageCode": "en", "text": "The sender is unknown." }
+      { "languageCode": "en", "text": "The sender is unknown." },
+      { "languageCode": "bn", "text": "প্রেরক অজানা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sender" },
@@ -28,7 +29,8 @@
     "genitive_singular": "des Akkus",
     "sentences": [
       { "languageCode": "de", "text": "Der Akku ist leer." },
-      { "languageCode": "en", "text": "The battery is empty." }
+      { "languageCode": "en", "text": "The battery is empty." },
+      { "languageCode": "bn", "text": "ব্যাটারিটা খালি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "battery" },
@@ -46,7 +48,8 @@
     "genitive_singular": "des Anrufs",
     "sentences": [
       { "languageCode": "de", "text": "Der Anruf ist wichtig." },
-      { "languageCode": "en", "text": "The call is important." }
+      { "languageCode": "en", "text": "The call is important." },
+      { "languageCode": "bn", "text": "কলটা গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "call" },
@@ -64,7 +67,8 @@
     "genitive_singular": "des Anschlusses",
     "sentences": [
       { "languageCode": "de", "text": "Der Anschluss funktioniert gut." },
-      { "languageCode": "en", "text": "The connection works well." }
+      { "languageCode": "en", "text": "The connection works well." },
+      { "languageCode": "bn", "text": "সংযোগটা ভালোভাবে কাজ করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "connection" },
@@ -82,7 +86,8 @@
     "genitive_singular": "des Blogs",
     "sentences": [
       { "languageCode": "de", "text": "Ich lese einen Blog." },
-      { "languageCode": "en", "text": "I read a blog." }
+      { "languageCode": "en", "text": "I read a blog." },
+      { "languageCode": "bn", "text": "আমি একটা ব্লগ পড়ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "blog" },
@@ -100,7 +105,8 @@
     "genitive_singular": "des Computers",
     "sentences": [
       { "languageCode": "de", "text": "Der Computer ist neu." },
-      { "languageCode": "en", "text": "The computer is new." }
+      { "languageCode": "en", "text": "The computer is new." },
+      { "languageCode": "bn", "text": "কম্পিউটারটা নতুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "computer" },
@@ -118,7 +124,8 @@
     "genitive_singular": "der Computerarbeit",
     "sentences": [
       { "languageCode": "de", "text": "Die Computerarbeit ist schwer." },
-      { "languageCode": "en", "text": "The computer work is difficult." }
+      { "languageCode": "en", "text": "The computer work is difficult." },
+      { "languageCode": "bn", "text": "কম্পিউটারের কাজটা কঠিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "computer work" },
@@ -136,7 +143,8 @@
     "genitive_singular": "der Computerfirma",
     "sentences": [
       { "languageCode": "de", "text": "Die Computerfirma ist groß." },
-      { "languageCode": "en", "text": "The computer company is large." }
+      { "languageCode": "en", "text": "The computer company is large." },
+      { "languageCode": "bn", "text": "কম্পিউটার কোম্পানিটা বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "computer company" },
@@ -154,7 +162,8 @@
     "genitive_singular": "des Computerproblems",
     "sentences": [
       { "languageCode": "de", "text": "Das Computerproblem ist schwer." },
-      { "languageCode": "en", "text": "The computer problem is difficult." }
+      { "languageCode": "en", "text": "The computer problem is difficult." },
+      { "languageCode": "bn", "text": "কম্পিউটারের সমস্যাটা জটিল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "computer problem" },
@@ -172,7 +181,8 @@
     "genitive_singular": "der Datei",
     "sentences": [
       { "languageCode": "de", "text": "Die Datei ist groß." },
-      { "languageCode": "en", "text": "The file is large." }
+      { "languageCode": "en", "text": "The file is large." },
+      { "languageCode": "bn", "text": "ফাইলটা বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "file" },
@@ -193,7 +203,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich drucke das Dokument." },
-      { "languageCode": "en", "text": "I print the document." }
+      { "languageCode": "en", "text": "I print the document." },
+      { "languageCode": "bn", "text": "আমি ডকুমেন্টটা প্রিন্ট করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to print" },
@@ -211,7 +222,8 @@
     "genitive_singular": "des Druckers",
     "sentences": [
       { "languageCode": "de", "text": "Der Drucker funktioniert nicht." },
-      { "languageCode": "en", "text": "The printer doesn't work." }
+      { "languageCode": "en", "text": "The printer doesn't work." },
+      { "languageCode": "bn", "text": "প্রিন্টারটা কাজ করছে না।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "printer" },
@@ -229,7 +241,8 @@
     "genitive_singular": "der Durchwahl",
     "sentences": [
       { "languageCode": "de", "text": "Die Durchwahl ist 123." },
-      { "languageCode": "en", "text": "The extension is 123." }
+      { "languageCode": "en", "text": "The extension is 123." },
+      { "languageCode": "bn", "text": "এক্সটেনশন নম্বরটি ১২৩।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "extension" },
@@ -247,7 +260,8 @@
     "genitive_singular": "der E-Mail-Adresse",
     "sentences": [
       { "languageCode": "de", "text": "Wie ist Ihre E-Mail-Adresse?" },
-      { "languageCode": "en", "text": "What is your email address?" }
+      { "languageCode": "en", "text": "What is your email address?" },
+      { "languageCode": "bn", "text": "আপনার ইমেইল ঠিকানা কী?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "email address" },
@@ -268,7 +282,8 @@
     "separable_prefix": "ein",
     "sentences": [
       { "languageCode": "de", "text": "Ich gebe die Nummer ein." },
-      { "languageCode": "en", "text": "I enter the number." }
+      { "languageCode": "en", "text": "I enter the number." },
+      { "languageCode": "bn", "text": "আমি নম্বরটা দিচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to enter/input" },
@@ -286,7 +301,8 @@
     "genitive_singular": "der Einladungsmail",
     "sentences": [
       { "languageCode": "de", "text": "Die Einladungsmail ist freundlich." },
-      { "languageCode": "en", "text": "The invitation email is friendly." }
+      { "languageCode": "en", "text": "The invitation email is friendly." },
+      { "languageCode": "bn", "text": "আমন্ত্রণ ইমেইলটা বন্ধুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "invitation email" },
@@ -304,7 +320,8 @@
     "genitive_singular": "des Eintrags",
     "sentences": [
       { "languageCode": "de", "text": "Der Eintrag ist interessant." },
-      { "languageCode": "en", "text": "The entry is interesting." }
+      { "languageCode": "en", "text": "The entry is interesting." },
+      { "languageCode": "bn", "text": "এন্ট্রিটা আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "entry" },
@@ -322,7 +339,8 @@
     "genitive_singular": "des Empfängers",
     "sentences": [
       { "languageCode": "de", "text": "Der Empfänger bekommt die E-Mail." },
-      { "languageCode": "en", "text": "The recipient receives the email." }
+      { "languageCode": "en", "text": "The recipient receives the email." },
+      { "languageCode": "bn", "text": "গ্রহীতা ইমেইলটা পান।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "recipient" },
@@ -340,7 +358,8 @@
     "genitive_singular": "der Empfängerin",
     "sentences": [
       { "languageCode": "de", "text": "Die Empfängerin liest die Nachricht." },
-      { "languageCode": "en", "text": "The recipient reads the message." }
+      { "languageCode": "en", "text": "The recipient reads the message." },
+      { "languageCode": "bn", "text": "গ্রহীতা বার্তাটা পড়েন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "recipient (female)" },
@@ -358,7 +377,8 @@
     "genitive_singular": "des Experiments",
     "sentences": [
       { "languageCode": "de", "text": "Das Experiment ist erfolgreich." },
-      { "languageCode": "en", "text": "The experiment is successful." }
+      { "languageCode": "en", "text": "The experiment is successful." },
+      { "languageCode": "bn", "text": "পরীক্ষাটা সফল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "experiment" },
@@ -376,7 +396,8 @@
     "genitive_singular": "des Gesprächs",
     "sentences": [
       { "languageCode": "de", "text": "Das Gespräch dauert lange." },
-      { "languageCode": "en", "text": "The conversation lasts long." }
+      { "languageCode": "en", "text": "The conversation lasts long." },
+      { "languageCode": "bn", "text": "কথোপকথনটা অনেকক্ষণ ধরে চলে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "conversation" },
@@ -394,7 +415,8 @@
     "genitive_singular": "des Handys",
     "sentences": [
       { "languageCode": "de", "text": "Mein Handy ist kaputt." },
-      { "languageCode": "en", "text": "My mobile phone is broken." }
+      { "languageCode": "en", "text": "My mobile phone is broken." },
+      { "languageCode": "bn", "text": "আমার মোবাইল ফোনটা নষ্ট হয়ে গেছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "mobile phone" },
@@ -412,7 +434,8 @@
     "genitive_singular": "des Handy-Akkus",
     "sentences": [
       { "languageCode": "de", "text": "Der Handy-Akku ist fast leer." },
-      { "languageCode": "en", "text": "The mobile phone battery is almost empty." }
+      { "languageCode": "en", "text": "The mobile phone battery is almost empty." },
+      { "languageCode": "bn", "text": "মোবাইল ফোনের ব্যাটারি প্রায় শেষ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "mobile phone battery" },
@@ -430,7 +453,8 @@
     "genitive_singular": "der Handynummer",
     "sentences": [
       { "languageCode": "de", "text": "Meine Handynummer ist 123456789." },
-      { "languageCode": "en", "text": "My mobile number is 123456789." }
+      { "languageCode": "en", "text": "My mobile number is 123456789." },
+      { "languageCode": "bn", "text": "আমার মোবাইল নম্বর ১২৩৪৫৬৭৮৯।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "mobile number" },
@@ -448,7 +472,8 @@
     "genitive_singular": "der Homepage",
     "sentences": [
       { "languageCode": "de", "text": "Die Homepage ist sehr schön." },
-      { "languageCode": "en", "text": "The homepage is very beautiful." }
+      { "languageCode": "en", "text": "The homepage is very beautiful." },
+      { "languageCode": "bn", "text": "হোমপেজটা খুব সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "homepage" },
@@ -466,7 +491,8 @@
     "genitive_singular": "der Kamera",
     "sentences": [
       { "languageCode": "de", "text": "Die Kamera macht gute Fotos." },
-      { "languageCode": "en", "text": "The camera takes good photos." }
+      { "languageCode": "en", "text": "The camera takes good photos." },
+      { "languageCode": "bn", "text": "ক্যামেরাটা ভালো ছবি তোলে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "camera" },
@@ -484,7 +510,8 @@
     "genitive_singular": "des Kursplakats",
     "sentences": [
       { "languageCode": "de", "text": "Das Kursplakat ist bunt." },
-      { "languageCode": "en", "text": "The course poster is colorful." }
+      { "languageCode": "en", "text": "The course poster is colorful." },
+      { "languageCode": "bn", "text": "কোর্সের পোস্টারটা রঙিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "course poster" },
@@ -502,7 +529,8 @@
     "genitive_singular": "der Mail",
     "sentences": [
       { "languageCode": "de", "text": "Die Mail ist angekommen." },
-      { "languageCode": "en", "text": "The email has arrived." }
+      { "languageCode": "en", "text": "The email has arrived." },
+      { "languageCode": "bn", "text": "ইমেইলটা এসে পৌঁছেছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "email" },
@@ -523,7 +551,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich maile dir die Datei." },
-      { "languageCode": "en", "text": "I email the file to you." }
+      { "languageCode": "en", "text": "I email the file to you." },
+      { "languageCode": "bn", "text": "আমি তোমাকে ফাইলটা ইমেইল করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to email" },
@@ -541,7 +570,8 @@
     "genitive_singular": "der Nachricht",
     "sentences": [
       { "languageCode": "de", "text": "Ich bekomme eine Nachricht." },
-      { "languageCode": "en", "text": "I receive a message." }
+      { "languageCode": "en", "text": "I receive a message." },
+      { "languageCode": "bn", "text": "আমি একটা বার্তা পাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "message" },
@@ -562,7 +592,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich schicke eine E-Mail." },
-      { "languageCode": "en", "text": "I send an email." }
+      { "languageCode": "en", "text": "I send an email." },
+      { "languageCode": "bn", "text": "আমি একটা ইমেইল পাঠাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to send" },
@@ -580,7 +611,8 @@
     "genitive_singular": "der Sprachnachricht",
     "sentences": [
       { "languageCode": "de", "text": "Ich höre eine Sprachnachricht." },
-      { "languageCode": "en", "text": "I listen to a voice message." }
+      { "languageCode": "en", "text": "I listen to a voice message." },
+      { "languageCode": "bn", "text": "আমি একটা ভয়েস মেসেজ শুনছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "voice message" },
@@ -598,7 +630,8 @@
     "genitive_singular": "der Technik",
     "sentences": [
       { "languageCode": "de", "text": "Die Technik ist modern." },
-      { "languageCode": "en", "text": "The technology is modern." }
+      { "languageCode": "en", "text": "The technology is modern." },
+      { "languageCode": "bn", "text": "প্রযুক্তিটা আধুনিক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "technology" },
@@ -616,7 +649,8 @@
     "genitive_singular": "des Telefons",
     "sentences": [
       { "languageCode": "de", "text": "Das Telefon klingelt." },
-      { "languageCode": "en", "text": "The telephone is ringing." }
+      { "languageCode": "en", "text": "The telephone is ringing." },
+      { "languageCode": "bn", "text": "টেলিফোনটা বাজছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "telephone" },
@@ -637,7 +671,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich telefoniere mit meiner Mutter." },
-      { "languageCode": "en", "text": "I am calling my mother." }
+      { "languageCode": "en", "text": "I am calling my mother." },
+      { "languageCode": "bn", "text": "আমি আমার মায়ের সাথে ফোনে কথা বলছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to call/telephone" },
@@ -655,7 +690,8 @@
     "genitive_singular": "der Unterschrift",
     "sentences": [
       { "languageCode": "de", "text": "Ich brauche Ihre Unterschrift." },
-      { "languageCode": "en", "text": "I need your signature." }
+      { "languageCode": "en", "text": "I need your signature." },
+      { "languageCode": "bn", "text": "আমার আপনার স্বাক্ষর প্রয়োজন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "signature" },
@@ -673,7 +709,8 @@
     "genitive_singular": "des USB-Sticks",
     "sentences": [
       { "languageCode": "de", "text": "Der USB-Stick ist klein." },
-      { "languageCode": "en", "text": "The USB stick is small." }
+      { "languageCode": "en", "text": "The USB stick is small." },
+      { "languageCode": "bn", "text": "ইউএসবি স্টিকটা ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "USB stick" },

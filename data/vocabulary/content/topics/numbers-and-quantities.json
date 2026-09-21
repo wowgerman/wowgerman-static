@@ -6,7 +6,8 @@
     "word": "null",
     "sentences": [
       { "languageCode": "de", "text": "Die Nummer ist null." },
-      { "languageCode": "en", "text": "The number is zero." }
+      { "languageCode": "en", "text": "The number is zero." },
+      { "languageCode": "bn", "text": "সংখ্যাটা শূন্য।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "zero" },
@@ -21,7 +22,8 @@
     "word": "eins",
     "sentences": [
       { "languageCode": "de", "text": "Ich habe nur eins." },
-      { "languageCode": "en", "text": "I have only one." }
+      { "languageCode": "en", "text": "I have only one." },
+      { "languageCode": "bn", "text": "আমার কাছে মাত্র একটাই আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "one" },
@@ -36,7 +38,8 @@
     "word": "zwei",
     "sentences": [
       { "languageCode": "de", "text": "Wir brauchen zwei Stühle." },
-      { "languageCode": "en", "text": "We need two chairs." }
+      { "languageCode": "en", "text": "We need two chairs." },
+      { "languageCode": "bn", "text": "আমাদের দুইটা চেয়ার দরকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "two" },
@@ -51,7 +54,8 @@
     "word": "sechs",
     "sentences": [
       { "languageCode": "de", "text": "Das Kind ist sechs Jahre alt." },
-      { "languageCode": "en", "text": "The child is six years old." }
+      { "languageCode": "en", "text": "The child is six years old." },
+      { "languageCode": "bn", "text": "শিশুটির বয়স ছয় বছর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "six" },
@@ -66,7 +70,8 @@
     "word": "sieben",
     "sentences": [
       { "languageCode": "de", "text": "Die Woche hat sieben Tage." },
-      { "languageCode": "en", "text": "The week has seven days." }
+      { "languageCode": "en", "text": "The week has seven days." },
+      { "languageCode": "bn", "text": "সপ্তাহে সাত দিন থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "seven" },
@@ -81,7 +86,8 @@
     "word": "zehn",
     "sentences": [
       { "languageCode": "de", "text": "Ich kaufe zehn Äpfel." },
-      { "languageCode": "en", "text": "I buy ten apples." }
+      { "languageCode": "en", "text": "I buy ten apples." },
+      { "languageCode": "bn", "text": "আমি দশটা আপেল কিনছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ten" },
@@ -96,7 +102,8 @@
     "word": "elf",
     "sentences": [
       { "languageCode": "de", "text": "Es ist elf Uhr." },
-      { "languageCode": "en", "text": "It is eleven o'clock." }
+      { "languageCode": "en", "text": "It is eleven o'clock." },
+      { "languageCode": "bn", "text": "এখন এগারোটা বাজে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "eleven" },
@@ -111,7 +118,8 @@
     "word": "zwölf",
     "sentences": [
       { "languageCode": "de", "text": "Das Jahr hat zwölf Monate." },
-      { "languageCode": "en", "text": "The year has twelve months." }
+      { "languageCode": "en", "text": "The year has twelve months." },
+      { "languageCode": "bn", "text": "বছরে বারো মাস থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "twelve" },
@@ -126,7 +134,8 @@
     "word": "sechzehn",
     "sentences": [
       { "languageCode": "de", "text": "Sie ist sechzehn Jahre alt." },
-      { "languageCode": "en", "text": "She is sixteen years old." }
+      { "languageCode": "en", "text": "She is sixteen years old." },
+      { "languageCode": "bn", "text": "তার বয়স ষোলো বছর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sixteen" },
@@ -141,7 +150,8 @@
     "word": "siebzehn",
     "sentences": [
       { "languageCode": "de", "text": "Er wohnt in Hausnummer siebzehn." },
-      { "languageCode": "en", "text": "He lives at house number seventeen." }
+      { "languageCode": "en", "text": "He lives at house number seventeen." },
+      { "languageCode": "bn", "text": "সে সতেরো নম্বর বাড়িতে থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "seventeen" },
@@ -156,7 +166,8 @@
     "word": "zwanzig",
     "sentences": [
       { "languageCode": "de", "text": "Das Ticket kostet zwanzig Euro." },
-      { "languageCode": "en", "text": "The ticket costs twenty euros." }
+      { "languageCode": "en", "text": "The ticket costs twenty euros." },
+      { "languageCode": "bn", "text": "টিকিটের দাম বিশ ইউরো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "twenty" },
@@ -171,11 +182,12 @@
     "word": "neunundzwanzig",
     "sentences": [
       { "languageCode": "de", "text": "Ich bin neunundzwanzig Jahre alt." },
-      { "languageCode": "en", "text": "I am twenty-nine years old." }
+      { "languageCode": "en", "text": "I am twenty-nine years old." },
+      { "languageCode": "bn", "text": "আমার বয়স ঊনত্রিশ বছর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "twenty-nine" },
-      { "languageCode": "bn", "text": "উনত্রিশ" }
+      { "languageCode": "bn", "text": "ঊনত্রিশ" }
     ],
     "image": "data/vocabulary/images/numbers-and-quantities/twenty-nine.png"
   },
@@ -186,7 +198,8 @@
     "word": "dreißig",
     "sentences": [
       { "languageCode": "de", "text": "Der Bus kommt in dreißig Minuten." },
-      { "languageCode": "en", "text": "The bus comes in thirty minutes." }
+      { "languageCode": "en", "text": "The bus comes in thirty minutes." },
+      { "languageCode": "bn", "text": "বাসটা ত্রিশ মিনিটে আসবে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "thirty" },
@@ -201,7 +214,8 @@
     "word": "vierzig",
     "sentences": [
       { "languageCode": "de", "text": "Meine Mutter ist vierzig Jahre alt." },
-      { "languageCode": "en", "text": "My mother is forty years old." }
+      { "languageCode": "en", "text": "My mother is forty years old." },
+      { "languageCode": "bn", "text": "আমার মায়ের বয়স চল্লিশ বছর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "forty" },
@@ -216,7 +230,8 @@
     "word": "fünfzig",
     "sentences": [
       { "languageCode": "de", "text": "Das Buch hat fünfzig Seiten." },
-      { "languageCode": "en", "text": "The book has fifty pages." }
+      { "languageCode": "en", "text": "The book has fifty pages." },
+      { "languageCode": "bn", "text": "বইটাতে পঞ্চাশ পৃষ্ঠা আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fifty" },
@@ -231,7 +246,8 @@
     "word": "sechzig",
     "sentences": [
       { "languageCode": "de", "text": "Eine Stunde hat sechzig Minuten." },
-      { "languageCode": "en", "text": "One hour has sixty minutes." }
+      { "languageCode": "en", "text": "One hour has sixty minutes." },
+      { "languageCode": "bn", "text": "এক ঘণ্টায় ষাট মিনিট থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sixty" },
@@ -246,7 +262,8 @@
     "word": "siebzig",
     "sentences": [
       { "languageCode": "de", "text": "Der Großvater ist siebzig Jahre alt." },
-      { "languageCode": "en", "text": "The grandfather is seventy years old." }
+      { "languageCode": "en", "text": "The grandfather is seventy years old." },
+      { "languageCode": "bn", "text": "দাদার বয়স সত্তর বছর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "seventy" },
@@ -261,7 +278,8 @@
     "word": "achtzig",
     "sentences": [
       { "languageCode": "de", "text": "Die Straße ist achtzig Meter lang." },
-      { "languageCode": "en", "text": "The street is eighty meters long." }
+      { "languageCode": "en", "text": "The street is eighty meters long." },
+      { "languageCode": "bn", "text": "রাস্তাটা আশি মিটার লম্বা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "eighty" },
@@ -276,7 +294,8 @@
     "word": "neunzig",
     "sentences": [
       { "languageCode": "de", "text": "Das Auto fährt neunzig Kilometer pro Stunde." },
-      { "languageCode": "en", "text": "The car drives ninety kilometers per hour." }
+      { "languageCode": "en", "text": "The car drives ninety kilometers per hour." },
+      { "languageCode": "bn", "text": "গাড়িটা ঘণ্টায় নব্বই কিলোমিটার বেগে চলে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ninety" },
@@ -291,7 +310,8 @@
     "word": "hundert",
     "sentences": [
       { "languageCode": "de", "text": "Im Saal sind hundert Leute." },
-      { "languageCode": "en", "text": "There are a hundred people in the hall." }
+      { "languageCode": "en", "text": "There are a hundred people in the hall." },
+      { "languageCode": "bn", "text": "হলঘরে একশো লোক আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hundred" },
@@ -306,7 +326,8 @@
     "word": "zweihundert",
     "sentences": [
       { "languageCode": "de", "text": "Das Hotel hat zweihundert Zimmer." },
-      { "languageCode": "en", "text": "The hotel has two hundred rooms." }
+      { "languageCode": "en", "text": "The hotel has two hundred rooms." },
+      { "languageCode": "bn", "text": "হোটেলটাতে দুইশো কক্ষ আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "two hundred" },
@@ -321,7 +342,8 @@
     "word": "tausend",
     "sentences": [
       { "languageCode": "de", "text": "Tausend Menschen warten draußen." },
-      { "languageCode": "en", "text": "A thousand people are waiting outside." }
+      { "languageCode": "en", "text": "A thousand people are waiting outside." },
+      { "languageCode": "bn", "text": "বাইরে হাজার মানুষ অপেক্ষা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "thousand" },
@@ -336,7 +358,8 @@
     "word": "zehntausend",
     "sentences": [
       { "languageCode": "de", "text": "Die Stadt hat zehntausend Einwohner." },
-      { "languageCode": "en", "text": "The city has ten thousand residents." }
+      { "languageCode": "en", "text": "The city has ten thousand residents." },
+      { "languageCode": "bn", "text": "শহরটাতে দশ হাজার বাসিন্দা আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ten thousand" },
@@ -355,7 +378,8 @@
     "genitive_singular": "der Million",
     "sentences": [
       { "languageCode": "de", "text": "Die Stadt hat eine Million Einwohner." },
-      { "languageCode": "en", "text": "The city has one million residents." }
+      { "languageCode": "en", "text": "The city has one million residents." },
+      { "languageCode": "bn", "text": "শহরটাতে এক মিলিয়ন বাসিন্দা আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "million" },
@@ -374,7 +398,8 @@
     "genitive_singular": "der Milliarde",
     "sentences": [
       { "languageCode": "de", "text": "Das kostet eine Milliarde Euro." },
-      { "languageCode": "en", "text": "That costs one billion euros." }
+      { "languageCode": "en", "text": "That costs one billion euros." },
+      { "languageCode": "bn", "text": "এটার দাম এক বিলিয়ন ইউরো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "billion" },
@@ -389,7 +414,8 @@
     "word": "erste",
     "sentences": [
       { "languageCode": "de", "text": "Das ist die erste Seite." },
-      { "languageCode": "en", "text": "That is the first page." }
+      { "languageCode": "en", "text": "That is the first page." },
+      { "languageCode": "bn", "text": "এটা প্রথম পৃষ্ঠা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "first" },
@@ -404,7 +430,8 @@
     "word": "zweite",
     "sentences": [
       { "languageCode": "de", "text": "Wir wohnen im zweiten Stock." },
-      { "languageCode": "en", "text": "We live on the second floor." }
+      { "languageCode": "en", "text": "We live on the second floor." },
+      { "languageCode": "bn", "text": "আমরা দ্বিতীয় তলায় থাকি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "second" },
@@ -419,7 +446,8 @@
     "word": "dritte",
     "sentences": [
       { "languageCode": "de", "text": "Er ist der dritte Gast." },
-      { "languageCode": "en", "text": "He is the third guest." }
+      { "languageCode": "en", "text": "He is the third guest." },
+      { "languageCode": "bn", "text": "সে তৃতীয় অতিথি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "third" },
@@ -434,7 +462,8 @@
     "word": "vierte",
     "sentences": [
       { "languageCode": "de", "text": "Heute ist der vierte Mai." },
-      { "languageCode": "en", "text": "Today is the fourth of May." }
+      { "languageCode": "en", "text": "Today is the fourth of May." },
+      { "languageCode": "bn", "text": "আজ মে মাসের চার তারিখ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fourth" },
@@ -449,7 +478,8 @@
     "word": "fünfte",
     "sentences": [
       { "languageCode": "de", "text": "Das ist mein fünftes Buch." },
-      { "languageCode": "en", "text": "That is my fifth book." }
+      { "languageCode": "en", "text": "That is my fifth book." },
+      { "languageCode": "bn", "text": "এটা আমার পঞ্চম বই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fifth" },
@@ -464,7 +494,8 @@
     "word": "sechste",
     "sentences": [
       { "languageCode": "de", "text": "Die sechste Stunde beginnt jetzt." },
-      { "languageCode": "en", "text": "The sixth period starts now." }
+      { "languageCode": "en", "text": "The sixth period starts now." },
+      { "languageCode": "bn", "text": "ষষ্ঠ পিরিয়ড এখন শুরু হচ্ছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sixth" },
@@ -479,7 +510,8 @@
     "word": "siebte",
     "sentences": [
       { "languageCode": "de", "text": "Das ist die siebte Frage." },
-      { "languageCode": "en", "text": "That is the seventh question." }
+      { "languageCode": "en", "text": "That is the seventh question." },
+      { "languageCode": "bn", "text": "এটা সপ্তম প্রশ্ন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "seventh" },
@@ -494,7 +526,8 @@
     "word": "achte",
     "sentences": [
       { "languageCode": "de", "text": "Wir treffen uns am achten." },
-      { "languageCode": "en", "text": "We meet on the eighth." }
+      { "languageCode": "en", "text": "We meet on the eighth." },
+      { "languageCode": "bn", "text": "আমরা আট তারিখে দেখা করব।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "eighth" },
@@ -509,7 +542,8 @@
     "word": "neunte",
     "sentences": [
       { "languageCode": "de", "text": "Das ist die neunte Lektion." },
-      { "languageCode": "en", "text": "That is the ninth lesson." }
+      { "languageCode": "en", "text": "That is the ninth lesson." },
+      { "languageCode": "bn", "text": "এটা নবম পাঠ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ninth" },
@@ -524,7 +558,8 @@
     "word": "zehnte",
     "sentences": [
       { "languageCode": "de", "text": "Er gewinnt den zehnten Preis." },
-      { "languageCode": "en", "text": "He wins the tenth prize." }
+      { "languageCode": "en", "text": "He wins the tenth prize." },
+      { "languageCode": "bn", "text": "সে দশম পুরস্কার জিতেছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tenth" },
@@ -544,7 +579,8 @@
     "genitive": "aller",
     "sentences": [
       { "languageCode": "de", "text": "Alle Kinder sind da." },
-      { "languageCode": "en", "text": "All children are there." }
+      { "languageCode": "en", "text": "All children are there." },
+      { "languageCode": "bn", "text": "সব শিশু এখানে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "all" },
@@ -564,7 +600,8 @@
     "genitive": "beider",
     "sentences": [
       { "languageCode": "de", "text": "Beide Bücher sind gut." },
-      { "languageCode": "en", "text": "Both books are good." }
+      { "languageCode": "en", "text": "Both books are good." },
+      { "languageCode": "bn", "text": "দুটো বইই ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "both" },
@@ -582,7 +619,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Es kostet circa zehn Euro." },
-      { "languageCode": "en", "text": "It costs approximately ten euros." }
+      { "languageCode": "en", "text": "It costs approximately ten euros." },
+      { "languageCode": "bn", "text": "এর দাম প্রায় দশ ইউরো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "approximately" },
@@ -602,7 +640,8 @@
     "genitive": "etwas",
     "sentences": [
       { "languageCode": "de", "text": "Ich brauche etwas Hilfe." },
-      { "languageCode": "en", "text": "I need some help." }
+      { "languageCode": "en", "text": "I need some help." },
+      { "languageCode": "bn", "text": "আমার কিছু সাহায্য দরকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "something, some" },
@@ -620,7 +659,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich habe wenig Zeit." },
-      { "languageCode": "en", "text": "I have little time." }
+      { "languageCode": "en", "text": "I have little time." },
+      { "languageCode": "bn", "text": "আমার হাতে সময় কম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "little, few" },
@@ -638,7 +678,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich möchte extra Käse." },
-      { "languageCode": "en", "text": "I want extra cheese." }
+      { "languageCode": "en", "text": "I want extra cheese." },
+      { "languageCode": "bn", "text": "আমি অতিরিক্ত পনির চাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "extra" },
@@ -656,7 +697,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich möchte mehr Wasser." },
-      { "languageCode": "en", "text": "I want more water." }
+      { "languageCode": "en", "text": "I want more water." },
+      { "languageCode": "bn", "text": "আমি আরো পানি চাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "more" },
@@ -674,7 +716,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Wie viel kostet das?" },
-      { "languageCode": "en", "text": "How much does it cost?" }
+      { "languageCode": "en", "text": "How much does it cost?" },
+      { "languageCode": "bn", "text": "এটার দাম কত?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "much, many" },
@@ -692,7 +735,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Glas ist voll." },
-      { "languageCode": "en", "text": "The glass is full." }
+      { "languageCode": "en", "text": "The glass is full." },
+      { "languageCode": "bn", "text": "গ্লাসটা পূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "full" },
@@ -708,7 +752,8 @@
     "preposition_cases": ["accusative"],
     "sentences": [
       { "languageCode": "de", "text": "Ich trinke Kaffee ohne Zucker." },
-      { "languageCode": "en", "text": "I drink coffee without sugar." }
+      { "languageCode": "en", "text": "I drink coffee without sugar." },
+      { "languageCode": "bn", "text": "আমি চিনি ছাড়া কফি পান করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "without" },
@@ -724,7 +769,8 @@
     "preposition_cases": ["nominative"],
     "sentences": [
       { "languageCode": "de", "text": "Zwei plus drei ist fünf." },
-      { "languageCode": "en", "text": "Two plus three is five." }
+      { "languageCode": "en", "text": "Two plus three is five." },
+      { "languageCode": "bn", "text": "দুই যোগ তিন সমান পাঁচ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "plus" },
@@ -740,7 +786,8 @@
     "preposition_cases": ["nominative"],
     "sentences": [
       { "languageCode": "de", "text": "Zehn minus drei ist sieben." },
-      { "languageCode": "en", "text": "Ten minus three is seven." }
+      { "languageCode": "en", "text": "Ten minus three is seven." },
+      { "languageCode": "bn", "text": "দশ বিয়োগ তিন সমান সাত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "minus" },
@@ -756,7 +803,8 @@
     "preposition_cases": ["nominative"],
     "sentences": [
       { "languageCode": "de", "text": "Drei mal vier ist zwölf." },
-      { "languageCode": "en", "text": "Three times four is twelve." }
+      { "languageCode": "en", "text": "Three times four is twelve." },
+      { "languageCode": "bn", "text": "তিন গুণ চার সমান বারো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "times" },

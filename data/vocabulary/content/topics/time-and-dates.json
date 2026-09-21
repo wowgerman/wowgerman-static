@@ -10,7 +10,8 @@
     "genitive_singular": "des Morgens",
     "sentences": [
       { "languageCode": "de", "text": "Am Morgen trinke ich Tee." },
-      { "languageCode": "en", "text": "In the morning I drink tea." }
+      { "languageCode": "en", "text": "In the morning I drink tea." },
+      { "languageCode": "bn", "text": "সকালে আমি চা পান করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "morning" },
@@ -29,7 +30,8 @@
     "genitive_singular": "des Vormittags",
     "sentences": [
       { "languageCode": "de", "text": "Am Vormittag arbeite ich." },
-      { "languageCode": "en", "text": "I work in the late morning." }
+      { "languageCode": "en", "text": "I work in the late morning." },
+      { "languageCode": "bn", "text": "সকালের শেষভাগে আমি কাজ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "late morning" },
@@ -48,7 +50,8 @@
     "genitive_singular": "des Mittags",
     "sentences": [
       { "languageCode": "de", "text": "Am Mittag essen wir zusammen." },
-      { "languageCode": "en", "text": "At noon we eat together." }
+      { "languageCode": "en", "text": "At noon we eat together." },
+      { "languageCode": "bn", "text": "দুপুরে আমরা একসাথে খাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "noon" },
@@ -67,7 +70,8 @@
     "genitive_singular": "des Nachmittags",
     "sentences": [
       { "languageCode": "de", "text": "Am Nachmittag trinke ich Kaffee." },
-      { "languageCode": "en", "text": "In the afternoon I drink coffee." }
+      { "languageCode": "en", "text": "In the afternoon I drink coffee." },
+      { "languageCode": "bn", "text": "বিকেলে আমি কফি পান করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "afternoon" },
@@ -86,7 +90,8 @@
     "genitive_singular": "des Abends",
     "sentences": [
       { "languageCode": "de", "text": "Am Abend lese ich ein Buch." },
-      { "languageCode": "en", "text": "In the evening I read a book." }
+      { "languageCode": "en", "text": "In the evening I read a book." },
+      { "languageCode": "bn", "text": "সন্ধ্যায় আমি একটা বই পড়ি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "evening" },
@@ -105,7 +110,8 @@
     "genitive_singular": "der Nacht",
     "sentences": [
       { "languageCode": "de", "text": "Die Nacht ist dunkel." },
-      { "languageCode": "en", "text": "The night is dark." }
+      { "languageCode": "en", "text": "The night is dark." },
+      { "languageCode": "bn", "text": "রাতটা অন্ধকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "night" },
@@ -124,7 +130,8 @@
     "genitive_singular": "der Mitternacht",
     "sentences": [
       { "languageCode": "de", "text": "Um Mitternacht ist es still." },
-      { "languageCode": "en", "text": "At midnight it is quiet." }
+      { "languageCode": "en", "text": "At midnight it is quiet." },
+      { "languageCode": "bn", "text": "মধ্যরাতে সবকিছু শান্ত থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "midnight" },
@@ -143,7 +150,8 @@
     "genitive_singular": "des Tagesanbruchs",
     "sentences": [
       { "languageCode": "de", "text": "Bei Tagesanbruch stehen wir auf." },
-      { "languageCode": "en", "text": "At daybreak we get up." }
+      { "languageCode": "en", "text": "At daybreak we get up." },
+      { "languageCode": "bn", "text": "ভোরবেলা আমরা উঠি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "dawn, daybreak" },
@@ -162,7 +170,8 @@
     "genitive_singular": "des Montags",
     "sentences": [
       { "languageCode": "de", "text": "Am Montag beginnt die Woche." },
-      { "languageCode": "en", "text": "On Monday the week begins." }
+      { "languageCode": "en", "text": "On Monday the week begins." },
+      { "languageCode": "bn", "text": "সোমবার থেকে সপ্তাহ শুরু হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Monday" },
@@ -181,7 +190,8 @@
     "genitive_singular": "des Dienstags",
     "sentences": [
       { "languageCode": "de", "text": "Am Dienstag gehe ich arbeiten." },
-      { "languageCode": "en", "text": "On Tuesday I go to work." }
+      { "languageCode": "en", "text": "On Tuesday I go to work." },
+      { "languageCode": "bn", "text": "মঙ্গলবার আমি কাজে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Tuesday" },
@@ -200,7 +210,8 @@
     "genitive_singular": "des Mittwochs",
     "sentences": [
       { "languageCode": "de", "text": "Mittwoch ist in der Mitte der Woche." },
-      { "languageCode": "en", "text": "Wednesday is in the middle of the week." }
+      { "languageCode": "en", "text": "Wednesday is in the middle of the week." },
+      { "languageCode": "bn", "text": "বুধবার সপ্তাহের মাঝামাঝি সময়ে পড়ে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Wednesday" },
@@ -219,7 +230,8 @@
     "genitive_singular": "des Donnerstags",
     "sentences": [
       { "languageCode": "de", "text": "Donnerstag ist ein schöner Tag." },
-      { "languageCode": "en", "text": "Thursday is a beautiful day." }
+      { "languageCode": "en", "text": "Thursday is a beautiful day." },
+      { "languageCode": "bn", "text": "বৃহস্পতিবার একটা সুন্দর দিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Thursday" },
@@ -238,7 +250,8 @@
     "genitive_singular": "des Freitags",
     "sentences": [
       { "languageCode": "de", "text": "Am Freitag haben wir frei." },
-      { "languageCode": "en", "text": "On Friday we have free time." }
+      { "languageCode": "en", "text": "On Friday we have free time." },
+      { "languageCode": "bn", "text": "শুক্রবার আমাদের ছুটি থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Friday" },
@@ -257,7 +270,8 @@
     "genitive_singular": "des Samstags",
     "sentences": [
       { "languageCode": "de", "text": "Am Samstag gehe ich einkaufen." },
-      { "languageCode": "en", "text": "On Saturday I go shopping." }
+      { "languageCode": "en", "text": "On Saturday I go shopping." },
+      { "languageCode": "bn", "text": "শনিবার আমি কেনাকাটা করতে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Saturday" },
@@ -276,7 +290,8 @@
     "genitive_singular": "des Sonntags",
     "sentences": [
       { "languageCode": "de", "text": "Am Sonntag ruhe ich mich aus." },
-      { "languageCode": "en", "text": "On Sunday I rest." }
+      { "languageCode": "en", "text": "On Sunday I rest." },
+      { "languageCode": "bn", "text": "রবিবার আমি বিশ্রাম নিই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Sunday" },
@@ -295,11 +310,12 @@
     "genitive_singular": "des Wochentags",
     "sentences": [
       { "languageCode": "de", "text": "Montag ist ein Wochentag." },
-      { "languageCode": "en", "text": "Monday is a weekday." }
+      { "languageCode": "en", "text": "Monday is a weekday." },
+      { "languageCode": "bn", "text": "সোমবার একটা কর্মদিবস।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "weekday" },
-      { "languageCode": "bn", "text": "সপ্তাহের দিন" }
+      { "languageCode": "bn", "text": "কর্মদিবস" }
     ],
     "image": "data/vocabulary/images/time-and-dates/weekday.png"
   },
@@ -314,7 +330,8 @@
     "genitive_singular": "des Wochenendes",
     "sentences": [
       { "languageCode": "de", "text": "Am Wochenende bleibe ich zu Hause." },
-      { "languageCode": "en", "text": "On the weekend I stay at home." }
+      { "languageCode": "en", "text": "On the weekend I stay at home." },
+      { "languageCode": "bn", "text": "সপ্তাহান্তে আমি বাড়িতে থাকি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "weekend" },
@@ -333,7 +350,8 @@
     "genitive_singular": "des Januars",
     "sentences": [
       { "languageCode": "de", "text": "Der Januar ist der erste Monat." },
-      { "languageCode": "en", "text": "January is the first month." }
+      { "languageCode": "en", "text": "January is the first month." },
+      { "languageCode": "bn", "text": "জানুয়ারি প্রথম মাস।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "January" },
@@ -352,7 +370,8 @@
     "genitive_singular": "des Februars",
     "sentences": [
       { "languageCode": "de", "text": "Der Februar hat 28 Tage." },
-      { "languageCode": "en", "text": "February has 28 days." }
+      { "languageCode": "en", "text": "February has 28 days." },
+      { "languageCode": "bn", "text": "ফেব্রুয়ারিতে ২৮ দিন থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "February" },
@@ -371,7 +390,8 @@
     "genitive_singular": "des Märzes",
     "sentences": [
       { "languageCode": "de", "text": "Der März ist der dritte Monat." },
-      { "languageCode": "en", "text": "March is the third month." }
+      { "languageCode": "en", "text": "March is the third month." },
+      { "languageCode": "bn", "text": "মার্চ তৃতীয় মাস।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "March" },
@@ -390,7 +410,8 @@
     "genitive_singular": "des Aprils",
     "sentences": [
       { "languageCode": "de", "text": "Der April ist ein schöner Monat." },
-      { "languageCode": "en", "text": "April is a beautiful month." }
+      { "languageCode": "en", "text": "April is a beautiful month." },
+      { "languageCode": "bn", "text": "এপ্রিল একটা সুন্দর মাস।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "April" },
@@ -409,7 +430,8 @@
     "genitive_singular": "des Mais",
     "sentences": [
       { "languageCode": "de", "text": "Im Mai blühen die Blumen." },
-      { "languageCode": "en", "text": "In May the flowers bloom." }
+      { "languageCode": "en", "text": "In May the flowers bloom." },
+      { "languageCode": "bn", "text": "মে মাসে ফুল ফোটে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "May" },
@@ -428,7 +450,8 @@
     "genitive_singular": "des Junis",
     "sentences": [
       { "languageCode": "de", "text": "Der Juni ist ein warmer Monat." },
-      { "languageCode": "en", "text": "June is a warm month." }
+      { "languageCode": "en", "text": "June is a warm month." },
+      { "languageCode": "bn", "text": "জুন একটা উষ্ণ মাস।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "June" },
@@ -447,7 +470,8 @@
     "genitive_singular": "des Julis",
     "sentences": [
       { "languageCode": "de", "text": "Im Juli fahren wir in den Urlaub." },
-      { "languageCode": "en", "text": "In July we go on vacation." }
+      { "languageCode": "en", "text": "In July we go on vacation." },
+      { "languageCode": "bn", "text": "জুলাই মাসে আমরা ছুটিতে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "July" },
@@ -466,7 +490,8 @@
     "genitive_singular": "des Augusts",
     "sentences": [
       { "languageCode": "de", "text": "Im August ist es sehr warm." },
-      { "languageCode": "en", "text": "In August it is very warm." }
+      { "languageCode": "en", "text": "In August it is very warm." },
+      { "languageCode": "bn", "text": "আগস্ট মাসে খুব গরম থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "August" },
@@ -485,7 +510,8 @@
     "genitive_singular": "des Septembers",
     "sentences": [
       { "languageCode": "de", "text": "Der September ist ein schöner Monat." },
-      { "languageCode": "en", "text": "September is a beautiful month." }
+      { "languageCode": "en", "text": "September is a beautiful month." },
+      { "languageCode": "bn", "text": "সেপ্টেম্বর একটা সুন্দর মাস।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "September" },
@@ -504,7 +530,8 @@
     "genitive_singular": "des Oktobers",
     "sentences": [
       { "languageCode": "de", "text": "Der Oktober ist ein Herbstmonat." },
-      { "languageCode": "en", "text": "October is an autumn month." }
+      { "languageCode": "en", "text": "October is an autumn month." },
+      { "languageCode": "bn", "text": "অক্টোবর একটা শরতের মাস।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "October" },
@@ -523,7 +550,8 @@
     "genitive_singular": "des Novembers",
     "sentences": [
       { "languageCode": "de", "text": "Der November ist oft kalt." },
-      { "languageCode": "en", "text": "November is often cold." }
+      { "languageCode": "en", "text": "November is often cold." },
+      { "languageCode": "bn", "text": "নভেম্বর প্রায়ই ঠান্ডা থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "November" },
@@ -542,7 +570,8 @@
     "genitive_singular": "des Dezembers",
     "sentences": [
       { "languageCode": "de", "text": "Der Dezember ist der letzte Monat." },
-      { "languageCode": "en", "text": "December is the last month." }
+      { "languageCode": "en", "text": "December is the last month." },
+      { "languageCode": "bn", "text": "ডিসেম্বর শেষ মাস।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "December" },
@@ -561,7 +590,8 @@
     "genitive_singular": "der Jahreszeit",
     "sentences": [
       { "languageCode": "de", "text": "Meine Lieblingsjahreszeit ist der Sommer." },
-      { "languageCode": "en", "text": "My favorite season is summer." }
+      { "languageCode": "en", "text": "My favorite season is summer." },
+      { "languageCode": "bn", "text": "আমার প্রিয় ঋতু গ্রীষ্ম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "season" },
@@ -580,7 +610,8 @@
     "genitive_singular": "des Winters",
     "sentences": [
       { "languageCode": "de", "text": "Der Winter ist kalt." },
-      { "languageCode": "en", "text": "Winter is cold." }
+      { "languageCode": "en", "text": "Winter is cold." },
+      { "languageCode": "bn", "text": "শীতকাল ঠান্ডা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "winter" },
@@ -599,7 +630,8 @@
     "genitive_singular": "des Frühlings",
     "sentences": [
       { "languageCode": "de", "text": "Der Frühling ist eine schöne Jahreszeit." },
-      { "languageCode": "en", "text": "Spring is a beautiful season." }
+      { "languageCode": "en", "text": "Spring is a beautiful season." },
+      { "languageCode": "bn", "text": "বসন্ত একটা সুন্দর ঋতু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "spring" },
@@ -618,7 +650,8 @@
     "genitive_singular": "des Sommers",
     "sentences": [
       { "languageCode": "de", "text": "Der Sommer ist heiß." },
-      { "languageCode": "en", "text": "Summer is hot." }
+      { "languageCode": "en", "text": "Summer is hot." },
+      { "languageCode": "bn", "text": "গ্রীষ্মকাল গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "summer" },
@@ -637,7 +670,8 @@
     "genitive_singular": "des Herbstes",
     "sentences": [
       { "languageCode": "de", "text": "Der Herbst ist bunt." },
-      { "languageCode": "en", "text": "Autumn is colorful." }
+      { "languageCode": "en", "text": "Autumn is colorful." },
+      { "languageCode": "bn", "text": "শরৎকাল রঙিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "autumn" },
@@ -655,7 +689,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Gestern war ich im Kino." },
-      { "languageCode": "en", "text": "Yesterday I was at the cinema." }
+      { "languageCode": "en", "text": "Yesterday I was at the cinema." },
+      { "languageCode": "bn", "text": "গতকাল আমি সিনেমা হলে ছিলাম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "yesterday" },
@@ -673,7 +708,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Heute ist ein schöner Tag." },
-      { "languageCode": "en", "text": "Today is a beautiful day." }
+      { "languageCode": "en", "text": "Today is a beautiful day." },
+      { "languageCode": "bn", "text": "আজ একটা সুন্দর দিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "today" },
@@ -691,7 +727,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Morgen gehe ich einkaufen." },
-      { "languageCode": "en", "text": "Tomorrow I go shopping." }
+      { "languageCode": "en", "text": "Tomorrow I go shopping." },
+      { "languageCode": "bn", "text": "আগামীকাল আমি কেনাকাটা করতে যাব।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tomorrow" },
@@ -710,7 +747,8 @@
     "genitive_singular": "des Tages",
     "sentences": [
       { "languageCode": "de", "text": "Der Tag hat vierundzwanzig Stunden." },
-      { "languageCode": "en", "text": "The day has twenty-four hours." }
+      { "languageCode": "en", "text": "The day has twenty-four hours." },
+      { "languageCode": "bn", "text": "দিনে চব্বিশ ঘণ্টা থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "day" },
@@ -729,7 +767,8 @@
     "genitive_singular": "der Woche",
     "sentences": [
       { "languageCode": "de", "text": "Die Woche hat sieben Tage." },
-      { "languageCode": "en", "text": "The week has seven days." }
+      { "languageCode": "en", "text": "The week has seven days." },
+      { "languageCode": "bn", "text": "সপ্তাহে সাত দিন থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "week" },
@@ -748,7 +787,8 @@
     "genitive_singular": "des Monats",
     "sentences": [
       { "languageCode": "de", "text": "Der Monat Januar ist kalt." },
-      { "languageCode": "en", "text": "The month January is cold." }
+      { "languageCode": "en", "text": "The month January is cold." },
+      { "languageCode": "bn", "text": "জানুয়ারি মাসটা ঠান্ডা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "month" },
@@ -767,7 +807,8 @@
     "genitive_singular": "des Jahres",
     "sentences": [
       { "languageCode": "de", "text": "Das Jahr hat zwölf Monate." },
-      { "languageCode": "en", "text": "The year has twelve months." }
+      { "languageCode": "en", "text": "The year has twelve months." },
+      { "languageCode": "bn", "text": "বছরে বারো মাস থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "year" },
@@ -786,7 +827,8 @@
     "genitive_singular": "des Kalenders",
     "sentences": [
       { "languageCode": "de", "text": "Ich schaue in den Kalender." },
-      { "languageCode": "en", "text": "I look at the calendar." }
+      { "languageCode": "en", "text": "I look at the calendar." },
+      { "languageCode": "bn", "text": "আমি ক্যালেন্ডারের দিকে তাকাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "calendar" },
@@ -805,7 +847,8 @@
     "genitive_singular": "der Zeit",
     "sentences": [
       { "languageCode": "de", "text": "Ich habe keine Zeit." },
-      { "languageCode": "en", "text": "I have no time." }
+      { "languageCode": "en", "text": "I have no time." },
+      { "languageCode": "bn", "text": "আমার হাতে সময় নেই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "time" },
@@ -824,7 +867,8 @@
     "genitive_singular": "der Uhr",
     "sentences": [
       { "languageCode": "de", "text": "Wie spät ist die Uhr?" },
-      { "languageCode": "en", "text": "What time is it on the clock?" }
+      { "languageCode": "en", "text": "What time is it on the clock?" },
+      { "languageCode": "bn", "text": "ঘড়িতে কয়টা বাজে?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "clock" },
@@ -843,7 +887,8 @@
     "genitive_singular": "der Stunde",
     "sentences": [
       { "languageCode": "de", "text": "Eine Stunde hat sechzig Minuten." },
-      { "languageCode": "en", "text": "One hour has sixty minutes." }
+      { "languageCode": "en", "text": "One hour has sixty minutes." },
+      { "languageCode": "bn", "text": "এক ঘণ্টায় ষাট মিনিট থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hour" },
@@ -862,7 +907,8 @@
     "genitive_singular": "der Minute",
     "sentences": [
       { "languageCode": "de", "text": "Bitte warte eine Minute." },
-      { "languageCode": "en", "text": "Please wait one minute." }
+      { "languageCode": "en", "text": "Please wait one minute." },
+      { "languageCode": "bn", "text": "দয়া করে এক মিনিট অপেক্ষা করুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "minute" },
@@ -881,7 +927,8 @@
     "genitive_singular": "der Sekunde",
     "sentences": [
       { "languageCode": "de", "text": "Das dauert nur eine Sekunde." },
-      { "languageCode": "en", "text": "That only takes one second." }
+      { "languageCode": "en", "text": "That only takes one second." },
+      { "languageCode": "bn", "text": "এটাতে মাত্র এক সেকেন্ড লাগে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "second" },
@@ -899,7 +946,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Zug ist pünktlich." },
-      { "languageCode": "en", "text": "The train is on time." }
+      { "languageCode": "en", "text": "The train is on time." },
+      { "languageCode": "bn", "text": "ট্রেনটা সময়মতো আসে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "on time" },
@@ -918,7 +966,8 @@
     "genitive_singular": "der Zeitzone",
     "sentences": [
       { "languageCode": "de", "text": "Deutschland hat eine Zeitzone." },
-      { "languageCode": "en", "text": "Germany has one time zone." }
+      { "languageCode": "en", "text": "Germany has one time zone." },
+      { "languageCode": "bn", "text": "জার্মানিতে একটাই সময় অঞ্চল আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "time zone" },
@@ -937,7 +986,8 @@
     "genitive_singular": "der Viertelstunde",
     "sentences": [
       { "languageCode": "de", "text": "Der Weg dauert eine Viertelstunde." },
-      { "languageCode": "en", "text": "The way takes a quarter hour." }
+      { "languageCode": "en", "text": "The way takes a quarter hour." },
+      { "languageCode": "bn", "text": "পথটা পনেরো মিনিট সময় নেয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "quarter hour" },
@@ -956,7 +1006,8 @@
     "genitive_singular": "der Dreiviertelstunde",
     "sentences": [
       { "languageCode": "de", "text": "Wir warten eine Dreiviertelstunde." },
-      { "languageCode": "en", "text": "We wait three quarters of an hour." }
+      { "languageCode": "en", "text": "We wait three quarters of an hour." },
+      { "languageCode": "bn", "text": "আমরা পঁয়তাল্লিশ মিনিট অপেক্ষা করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "three-quarter hour" },
@@ -974,7 +1025,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin in einer halben Stunde da." },
-      { "languageCode": "en", "text": "I will be there in half an hour." }
+      { "languageCode": "en", "text": "I will be there in half an hour." },
+      { "languageCode": "bn", "text": "আমি আধা ঘণ্টার মধ্যে চলে আসব।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "half hour" },
@@ -992,7 +1044,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Es ist Viertel vor drei." },
-      { "languageCode": "en", "text": "It is a quarter to three." }
+      { "languageCode": "en", "text": "It is a quarter to three." },
+      { "languageCode": "bn", "text": "এখন পৌনে তিনটা বাজে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "quarter to" },
@@ -1010,7 +1063,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Es ist Viertel nach zwei." },
-      { "languageCode": "en", "text": "It is a quarter past two." }
+      { "languageCode": "en", "text": "It is a quarter past two." },
+      { "languageCode": "bn", "text": "এখন সোয়া দুইটা বাজে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "quarter past" },
@@ -1028,7 +1082,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Es ist halb acht." },
-      { "languageCode": "en", "text": "It is half past seven." }
+      { "languageCode": "en", "text": "It is half past seven." },
+      { "languageCode": "bn", "text": "এখন সাড়ে সাতটা বাজে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "half past" },
@@ -1046,7 +1101,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Es ist fünf vor zwölf." },
-      { "languageCode": "en", "text": "It is five to twelve." }
+      { "languageCode": "en", "text": "It is five to twelve." },
+      { "languageCode": "bn", "text": "এখন বারোটা বাজতে পাঁচ মিনিট বাকি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "five to" },
@@ -1064,7 +1120,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Es ist fünf nach eins." },
-      { "languageCode": "en", "text": "It is five past one." }
+      { "languageCode": "en", "text": "It is five past one." },
+      { "languageCode": "bn", "text": "এখন একটা বেজে পাঁচ মিনিট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "five past" },
@@ -1083,7 +1140,8 @@
     "genitive_singular": "der offiziellen Zeit",
     "sentences": [
       { "languageCode": "de", "text": "Die offizielle Zeit ist vierzehn Uhr fünfzehn." },
-      { "languageCode": "en", "text": "The official time is fourteen fifteen." }
+      { "languageCode": "en", "text": "The official time is fourteen fifteen." },
+      { "languageCode": "bn", "text": "অফিসিয়াল সময় হলো চোদ্দটা পনেরো মিনিট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "official time" },
@@ -1102,7 +1160,8 @@
     "genitive_singular": "der inoffiziellen Zeit",
     "sentences": [
       { "languageCode": "de", "text": "Die inoffizielle Zeit ist Viertel nach zwei." },
-      { "languageCode": "en", "text": "The unofficial time is a quarter past two." }
+      { "languageCode": "en", "text": "The unofficial time is a quarter past two." },
+      { "languageCode": "bn", "text": "অনানুষ্ঠানিক সময় হলো সোয়া দুইটা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "unofficial time" },
@@ -1120,7 +1179,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich stehe früh auf." },
-      { "languageCode": "en", "text": "I get up early." }
+      { "languageCode": "en", "text": "I get up early." },
+      { "languageCode": "bn", "text": "আমি তাড়াতাড়ি উঠি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "early" },
@@ -1138,7 +1198,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Bald kommt der Winter." },
-      { "languageCode": "en", "text": "Winter is coming soon." }
+      { "languageCode": "en", "text": "Winter is coming soon." },
+      { "languageCode": "bn", "text": "শীঘ্রই শীতকাল আসছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "soon" },
@@ -1156,7 +1217,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich komme sofort." },
-      { "languageCode": "en", "text": "I come immediately." }
+      { "languageCode": "en", "text": "I come immediately." },
+      { "languageCode": "bn", "text": "আমি তৎক্ষণাৎ আসছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "immediately" },
@@ -1174,7 +1236,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Zuerst mache ich die Hausaufgaben." },
-      { "languageCode": "en", "text": "First I do my homework." }
+      { "languageCode": "en", "text": "First I do my homework." },
+      { "languageCode": "bn", "text": "আমি প্রথমে বাড়ির কাজ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "first" },
@@ -1192,7 +1255,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Zuerst esse ich, dann trinke ich einen Kaffee." },
-      { "languageCode": "en", "text": "First I eat, then I drink a coffee." }
+      { "languageCode": "en", "text": "First I eat, then I drink a coffee." },
+      { "languageCode": "bn", "text": "আমি প্রথমে খাই, তারপর কফি পান করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "then" },
@@ -1210,7 +1274,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Zuletzt gehe ich." },
-      { "languageCode": "en", "text": "Lastly I go." }
+      { "languageCode": "en", "text": "Lastly I go." },
+      { "languageCode": "bn", "text": "আমি সবার শেষে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lastly" },
@@ -1228,7 +1293,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich spiele am Nachmittag immer Fußball." },
-      { "languageCode": "en", "text": "I always play football in the afternoon." }
+      { "languageCode": "en", "text": "I always play football in the afternoon." },
+      { "languageCode": "bn", "text": "আমি বিকেলে সর্বদা ফুটবল খেলি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "always" },
@@ -1246,7 +1312,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe oft ins Kino." },
-      { "languageCode": "en", "text": "I often go to the cinema." }
+      { "languageCode": "en", "text": "I often go to the cinema." },
+      { "languageCode": "bn", "text": "আমি প্রায়ই সিনেমা হলে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "often" },
@@ -1264,7 +1331,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Manchmal esse ich Pizza." },
-      { "languageCode": "en", "text": "Sometimes I eat pizza." }
+      { "languageCode": "en", "text": "Sometimes I eat pizza." },
+      { "languageCode": "bn", "text": "আমি কখনো কখনো পিৎজা খাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sometimes" },
@@ -1282,7 +1350,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich trinke nie Alkohol." },
-      { "languageCode": "en", "text": "I never drink alcohol." }
+      { "languageCode": "en", "text": "I never drink alcohol." },
+      { "languageCode": "bn", "text": "আমি কখনো মদ পান করি না।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "never" },
@@ -1300,7 +1369,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe regelmäßig zum Sport." },
-      { "languageCode": "en", "text": "I go to sports regularly." }
+      { "languageCode": "en", "text": "I go to sports regularly." },
+      { "languageCode": "bn", "text": "আমি নিয়মিত খেলাধুলা করতে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "regularly" },
@@ -1318,7 +1388,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Der Zug kommt unregelmäßig." },
-      { "languageCode": "en", "text": "The train comes irregularly." }
+      { "languageCode": "en", "text": "The train comes irregularly." },
+      { "languageCode": "bn", "text": "ট্রেনটা অনিয়মিতভাবে আসে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "irregularly" },
@@ -1336,7 +1407,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich war einmal in Berlin." },
-      { "languageCode": "en", "text": "I was once in Berlin." }
+      { "languageCode": "en", "text": "I was once in Berlin." },
+      { "languageCode": "bn", "text": "আমি একবার বার্লিনে ছিলাম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "once" },
@@ -1354,7 +1426,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich esse zweimal am Tag." },
-      { "languageCode": "en", "text": "I eat twice a day." }
+      { "languageCode": "en", "text": "I eat twice a day." },
+      { "languageCode": "bn", "text": "আমি দিনে দুইবার খাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "twice" },
@@ -1372,7 +1445,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich putze dreimal am Tag Zähne." },
-      { "languageCode": "en", "text": "I brush my teeth thrice a day." }
+      { "languageCode": "en", "text": "I brush my teeth thrice a day." },
+      { "languageCode": "bn", "text": "আমি দিনে তিনবার দাঁত ব্রাশ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "thrice" },
@@ -1390,7 +1464,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich habe doppelt so viele Bücher." },
-      { "languageCode": "en", "text": "I have twice as many books." }
+      { "languageCode": "en", "text": "I have twice as many books." },
+      { "languageCode": "bn", "text": "আমার কাছে দ্বিগুণ বই আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "double" },
@@ -1408,7 +1483,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Er läuft schnell." },
-      { "languageCode": "en", "text": "He runs fast." }
+      { "languageCode": "en", "text": "He runs fast." },
+      { "languageCode": "bn", "text": "সে দ্রুত দৌড়ায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fast" },
@@ -1426,7 +1502,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe langsam." },
-      { "languageCode": "en", "text": "I walk slowly." }
+      { "languageCode": "en", "text": "I walk slowly." },
+      { "languageCode": "bn", "text": "আমি ধীরে হাঁটি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "slowly" },
@@ -1444,7 +1521,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich warte lange auf den Bus." },
-      { "languageCode": "en", "text": "I wait long for the bus." }
+      { "languageCode": "en", "text": "I wait long for the bus." },
+      { "languageCode": "bn", "text": "আমি বাসের জন্য দীর্ঘ সময় অপেক্ষা করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "long" },
@@ -1462,7 +1540,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das war eine kurze Reise." },
-      { "languageCode": "en", "text": "That was a short trip." }
+      { "languageCode": "en", "text": "That was a short trip." },
+      { "languageCode": "bn", "text": "এটা একটা সংক্ষিপ্ত ভ্রমণ ছিল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "short" },
@@ -1480,7 +1559,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Wie lange dauert der Film?" },
-      { "languageCode": "en", "text": "How long does the movie last?" }
+      { "languageCode": "en", "text": "How long does the movie last?" },
+      { "languageCode": "bn", "text": "চলচ্চিত্রটা কত সময় ধরে চলে?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "how long" },
@@ -1498,7 +1578,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich warte, bis der Bus kommt." },
-      { "languageCode": "en", "text": "I wait until the bus arrives." }
+      { "languageCode": "en", "text": "I wait until the bus arrives." },
+      { "languageCode": "bn", "text": "আমি অপেক্ষা করছি, যতক্ষণ না বাস আসে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "until" },

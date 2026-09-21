@@ -10,7 +10,8 @@
     "genitive_singular": "des Haars",
     "sentences": [
       { "languageCode": "de", "text": "Das Haar ist braun." },
-      { "languageCode": "en", "text": "The hair is brown." }
+      { "languageCode": "en", "text": "The hair is brown." },
+      { "languageCode": "bn", "text": "চুলটি বাদামি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hair" },
@@ -29,7 +30,8 @@
     "genitive_singular": "des Ohrs",
     "sentences": [
       { "languageCode": "de", "text": "Das Ohr hört Musik." },
-      { "languageCode": "en", "text": "The ear hears music." }
+      { "languageCode": "en", "text": "The ear hears music." },
+      { "languageCode": "bn", "text": "কানটি গান শোনে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ear" },
@@ -48,7 +50,8 @@
     "genitive_singular": "des Kopfs",
     "sentences": [
       { "languageCode": "de", "text": "Der Kopf ist rund." },
-      { "languageCode": "en", "text": "The head is round." }
+      { "languageCode": "en", "text": "The head is round." },
+      { "languageCode": "bn", "text": "মাথাটি গোল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "head" },
@@ -67,7 +70,8 @@
     "genitive_singular": "des Halses",
     "sentences": [
       { "languageCode": "de", "text": "Der Hals ist lang." },
-      { "languageCode": "en", "text": "The neck is long." }
+      { "languageCode": "en", "text": "The neck is long." },
+      { "languageCode": "bn", "text": "ঘাড়টি লম্বা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "neck" },
@@ -86,7 +90,8 @@
     "genitive_singular": "des Gesichts",
     "sentences": [
       { "languageCode": "de", "text": "Das Gesicht ist rund." },
-      { "languageCode": "en", "text": "The face is round." }
+      { "languageCode": "en", "text": "The face is round." },
+      { "languageCode": "bn", "text": "মুখমণ্ডলটি গোল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "face" },
@@ -105,7 +110,8 @@
     "genitive_singular": "des Kinns",
     "sentences": [
       { "languageCode": "de", "text": "Das Kinn ist spitz." },
-      { "languageCode": "en", "text": "The chin is pointed." }
+      { "languageCode": "en", "text": "The chin is pointed." },
+      { "languageCode": "bn", "text": "থুতনিটি সূচালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "chin" },
@@ -124,7 +130,8 @@
     "genitive_singular": "der Stirn",
     "sentences": [
       { "languageCode": "de", "text": "Die Stirn ist hoch." },
-      { "languageCode": "en", "text": "The forehead is high." }
+      { "languageCode": "en", "text": "The forehead is high." },
+      { "languageCode": "bn", "text": "কপালটি উঁচু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "forehead" },
@@ -143,7 +150,8 @@
     "genitive_singular": "der Nase",
     "sentences": [
       { "languageCode": "de", "text": "Die Nase ist klein." },
-      { "languageCode": "en", "text": "The nose is small." }
+      { "languageCode": "en", "text": "The nose is small." },
+      { "languageCode": "bn", "text": "নাকটি ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "nose" },
@@ -162,7 +170,8 @@
     "genitive_singular": "der Augenbraue",
     "sentences": [
       { "languageCode": "de", "text": "Die Augenbraue ist dunkel." },
-      { "languageCode": "en", "text": "The eyebrow is dark." }
+      { "languageCode": "en", "text": "The eyebrow is dark." },
+      { "languageCode": "bn", "text": "ভ্রুটি গাঢ়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "eyebrow" },
@@ -181,7 +190,8 @@
     "genitive_singular": "des Auges",
     "sentences": [
       { "languageCode": "de", "text": "Das Auge ist blau." },
-      { "languageCode": "en", "text": "The eye is blue." }
+      { "languageCode": "en", "text": "The eye is blue." },
+      { "languageCode": "bn", "text": "চোখটি নীল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "eye" },
@@ -200,7 +210,8 @@
     "genitive_singular": "des Zahns",
     "sentences": [
       { "languageCode": "de", "text": "Der Zahn ist weiß." },
-      { "languageCode": "en", "text": "The tooth is white." }
+      { "languageCode": "en", "text": "The tooth is white." },
+      { "languageCode": "bn", "text": "দাঁতটি সাদা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tooth" },
@@ -219,7 +230,8 @@
     "genitive_singular": "des Mundes",
     "sentences": [
       { "languageCode": "de", "text": "Der Mund ist rot." },
-      { "languageCode": "en", "text": "The mouth is red." }
+      { "languageCode": "en", "text": "The mouth is red." },
+      { "languageCode": "bn", "text": "মুখটি লাল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "mouth" },
@@ -238,7 +250,8 @@
     "genitive_singular": "der Lippe",
     "sentences": [
       { "languageCode": "de", "text": "Die Lippe ist rot." },
-      { "languageCode": "en", "text": "The lip is red." }
+      { "languageCode": "en", "text": "The lip is red." },
+      { "languageCode": "bn", "text": "ঠোঁটটি লাল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lip" },
@@ -257,7 +270,8 @@
     "genitive_singular": "des Arms",
     "sentences": [
       { "languageCode": "de", "text": "Mein Arm tut weh." },
-      { "languageCode": "en", "text": "My arm hurts." }
+      { "languageCode": "en", "text": "My arm hurts." },
+      { "languageCode": "bn", "text": "আমার হাতে ব্যথা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "arm" },
@@ -276,7 +290,8 @@
     "genitive_singular": "des Ellbogens",
     "sentences": [
       { "languageCode": "de", "text": "Der Ellbogen tut weh." },
-      { "languageCode": "en", "text": "The elbow hurts." }
+      { "languageCode": "en", "text": "The elbow hurts." },
+      { "languageCode": "bn", "text": "কনুইয়ে ব্যথা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "elbow" },
@@ -295,7 +310,8 @@
     "genitive_singular": "des Rückens",
     "sentences": [
       { "languageCode": "de", "text": "Der Rücken ist stark." },
-      { "languageCode": "en", "text": "The back is strong." }
+      { "languageCode": "en", "text": "The back is strong." },
+      { "languageCode": "bn", "text": "পিঠটি শক্তিশালী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "back" },
@@ -314,7 +330,8 @@
     "genitive_singular": "des Bauchs",
     "sentences": [
       { "languageCode": "de", "text": "Der Bauch ist voll." },
-      { "languageCode": "en", "text": "The belly is full." }
+      { "languageCode": "en", "text": "The belly is full." },
+      { "languageCode": "bn", "text": "পেটটি ভরা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "belly/stomach" },
@@ -333,7 +350,8 @@
     "genitive_singular": "des Fingers",
     "sentences": [
       { "languageCode": "de", "text": "Der Finger ist dünn." },
-      { "languageCode": "en", "text": "The finger is thin." }
+      { "languageCode": "en", "text": "The finger is thin." },
+      { "languageCode": "bn", "text": "আঙুলটি সরু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "finger" },
@@ -352,7 +370,8 @@
     "genitive_singular": "der Haut",
     "sentences": [
       { "languageCode": "de", "text": "Die Haut ist weich." },
-      { "languageCode": "en", "text": "The skin is soft." }
+      { "languageCode": "en", "text": "The skin is soft." },
+      { "languageCode": "bn", "text": "চামড়াটি নরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "skin" },
@@ -371,7 +390,8 @@
     "genitive_singular": "der Schulter",
     "sentences": [
       { "languageCode": "de", "text": "Die Schulter ist stark." },
-      { "languageCode": "en", "text": "The shoulder is strong." }
+      { "languageCode": "en", "text": "The shoulder is strong." },
+      { "languageCode": "bn", "text": "কাঁধটি শক্তিশালী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "shoulder" },
@@ -390,7 +410,8 @@
     "genitive_singular": "der Brust",
     "sentences": [
       { "languageCode": "de", "text": "Die Brust ist breit." },
-      { "languageCode": "en", "text": "The chest is broad." }
+      { "languageCode": "en", "text": "The chest is broad." },
+      { "languageCode": "bn", "text": "বুকটি চওড়া।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "chest" },
@@ -409,7 +430,8 @@
     "genitive_singular": "der Taille",
     "sentences": [
       { "languageCode": "de", "text": "Die Taille ist schmal." },
-      { "languageCode": "en", "text": "The waist is slim." }
+      { "languageCode": "en", "text": "The waist is slim." },
+      { "languageCode": "bn", "text": "কোমরটি সরু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "waist" },
@@ -428,7 +450,8 @@
     "genitive_singular": "der Hand",
     "sentences": [
       { "languageCode": "de", "text": "Die Hand ist sauber." },
-      { "languageCode": "en", "text": "The hand is clean." }
+      { "languageCode": "en", "text": "The hand is clean." },
+      { "languageCode": "bn", "text": "হাতটি পরিষ্কার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hand" },
@@ -447,7 +470,8 @@
     "genitive_singular": "des Handgelenks",
     "sentences": [
       { "languageCode": "de", "text": "Das Handgelenk tut weh." },
-      { "languageCode": "en", "text": "The wrist hurts." }
+      { "languageCode": "en", "text": "The wrist hurts." },
+      { "languageCode": "bn", "text": "কব্জিতে ব্যথা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "wrist" },
@@ -466,7 +490,8 @@
     "genitive_singular": "des Knies",
     "sentences": [
       { "languageCode": "de", "text": "Das Knie tut weh." },
-      { "languageCode": "en", "text": "The knee hurts." }
+      { "languageCode": "en", "text": "The knee hurts." },
+      { "languageCode": "bn", "text": "হাঁটুতে ব্যথা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "knee" },
@@ -485,7 +510,8 @@
     "genitive_singular": "des Beins",
     "sentences": [
       { "languageCode": "de", "text": "Das Bein ist lang." },
-      { "languageCode": "en", "text": "The leg is long." }
+      { "languageCode": "en", "text": "The leg is long." },
+      { "languageCode": "bn", "text": "পাটি লম্বা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "leg" },
@@ -504,7 +530,8 @@
     "genitive_singular": "des Oberschenkels",
     "sentences": [
       { "languageCode": "de", "text": "Der Oberschenkel ist stark." },
-      { "languageCode": "en", "text": "The thigh is strong." }
+      { "languageCode": "en", "text": "The thigh is strong." },
+      { "languageCode": "bn", "text": "উরুটি শক্তিশালী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "thigh" },
@@ -523,7 +550,8 @@
     "genitive_singular": "des Knöchels",
     "sentences": [
       { "languageCode": "de", "text": "Der Knöchel tut weh." },
-      { "languageCode": "en", "text": "The ankle hurts." }
+      { "languageCode": "en", "text": "The ankle hurts." },
+      { "languageCode": "bn", "text": "গোড়ালিতে ব্যথা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ankle" },
@@ -542,7 +570,8 @@
     "genitive_singular": "des Fußes",
     "sentences": [
       { "languageCode": "de", "text": "Der Fuß ist groß." },
-      { "languageCode": "en", "text": "The foot is big." }
+      { "languageCode": "en", "text": "The foot is big." },
+      { "languageCode": "bn", "text": "পাটি বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "foot" },
@@ -561,7 +590,8 @@
     "genitive_singular": "der Zehe",
     "sentences": [
       { "languageCode": "de", "text": "Die Zehe ist klein." },
-      { "languageCode": "en", "text": "The toe is small." }
+      { "languageCode": "en", "text": "The toe is small." },
+      { "languageCode": "bn", "text": "পায়ের আঙুলটি ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "toe" },
@@ -580,7 +610,8 @@
     "genitive_singular": "des Herzens",
     "sentences": [
       { "languageCode": "de", "text": "Das Herz schlägt schnell." },
-      { "languageCode": "en", "text": "The heart beats fast." }
+      { "languageCode": "en", "text": "The heart beats fast." },
+      { "languageCode": "bn", "text": "হৃদয় দ্রুত স্পন্দিত হচ্ছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "heart" },

@@ -10,7 +10,8 @@
     "genitive_singular": "der Altbauwohnung",
     "sentences": [
       { "languageCode": "de", "text": "Die Altbauwohnung hat hohe Decken." },
-      { "languageCode": "en", "text": "The old apartment has high ceilings." }
+      { "languageCode": "en", "text": "The old apartment has high ceilings." },
+      { "languageCode": "bn", "text": "পুরানো অ্যাপার্টমেন্টটার ছাদ উঁচু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "old apartment" },
@@ -28,7 +29,8 @@
     "genitive_singular": "des Arbeitszimmers",
     "sentences": [
       { "languageCode": "de", "text": "Das Arbeitszimmer ist ruhig." },
-      { "languageCode": "en", "text": "The office is quiet." }
+      { "languageCode": "en", "text": "The office is quiet." },
+      { "languageCode": "bn", "text": "অফিস ঘরটা শান্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "office/study room" },
@@ -46,7 +48,8 @@
     "genitive_singular": "des Bades",
     "sentences": [
       { "languageCode": "de", "text": "Das Bad ist klein." },
-      { "languageCode": "en", "text": "The bathroom is small." }
+      { "languageCode": "en", "text": "The bathroom is small." },
+      { "languageCode": "bn", "text": "বাথরুমটা ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bathroom" },
@@ -64,7 +67,8 @@
     "genitive_singular": "des Balkons",
     "sentences": [
       { "languageCode": "de", "text": "Der Balkon ist sonnig." },
-      { "languageCode": "en", "text": "The balcony is sunny." }
+      { "languageCode": "en", "text": "The balcony is sunny." },
+      { "languageCode": "bn", "text": "ব্যালকনিটা রৌদ্রোজ্জ্বল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "balcony" },
@@ -85,7 +89,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich bleibe zu Hause." },
-      { "languageCode": "en", "text": "I stay at home." }
+      { "languageCode": "en", "text": "I stay at home." },
+      { "languageCode": "bn", "text": "আমি বাড়িতে থাকছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to stay" },
@@ -103,7 +108,8 @@
     "genitive_singular": "der Decke",
     "sentences": [
       { "languageCode": "de", "text": "Die Decke ist weiß." },
-      { "languageCode": "en", "text": "The ceiling is white." }
+      { "languageCode": "en", "text": "The ceiling is white." },
+      { "languageCode": "bn", "text": "ছাদটা সাদা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ceiling" },
@@ -121,7 +127,8 @@
     "genitive_singular": "des Deckels",
     "sentences": [
       { "languageCode": "de", "text": "Der Deckel ist zu." },
-      { "languageCode": "en", "text": "The lid is closed." }
+      { "languageCode": "en", "text": "The lid is closed." },
+      { "languageCode": "bn", "text": "ঢাকনাটা বন্ধ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lid" },
@@ -138,7 +145,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Zimmer ist dunkel." },
-      { "languageCode": "en", "text": "The room is dark." }
+      { "languageCode": "en", "text": "The room is dark." },
+      { "languageCode": "bn", "text": "ঘরটা অন্ধকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "dark" },
@@ -156,11 +164,12 @@
     "genitive_singular": "der Dusche",
     "sentences": [
       { "languageCode": "de", "text": "Die Dusche ist warm." },
-      { "languageCode": "en", "text": "The shower is warm." }
+      { "languageCode": "en", "text": "The shower is warm." },
+      { "languageCode": "bn", "text": "শাওয়ারটা গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "shower" },
-      { "languageCode": "bn", "text": "গোসল" }
+      { "languageCode": "bn", "text": "শাওয়ার" }
     ]
   },
   {
@@ -174,7 +183,8 @@
     "genitive_singular": "des Fachwerkhauses",
     "sentences": [
       { "languageCode": "de", "text": "Das Fachwerkhaus ist alt." },
-      { "languageCode": "en", "text": "The half-timbered house is old." }
+      { "languageCode": "en", "text": "The half-timbered house is old." },
+      { "languageCode": "bn", "text": "কাঠের বাড়িটা পুরনো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "half-timbered house" },
@@ -192,7 +202,8 @@
     "genitive_singular": "des Fernsehers",
     "sentences": [
       { "languageCode": "de", "text": "Der Fernseher ist im Wohnzimmer." },
-      { "languageCode": "en", "text": "The television is in the living room." }
+      { "languageCode": "en", "text": "The television is in the living room." },
+      { "languageCode": "bn", "text": "টেলিভিশনটা বসার ঘরে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "television" },
@@ -210,7 +221,8 @@
     "genitive_singular": "der Flasche",
     "sentences": [
       { "languageCode": "de", "text": "Die Flasche ist leer." },
-      { "languageCode": "en", "text": "The bottle is empty." }
+      { "languageCode": "en", "text": "The bottle is empty." },
+      { "languageCode": "bn", "text": "বোতলটা খালি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bottle" },
@@ -228,7 +240,8 @@
     "genitive_singular": "des Flurs",
     "sentences": [
       { "languageCode": "de", "text": "Der Flur ist lang." },
-      { "languageCode": "en", "text": "The hallway is long." }
+      { "languageCode": "en", "text": "The hallway is long." },
+      { "languageCode": "bn", "text": "করিডোরটা লম্বা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hallway" },
@@ -246,7 +259,8 @@
     "genitive_singular": "des Gartens",
     "sentences": [
       { "languageCode": "de", "text": "Der Garten ist schön." },
-      { "languageCode": "en", "text": "The garden is beautiful." }
+      { "languageCode": "en", "text": "The garden is beautiful." },
+      { "languageCode": "bn", "text": "বাগানটা সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "garden" },
@@ -263,7 +277,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Zimmer ist gemütlich." },
-      { "languageCode": "en", "text": "The room is cozy." }
+      { "languageCode": "en", "text": "The room is cozy." },
+      { "languageCode": "bn", "text": "ঘরটা আরামদায়ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cozy" },
@@ -281,7 +296,8 @@
     "genitive_singular": "des Geräts",
     "sentences": [
       { "languageCode": "de", "text": "Das Gerät ist neu." },
-      { "languageCode": "en", "text": "The device is new." }
+      { "languageCode": "en", "text": "The device is new." },
+      { "languageCode": "bn", "text": "যন্ত্রটা নতুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "device/appliance" },
@@ -299,7 +315,8 @@
     "genitive_singular": "des Hauses",
     "sentences": [
       { "languageCode": "de", "text": "Das Haus ist groß." },
-      { "languageCode": "en", "text": "The house is big." }
+      { "languageCode": "en", "text": "The house is big." },
+      { "languageCode": "bn", "text": "বাড়িটা বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "house" },
@@ -317,7 +334,8 @@
     "genitive_singular": "des Herds",
     "sentences": [
       { "languageCode": "de", "text": "Der Herd ist in der Küche." },
-      { "languageCode": "en", "text": "The stove is in the kitchen." }
+      { "languageCode": "en", "text": "The stove is in the kitchen." },
+      { "languageCode": "bn", "text": "চুলাটা রান্নাঘরে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "stove" },
@@ -335,7 +353,8 @@
     "genitive_singular": "des Hochhauses",
     "sentences": [
       { "languageCode": "de", "text": "Das Hochhaus ist hoch." },
-      { "languageCode": "en", "text": "The high-rise is tall." }
+      { "languageCode": "en", "text": "The high-rise is tall." },
+      { "languageCode": "bn", "text": "উঁচু বিল্ডিংটা অনেক লম্বা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "high-rise building" },
@@ -353,7 +372,8 @@
     "genitive_singular": "des Holzes",
     "sentences": [
       { "languageCode": "de", "text": "Das Holz ist braun." },
-      { "languageCode": "en", "text": "The wood is brown." }
+      { "languageCode": "en", "text": "The wood is brown." },
+      { "languageCode": "bn", "text": "কাঠটা বাদামী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "wood" },
@@ -371,7 +391,8 @@
     "genitive_singular": "der Kaffeemaschine",
     "sentences": [
       { "languageCode": "de", "text": "Die Kaffeemaschine macht guten Kaffee." },
-      { "languageCode": "en", "text": "The coffee machine makes good coffee." }
+      { "languageCode": "en", "text": "The coffee machine makes good coffee." },
+      { "languageCode": "bn", "text": "কফি মেশিনটা ভালো কফি তৈরি করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "coffee machine" },
@@ -389,7 +410,8 @@
     "genitive_singular": "des Kinderzimmers",
     "sentences": [
       { "languageCode": "de", "text": "Das Kinderzimmer ist bunt." },
-      { "languageCode": "en", "text": "The children's room is colorful." }
+      { "languageCode": "en", "text": "The children's room is colorful." },
+      { "languageCode": "bn", "text": "শিশুদের ঘরটা রঙিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "children's room" },
@@ -407,7 +429,8 @@
     "genitive_singular": "der Kiste",
     "sentences": [
       { "languageCode": "de", "text": "Die Kiste ist schwer." },
-      { "languageCode": "en", "text": "The box is heavy." }
+      { "languageCode": "en", "text": "The box is heavy." },
+      { "languageCode": "bn", "text": "বাক্সটা ভারী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "box" },
@@ -425,7 +448,8 @@
     "genitive_singular": "der Küche",
     "sentences": [
       { "languageCode": "de", "text": "Die Küche ist modern." },
-      { "languageCode": "en", "text": "The kitchen is modern." }
+      { "languageCode": "en", "text": "The kitchen is modern." },
+      { "languageCode": "bn", "text": "রান্নাঘরটা আধুনিক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "kitchen" },
@@ -443,7 +467,8 @@
     "genitive_singular": "des Kühlschranks",
     "sentences": [
       { "languageCode": "de", "text": "Der Kühlschrank ist voll." },
-      { "languageCode": "en", "text": "The refrigerator is full." }
+      { "languageCode": "en", "text": "The refrigerator is full." },
+      { "languageCode": "bn", "text": "রেফ্রিজারেটরটা পূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "refrigerator" },
@@ -461,7 +486,8 @@
     "genitive_singular": "der Lampe",
     "sentences": [
       { "languageCode": "de", "text": "Die Lampe gibt helles Licht." },
-      { "languageCode": "en", "text": "The lamp gives bright light." }
+      { "languageCode": "en", "text": "The lamp gives bright light." },
+      { "languageCode": "bn", "text": "বাতিটা উজ্জ্বল আলো দেয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lamp" },
@@ -479,7 +505,8 @@
     "genitive_singular": "des Lichts",
     "sentences": [
       { "languageCode": "de", "text": "Das Licht ist hell." },
-      { "languageCode": "en", "text": "The light is bright." }
+      { "languageCode": "en", "text": "The light is bright." },
+      { "languageCode": "bn", "text": "আলোটা উজ্জ্বল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "light" },
@@ -497,7 +524,8 @@
     "genitive_singular": "des Lofts",
     "sentences": [
       { "languageCode": "de", "text": "Das Loft ist modern." },
-      { "languageCode": "en", "text": "The loft is modern." }
+      { "languageCode": "en", "text": "The loft is modern." },
+      { "languageCode": "bn", "text": "লফটটা আধুনিক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "loft" },
@@ -515,7 +543,8 @@
     "genitive_singular": "des Möbels",
     "sentences": [
       { "languageCode": "de", "text": "Das Möbel ist schön." },
-      { "languageCode": "en", "text": "The furniture is beautiful." }
+      { "languageCode": "en", "text": "The furniture is beautiful." },
+      { "languageCode": "bn", "text": "আসবাবপত্রটা সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "furniture" },
@@ -533,11 +562,12 @@
     "genitive_singular": "der Nähe",
     "sentences": [
       { "languageCode": "de", "text": "Das Haus ist in der Nähe." },
-      { "languageCode": "en", "text": "The house is nearby." }
+      { "languageCode": "en", "text": "The house is nearby." },
+      { "languageCode": "bn", "text": "বাড়িটা কাছাকাছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "proximity/vicinity" },
-      { "languageCode": "bn", "text": "কাছে" }
+      { "languageCode": "bn", "text": "কাছাকাছি" }
     ]
   },
   {
@@ -551,7 +581,8 @@
     "genitive_singular": "der Pflanze",
     "sentences": [
       { "languageCode": "de", "text": "Die Pflanze ist grün." },
-      { "languageCode": "en", "text": "The plant is green." }
+      { "languageCode": "en", "text": "The plant is green." },
+      { "languageCode": "bn", "text": "গাছটা সবুজ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "plant" },
@@ -569,7 +600,8 @@
     "genitive_singular": "des Raums",
     "sentences": [
       { "languageCode": "de", "text": "Der Raum ist hell." },
-      { "languageCode": "en", "text": "The room is bright." }
+      { "languageCode": "en", "text": "The room is bright." },
+      { "languageCode": "bn", "text": "ঘরটা উজ্জ্বল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "room" },
@@ -587,7 +619,8 @@
     "genitive_singular": "des Regals",
     "sentences": [
       { "languageCode": "de", "text": "Das Regal steht an der Wand." },
-      { "languageCode": "en", "text": "The shelf stands against the wall." }
+      { "languageCode": "en", "text": "The shelf stands against the wall." },
+      { "languageCode": "bn", "text": "তাকটা দেয়ালের সাথে লাগানো আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "shelf" },
@@ -604,7 +637,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Die Wohnung ist renoviert." },
-      { "languageCode": "en", "text": "The apartment is renovated." }
+      { "languageCode": "en", "text": "The apartment is renovated." },
+      { "languageCode": "bn", "text": "অ্যাপার্টমেন্টটা সংস্কার করা হয়েছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "renovated" },
@@ -622,7 +656,8 @@
     "genitive_singular": "des Schlafzimmers",
     "sentences": [
       { "languageCode": "de", "text": "Das Schlafzimmer ist dunkel." },
-      { "languageCode": "en", "text": "The bedroom is dark." }
+      { "languageCode": "en", "text": "The bedroom is dark." },
+      { "languageCode": "bn", "text": "শোবার ঘরটা অন্ধকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bedroom" },
@@ -640,7 +675,8 @@
     "genitive_singular": "des Schlüssels",
     "sentences": [
       { "languageCode": "de", "text": "Der Schlüssel ist klein." },
-      { "languageCode": "en", "text": "The key is small." }
+      { "languageCode": "en", "text": "The key is small." },
+      { "languageCode": "bn", "text": "চাবিটা ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "key" },
@@ -658,7 +694,8 @@
     "genitive_singular": "des Schranks",
     "sentences": [
       { "languageCode": "de", "text": "Der Schrank ist groß." },
-      { "languageCode": "en", "text": "The closet is big." }
+      { "languageCode": "en", "text": "The closet is big." },
+      { "languageCode": "bn", "text": "আলমারিটা বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "closet/wardrobe" },
@@ -676,7 +713,8 @@
     "genitive_singular": "des Schreibtischs",
     "sentences": [
       { "languageCode": "de", "text": "Der Schreibtisch ist ordentlich." },
-      { "languageCode": "en", "text": "The desk is tidy." }
+      { "languageCode": "en", "text": "The desk is tidy." },
+      { "languageCode": "bn", "text": "ডেস্কটা গোছানো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "desk" },
@@ -694,7 +732,8 @@
     "genitive_singular": "der Seife",
     "sentences": [
       { "languageCode": "de", "text": "Die Seife riecht gut." },
-      { "languageCode": "en", "text": "The soap smells good." }
+      { "languageCode": "en", "text": "The soap smells good." },
+      { "languageCode": "bn", "text": "সাবানটার গন্ধ ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "soap" },
@@ -712,7 +751,8 @@
     "genitive_singular": "des Sessels",
     "sentences": [
       { "languageCode": "de", "text": "Der Sessel ist bequem." },
-      { "languageCode": "en", "text": "The armchair is comfortable." }
+      { "languageCode": "en", "text": "The armchair is comfortable." },
+      { "languageCode": "bn", "text": "চেয়ারটা আরামদায়ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "armchair" },
@@ -730,7 +770,8 @@
     "genitive_singular": "des Sofas",
     "sentences": [
       { "languageCode": "de", "text": "Das Sofa ist weich." },
-      { "languageCode": "en", "text": "The sofa is soft." }
+      { "languageCode": "en", "text": "The sofa is soft." },
+      { "languageCode": "bn", "text": "সোফাটা নরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sofa" },
@@ -748,7 +789,8 @@
     "genitive_singular": "der Spülmaschine",
     "sentences": [
       { "languageCode": "de", "text": "Die Spülmaschine ist kaputt." },
-      { "languageCode": "en", "text": "The dishwasher is broken." }
+      { "languageCode": "en", "text": "The dishwasher is broken." },
+      { "languageCode": "bn", "text": "ডিশওয়াশারটা নষ্ট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "dishwasher" },
@@ -766,7 +808,8 @@
     "genitive_singular": "des Stocks",
     "sentences": [
       { "languageCode": "de", "text": "Ich wohne im zweiten Stock." },
-      { "languageCode": "en", "text": "I live on the second floor." }
+      { "languageCode": "en", "text": "I live on the second floor." },
+      { "languageCode": "bn", "text": "আমি দ্বিতীয় তলায় থাকি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "floor/story" },
@@ -784,7 +827,8 @@
     "genitive_singular": "des Stuhls",
     "sentences": [
       { "languageCode": "de", "text": "Der Stuhl ist hart." },
-      { "languageCode": "en", "text": "The chair is hard." }
+      { "languageCode": "en", "text": "The chair is hard." },
+      { "languageCode": "bn", "text": "চেয়ারটা শক্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "chair" },
@@ -802,7 +846,8 @@
     "genitive_singular": "des Teppichs",
     "sentences": [
       { "languageCode": "de", "text": "Der Teppich ist rot." },
-      { "languageCode": "en", "text": "The carpet is red." }
+      { "languageCode": "en", "text": "The carpet is red." },
+      { "languageCode": "bn", "text": "কার্পেটটা লাল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "carpet" },
@@ -820,7 +865,8 @@
     "genitive_singular": "der Toilette",
     "sentences": [
       { "languageCode": "de", "text": "Die Toilette ist sauber." },
-      { "languageCode": "en", "text": "The toilet is clean." }
+      { "languageCode": "en", "text": "The toilet is clean." },
+      { "languageCode": "bn", "text": "টয়লেটটা পরিষ্কার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "toilet" },
@@ -838,7 +884,8 @@
     "genitive_singular": "der Tür",
     "sentences": [
       { "languageCode": "de", "text": "Die Tür ist geschlossen." },
-      { "languageCode": "en", "text": "The door is closed." }
+      { "languageCode": "en", "text": "The door is closed." },
+      { "languageCode": "bn", "text": "দরজাটা বন্ধ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "door" },
@@ -856,7 +903,8 @@
     "genitive_singular": "der Waschmaschine",
     "sentences": [
       { "languageCode": "de", "text": "Die Waschmaschine wäscht die Kleidung." },
-      { "languageCode": "en", "text": "The washing machine washes the clothes." }
+      { "languageCode": "en", "text": "The washing machine washes the clothes." },
+      { "languageCode": "bn", "text": "ওয়াশিং মেশিনটা কাপড় ধোয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "washing machine" },
@@ -874,7 +922,8 @@
     "genitive_singular": "der WG",
     "sentences": [
       { "languageCode": "de", "text": "Die WG ist günstig." },
-      { "languageCode": "en", "text": "The shared apartment is cheap." }
+      { "languageCode": "en", "text": "The shared apartment is cheap." },
+      { "languageCode": "bn", "text": "শেয়ার অ্যাপার্টমেন্টটা সাশ্রয়ী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "shared apartment" },
@@ -892,7 +941,8 @@
     "genitive_singular": "der Wohn-Situation",
     "sentences": [
       { "languageCode": "de", "text": "Die Wohn-Situation ist gut." },
-      { "languageCode": "en", "text": "The living situation is good." }
+      { "languageCode": "en", "text": "The living situation is good." },
+      { "languageCode": "bn", "text": "বাসস্থানের পরিস্থিতি ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "living situation" },
@@ -913,7 +963,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich wohne in Berlin." },
-      { "languageCode": "en", "text": "I live in Berlin." }
+      { "languageCode": "en", "text": "I live in Berlin." },
+      { "languageCode": "bn", "text": "আমি বার্লিনে বাস করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to live" },
@@ -931,11 +982,12 @@
     "genitive_singular": "der Wohnfläche",
     "sentences": [
       { "languageCode": "de", "text": "Die Wohnfläche ist 60 Quadratmeter." },
-      { "languageCode": "en", "text": "The living space is 60 square meters." }
+      { "languageCode": "en", "text": "The living space is 60 square meters." },
+      { "languageCode": "bn", "text": "বাসস্থানের জায়গাটা ৬০ বর্গমিটার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "living space" },
-      { "languageCode": "bn", "text": "বাসস্থানের স্থান" }
+      { "languageCode": "bn", "text": "বাসস্থানের জায়গা" }
     ]
   },
   {
@@ -949,7 +1001,8 @@
     "genitive_singular": "der Wohnung",
     "sentences": [
       { "languageCode": "de", "text": "Die Wohnung hat drei Zimmer." },
-      { "languageCode": "en", "text": "The apartment has three rooms." }
+      { "languageCode": "en", "text": "The apartment has three rooms." },
+      { "languageCode": "bn", "text": "অ্যাপার্টমেন্টটাতে তিনটা ঘর আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "apartment" },
@@ -967,7 +1020,8 @@
     "genitive_singular": "der Wohnungsanzeige",
     "sentences": [
       { "languageCode": "de", "text": "Die Wohnungsanzeige ist interessant." },
-      { "languageCode": "en", "text": "The apartment ad is interesting." }
+      { "languageCode": "en", "text": "The apartment ad is interesting." },
+      { "languageCode": "bn", "text": "অ্যাপার্টমেন্ট বিজ্ঞাপনটা আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "apartment ad" },
@@ -985,7 +1039,8 @@
     "genitive_singular": "des Wohnzimmers",
     "sentences": [
       { "languageCode": "de", "text": "Das Wohnzimmer ist gemütlich." },
-      { "languageCode": "en", "text": "The living room is cozy." }
+      { "languageCode": "en", "text": "The living room is cozy." },
+      { "languageCode": "bn", "text": "বসার ঘরটা আরামদায়ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "living room" },
@@ -1002,7 +1057,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Die Wohnung ist zentral." },
-      { "languageCode": "en", "text": "The apartment is central." }
+      { "languageCode": "en", "text": "The apartment is central." },
+      { "languageCode": "bn", "text": "অ্যাপার্টমেন্টটা কেন্দ্রীয়ভাবে অবস্থিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "central" },

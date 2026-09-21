@@ -10,7 +10,8 @@
     "genitive_singular": "des Abendessens",
     "sentences": [
       { "languageCode": "de", "text": "Das Abendessen ist fertig." },
-      { "languageCode": "en", "text": "The dinner is ready." }
+      { "languageCode": "en", "text": "The dinner is ready." },
+      { "languageCode": "bn", "text": "রাতের খাবার প্রস্তুত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "dinner" },
@@ -28,7 +29,8 @@
     "genitive_singular": "des Apfels",
     "sentences": [
       { "languageCode": "de", "text": "Der Apfel ist rot." },
-      { "languageCode": "en", "text": "The apple is red." }
+      { "languageCode": "en", "text": "The apple is red." },
+      { "languageCode": "bn", "text": "আপেলটা লাল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "apple" },
@@ -46,7 +48,8 @@
     "genitive_singular": "des Apfelsafts",
     "sentences": [
       { "languageCode": "de", "text": "Der Apfelsaft schmeckt süß." },
-      { "languageCode": "en", "text": "The apple juice tastes sweet." }
+      { "languageCode": "en", "text": "The apple juice tastes sweet." },
+      { "languageCode": "bn", "text": "আপেল জুসটা মিষ্টি স্বাদের।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "apple juice" },
@@ -64,7 +67,8 @@
     "genitive_singular": "der Apfelsaftschorle",
     "sentences": [
       { "languageCode": "de", "text": "Die Apfelsaftschorle ist erfrischend." },
-      { "languageCode": "en", "text": "The apple juice spritzer is refreshing." }
+      { "languageCode": "en", "text": "The apple juice spritzer is refreshing." },
+      { "languageCode": "bn", "text": "আপেল জুস স্প্রিটজারটা সতেজদায়ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "apple juice spritzer" },
@@ -81,7 +85,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist ein asiatisches Restaurant." },
-      { "languageCode": "en", "text": "That is an Asian restaurant." }
+      { "languageCode": "en", "text": "That is an Asian restaurant." },
+      { "languageCode": "bn", "text": "এটা একটা এশিয়ান রেস্তোরাঁ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Asian" },
@@ -99,7 +104,8 @@
     "genitive_singular": "der Banane",
     "sentences": [
       { "languageCode": "de", "text": "Die Banane ist gelb." },
-      { "languageCode": "en", "text": "The banana is yellow." }
+      { "languageCode": "en", "text": "The banana is yellow." },
+      { "languageCode": "bn", "text": "কলাটা হলুদ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "banana" },
@@ -120,7 +126,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich bestelle eine Pizza." },
-      { "languageCode": "en", "text": "I order a pizza." }
+      { "languageCode": "en", "text": "I order a pizza." },
+      { "languageCode": "bn", "text": "আমি একটা পিৎজা অর্ডার করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to order" },
@@ -138,7 +145,8 @@
     "genitive_singular": "der Bestellung",
     "sentences": [
       { "languageCode": "de", "text": "Die Bestellung ist da." },
-      { "languageCode": "en", "text": "The order is here." }
+      { "languageCode": "en", "text": "The order is here." },
+      { "languageCode": "bn", "text": "অর্ডারটা চলে এসেছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "order" },
@@ -156,7 +164,8 @@
     "genitive_singular": "der Birne",
     "sentences": [
       { "languageCode": "de", "text": "Die Birne ist gelb." },
-      { "languageCode": "en", "text": "The pear is yellow." }
+      { "languageCode": "en", "text": "The pear is yellow." },
+      { "languageCode": "bn", "text": "নাশপাতিটা হলুদ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "pear" },
@@ -174,7 +183,8 @@
     "genitive_singular": "des Brotes",
     "sentences": [
       { "languageCode": "de", "text": "Das Brot ist frisch." },
-      { "languageCode": "en", "text": "The bread is fresh." }
+      { "languageCode": "en", "text": "The bread is fresh." },
+      { "languageCode": "bn", "text": "রুটিটা তাজা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bread" },
@@ -192,7 +202,8 @@
     "genitive_singular": "des Brötchens",
     "sentences": [
       { "languageCode": "de", "text": "Das Brötchen ist frisch." },
-      { "languageCode": "en", "text": "The bread roll is fresh." }
+      { "languageCode": "en", "text": "The bread roll is fresh." },
+      { "languageCode": "bn", "text": "রুটিটা তাজা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bread roll" },
@@ -210,7 +221,8 @@
     "genitive_singular": "der Butter",
     "sentences": [
       { "languageCode": "de", "text": "Die Butter ist auf dem Brot." },
-      { "languageCode": "en", "text": "The butter is on the bread." }
+      { "languageCode": "en", "text": "The butter is on the bread." },
+      { "languageCode": "bn", "text": "মাখনটা রুটির উপর আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "butter" },
@@ -228,7 +240,8 @@
     "genitive_singular": "des Butterbrots",
     "sentences": [
       { "languageCode": "de", "text": "Das Butterbrot schmeckt gut." },
-      { "languageCode": "en", "text": "The buttered bread tastes good." }
+      { "languageCode": "en", "text": "The buttered bread tastes good." },
+      { "languageCode": "bn", "text": "মাখন রুটিটার স্বাদ ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "buttered bread" },
@@ -246,7 +259,8 @@
     "genitive_singular": "der Chips",
     "sentences": [
       { "languageCode": "de", "text": "Die Chips sind knusprig." },
-      { "languageCode": "en", "text": "The chips are crispy." }
+      { "languageCode": "en", "text": "The chips are crispy." },
+      { "languageCode": "bn", "text": "চিপসগুলো মচমচে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "chips" },
@@ -264,7 +278,8 @@
     "genitive_singular": "der Cola",
     "sentences": [
       { "languageCode": "de", "text": "Die Cola ist kalt." },
-      { "languageCode": "en", "text": "The cola is cold." }
+      { "languageCode": "en", "text": "The cola is cold." },
+      { "languageCode": "bn", "text": "কোলাটা ঠান্ডা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cola" },
@@ -282,7 +297,8 @@
     "genitive_singular": "des Döners",
     "sentences": [
       { "languageCode": "de", "text": "Der Döner schmeckt gut." },
-      { "languageCode": "en", "text": "The döner tastes good." }
+      { "languageCode": "en", "text": "The döner tastes good." },
+      { "languageCode": "bn", "text": "দোনার কাবাবটার স্বাদ ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "döner kebab" },
@@ -300,7 +316,8 @@
     "genitive_singular": "des Durstes",
     "sentences": [
       { "languageCode": "de", "text": "Ich habe Durst." },
-      { "languageCode": "en", "text": "I am thirsty." }
+      { "languageCode": "en", "text": "I am thirsty." },
+      { "languageCode": "bn", "text": "আমার তৃষ্ণা পেয়েছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "thirst" },
@@ -318,7 +335,8 @@
     "genitive_singular": "des Eis",
     "sentences": [
       { "languageCode": "de", "text": "Das Ei ist gekocht." },
-      { "languageCode": "en", "text": "The egg is cooked." }
+      { "languageCode": "en", "text": "The egg is cooked." },
+      { "languageCode": "bn", "text": "ডিমটা সেদ্ধ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "egg" },
@@ -339,7 +357,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich esse gerne Pizza." },
-      { "languageCode": "en", "text": "I like to eat pizza." }
+      { "languageCode": "en", "text": "I like to eat pizza." },
+      { "languageCode": "bn", "text": "আমি পিৎজা খেতে পছন্দ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to eat" },
@@ -357,7 +376,8 @@
     "genitive_singular": "des Essigs",
     "sentences": [
       { "languageCode": "de", "text": "Der Essig ist sauer." },
-      { "languageCode": "en", "text": "The vinegar is sour." }
+      { "languageCode": "en", "text": "The vinegar is sour." },
+      { "languageCode": "bn", "text": "ভিনেগারটা টক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "vinegar" },
@@ -375,7 +395,8 @@
     "genitive_singular": "des Fisches",
     "sentences": [
       { "languageCode": "de", "text": "Der Fisch ist frisch." },
-      { "languageCode": "en", "text": "The fish is fresh." }
+      { "languageCode": "en", "text": "The fish is fresh." },
+      { "languageCode": "bn", "text": "মাছটা তাজা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fish" },
@@ -393,7 +414,8 @@
     "genitive_singular": "des Fleisches",
     "sentences": [
       { "languageCode": "de", "text": "Das Fleisch ist lecker." },
-      { "languageCode": "en", "text": "The meat is delicious." }
+      { "languageCode": "en", "text": "The meat is delicious." },
+      { "languageCode": "bn", "text": "মাংসটা সুস্বাদু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "meat" },
@@ -411,7 +433,8 @@
     "genitive_singular": "des Frühstücks",
     "sentences": [
       { "languageCode": "de", "text": "Das Frühstück ist fertig." },
-      { "languageCode": "en", "text": "The breakfast is ready." }
+      { "languageCode": "en", "text": "The breakfast is ready." },
+      { "languageCode": "bn", "text": "নাস্তা প্রস্তুত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "breakfast" },
@@ -429,7 +452,8 @@
     "genitive_singular": "des Gemüses",
     "sentences": [
       { "languageCode": "de", "text": "Das Gemüse ist gesund." },
-      { "languageCode": "en", "text": "The vegetables are healthy." }
+      { "languageCode": "en", "text": "The vegetables are healthy." },
+      { "languageCode": "bn", "text": "সবজিগুলো স্বাস্থ্যকর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "vegetables" },
@@ -447,7 +471,8 @@
     "genitive_singular": "des Geschirrs",
     "sentences": [
       { "languageCode": "de", "text": "Das Geschirr ist sauber." },
-      { "languageCode": "en", "text": "The dishes are clean." }
+      { "languageCode": "en", "text": "The dishes are clean." },
+      { "languageCode": "bn", "text": "থালা-বাসনগুলো পরিষ্কার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "dishes" },
@@ -465,7 +490,8 @@
     "genitive_singular": "der Gurke",
     "sentences": [
       { "languageCode": "de", "text": "Die Gurke ist grün." },
-      { "languageCode": "en", "text": "The cucumber is green." }
+      { "languageCode": "en", "text": "The cucumber is green." },
+      { "languageCode": "bn", "text": "শসাটা সবুজ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cucumber" },
@@ -483,7 +509,8 @@
     "genitive_singular": "des Hähnchens",
     "sentences": [
       { "languageCode": "de", "text": "Das Hähnchen ist sehr lecker." },
-      { "languageCode": "en", "text": "The chicken is very tasty." }
+      { "languageCode": "en", "text": "The chicken is very tasty." },
+      { "languageCode": "bn", "text": "মুরগিটা খুব সুস্বাদু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "chicken" },
@@ -501,7 +528,8 @@
     "genitive_singular": "des Hungers",
     "sentences": [
       { "languageCode": "de", "text": "Ich habe Hunger." },
-      { "languageCode": "en", "text": "I am hungry." }
+      { "languageCode": "en", "text": "I am hungry." },
+      { "languageCode": "bn", "text": "আমার ক্ষুধা পেয়েছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hunger" },
@@ -519,7 +547,8 @@
     "genitive_singular": "des Joghurts",
     "sentences": [
       { "languageCode": "de", "text": "Der Joghurt ist cremig." },
-      { "languageCode": "en", "text": "The yogurt is creamy." }
+      { "languageCode": "en", "text": "The yogurt is creamy." },
+      { "languageCode": "bn", "text": "দইটা ক্রিমি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "yogurt" },
@@ -537,7 +566,8 @@
     "genitive_singular": "des Kaffees",
     "sentences": [
       { "languageCode": "de", "text": "Der Kaffee ist stark." },
-      { "languageCode": "en", "text": "The coffee is strong." }
+      { "languageCode": "en", "text": "The coffee is strong." },
+      { "languageCode": "bn", "text": "কফিটা কড়া।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "coffee" },
@@ -555,7 +585,8 @@
     "genitive_singular": "der Kartoffel",
     "sentences": [
       { "languageCode": "de", "text": "Die Kartoffel ist groß." },
-      { "languageCode": "en", "text": "The potato is big." }
+      { "languageCode": "en", "text": "The potato is big." },
+      { "languageCode": "bn", "text": "আলুটা বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "potato" },
@@ -573,7 +604,8 @@
     "genitive_singular": "des Käses",
     "sentences": [
       { "languageCode": "de", "text": "Der Käse ist mild." },
-      { "languageCode": "en", "text": "The cheese is mild." }
+      { "languageCode": "en", "text": "The cheese is mild." },
+      { "languageCode": "bn", "text": "পনিরটা হালকা স্বাদের।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cheese" },
@@ -591,7 +623,8 @@
     "genitive_singular": "des Kekses",
     "sentences": [
       { "languageCode": "de", "text": "Der Keks ist süß." },
-      { "languageCode": "en", "text": "The cookie is sweet." }
+      { "languageCode": "en", "text": "The cookie is sweet." },
+      { "languageCode": "bn", "text": "বিস্কুটটা মিষ্টি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cookie" },
@@ -612,7 +645,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Meine Mutter kocht Nudeln." },
-      { "languageCode": "en", "text": "My mother cooks pasta." }
+      { "languageCode": "en", "text": "My mother cooks pasta." },
+      { "languageCode": "bn", "text": "আমার মা নুডলস রান্না করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to cook" },
@@ -630,7 +664,8 @@
     "genitive_singular": "des Kuchens",
     "sentences": [
       { "languageCode": "de", "text": "Der Kuchen ist lecker." },
-      { "languageCode": "en", "text": "The cake is delicious." }
+      { "languageCode": "en", "text": "The cake is delicious." },
+      { "languageCode": "bn", "text": "কেকটা সুস্বাদু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cake" },
@@ -648,7 +683,8 @@
     "genitive_singular": "der Lebensmittel",
     "sentences": [
       { "languageCode": "de", "text": "Die Lebensmittel sind frisch." },
-      { "languageCode": "en", "text": "The food items are fresh." }
+      { "languageCode": "en", "text": "The food items are fresh." },
+      { "languageCode": "bn", "text": "খাদ্য দ্রব্যগুলো তাজা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "food items" },
@@ -665,7 +701,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Brot ist sehr lecker." },
-      { "languageCode": "en", "text": "The bread is very delicious." }
+      { "languageCode": "en", "text": "The bread is very delicious." },
+      { "languageCode": "bn", "text": "রুটিটা খুবই সুস্বাদু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "delicious/tasty" },
@@ -683,7 +720,8 @@
     "genitive_singular": "der Mahlzeit",
     "sentences": [
       { "languageCode": "de", "text": "Die Mahlzeit ist fertig." },
-      { "languageCode": "en", "text": "The meal is ready." }
+      { "languageCode": "en", "text": "The meal is ready." },
+      { "languageCode": "bn", "text": "খাবারটা প্রস্তুত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "meal" },
@@ -701,7 +739,8 @@
     "genitive_singular": "der Marmelade",
     "sentences": [
       { "languageCode": "de", "text": "Die Marmelade ist süß." },
-      { "languageCode": "en", "text": "The jam is sweet." }
+      { "languageCode": "en", "text": "The jam is sweet." },
+      { "languageCode": "bn", "text": "জ্যামটা মিষ্টি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "jam" },
@@ -719,7 +758,8 @@
     "genitive_singular": "der Milch",
     "sentences": [
       { "languageCode": "de", "text": "Die Milch ist weiß." },
-      { "languageCode": "en", "text": "The milk is white." }
+      { "languageCode": "en", "text": "The milk is white." },
+      { "languageCode": "bn", "text": "দুধটা সাদা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "milk" },
@@ -737,7 +777,8 @@
     "genitive_singular": "des Mittagessens",
     "sentences": [
       { "languageCode": "de", "text": "Das Mittagessen ist warm." },
-      { "languageCode": "en", "text": "The lunch is warm." }
+      { "languageCode": "en", "text": "The lunch is warm." },
+      { "languageCode": "bn", "text": "দুপুরের খাবারটা গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lunch" },
@@ -755,7 +796,8 @@
     "genitive_singular": "des Müslis",
     "sentences": [
       { "languageCode": "de", "text": "Das Müsli ist gesund." },
-      { "languageCode": "en", "text": "The muesli is healthy." }
+      { "languageCode": "en", "text": "The muesli is healthy." },
+      { "languageCode": "bn", "text": "মুসলিটা স্বাস্থ্যকর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "muesli" },
@@ -773,7 +815,8 @@
     "genitive_singular": "der Nudel",
     "sentences": [
       { "languageCode": "de", "text": "Die Nudel ist lecker." },
-      { "languageCode": "en", "text": "The noodle is delicious." }
+      { "languageCode": "en", "text": "The noodle is delicious." },
+      { "languageCode": "bn", "text": "নুডলসটা সুস্বাদু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "noodle" },
@@ -791,7 +834,8 @@
     "genitive_singular": "des Öls",
     "sentences": [
       { "languageCode": "de", "text": "Das Öl ist zum Kochen." },
-      { "languageCode": "en", "text": "The oil is for cooking." }
+      { "languageCode": "en", "text": "The oil is for cooking." },
+      { "languageCode": "bn", "text": "তেলটা রান্নার জন্য।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "oil" },
@@ -809,7 +853,8 @@
     "genitive_singular": "der Olive",
     "sentences": [
       { "languageCode": "de", "text": "Die Olive ist grün." },
-      { "languageCode": "en", "text": "The olive is green." }
+      { "languageCode": "en", "text": "The olive is green." },
+      { "languageCode": "bn", "text": "জলপাইটা সবুজ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "olive" },
@@ -827,7 +872,8 @@
     "genitive_singular": "des Orangensafts",
     "sentences": [
       { "languageCode": "de", "text": "Der Orangensaft ist frisch." },
-      { "languageCode": "en", "text": "The orange juice is fresh." }
+      { "languageCode": "en", "text": "The orange juice is fresh." },
+      { "languageCode": "bn", "text": "কমলার জুসটা তাজা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "orange juice" },
@@ -845,7 +891,8 @@
     "genitive_singular": "des Pfeffers",
     "sentences": [
       { "languageCode": "de", "text": "Der Pfeffer ist scharf." },
-      { "languageCode": "en", "text": "The pepper is spicy." }
+      { "languageCode": "en", "text": "The pepper is spicy." },
+      { "languageCode": "bn", "text": "মরিচটা ঝাল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "pepper" },
@@ -863,7 +910,8 @@
     "genitive_singular": "der Pommes frites",
     "sentences": [
       { "languageCode": "de", "text": "Die Pommes frites sind heiß." },
-      { "languageCode": "en", "text": "The French fries are hot." }
+      { "languageCode": "en", "text": "The French fries are hot." },
+      { "languageCode": "bn", "text": "ফ্রেঞ্চ ফ্রাইগুলো গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "French fries" },
@@ -881,7 +929,8 @@
     "genitive_singular": "des Reises",
     "sentences": [
       { "languageCode": "de", "text": "Der Reis ist gekocht." },
-      { "languageCode": "en", "text": "The rice is cooked." }
+      { "languageCode": "en", "text": "The rice is cooked." },
+      { "languageCode": "bn", "text": "ভাতটা রান্না করা হয়েছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "rice" },
@@ -899,7 +948,8 @@
     "genitive_singular": "des Saftes",
     "sentences": [
       { "languageCode": "de", "text": "Der Saft ist süß." },
-      { "languageCode": "en", "text": "The juice is sweet." }
+      { "languageCode": "en", "text": "The juice is sweet." },
+      { "languageCode": "bn", "text": "রসটা মিষ্টি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "juice" },
@@ -917,7 +967,8 @@
     "genitive_singular": "der Sahne",
     "sentences": [
       { "languageCode": "de", "text": "Die Sahne ist dick." },
-      { "languageCode": "en", "text": "The cream is thick." }
+      { "languageCode": "en", "text": "The cream is thick." },
+      { "languageCode": "bn", "text": "ক্রিমটা ঘন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cream" },
@@ -935,7 +986,8 @@
     "genitive_singular": "des Salats",
     "sentences": [
       { "languageCode": "de", "text": "Der Salat ist frisch." },
-      { "languageCode": "en", "text": "The salad is fresh." }
+      { "languageCode": "en", "text": "The salad is fresh." },
+      { "languageCode": "bn", "text": "সালাদটা তাজা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "salad" },
@@ -953,7 +1005,8 @@
     "genitive_singular": "des Salzes",
     "sentences": [
       { "languageCode": "de", "text": "Das Salz ist weiß." },
-      { "languageCode": "en", "text": "The salt is white." }
+      { "languageCode": "en", "text": "The salt is white." },
+      { "languageCode": "bn", "text": "লবণটা সাদা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "salt" },
@@ -971,7 +1024,8 @@
     "genitive_singular": "des Sandwiches",
     "sentences": [
       { "languageCode": "de", "text": "Das Sandwich ist mit Käse." },
-      { "languageCode": "en", "text": "The sandwich is with cheese." }
+      { "languageCode": "en", "text": "The sandwich is with cheese." },
+      { "languageCode": "bn", "text": "স্যান্ডউইচটা পনির দিয়ে তৈরি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sandwich" },
@@ -988,7 +1042,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin satt." },
-      { "languageCode": "en", "text": "I am full." }
+      { "languageCode": "en", "text": "I am full." },
+      { "languageCode": "bn", "text": "আমার পেট ভরে গেছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "full/satisfied" },
@@ -1006,7 +1061,8 @@
     "genitive_singular": "des Schinkens",
     "sentences": [
       { "languageCode": "de", "text": "Der Schinken ist rosa." },
-      { "languageCode": "en", "text": "The ham is pink." }
+      { "languageCode": "en", "text": "The ham is pink." },
+      { "languageCode": "bn", "text": "হ্যামটা গোলাপি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ham" },
@@ -1027,7 +1083,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Das Essen schmeckt gut." },
-      { "languageCode": "en", "text": "The food tastes good." }
+      { "languageCode": "en", "text": "The food tastes good." },
+      { "languageCode": "bn", "text": "খাবারটার স্বাদ ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to taste" },
@@ -1045,7 +1102,8 @@
     "genitive_singular": "der Schokolade",
     "sentences": [
       { "languageCode": "de", "text": "Die Schokolade ist süß." },
-      { "languageCode": "en", "text": "The chocolate is sweet." }
+      { "languageCode": "en", "text": "The chocolate is sweet." },
+      { "languageCode": "bn", "text": "চকলেটটা মিষ্টি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "chocolate" },
@@ -1063,7 +1121,8 @@
     "genitive_singular": "der Suppe",
     "sentences": [
       { "languageCode": "de", "text": "Die Suppe ist heiß." },
-      { "languageCode": "en", "text": "The soup is hot." }
+      { "languageCode": "en", "text": "The soup is hot." },
+      { "languageCode": "bn", "text": "স্যুপটা গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "soup" },
@@ -1081,7 +1140,8 @@
     "genitive_singular": "des Suppenhuhns",
     "sentences": [
       { "languageCode": "de", "text": "Das Suppenhuhn ist für die Suppe." },
-      { "languageCode": "en", "text": "The soup chicken is for the soup." }
+      { "languageCode": "en", "text": "The soup chicken is for the soup." },
+      { "languageCode": "bn", "text": "স্যুপের মুরগিটা স্যুপের জন্য।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "soup chicken" },
@@ -1099,7 +1159,8 @@
     "genitive_singular": "der Süßigkeit",
     "sentences": [
       { "languageCode": "de", "text": "Die Süßigkeit ist zu süß." },
-      { "languageCode": "en", "text": "The candy is too sweet." }
+      { "languageCode": "en", "text": "The candy is too sweet." },
+      { "languageCode": "bn", "text": "মিষ্টিটা খুব বেশি মিষ্টি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "candy/sweet" },
@@ -1117,7 +1178,8 @@
     "genitive_singular": "des Tees",
     "sentences": [
       { "languageCode": "de", "text": "Der Tee ist heiß." },
-      { "languageCode": "en", "text": "The tea is hot." }
+      { "languageCode": "en", "text": "The tea is hot." },
+      { "languageCode": "bn", "text": "চা-টা গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tea" },
@@ -1135,7 +1197,8 @@
     "genitive_singular": "der Tomate",
     "sentences": [
       { "languageCode": "de", "text": "Die Tomate ist rot." },
-      { "languageCode": "en", "text": "The tomato is red." }
+      { "languageCode": "en", "text": "The tomato is red." },
+      { "languageCode": "bn", "text": "টমেটোটা লাল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tomato" },
@@ -1156,7 +1219,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir trinken Wasser." },
-      { "languageCode": "en", "text": "We drink water." }
+      { "languageCode": "en", "text": "We drink water." },
+      { "languageCode": "bn", "text": "আমরা পানি পান করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to drink" },
@@ -1174,7 +1238,8 @@
     "genitive_singular": "des Trinkgeldes",
     "sentences": [
       { "languageCode": "de", "text": "Das Trinkgeld ist für den Kellner." },
-      { "languageCode": "en", "text": "The tip is for the waiter." }
+      { "languageCode": "en", "text": "The tip is for the waiter." },
+      { "languageCode": "bn", "text": "টিপটা ওয়েটারের জন্য।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tip" },
@@ -1192,7 +1257,8 @@
     "genitive_singular": "des Wassers",
     "sentences": [
       { "languageCode": "de", "text": "Das Wasser ist klar." },
-      { "languageCode": "en", "text": "The water is clear." }
+      { "languageCode": "en", "text": "The water is clear." },
+      { "languageCode": "bn", "text": "পানিটা স্বচ্ছ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "water" },
@@ -1210,7 +1276,8 @@
     "genitive_singular": "der Wurst",
     "sentences": [
       { "languageCode": "de", "text": "Die Wurst ist dick." },
-      { "languageCode": "en", "text": "The sausage is thick." }
+      { "languageCode": "en", "text": "The sausage is thick." },
+      { "languageCode": "bn", "text": "সসেজটা মোটা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sausage" },
@@ -1228,7 +1295,8 @@
     "genitive_singular": "des Würstchens",
     "sentences": [
       { "languageCode": "de", "text": "Das Würstchen ist heiß." },
-      { "languageCode": "en", "text": "The sausage is hot." }
+      { "languageCode": "en", "text": "The sausage is hot." },
+      { "languageCode": "bn", "text": "সসেজটা গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sausage" },
@@ -1249,7 +1317,8 @@
     "separable_prefix": "zu",
     "sentences": [
       { "languageCode": "de", "text": "Sie bereitet das Essen zu." },
-      { "languageCode": "en", "text": "She prepares the food." }
+      { "languageCode": "en", "text": "She prepares the food." },
+      { "languageCode": "bn", "text": "সে খাবারটা প্রস্তুত করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to prepare" },
@@ -1267,7 +1336,8 @@
     "genitive_singular": "des Zuckers",
     "sentences": [
       { "languageCode": "de", "text": "Der Zucker ist süß." },
-      { "languageCode": "en", "text": "The sugar is sweet." }
+      { "languageCode": "en", "text": "The sugar is sweet." },
+      { "languageCode": "bn", "text": "চিনিটা মিষ্টি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sugar" },

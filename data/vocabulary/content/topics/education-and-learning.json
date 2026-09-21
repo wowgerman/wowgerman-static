@@ -10,7 +10,8 @@
     "genitive_singular": "des Abschnitts",
     "sentences": [
       { "languageCode": "de", "text": "Lesen Sie den ersten Abschnitt." },
-      { "languageCode": "en", "text": "Read the first section." }
+      { "languageCode": "en", "text": "Read the first section." },
+      { "languageCode": "bn", "text": "প্রথম অংশটি পড়ুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "section" },
@@ -31,7 +32,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Sie lernt das Gedicht auswendig." },
-      { "languageCode": "en", "text": "She learns the poem by heart." }
+      { "languageCode": "en", "text": "She learns the poem by heart." },
+      { "languageCode": "bn", "text": "সে কবিতাটি মুখস্থ করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to learn by heart" },
@@ -49,7 +51,8 @@
     "genitive_singular": "der Bibliothek",
     "sentences": [
       { "languageCode": "de", "text": "In der Bibliothek ist es ruhig." },
-      { "languageCode": "en", "text": "It is quiet in the library." }
+      { "languageCode": "en", "text": "It is quiet in the library." },
+      { "languageCode": "bn", "text": "গ্রন্থাগারে খুব শান্ত পরিবেশ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "library" },
@@ -67,7 +70,8 @@
     "genitive_singular": "des Ergebnisses",
     "sentences": [
       { "languageCode": "de", "text": "Das Ergebnis ist gut." },
-      { "languageCode": "en", "text": "The result is good." }
+      { "languageCode": "en", "text": "The result is good." },
+      { "languageCode": "bn", "text": "ফলাফলটি ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "result" },
@@ -88,7 +92,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Können Sie das bitte erklären?" },
-      { "languageCode": "en", "text": "Can you please explain that?" }
+      { "languageCode": "en", "text": "Can you please explain that?" },
+      { "languageCode": "bn", "text": "আপনি কি দয়া করে এটা ব্যাখ্যা করতে পারবেন?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to explain" },
@@ -106,7 +111,8 @@
     "genitive_singular": "der Hausaufgabe",
     "sentences": [
       { "languageCode": "de", "text": "Ich mache meine Hausaufgaben." },
-      { "languageCode": "en", "text": "I do my homework." }
+      { "languageCode": "en", "text": "I do my homework." },
+      { "languageCode": "bn", "text": "আমি আমার বাড়ির কাজ করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "homework" },
@@ -124,7 +130,8 @@
     "genitive_singular": "des Hefts",
     "sentences": [
       { "languageCode": "de", "text": "Das Heft ist neu." },
-      { "languageCode": "en", "text": "The notebook is new." }
+      { "languageCode": "en", "text": "The notebook is new." },
+      { "languageCode": "bn", "text": "খাতাটি নতুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "notebook" },
@@ -142,7 +149,8 @@
     "genitive_singular": "des Kindergartens",
     "sentences": [
       { "languageCode": "de", "text": "Der Kindergarten ist groß." },
-      { "languageCode": "en", "text": "The kindergarten is big." }
+      { "languageCode": "en", "text": "The kindergarten is big." },
+      { "languageCode": "bn", "text": "কিন্ডারগার্টেনটি বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "kindergarten" },
@@ -163,7 +171,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Der Lehrer korrigiert die Tests." },
-      { "languageCode": "en", "text": "The teacher corrects the tests." }
+      { "languageCode": "en", "text": "The teacher corrects the tests." },
+      { "languageCode": "bn", "text": "শিক্ষক পরীক্ষার খাতা সংশোধন করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to correct" },
@@ -184,7 +193,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Sie lehrt Mathematik." },
-      { "languageCode": "en", "text": "She teaches mathematics." }
+      { "languageCode": "en", "text": "She teaches mathematics." },
+      { "languageCode": "bn", "text": "সে গণিত শেখায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to teach" },
@@ -205,7 +215,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich lerne Deutsch." },
-      { "languageCode": "en", "text": "I learn German." }
+      { "languageCode": "en", "text": "I learn German." },
+      { "languageCode": "bn", "text": "আমি জার্মান শিখছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to learn" },
@@ -223,7 +234,8 @@
     "genitive_singular": "des Mathetests",
     "sentences": [
       { "languageCode": "de", "text": "Der Mathetest ist morgen." },
-      { "languageCode": "en", "text": "The math test is tomorrow." }
+      { "languageCode": "en", "text": "The math test is tomorrow." },
+      { "languageCode": "bn", "text": "গণিত পরীক্ষা আগামীকাল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "math test" },
@@ -241,7 +253,8 @@
     "genitive_singular": "der Mensa",
     "sentences": [
       { "languageCode": "de", "text": "Das Essen in der Mensa ist günstig." },
-      { "languageCode": "en", "text": "The food in the cafeteria is cheap." }
+      { "languageCode": "en", "text": "The food in the cafeteria is cheap." },
+      { "languageCode": "bn", "text": "ক্যাফেটেরিয়ার খাবার সস্তা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cafeteria" },
@@ -259,7 +272,8 @@
     "genitive_singular": "der Methode",
     "sentences": [
       { "languageCode": "de", "text": "Das ist eine gute Methode." },
-      { "languageCode": "en", "text": "That is a good method." }
+      { "languageCode": "en", "text": "That is a good method." },
+      { "languageCode": "bn", "text": "এটা একটা ভালো পদ্ধতি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "method" },
@@ -280,7 +294,8 @@
     "separable_prefix": "mit",
     "sentences": [
       { "languageCode": "de", "text": "Ich lese mit der Klasse mit." },
-      { "languageCode": "en", "text": "I read along with the class." }
+      { "languageCode": "en", "text": "I read along with the class." },
+      { "languageCode": "bn", "text": "আমি ক্লাসের সাথে সাথে পড়ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to read along" },
@@ -298,7 +313,8 @@
     "genitive_singular": "der Musikschule",
     "sentences": [
       { "languageCode": "de", "text": "Meine Tochter geht zur Musikschule." },
-      { "languageCode": "en", "text": "My daughter goes to music school." }
+      { "languageCode": "en", "text": "My daughter goes to music school." },
+      { "languageCode": "bn", "text": "আমার মেয়ে সঙ্গীত স্কুলে যায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "music school" },
@@ -316,7 +332,8 @@
     "genitive_singular": "der Praxis",
     "sentences": [
       { "languageCode": "de", "text": "Theorie und Praxis sind wichtig." },
-      { "languageCode": "en", "text": "Theory and practice are important." }
+      { "languageCode": "en", "text": "Theory and practice are important." },
+      { "languageCode": "bn", "text": "তত্ত্ব এবং অনুশীলন দুটোই গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "practice" },
@@ -334,7 +351,8 @@
     "genitive_singular": "des Projekts",
     "sentences": [
       { "languageCode": "de", "text": "Unser Projekt ist sehr interessant." },
-      { "languageCode": "en", "text": "Our project is very interesting." }
+      { "languageCode": "en", "text": "Our project is very interesting." },
+      { "languageCode": "bn", "text": "আমাদের প্রকল্পটি খুব আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "project" },
@@ -352,7 +370,8 @@
     "genitive_singular": "der Prüfung",
     "sentences": [
       { "languageCode": "de", "text": "Die Prüfung ist schwer." },
-      { "languageCode": "en", "text": "The exam is difficult." }
+      { "languageCode": "en", "text": "The exam is difficult." },
+      { "languageCode": "bn", "text": "পরীক্ষাটি কঠিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "exam" },
@@ -370,7 +389,8 @@
     "genitive_singular": "der Rollenkarte",
     "sentences": [
       { "languageCode": "de", "text": "Jeder bekommt eine Rollenkarte." },
-      { "languageCode": "en", "text": "Everyone gets a role card." }
+      { "languageCode": "en", "text": "Everyone gets a role card." },
+      { "languageCode": "bn", "text": "সবাই একটা ভূমিকার কার্ড পায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "role card" },
@@ -388,7 +408,8 @@
     "genitive_singular": "der Schule",
     "sentences": [
       { "languageCode": "de", "text": "Die Schule beginnt um acht Uhr." },
-      { "languageCode": "en", "text": "School starts at eight o'clock." }
+      { "languageCode": "en", "text": "School starts at eight o'clock." },
+      { "languageCode": "bn", "text": "স্কুল সকাল আটটায় শুরু হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "school" },
@@ -406,7 +427,8 @@
     "genitive_singular": "des Semesters",
     "sentences": [
       { "languageCode": "de", "text": "Das Semester endet im Juli." },
-      { "languageCode": "en", "text": "The semester ends in July." }
+      { "languageCode": "en", "text": "The semester ends in July." },
+      { "languageCode": "bn", "text": "সেমিস্টারটি জুলাইতে শেষ হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "semester" },
@@ -424,7 +446,8 @@
     "genitive_singular": "des Seminars",
     "sentences": [
       { "languageCode": "de", "text": "Das Seminar findet montags statt." },
-      { "languageCode": "en", "text": "The seminar takes place on Mondays." }
+      { "languageCode": "en", "text": "The seminar takes place on Mondays." },
+      { "languageCode": "bn", "text": "সেমিনারটি সোমবার অনুষ্ঠিত হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "seminar" },
@@ -442,7 +465,8 @@
     "genitive_singular": "der Sprachnachricht",
     "sentences": [
       { "languageCode": "de", "text": "Ich höre die Sprachnachricht." },
-      { "languageCode": "en", "text": "I listen to the voice message." }
+      { "languageCode": "en", "text": "I listen to the voice message." },
+      { "languageCode": "bn", "text": "আমি ভয়েস মেসেজটি শুনছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "voice message" },
@@ -460,7 +484,8 @@
     "genitive_singular": "der Sprachschule",
     "sentences": [
       { "languageCode": "de", "text": "Ich lerne Deutsch in der Sprachschule." },
-      { "languageCode": "en", "text": "I learn German at the language school." }
+      { "languageCode": "en", "text": "I learn German at the language school." },
+      { "languageCode": "bn", "text": "আমি ভাষা স্কুলে জার্মান শিখি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "language school" },
@@ -478,7 +503,8 @@
     "genitive_singular": "der Statistik",
     "sentences": [
       { "languageCode": "de", "text": "Die Statistik zeigt interessante Zahlen." },
-      { "languageCode": "en", "text": "The statistics show interesting numbers." }
+      { "languageCode": "en", "text": "The statistics show interesting numbers." },
+      { "languageCode": "bn", "text": "পরিসংখ্যানে আকর্ষণীয় সংখ্যা দেখা যায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "statistics" },
@@ -496,7 +522,8 @@
     "genitive_singular": "des Stifts",
     "sentences": [
       { "languageCode": "de", "text": "Der Stift ist blau." },
-      { "languageCode": "en", "text": "The pen is blue." }
+      { "languageCode": "en", "text": "The pen is blue." },
+      { "languageCode": "bn", "text": "কলমটি নীল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "pen" },
@@ -514,7 +541,8 @@
     "genitive_singular": "der Strategie",
     "sentences": [
       { "languageCode": "de", "text": "Wir brauchen eine Strategie." },
-      { "languageCode": "en", "text": "We need a strategy." }
+      { "languageCode": "en", "text": "We need a strategy." },
+      { "languageCode": "bn", "text": "আমাদের একটা কৌশল দরকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "strategy" },
@@ -532,7 +560,8 @@
     "genitive_singular": "des Studenten",
     "sentences": [
       { "languageCode": "de", "text": "Der Student lernt für die Prüfung." },
-      { "languageCode": "en", "text": "The student studies for the exam." }
+      { "languageCode": "en", "text": "The student studies for the exam." },
+      { "languageCode": "bn", "text": "ছাত্রটি পরীক্ষার জন্য পড়াশোনা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "student (male)" },
@@ -553,7 +582,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Er studiert Medizin." },
-      { "languageCode": "en", "text": "He studies medicine." }
+      { "languageCode": "en", "text": "He studies medicine." },
+      { "languageCode": "bn", "text": "সে চিকিৎসাবিজ্ঞান অধ্যয়ন করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to study (at university)" },
@@ -571,7 +601,8 @@
     "genitive_singular": "des Studios",
     "sentences": [
       { "languageCode": "de", "text": "Wir arbeiten im Studio." },
-      { "languageCode": "en", "text": "We work in the studio." }
+      { "languageCode": "en", "text": "We work in the studio." },
+      { "languageCode": "bn", "text": "আমরা স্টুডিওতে কাজ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "studio" },
@@ -589,7 +620,8 @@
     "genitive_singular": "des Studiums",
     "sentences": [
       { "languageCode": "de", "text": "Das Studium dauert drei Jahre." },
-      { "languageCode": "en", "text": "The studies last three years." }
+      { "languageCode": "en", "text": "The studies last three years." },
+      { "languageCode": "bn", "text": "অধ্যয়নটি তিন বছর স্থায়ী হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "studies" },
@@ -607,7 +639,8 @@
     "genitive_singular": "der Stunde",
     "sentences": [
       { "languageCode": "de", "text": "Die erste Stunde ist Deutsch." },
-      { "languageCode": "en", "text": "The first period is German." }
+      { "languageCode": "en", "text": "The first period is German." },
+      { "languageCode": "bn", "text": "প্রথম পিরিয়ডটি জার্মান।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hour/period" },
@@ -625,7 +658,8 @@
     "genitive_singular": "der Übung",
     "sentences": [
       { "languageCode": "de", "text": "Die Übung ist schwer." },
-      { "languageCode": "en", "text": "The exercise is difficult." }
+      { "languageCode": "en", "text": "The exercise is difficult." },
+      { "languageCode": "bn", "text": "অনুশীলনীটি কঠিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "exercise" },
@@ -643,7 +677,8 @@
     "genitive_singular": "der Uni",
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe zur Uni." },
-      { "languageCode": "en", "text": "I go to university." }
+      { "languageCode": "en", "text": "I go to university." },
+      { "languageCode": "bn", "text": "আমি বিশ্ববিদ্যালয়ে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "university (informal)" },
@@ -661,7 +696,8 @@
     "genitive_singular": "der Universität",
     "sentences": [
       { "languageCode": "de", "text": "Er studiert an der Universität." },
-      { "languageCode": "en", "text": "He studies at the university." }
+      { "languageCode": "en", "text": "He studies at the university." },
+      { "languageCode": "bn", "text": "সে বিশ্ববিদ্যালয়ে অধ্যয়ন করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "university" },
@@ -679,7 +715,8 @@
     "genitive_singular": "des Unterrichts",
     "sentences": [
       { "languageCode": "de", "text": "Der Unterricht ist interessant." },
-      { "languageCode": "en", "text": "The lesson is interesting." }
+      { "languageCode": "en", "text": "The lesson is interesting." },
+      { "languageCode": "bn", "text": "পাঠটি আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lesson/class" },

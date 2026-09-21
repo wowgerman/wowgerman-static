@@ -13,7 +13,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Das Buch gefällt mir." },
-      { "languageCode": "en", "text": "I like the book." }
+      { "languageCode": "en", "text": "I like the book." },
+      { "languageCode": "bn", "text": "আমি বইটি পছন্দ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to like" },
@@ -32,7 +33,8 @@
     "genitive_singular": "des Gefallens",
     "sentences": [
       { "languageCode": "de", "text": "Kannst du mir einen Gefallen tun?" },
-      { "languageCode": "en", "text": "Can you do me a favor?" }
+      { "languageCode": "en", "text": "Can you do me a favor?" },
+      { "languageCode": "bn", "text": "তুমি কি আমাকে একটা উপকার করতে পারবে?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "favor" },
@@ -51,7 +53,8 @@
     "genitive_singular": "des Missfallens",
     "sentences": [
       { "languageCode": "de", "text": "Das Kind zeigt sein Missfallen." },
-      { "languageCode": "en", "text": "The child shows his dissatisfaction." }
+      { "languageCode": "en", "text": "The child shows his dissatisfaction." },
+      { "languageCode": "bn", "text": "শিশুটি তার অসন্তুষ্টি প্রকাশ করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "dissatisfaction" },
@@ -69,7 +72,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Die Kinder sind fröhlich." },
-      { "languageCode": "en", "text": "The children are cheerful." }
+      { "languageCode": "en", "text": "The children are cheerful." },
+      { "languageCode": "bn", "text": "শিশুরা প্রফুল্ল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cheerful" },
@@ -87,7 +91,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin zufrieden mit dem Essen." },
-      { "languageCode": "en", "text": "I am satisfied with the food." }
+      { "languageCode": "en", "text": "I am satisfied with the food." },
+      { "languageCode": "bn", "text": "আমি খাবার নিয়ে সন্তুষ্ট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "satisfied" },
@@ -105,7 +110,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Wir sind hoffnungsvoll für die Zukunft." },
-      { "languageCode": "en", "text": "We are hopeful for the future." }
+      { "languageCode": "en", "text": "We are hopeful for the future." },
+      { "languageCode": "bn", "text": "আমরা ভবিষ্যতের ব্যাপারে আশাবাদী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hopeful" },
@@ -123,7 +129,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich fühle mich stolz." },
-      { "languageCode": "en", "text": "I am feeling proud." }
+      { "languageCode": "en", "text": "I am feeling proud." },
+      { "languageCode": "bn", "text": "আমি গর্বিত বোধ করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "proud" },
@@ -141,7 +148,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Yoga macht sie ruhig." },
-      { "languageCode": "en", "text": "Yoga makes her feel calm." }
+      { "languageCode": "en", "text": "Yoga makes her feel calm." },
+      { "languageCode": "bn", "text": "যোগব্যায়াম তাকে শান্ত করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "calm" },
@@ -159,7 +167,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Nach der Massage bin ich entspannt." },
-      { "languageCode": "en", "text": "After the massage I am relaxed." }
+      { "languageCode": "en", "text": "After the massage I am relaxed." },
+      { "languageCode": "bn", "text": "ম্যাসাজের পর আমি শিথিল অনুভব করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "relaxed" },
@@ -177,7 +186,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Sie ist nervös vor der Menge." },
-      { "languageCode": "en", "text": "She is nervous before the crowd." }
+      { "languageCode": "en", "text": "She is nervous before the crowd." },
+      { "languageCode": "bn", "text": "সে ভিড়ের সামনে নার্ভাস।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "nervous" },
@@ -195,7 +205,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Mädchen ist ängstlich." },
-      { "languageCode": "en", "text": "The girl is anxious." }
+      { "languageCode": "en", "text": "The girl is anxious." },
+      { "languageCode": "bn", "text": "মেয়েটি উদ্বিগ্ন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "anxious" },
@@ -214,7 +225,8 @@
     "genitive_singular": "des Quatschs",
     "sentences": [
       { "languageCode": "de", "text": "Das ist doch Quatsch!" },
-      { "languageCode": "en", "text": "That's nonsense!" }
+      { "languageCode": "en", "text": "That's nonsense!" },
+      { "languageCode": "bn", "text": "এটা তো আজেবাজে কথা!" }
     ],
     "translations": [
       { "languageCode": "en", "text": "nonsense" },
@@ -236,7 +248,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich wünsche dir viel Glück." },
-      { "languageCode": "en", "text": "I wish you good luck." }
+      { "languageCode": "en", "text": "I wish you good luck." },
+      { "languageCode": "bn", "text": "আমি তোমাকে অনেক শুভকামনা জানাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to wish" },
@@ -254,7 +267,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin gestresst bei der Arbeit." },
-      { "languageCode": "en", "text": "I am stressed at work." }
+      { "languageCode": "en", "text": "I am stressed at work." },
+      { "languageCode": "bn", "text": "আমি কাজে চাপগ্রস্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "stressed" },
@@ -272,7 +286,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Sie ist noch wach." },
-      { "languageCode": "en", "text": "She is still awake." }
+      { "languageCode": "en", "text": "She is still awake." },
+      { "languageCode": "bn", "text": "সে এখনও জাগ্রত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "awake" },
@@ -290,7 +305,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist ein seltenes Buch." },
-      { "languageCode": "en", "text": "That is a rare book." }
+      { "languageCode": "en", "text": "That is a rare book." },
+      { "languageCode": "bn", "text": "এটা একটা বিরল বই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "rare" },
@@ -308,7 +324,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin überrascht von der Nachricht." },
-      { "languageCode": "en", "text": "I am surprised by the news." }
+      { "languageCode": "en", "text": "I am surprised by the news." },
+      { "languageCode": "bn", "text": "আমি এই খবরে অবাক হয়েছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "surprised" },
@@ -326,7 +343,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin aufgeregt wegen der Reise." },
-      { "languageCode": "en", "text": "I am excited about the trip." }
+      { "languageCode": "en", "text": "I am excited about the trip." },
+      { "languageCode": "bn", "text": "আমি ভ্রমণ নিয়ে উত্তেজিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "excited" },
@@ -344,7 +362,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Sie ist heute traurig." },
-      { "languageCode": "en", "text": "She is sad today." }
+      { "languageCode": "en", "text": "She is sad today." },
+      { "languageCode": "bn", "text": "আজ তার মন খারাপ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sad" },
@@ -362,7 +381,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich fühle mich einsam." },
-      { "languageCode": "en", "text": "I feel lonely." }
+      { "languageCode": "en", "text": "I feel lonely." },
+      { "languageCode": "bn", "text": "আমি একাকী বোধ করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lonely" },
@@ -380,7 +400,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Sie ist enttäuscht von dem Ergebnis." },
-      { "languageCode": "en", "text": "She is disappointed with the result." }
+      { "languageCode": "en", "text": "She is disappointed with the result." },
+      { "languageCode": "bn", "text": "সে ফলাফল নিয়ে হতাশ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "disappointed" },
@@ -402,7 +423,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Das nervt mich sehr." },
-      { "languageCode": "en", "text": "That annoys me a lot." }
+      { "languageCode": "en", "text": "That annoys me a lot." },
+      { "languageCode": "bn", "text": "এটা আমাকে খুব বিরক্ত করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to annoy" },
@@ -420,7 +442,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Sie ist wütend auf ihren Bruder." },
-      { "languageCode": "en", "text": "She is angry with her brother." }
+      { "languageCode": "en", "text": "She is angry with her brother." },
+      { "languageCode": "bn", "text": "সে তার ভাইয়ের ওপর রাগান্বিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "angry" },
@@ -438,7 +461,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Sie ist verliebt." },
-      { "languageCode": "en", "text": "She is in love." }
+      { "languageCode": "en", "text": "She is in love." },
+      { "languageCode": "bn", "text": "সে প্রেমে পড়েছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "in love" },
@@ -460,7 +484,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich vermisse dich, Mama." },
-      { "languageCode": "en", "text": "I miss you, Mom." }
+      { "languageCode": "en", "text": "I miss you, Mom." },
+      { "languageCode": "bn", "text": "আমি তোমাকে মিস করি, মা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to miss" },
@@ -479,7 +504,8 @@
     "genitive_singular": "der Entscheidung",
     "sentences": [
       { "languageCode": "de", "text": "Das ist eine schwere Entscheidung." },
-      { "languageCode": "en", "text": "That is a difficult decision." }
+      { "languageCode": "en", "text": "That is a difficult decision." },
+      { "languageCode": "bn", "text": "এটা একটা কঠিন সিদ্ধান্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "decision" },
@@ -498,7 +524,8 @@
     "genitive_singular": "der Reaktion",
     "sentences": [
       { "languageCode": "de", "text": "Ihre Reaktion war positiv." },
-      { "languageCode": "en", "text": "Her reaction was positive." }
+      { "languageCode": "en", "text": "Her reaction was positive." },
+      { "languageCode": "bn", "text": "তার প্রতিক্রিয়া ইতিবাচক ছিল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "reaction" },
@@ -517,7 +544,8 @@
     "genitive_singular": "der Sache",
     "sentences": [
       { "languageCode": "de", "text": "Das ist eine wichtige Sache." },
-      { "languageCode": "en", "text": "That is an important thing." }
+      { "languageCode": "en", "text": "That is an important thing." },
+      { "languageCode": "bn", "text": "এটা একটা গুরুত্বপূর্ণ বিষয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "thing" },

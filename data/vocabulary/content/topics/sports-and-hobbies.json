@@ -9,7 +9,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Sie ist sehr aktiv." },
-      { "languageCode": "en", "text": "She is very active." }
+      { "languageCode": "en", "text": "She is very active." },
+      { "languageCode": "bn", "text": "সে খুব সক্রিয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "active" },
@@ -27,7 +28,8 @@
     "genitive_singular": "des Balls",
     "sentences": [
       { "languageCode": "de", "text": "Die Kinder spielen mit dem Ball." },
-      { "languageCode": "en", "text": "The children are playing with the ball." }
+      { "languageCode": "en", "text": "The children are playing with the ball." },
+      { "languageCode": "bn", "text": "শিশুরা বল নিয়ে খেলছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ball" },
@@ -45,7 +47,8 @@
     "genitive_singular": "der Bewegung",
     "sentences": [
       { "languageCode": "de", "text": "Sport ist eine gute Bewegung." },
-      { "languageCode": "en", "text": "Sports are good exercise." }
+      { "languageCode": "en", "text": "Sports are good exercise." },
+      { "languageCode": "bn", "text": "খেলাধুলা একটা ভালো ব্যায়াম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "movement" },
@@ -63,7 +66,8 @@
     "genitive_singular": "des Chors",
     "sentences": [
       { "languageCode": "de", "text": "Sie singt im Chor." },
-      { "languageCode": "en", "text": "She sings in the choir." }
+      { "languageCode": "en", "text": "She sings in the choir." },
+      { "languageCode": "bn", "text": "সে গায়কদলে গান গায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "choir" },
@@ -80,7 +84,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Spiel ist cool." },
-      { "languageCode": "en", "text": "The game is cool." }
+      { "languageCode": "en", "text": "The game is cool." },
+      { "languageCode": "bn", "text": "খেলাটা চমৎকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cool" },
@@ -98,7 +103,8 @@
     "genitive_singular": "des Events",
     "sentences": [
       { "languageCode": "de", "text": "Das Event ist sehr interessant." },
-      { "languageCode": "en", "text": "The event is very interesting." }
+      { "languageCode": "en", "text": "The event is very interesting." },
+      { "languageCode": "bn", "text": "অনুষ্ঠানটা খুব আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "event" },
@@ -119,7 +125,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir feiern meinen Geburtstag." },
-      { "languageCode": "en", "text": "We celebrate my birthday." }
+      { "languageCode": "en", "text": "We celebrate my birthday." },
+      { "languageCode": "bn", "text": "আমরা আমার জন্মদিন উদযাপন করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to celebrate" },
@@ -140,7 +147,8 @@
     "separable_prefix": "fern",
     "sentences": [
       { "languageCode": "de", "text": "Abends sehe ich fern." },
-      { "languageCode": "en", "text": "In the evening I watch TV." }
+      { "languageCode": "en", "text": "In the evening I watch TV." },
+      { "languageCode": "bn", "text": "সন্ধ্যায় আমি টিভি দেখি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to watch TV" },
@@ -158,7 +166,8 @@
     "genitive_singular": "des Festes",
     "sentences": [
       { "languageCode": "de", "text": "Das Fest ist am Samstag." },
-      { "languageCode": "en", "text": "The festival is on Saturday." }
+      { "languageCode": "en", "text": "The festival is on Saturday." },
+      { "languageCode": "bn", "text": "উৎসবটা শনিবারে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "festival" },
@@ -176,7 +185,8 @@
     "genitive_singular": "des Festivals",
     "sentences": [
       { "languageCode": "de", "text": "Das Festival ist im Sommer." },
-      { "languageCode": "en", "text": "The festival is in summer." }
+      { "languageCode": "en", "text": "The festival is in summer." },
+      { "languageCode": "bn", "text": "উৎসবটা গ্রীষ্মে হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "festival" },
@@ -194,7 +204,8 @@
     "genitive_singular": "des Films",
     "sentences": [
       { "languageCode": "de", "text": "Der Film ist sehr spannend." },
-      { "languageCode": "en", "text": "The film is very exciting." }
+      { "languageCode": "en", "text": "The film is very exciting." },
+      { "languageCode": "bn", "text": "চলচ্চিত্রটা খুব রোমাঞ্চকর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "film" },
@@ -212,7 +223,8 @@
     "genitive_singular": "des Filmfans",
     "sentences": [
       { "languageCode": "de", "text": "Er ist ein großer Filmfan." },
-      { "languageCode": "en", "text": "He is a big film fan." }
+      { "languageCode": "en", "text": "He is a big film fan." },
+      { "languageCode": "bn", "text": "সে একজন বড় চলচ্চিত্র ভক্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "film fan" },
@@ -233,7 +245,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Sie fotografiert gerne Blumen." },
-      { "languageCode": "en", "text": "She likes to photograph flowers." }
+      { "languageCode": "en", "text": "She likes to photograph flowers." },
+      { "languageCode": "bn", "text": "সে ফুলের ছবি তুলতে পছন্দ করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to photograph" },
@@ -250,7 +263,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Am Wochenende bin ich frei." },
-      { "languageCode": "en", "text": "I am free on the weekend." }
+      { "languageCode": "en", "text": "I am free on the weekend." },
+      { "languageCode": "bn", "text": "সপ্তাহান্তে আমি মুক্ত থাকি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "free" },
@@ -268,7 +282,8 @@
     "genitive_singular": "der Freizeitaktivität",
     "sentences": [
       { "languageCode": "de", "text": "Lesen ist eine gute Freizeitaktivität." },
-      { "languageCode": "en", "text": "Reading is a good leisure activity." }
+      { "languageCode": "en", "text": "Reading is a good leisure activity." },
+      { "languageCode": "bn", "text": "বই পড়া একটা ভালো অবসর কার্যক্রম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "leisure activity" },
@@ -286,7 +301,8 @@
     "genitive_singular": "der Grillparty",
     "sentences": [
       { "languageCode": "de", "text": "Die Grillparty ist am Sonntag." },
-      { "languageCode": "en", "text": "The barbecue party is on Sunday." }
+      { "languageCode": "en", "text": "The barbecue party is on Sunday." },
+      { "languageCode": "bn", "text": "গ্রিল পার্টিটা রবিবারে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "barbecue party" },
@@ -304,7 +320,8 @@
     "genitive_singular": "des Halbmarathons",
     "sentences": [
       { "languageCode": "de", "text": "Er läuft einen Halbmarathon." },
-      { "languageCode": "en", "text": "He runs a half marathon." }
+      { "languageCode": "en", "text": "He runs a half marathon." },
+      { "languageCode": "bn", "text": "সে একটা হাফ ম্যারাথন দৌড়ায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "half marathon" },
@@ -322,7 +339,8 @@
     "genitive_singular": "des Hamsters",
     "sentences": [
       { "languageCode": "de", "text": "Der Hamster läuft im Rad." },
-      { "languageCode": "en", "text": "The hamster runs on the wheel." }
+      { "languageCode": "en", "text": "The hamster runs on the wheel." },
+      { "languageCode": "bn", "text": "হ্যামস্টারটা চাকার মধ্যে দৌড়ায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hamster" },
@@ -340,7 +358,8 @@
     "genitive_singular": "des Hobbys",
     "sentences": [
       { "languageCode": "de", "text": "Mein Hobby ist Lesen." },
-      { "languageCode": "en", "text": "My hobby is reading." }
+      { "languageCode": "en", "text": "My hobby is reading." },
+      { "languageCode": "bn", "text": "আমার শখ বই পড়া।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hobby" },
@@ -358,7 +377,8 @@
     "genitive_singular": "des Hundes",
     "sentences": [
       { "languageCode": "de", "text": "Mein Hund ist sehr aktiv." },
-      { "languageCode": "en", "text": "My dog is very active." }
+      { "languageCode": "en", "text": "My dog is very active." },
+      { "languageCode": "bn", "text": "আমার কুকুরটা খুব সক্রিয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "dog" },
@@ -379,7 +399,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich jogge jeden Morgen." },
-      { "languageCode": "en", "text": "I jog every morning." }
+      { "languageCode": "en", "text": "I jog every morning." },
+      { "languageCode": "bn", "text": "আমি প্রতিদিন সকালে দৌড়াই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to jog" },
@@ -397,7 +418,8 @@
     "genitive_singular": "des Kinos",
     "sentences": [
       { "languageCode": "de", "text": "Wir gehen ins Kino." },
-      { "languageCode": "en", "text": "We are going to the cinema." }
+      { "languageCode": "en", "text": "We are going to the cinema." },
+      { "languageCode": "bn", "text": "আমরা সিনেমা হলে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cinema" },
@@ -418,7 +440,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Er klettert auf den Berg." },
-      { "languageCode": "en", "text": "He climbs the mountain." }
+      { "languageCode": "en", "text": "He climbs the mountain." },
+      { "languageCode": "bn", "text": "সে পাহাড়ে আরোহণ করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to climb" },
@@ -439,7 +462,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Sie malt ein schönes Bild." },
-      { "languageCode": "en", "text": "She paints a beautiful picture." }
+      { "languageCode": "en", "text": "She paints a beautiful picture." },
+      { "languageCode": "bn", "text": "সে একটা সুন্দর ছবি আঁকছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to paint" },
@@ -457,7 +481,8 @@
     "genitive_singular": "des Marathons",
     "sentences": [
       { "languageCode": "de", "text": "Der Marathon ist sehr lang." },
-      { "languageCode": "en", "text": "The marathon is very long." }
+      { "languageCode": "en", "text": "The marathon is very long." },
+      { "languageCode": "bn", "text": "ম্যারাথনটা অনেক লম্বা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "marathon" },
@@ -475,7 +500,8 @@
     "genitive_singular": "der Maus",
     "sentences": [
       { "languageCode": "de", "text": "Die Maus ist klein und schnell." },
-      { "languageCode": "en", "text": "The mouse is small and fast." }
+      { "languageCode": "en", "text": "The mouse is small and fast." },
+      { "languageCode": "bn", "text": "ইঁদুরটা ছোট এবং দ্রুতগামী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "mouse" },
@@ -493,11 +519,12 @@
     "genitive_singular": "der Musik",
     "sentences": [
       { "languageCode": "de", "text": "Ich höre gerne Musik." },
-      { "languageCode": "en", "text": "I like to listen to music." }
+      { "languageCode": "en", "text": "I like to listen to music." },
+      { "languageCode": "bn", "text": "আমি গান শুনতে পছন্দ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "music" },
-      { "languageCode": "bn", "text": "সঙ্গীত" }
+      { "languageCode": "bn", "text": "সংগীত" }
     ]
   },
   {
@@ -511,7 +538,8 @@
     "genitive_singular": "der Pantomime",
     "sentences": [
       { "languageCode": "de", "text": "Die Pantomime ist sehr lustig." },
-      { "languageCode": "en", "text": "The pantomime is very funny." }
+      { "languageCode": "en", "text": "The pantomime is very funny." },
+      { "languageCode": "bn", "text": "প্যান্টোমাইমটা খুব মজার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "pantomime" },
@@ -532,7 +560,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich sammle Briefmarken." },
-      { "languageCode": "en", "text": "I collect stamps." }
+      { "languageCode": "en", "text": "I collect stamps." },
+      { "languageCode": "bn", "text": "আমি ডাকটিকিট সংগ্রহ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to collect" },
@@ -550,7 +579,8 @@
     "genitive_singular": "des Saxofons",
     "sentences": [
       { "languageCode": "de", "text": "Sie lernt Saxofon spielen." },
-      { "languageCode": "en", "text": "She is learning to play saxophone." }
+      { "languageCode": "en", "text": "She is learning to play saxophone." },
+      { "languageCode": "bn", "text": "সে স্যাক্সোফোন বাজাতে শিখছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "saxophone" },
@@ -571,7 +601,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Sie schwimmt im See." },
-      { "languageCode": "en", "text": "She swims in the lake." }
+      { "languageCode": "en", "text": "She swims in the lake." },
+      { "languageCode": "bn", "text": "সে হ্রদে সাঁতার কাটে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to swim" },
@@ -592,7 +623,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Er segelt auf dem Meer." },
-      { "languageCode": "en", "text": "He sails on the sea." }
+      { "languageCode": "en", "text": "He sails on the sea." },
+      { "languageCode": "bn", "text": "সে সমুদ্রে পাল তোলে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to sail" },
@@ -613,7 +645,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Er singt sehr schön." },
-      { "languageCode": "en", "text": "He sings very beautifully." }
+      { "languageCode": "en", "text": "He sings very beautifully." },
+      { "languageCode": "bn", "text": "সে খুব সুন্দর গান করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to sing" },
@@ -631,7 +664,8 @@
     "genitive_singular": "des Spiels",
     "sentences": [
       { "languageCode": "de", "text": "Das Spiel ist sehr lustig." },
-      { "languageCode": "en", "text": "The game is very fun." }
+      { "languageCode": "en", "text": "The game is very fun." },
+      { "languageCode": "bn", "text": "খেলাটা খুব মজার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "game" },
@@ -649,7 +683,8 @@
     "genitive_singular": "des Spielplatzes",
     "sentences": [
       { "languageCode": "de", "text": "Die Kinder gehen zum Spielplatz." },
-      { "languageCode": "en", "text": "The children go to the playground." }
+      { "languageCode": "en", "text": "The children go to the playground." },
+      { "languageCode": "bn", "text": "শিশুরা খেলার মাঠে যাচ্ছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "playground" },
@@ -667,7 +702,8 @@
     "genitive_singular": "des Sports",
     "sentences": [
       { "languageCode": "de", "text": "Ich treibe gerne Sport." },
-      { "languageCode": "en", "text": "I like to do sports." }
+      { "languageCode": "en", "text": "I like to do sports." },
+      { "languageCode": "bn", "text": "আমি খেলাধুলা করতে পছন্দ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sport" },
@@ -684,11 +720,12 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Er ist sehr sportlich." },
-      { "languageCode": "en", "text": "He is very sporty." }
+      { "languageCode": "en", "text": "He is very sporty." },
+      { "languageCode": "bn", "text": "সে খুব খেলাধুলাপ্রিয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sporty" },
-      { "languageCode": "bn", "text": "ক্রীড়াবিদ" }
+      { "languageCode": "bn", "text": "খেলাধুলাপ্রিয়" }
     ]
   },
   {
@@ -705,7 +742,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir tanzen zusammen." },
-      { "languageCode": "en", "text": "We dance together." }
+      { "languageCode": "en", "text": "We dance together." },
+      { "languageCode": "bn", "text": "আমরা একসাথে নাচি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to dance" },
@@ -723,7 +761,8 @@
     "genitive_singular": "des Tennisplatzes",
     "sentences": [
       { "languageCode": "de", "text": "Der Tennisplatz ist frei." },
-      { "languageCode": "en", "text": "The tennis court is free." }
+      { "languageCode": "en", "text": "The tennis court is free." },
+      { "languageCode": "bn", "text": "টেনিস কোর্টটা ফাঁকা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tennis court" },
@@ -744,7 +783,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich trainiere jeden Tag." },
-      { "languageCode": "en", "text": "I train every day." }
+      { "languageCode": "en", "text": "I train every day." },
+      { "languageCode": "bn", "text": "আমি প্রতিদিন অনুশীলন করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to train" },
@@ -762,7 +802,8 @@
     "genitive_singular": "des Trainings",
     "sentences": [
       { "languageCode": "de", "text": "Das Training ist um 18 Uhr." },
-      { "languageCode": "en", "text": "Training is at 6 PM." }
+      { "languageCode": "en", "text": "Training is at 6 PM." },
+      { "languageCode": "bn", "text": "প্রশিক্ষণটা সন্ধ্যা ৬টায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "training" },
@@ -780,7 +821,8 @@
     "genitive_singular": "der Trompete",
     "sentences": [
       { "languageCode": "de", "text": "Er spielt Trompete." },
-      { "languageCode": "en", "text": "He plays trumpet." }
+      { "languageCode": "en", "text": "He plays trumpet." },
+      { "languageCode": "bn", "text": "সে ট্রাম্পেট বাজায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "trumpet" },
@@ -801,7 +843,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir wandern im Wald." },
-      { "languageCode": "en", "text": "We hike in the forest." }
+      { "languageCode": "en", "text": "We hike in the forest." },
+      { "languageCode": "bn", "text": "আমরা জঙ্গলে হাঁটতে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to hike" },
