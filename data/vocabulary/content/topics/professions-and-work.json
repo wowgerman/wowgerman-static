@@ -1,954 +1,1226 @@
 [
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Agentur für Arbeit",
     "article": "die",
     "gender": "feminine",
     "plural": "Agenturen für Arbeit",
     "genitive_singular": "der Agentur für Arbeit",
-    "sentence_de": "Ich gehe zur Agentur für Arbeit.",
-    "sentence_en": "I go to the employment agency.",
-    "translation_en": "employment agency",
-    "translation_bn": "কর্মসংস্থান সংস্থা",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gehe zur Agentur für Arbeit." },
+      { "languageCode": "en", "text": "I go to the employment agency." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "employment agency" },
+      { "languageCode": "bn", "text": "কর্মসংস্থান সংস্থা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Angebot",
     "article": "das",
     "gender": "neuter",
     "plural": "Angebote",
     "genitive_singular": "des Angebots",
-    "sentence_de": "Das Angebot ist sehr gut.",
-    "sentence_en": "The offer is very good.",
-    "translation_en": "offer",
-    "translation_bn": "অফার",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Angebot ist sehr gut." },
+      { "languageCode": "en", "text": "The offer is very good." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "offer" },
+      { "languageCode": "bn", "text": "অফার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Arbeit",
     "article": "die",
     "gender": "feminine",
     "plural": "Arbeiten",
     "genitive_singular": "der Arbeit",
-    "sentence_de": "Die Arbeit ist sehr interessant.",
-    "sentence_en": "The work is very interesting.",
-    "translation_en": "work",
-    "translation_bn": "কাজ",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Arbeit ist sehr interessant." },
+      { "languageCode": "en", "text": "The work is very interesting." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "work" },
+      { "languageCode": "bn", "text": "কাজ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Arbeitsplatz",
     "article": "der",
     "gender": "masculine",
     "plural": "Arbeitsplätze",
     "genitive_singular": "des Arbeitsplatzes",
-    "sentence_de": "Mein Arbeitsplatz ist im Büro.",
-    "sentence_en": "My workplace is in the office.",
-    "translation_en": "workplace",
-    "translation_bn": "কর্মক্ষেত্র",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Arbeitsplatz ist im Büro." },
+      { "languageCode": "en", "text": "My workplace is in the office." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "workplace" },
+      { "languageCode": "bn", "text": "কর্মক্ষেত্র" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Arzt",
     "article": "der",
     "gender": "masculine",
     "plural": "Ärzte",
     "genitive_singular": "des Arztes",
-    "sentence_de": "Der Arzt hilft kranken Menschen.",
-    "sentence_en": "The doctor helps sick people.",
-    "translation_en": "doctor (male)",
-    "translation_bn": "ডাক্তার (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Arzt hilft kranken Menschen." },
+      { "languageCode": "en", "text": "The doctor helps sick people." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "doctor (male)" },
+      { "languageCode": "bn", "text": "ডাক্তার (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Ärztin",
     "article": "die",
     "gender": "feminine",
     "plural": "Ärztinnen",
     "genitive_singular": "der Ärztin",
-    "sentence_de": "Die Ärztin untersucht den Patienten.",
-    "sentence_en": "The doctor examines the patient.",
-    "translation_en": "doctor (female)",
-    "translation_bn": "ডাক্তার (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Ärztin untersucht den Patienten." },
+      { "languageCode": "en", "text": "The doctor examines the patient." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "doctor (female)" },
+      { "languageCode": "bn", "text": "ডাক্তার (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Bäcker",
     "article": "der",
     "gender": "masculine",
     "plural": "Bäcker",
     "genitive_singular": "des Bäckers",
-    "sentence_de": "Der Bäcker backt frisches Brot.",
-    "sentence_en": "The baker bakes fresh bread.",
-    "translation_en": "baker (male)",
-    "translation_bn": "রুটিওয়ালা (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Bäcker backt frisches Brot." },
+      { "languageCode": "en", "text": "The baker bakes fresh bread." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "baker (male)" },
+      { "languageCode": "bn", "text": "রুটিওয়ালা (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Beruf",
     "article": "der",
     "gender": "masculine",
     "plural": "Berufe",
     "genitive_singular": "des Berufs",
-    "sentence_de": "Was ist dein Beruf?",
-    "sentence_en": "What is your profession?",
-    "translation_en": "profession",
-    "translation_bn": "পেশা",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Was ist dein Beruf?" },
+      { "languageCode": "en", "text": "What is your profession?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "profession" },
+      { "languageCode": "bn", "text": "পেশা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Computerfirma",
     "article": "die",
     "gender": "feminine",
     "plural": "Computerfirmen",
     "genitive_singular": "der Computerfirma",
-    "sentence_de": "Die Computerfirma ist sehr modern.",
-    "sentence_en": "The computer company is very modern.",
-    "translation_en": "computer company",
-    "translation_bn": "কম্পিউটার কোম্পানি",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Computerfirma ist sehr modern." },
+      { "languageCode": "en", "text": "The computer company is very modern." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "computer company" },
+      { "languageCode": "bn", "text": "কম্পিউটার কোম্পানি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Computerproblem",
     "article": "das",
     "gender": "neuter",
     "plural": "Computerprobleme",
     "genitive_singular": "des Computerproblems",
-    "sentence_de": "Ich habe ein Computerproblem.",
-    "sentence_en": "I have a computer problem.",
-    "translation_en": "computer problem",
-    "translation_bn": "কম্পিউটার সমস্যা",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich habe ein Computerproblem." },
+      { "languageCode": "en", "text": "I have a computer problem." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "computer problem" },
+      { "languageCode": "bn", "text": "কম্পিউটার সমস্যা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Elektriker",
     "article": "der",
     "gender": "masculine",
     "plural": "Elektriker",
     "genitive_singular": "des Elektrikers",
-    "sentence_de": "Der Elektriker repariert das Licht.",
-    "sentence_en": "The electrician repairs the light.",
-    "translation_en": "electrician (male)",
-    "translation_bn": "বিদ্যুৎকর্মী (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Elektriker repariert das Licht." },
+      { "languageCode": "en", "text": "The electrician repairs the light." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "electrician (male)" },
+      { "languageCode": "bn", "text": "বিদ্যুৎকর্মী (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Elektrikerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Elektrikerinnen",
     "genitive_singular": "der Elektrikerin",
-    "sentence_de": "Die Elektrikerin installiert neue Kabel.",
-    "sentence_en": "The electrician installs new cables.",
-    "translation_en": "electrician (female)",
-    "translation_bn": "বিদ্যুৎকর্মী (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Elektrikerin installiert neue Kabel." },
+      { "languageCode": "en", "text": "The electrician installs new cables." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "electrician (female)" },
+      { "languageCode": "bn", "text": "বিদ্যুৎকর্মী (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Erzieher",
     "article": "der",
     "gender": "masculine",
     "plural": "Erzieher",
     "genitive_singular": "des Erziehers",
-    "sentence_de": "Der Erzieher spielt mit den Kindern.",
-    "sentence_en": "The educator plays with the children.",
-    "translation_en": "educator (male)",
-    "translation_bn": "শিক্ষাবিদ (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Erzieher spielt mit den Kindern." },
+      { "languageCode": "en", "text": "The educator plays with the children." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "educator (male)" },
+      { "languageCode": "bn", "text": "শিক্ষাবিদ (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Erzieherin",
     "article": "die",
     "gender": "feminine",
     "plural": "Erzieherinnen",
     "genitive_singular": "der Erzieherin",
-    "sentence_de": "Die Erzieherin liest den Kindern vor.",
-    "sentence_en": "The educator reads to the children.",
-    "translation_en": "educator (female)",
-    "translation_bn": "শিক্ষাবিদ (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Erzieherin liest den Kindern vor." },
+      { "languageCode": "en", "text": "The educator reads to the children." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "educator (female)" },
+      { "languageCode": "bn", "text": "শিক্ষাবিদ (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Handwerker",
     "article": "der",
     "gender": "masculine",
     "plural": "Handwerker",
     "genitive_singular": "des Handwerkers",
-    "sentence_de": "Der Handwerker repariert den Tisch.",
-    "sentence_en": "The craftsman repairs the table.",
-    "translation_en": "craftsman",
-    "translation_bn": "কারিগর (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Handwerker repariert den Tisch." },
+      { "languageCode": "en", "text": "The craftsman repairs the table." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "craftsman" },
+      { "languageCode": "bn", "text": "কারিগর (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Handwerkerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Handwerkerinnen",
     "genitive_singular": "der Handwerkerin",
-    "sentence_de": "Die Handwerkerin baut einen Stuhl.",
-    "sentence_en": "The craftswoman builds a chair.",
-    "translation_en": "craftswoman",
-    "translation_bn": "কারিগর (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Handwerkerin baut einen Stuhl." },
+      { "languageCode": "en", "text": "The craftswoman builds a chair." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "craftswoman" },
+      { "languageCode": "bn", "text": "কারিগর (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Hausmeister",
     "article": "der",
     "gender": "masculine",
     "plural": "Hausmeister",
     "genitive_singular": "des Hausmeisters",
-    "sentence_de": "Der Hausmeister reinigt das Gebäude.",
-    "sentence_en": "The janitor cleans the building.",
-    "translation_en": "janitor (male)",
-    "translation_bn": "রক্ষণাবেক্ষণকারী (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Hausmeister reinigt das Gebäude." },
+      { "languageCode": "en", "text": "The janitor cleans the building." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "janitor (male)" },
+      { "languageCode": "bn", "text": "রক্ষণাবেক্ষণকারী (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Hausmeisterin",
     "article": "die",
     "gender": "feminine",
     "plural": "Hausmeisterinnen",
     "genitive_singular": "der Hausmeisterin",
-    "sentence_de": "Die Hausmeisterin öffnet die Türen.",
-    "sentence_en": "The janitor opens the doors.",
-    "translation_en": "janitor (female)",
-    "translation_bn": "রক্ষণাবেক্ষণকারী (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Hausmeisterin öffnet die Türen." },
+      { "languageCode": "en", "text": "The janitor opens the doors." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "janitor (female)" },
+      { "languageCode": "bn", "text": "রক্ষণাবেক্ষণকারী (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Informatikerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Informatikerinnen",
     "genitive_singular": "der Informatikerin",
-    "sentence_de": "Die Informatikerin arbeitet mit Computern.",
-    "sentence_en": "The computer scientist works with computers.",
-    "translation_en": "computer scientist (female)",
-    "translation_bn": "কম্পিউটার বিজ্ঞানী (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Informatikerin arbeitet mit Computern." },
+      { "languageCode": "en", "text": "The computer scientist works with computers." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "computer scientist (female)" },
+      { "languageCode": "bn", "text": "কম্পিউটার বিজ্ঞানী (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Ingenieur",
     "article": "der",
     "gender": "masculine",
     "plural": "Ingenieure",
     "genitive_singular": "des Ingenieurs",
-    "sentence_de": "Der Ingenieur baut Brücken.",
-    "sentence_en": "The engineer builds bridges.",
-    "translation_en": "engineer (male)",
-    "translation_bn": "প্রকৌশলী (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Ingenieur baut Brücken." },
+      { "languageCode": "en", "text": "The engineer builds bridges." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "engineer (male)" },
+      { "languageCode": "bn", "text": "প্রকৌশলী (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Ingenieurin",
     "article": "die",
     "gender": "feminine",
     "plural": "Ingenieurinnen",
     "genitive_singular": "der Ingenieurin",
-    "sentence_de": "Die Ingenieurin plant neue Gebäude.",
-    "sentence_en": "The engineer plans new buildings.",
-    "translation_en": "engineer (female)",
-    "translation_bn": "প্রকৌশলী (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Ingenieurin plant neue Gebäude." },
+      { "languageCode": "en", "text": "The engineer plans new buildings." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "engineer (female)" },
+      { "languageCode": "bn", "text": "প্রকৌশলী (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Journalist",
     "article": "der",
     "gender": "masculine",
     "plural": "Journalisten",
     "genitive_singular": "des Journalisten",
-    "sentence_de": "Der Journalist schreibt Artikel.",
-    "sentence_en": "The journalist writes articles.",
-    "translation_en": "journalist (male)",
-    "translation_bn": "সাংবাদিক (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Journalist schreibt Artikel." },
+      { "languageCode": "en", "text": "The journalist writes articles." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "journalist (male)" },
+      { "languageCode": "bn", "text": "সাংবাদিক (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Journalistin",
     "article": "die",
     "gender": "feminine",
     "plural": "Journalistinnen",
     "genitive_singular": "der Journalistin",
-    "sentence_de": "Die Journalistin macht Interviews.",
-    "sentence_en": "The journalist conducts interviews.",
-    "translation_en": "journalist (female)",
-    "translation_bn": "সাংবাদিক (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Journalistin macht Interviews." },
+      { "languageCode": "en", "text": "The journalist conducts interviews." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "journalist (female)" },
+      { "languageCode": "bn", "text": "সাংবাদিক (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Jurist",
     "article": "der",
     "gender": "masculine",
     "plural": "Juristen",
     "genitive_singular": "des Juristen",
-    "sentence_de": "Der Jurist arbeitet vor Gericht.",
-    "sentence_en": "The lawyer works in court.",
-    "translation_en": "lawyer (male)",
-    "translation_bn": "আইনজীবী (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Jurist arbeitet vor Gericht." },
+      { "languageCode": "en", "text": "The lawyer works in court." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lawyer (male)" },
+      { "languageCode": "bn", "text": "আইনজীবী (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Juristin",
     "article": "die",
     "gender": "feminine",
     "plural": "Juristinnen",
     "genitive_singular": "der Juristin",
-    "sentence_de": "Die Juristin berät ihre Klienten.",
-    "sentence_en": "The lawyer advises her clients.",
-    "translation_en": "lawyer (female)",
-    "translation_bn": "আইনজীবী (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Juristin berät ihre Klienten." },
+      { "languageCode": "en", "text": "The lawyer advises her clients." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lawyer (female)" },
+      { "languageCode": "bn", "text": "আইনজীবী (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Kellner",
     "article": "der",
     "gender": "masculine",
     "plural": "Kellner",
     "genitive_singular": "des Kellners",
-    "sentence_de": "Der Kellner bringt das Essen.",
-    "sentence_en": "The waiter brings the food.",
-    "translation_en": "waiter",
-    "translation_bn": "ওয়েটার",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Kellner bringt das Essen." },
+      { "languageCode": "en", "text": "The waiter brings the food." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "waiter" },
+      { "languageCode": "bn", "text": "ওয়েটার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Kellnerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Kellnerinnen",
     "genitive_singular": "der Kellnerin",
-    "sentence_de": "Die Kellnerin nimmt die Bestellung auf.",
-    "sentence_en": "The waitress takes the order.",
-    "translation_en": "waitress",
-    "translation_bn": "ওয়েট্রেস",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kellnerin nimmt die Bestellung auf." },
+      { "languageCode": "en", "text": "The waitress takes the order." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "waitress" },
+      { "languageCode": "bn", "text": "ওয়েট্রেস" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Koch",
     "article": "der",
     "gender": "masculine",
     "plural": "Köche",
     "genitive_singular": "des Kochs",
-    "sentence_de": "Der Koch kocht leckeres Essen.",
-    "sentence_en": "The chef cooks delicious food.",
-    "translation_en": "chef/cook (male)",
-    "translation_bn": "রাঁধুনি (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Koch kocht leckeres Essen." },
+      { "languageCode": "en", "text": "The chef cooks delicious food." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "chef/cook (male)" },
+      { "languageCode": "bn", "text": "রাঁধুনি (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Köchin",
     "article": "die",
     "gender": "feminine",
     "plural": "Köchinnen",
     "genitive_singular": "der Köchin",
-    "sentence_de": "Die Köchin macht Suppe.",
-    "sentence_en": "The chef makes soup.",
-    "translation_en": "chef/cook (female)",
-    "translation_bn": "রাঁধুনি (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Köchin macht Suppe." },
+      { "languageCode": "en", "text": "The chef makes soup." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "chef/cook (female)" },
+      { "languageCode": "bn", "text": "রাঁধুনি (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Krankenhaus",
     "article": "das",
     "gender": "neuter",
     "plural": "Krankenhäuser",
     "genitive_singular": "des Krankenhauses",
-    "sentence_de": "Das Krankenhaus ist sehr groß.",
-    "sentence_en": "The hospital is very big.",
-    "translation_en": "hospital",
-    "translation_bn": "হাসপাতাল",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Krankenhaus ist sehr groß." },
+      { "languageCode": "en", "text": "The hospital is very big." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hospital" },
+      { "languageCode": "bn", "text": "হাসপাতাল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Krankenpfleger",
     "article": "der",
     "gender": "masculine",
     "plural": "Krankenpfleger",
     "genitive_singular": "des Krankenpflegers",
-    "sentence_de": "Der Krankenpfleger arbeitet im Krankenhaus.",
-    "sentence_en": "The male nurse works in the hospital.",
-    "translation_en": "male nurse",
-    "translation_bn": "পুরুষ নার্স",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Krankenpfleger arbeitet im Krankenhaus." },
+      { "languageCode": "en", "text": "The male nurse works in the hospital." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "male nurse" },
+      { "languageCode": "bn", "text": "পুরুষ নার্স" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Krankenpflegerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Krankenpflegerinnen",
     "genitive_singular": "der Krankenpflegerin",
-    "sentence_de": "Die Krankenpflegerin pflegt die Patienten.",
-    "sentence_en": "The nurse takes care of the patients.",
-    "translation_en": "nurse (female)",
-    "translation_bn": "নার্স (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Krankenpflegerin pflegt die Patienten." },
+      { "languageCode": "en", "text": "The nurse takes care of the patients." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "nurse (female)" },
+      { "languageCode": "bn", "text": "নার্স (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Kunde",
     "article": "der",
     "gender": "masculine",
     "plural": "Kunden",
     "genitive_singular": "des Kunden",
-    "sentence_de": "Der Kunde kauft ein Auto.",
-    "sentence_en": "The customer buys a car.",
-    "translation_en": "customer (male)",
-    "translation_bn": "গ্রাহক (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Kunde kauft ein Auto." },
+      { "languageCode": "en", "text": "The customer buys a car." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "customer (male)" },
+      { "languageCode": "bn", "text": "গ্রাহক (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Kundenbesuch",
     "article": "der",
     "gender": "masculine",
     "plural": "Kundenbesuche",
     "genitive_singular": "des Kundenbesuchs",
-    "sentence_de": "Der Kundenbesuch ist um 15 Uhr.",
-    "sentence_en": "The customer visit is at 3 PM.",
-    "translation_en": "customer visit",
-    "translation_bn": "গ্রাহক দেখা",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Kundenbesuch ist um 15 Uhr." },
+      { "languageCode": "en", "text": "The customer visit is at 3 PM." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "customer visit" },
+      { "languageCode": "bn", "text": "গ্রাহক দেখা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Kundin",
     "article": "die",
     "gender": "feminine",
     "plural": "Kundinnen",
     "genitive_singular": "der Kundin",
-    "sentence_de": "Die Kundin ist sehr zufrieden.",
-    "sentence_en": "The customer is very satisfied.",
-    "translation_en": "customer (female)",
-    "translation_bn": "গ্রাহক (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kundin ist sehr zufrieden." },
+      { "languageCode": "en", "text": "The customer is very satisfied." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "customer (female)" },
+      { "languageCode": "bn", "text": "গ্রাহক (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Künstler",
     "article": "der",
     "gender": "masculine",
     "plural": "Künstler",
     "genitive_singular": "des Künstlers",
-    "sentence_de": "Der Künstler malt ein Bild.",
-    "sentence_en": "The artist paints a picture.",
-    "translation_en": "artist (male)",
-    "translation_bn": "শিল্পী (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Künstler malt ein Bild." },
+      { "languageCode": "en", "text": "The artist paints a picture." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "artist (male)" },
+      { "languageCode": "bn", "text": "শিল্পী (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Künstlerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Künstlerinnen",
     "genitive_singular": "der Künstlerin",
-    "sentence_de": "Die Künstlerin arbeitet in ihrem Atelier.",
-    "sentence_en": "The artist works in her studio.",
-    "translation_en": "artist (female)",
-    "translation_bn": "শিল্পী (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Künstlerin arbeitet in ihrem Atelier." },
+      { "languageCode": "en", "text": "The artist works in her studio." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "artist (female)" },
+      { "languageCode": "bn", "text": "শিল্পী (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Laborant",
     "article": "der",
     "gender": "masculine",
     "plural": "Laboranten",
     "genitive_singular": "des Laboranten",
-    "sentence_de": "Der Laborant macht Experimente.",
-    "sentence_en": "The lab technician conducts experiments.",
-    "translation_en": "lab technician (male)",
-    "translation_bn": "পরীক্ষাগার কর্মী (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Laborant macht Experimente." },
+      { "languageCode": "en", "text": "The lab technician conducts experiments." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lab technician (male)" },
+      { "languageCode": "bn", "text": "পরীক্ষাগার কর্মী (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Laborantin",
     "article": "die",
     "gender": "feminine",
     "plural": "Laborantinnen",
     "genitive_singular": "der Laborantin",
-    "sentence_de": "Die Laborantin analysiert Proben.",
-    "sentence_en": "The lab technician analyzes samples.",
-    "translation_en": "lab technician (female)",
-    "translation_bn": "পরীক্ষাগার কর্মী (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Laborantin analysiert Proben." },
+      { "languageCode": "en", "text": "The lab technician analyzes samples." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lab technician (female)" },
+      { "languageCode": "bn", "text": "পরীক্ষাগার কর্মী (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Lehrer",
     "article": "der",
     "gender": "masculine",
     "plural": "Lehrer",
     "genitive_singular": "des Lehrers",
-    "sentence_de": "Der Lehrer unterrichtet die Schüler.",
-    "sentence_en": "The teacher teaches the students.",
-    "translation_en": "teacher (male)",
-    "translation_bn": "শিক্ষক (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Lehrer unterrichtet die Schüler." },
+      { "languageCode": "en", "text": "The teacher teaches the students." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "teacher (male)" },
+      { "languageCode": "bn", "text": "শিক্ষক (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Lehrerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Lehrerinnen",
     "genitive_singular": "der Lehrerin",
-    "sentence_de": "Die Lehrerin erklärt die Aufgabe.",
-    "sentence_en": "The teacher explains the task.",
-    "translation_en": "teacher (female)",
-    "translation_bn": "শিক্ষক (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Lehrerin erklärt die Aufgabe." },
+      { "languageCode": "en", "text": "The teacher explains the task." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "teacher (female)" },
+      { "languageCode": "bn", "text": "শিক্ষক (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Mechaniker",
     "article": "der",
     "gender": "masculine",
     "plural": "Mechaniker",
     "genitive_singular": "des Mechanikers",
-    "sentence_de": "Der Mechaniker repariert Autos.",
-    "sentence_en": "The mechanic repairs cars.",
-    "translation_en": "mechanic (male)",
-    "translation_bn": "যান্ত্রিক (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Mechaniker repariert Autos." },
+      { "languageCode": "en", "text": "The mechanic repairs cars." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "mechanic (male)" },
+      { "languageCode": "bn", "text": "যান্ত্রিক (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Mechanikerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Mechanikerinnen",
     "genitive_singular": "der Mechanikerin",
-    "sentence_de": "Die Mechanikerin prüft den Motor.",
-    "sentence_en": "The mechanic checks the engine.",
-    "translation_en": "mechanic (female)",
-    "translation_bn": "যান্ত্রিক (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Mechanikerin prüft den Motor." },
+      { "languageCode": "en", "text": "The mechanic checks the engine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "mechanic (female)" },
+      { "languageCode": "bn", "text": "যান্ত্রিক (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Mitarbeiter",
     "article": "der",
     "gender": "masculine",
     "plural": "Mitarbeiter",
     "genitive_singular": "des Mitarbeiters",
-    "sentence_de": "Der Mitarbeiter ist sehr freundlich.",
-    "sentence_en": "The employee is very friendly.",
-    "translation_en": "employee (male)",
-    "translation_bn": "কর্মচারী (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Mitarbeiter ist sehr freundlich." },
+      { "languageCode": "en", "text": "The employee is very friendly." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "employee (male)" },
+      { "languageCode": "bn", "text": "কর্মচারী (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Mitarbeiterin",
     "article": "die",
     "gender": "feminine",
     "plural": "Mitarbeiterinnen",
     "genitive_singular": "der Mitarbeiterin",
-    "sentence_de": "Die Mitarbeiterin kommt heute spät.",
-    "sentence_en": "The employee comes late today.",
-    "translation_en": "employee (female)",
-    "translation_bn": "কর্মচারী (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Mitarbeiterin kommt heute spät." },
+      { "languageCode": "en", "text": "The employee comes late today." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "employee (female)" },
+      { "languageCode": "bn", "text": "কর্মচারী (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Modedesigner",
     "article": "der",
     "gender": "masculine",
     "plural": "Modedesigner",
     "genitive_singular": "des Modedesigners",
-    "sentence_de": "Der Modedesigner macht schöne Kleider.",
-    "sentence_en": "The fashion designer makes beautiful clothes.",
-    "translation_en": "fashion designer (male)",
-    "translation_bn": "ফ্যাশন ডিজাইনার (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Modedesigner macht schöne Kleider." },
+      { "languageCode": "en", "text": "The fashion designer makes beautiful clothes." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fashion designer (male)" },
+      { "languageCode": "bn", "text": "ফ্যাশন ডিজাইনার (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Modedesignerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Modedesignerinnen",
     "genitive_singular": "der Modedesignerin",
-    "sentence_de": "Die Modedesignerin arbeitet in Paris.",
-    "sentence_en": "The fashion designer works in Paris.",
-    "translation_en": "fashion designer (female)",
-    "translation_bn": "ফ্যাশন ডিজাইনার (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Modedesignerin arbeitet in Paris." },
+      { "languageCode": "en", "text": "The fashion designer works in Paris." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fashion designer (female)" },
+      { "languageCode": "bn", "text": "ফ্যাশন ডিজাইনার (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Notarzt",
     "article": "der",
     "gender": "masculine",
     "plural": "Notärzte",
     "genitive_singular": "des Notarztes",
-    "sentence_de": "Der Notarzt kommt schnell.",
-    "sentence_en": "The emergency doctor comes quickly.",
-    "translation_en": "emergency doctor (male)",
-    "translation_bn": "জরুরি চিকিৎসক (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Notarzt kommt schnell." },
+      { "languageCode": "en", "text": "The emergency doctor comes quickly." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "emergency doctor (male)" },
+      { "languageCode": "bn", "text": "জরুরি চিকিৎসক (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Notärztin",
     "article": "die",
     "gender": "feminine",
     "plural": "Notärztinnen",
     "genitive_singular": "der Notärztin",
-    "sentence_de": "Die Notärztin rettet Leben.",
-    "sentence_en": "The emergency doctor saves lives.",
-    "translation_en": "emergency doctor (female)",
-    "translation_bn": "জরুরি চিকিৎসক (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Notärztin rettet Leben." },
+      { "languageCode": "en", "text": "The emergency doctor saves lives." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "emergency doctor (female)" },
+      { "languageCode": "bn", "text": "জরুরি চিকিৎসক (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Physiotherapeut",
     "article": "der",
     "gender": "masculine",
     "plural": "Physiotherapeuten",
     "genitive_singular": "des Physiotherapeuten",
-    "sentence_de": "Der Physiotherapeut hilft bei Schmerzen.",
-    "sentence_en": "The physiotherapist helps with pain.",
-    "translation_en": "physiotherapist (male)",
-    "translation_bn": "ফিজিওথেরাপিস্ট (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Physiotherapeut hilft bei Schmerzen." },
+      { "languageCode": "en", "text": "The physiotherapist helps with pain." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "physiotherapist (male)" },
+      { "languageCode": "bn", "text": "ফিজিওথেরাপিস্ট (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Physiotherapeutin",
     "article": "die",
     "gender": "feminine",
     "plural": "Physiotherapeutinnen",
     "genitive_singular": "der Physiotherapeutin",
-    "sentence_de": "Die Physiotherapeutin hilft meinem Vater.",
-    "sentence_en": "The physiotherapist helps my father.",
-    "translation_en": "physiotherapist (female)",
-    "translation_bn": "ফিজিওথেরাপিস্ট (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Physiotherapeutin hilft meinem Vater." },
+      { "languageCode": "en", "text": "The physiotherapist helps my father." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "physiotherapist (female)" },
+      { "languageCode": "bn", "text": "ফিজিওথেরাপিস্ট (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Polizist",
     "article": "der",
     "gender": "masculine",
     "plural": "Polizisten",
     "genitive_singular": "des Polizisten",
-    "sentence_de": "Der Polizist hilft den Menschen.",
-    "sentence_en": "The police officer helps people.",
-    "translation_en": "police officer (male)",
-    "translation_bn": "পুলিশ (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Polizist hilft den Menschen." },
+      { "languageCode": "en", "text": "The police officer helps people." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "police officer (male)" },
+      { "languageCode": "bn", "text": "পুলিশ (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Polizistin",
     "article": "die",
     "gender": "feminine",
     "plural": "Polizistinnen",
     "genitive_singular": "der Polizistin",
-    "sentence_de": "Die Polizistin regelt den Verkehr.",
-    "sentence_en": "The police officer directs traffic.",
-    "translation_en": "police officer (female)",
-    "translation_bn": "পুলিশ (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Polizistin regelt den Verkehr." },
+      { "languageCode": "en", "text": "The police officer directs traffic." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "police officer (female)" },
+      { "languageCode": "bn", "text": "পুলিশ (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Praktikum",
     "article": "das",
     "gender": "neuter",
     "plural": "Praktika",
     "genitive_singular": "des Praktikums",
-    "sentence_de": "Ich mache ein Praktikum bei einer Firma.",
-    "sentence_en": "I am doing an internship at a company.",
-    "translation_en": "internship",
-    "translation_bn": "ইন্টার্নশিপ",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich mache ein Praktikum bei einer Firma." },
+      { "languageCode": "en", "text": "I am doing an internship at a company." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "internship" },
+      { "languageCode": "bn", "text": "ইন্টার্নশিপ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Professorin",
     "article": "die",
     "gender": "feminine",
     "plural": "Professorinnen",
     "genitive_singular": "der Professorin",
-    "sentence_de": "Die Professorin unterrichtet an der Universität.",
-    "sentence_en": "The professor teaches at the university.",
-    "translation_en": "professor (female)",
-    "translation_bn": "অধ্যাপক (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Professorin unterrichtet an der Universität." },
+      { "languageCode": "en", "text": "The professor teaches at the university." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "professor (female)" },
+      { "languageCode": "bn", "text": "অধ্যাপক (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Saison-Job",
     "article": "der",
     "gender": "masculine",
     "plural": "Saison-Jobs",
     "genitive_singular": "des Saison-Jobs",
-    "sentence_de": "Ich suche einen Saison-Job.",
-    "sentence_en": "I am looking for a seasonal job.",
-    "translation_en": "seasonal job",
-    "translation_bn": "মৌসুমী কাজ",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich suche einen Saison-Job." },
+      { "languageCode": "en", "text": "I am looking for a seasonal job." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "seasonal job" },
+      { "languageCode": "bn", "text": "মৌসুমী কাজ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Schaffner",
     "article": "der",
     "gender": "masculine",
     "plural": "Schaffner",
     "genitive_singular": "des Schaffners",
-    "sentence_de": "Der Schaffner kontrolliert die Tickets.",
-    "sentence_en": "The conductor checks the tickets.",
-    "translation_en": "conductor (male)",
-    "translation_bn": "টিকিট পরীক্ষক (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Schaffner kontrolliert die Tickets." },
+      { "languageCode": "en", "text": "The conductor checks the tickets." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "conductor (male)" },
+      { "languageCode": "bn", "text": "টিকিট পরীক্ষক (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Schaffnerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Schaffnerinnen",
     "genitive_singular": "der Schaffnerin",
-    "sentence_de": "Die Schaffnerin hilft den Passagieren.",
-    "sentence_en": "The conductor helps the passengers.",
-    "translation_en": "conductor (female)",
-    "translation_bn": "টিকিট পরীক্ষক (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Schaffnerin hilft den Passagieren." },
+      { "languageCode": "en", "text": "The conductor helps the passengers." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "conductor (female)" },
+      { "languageCode": "bn", "text": "টিকিট পরীক্ষক (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Segellehrer",
     "article": "der",
     "gender": "masculine",
     "plural": "Segellehrer",
     "genitive_singular": "des Segellehrers",
-    "sentence_de": "Der Segellehrer zeigt uns das Boot.",
-    "sentence_en": "The sailing instructor shows us the boat.",
-    "translation_en": "sailing instructor (male)",
-    "translation_bn": "নৌকা চালানোর শিক্ষক (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Segellehrer zeigt uns das Boot." },
+      { "languageCode": "en", "text": "The sailing instructor shows us the boat." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sailing instructor (male)" },
+      { "languageCode": "bn", "text": "নৌকা চালানোর শিক্ষক (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Segellehrerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Segellehrerinnen",
     "genitive_singular": "der Segellehrerin",
-    "sentence_de": "Die Segellehrerin erklärt die Regeln.",
-    "sentence_en": "The sailing instructor explains the rules.",
-    "translation_en": "sailing instructor (female)",
-    "translation_bn": "নৌকা চালানোর শিক্ষক (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Segellehrerin erklärt die Regeln." },
+      { "languageCode": "en", "text": "The sailing instructor explains the rules." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sailing instructor (female)" },
+      { "languageCode": "bn", "text": "নৌকা চালানোর শিক্ষক (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Sommerfest",
     "article": "das",
     "gender": "neuter",
     "plural": "Sommerfeste",
     "genitive_singular": "des Sommerfests",
-    "sentence_de": "Das Sommerfest ist im Juli.",
-    "sentence_en": "The summer party is in July.",
-    "translation_en": "summer party",
-    "translation_bn": "গ্রীষ্মকালীন উৎসব",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Sommerfest ist im Juli." },
+      { "languageCode": "en", "text": "The summer party is in July." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "summer party" },
+      { "languageCode": "bn", "text": "গ্রীষ্মকালীন উৎসব" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Sportler",
     "article": "der",
     "gender": "masculine",
     "plural": "Sportler",
     "genitive_singular": "des Sportlers",
-    "sentence_de": "Der Sportler trainiert jeden Tag.",
-    "sentence_en": "The athlete trains every day.",
-    "translation_en": "athlete (male)",
-    "translation_bn": "ক্রীড়াবিদ (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Sportler trainiert jeden Tag." },
+      { "languageCode": "en", "text": "The athlete trains every day." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "athlete (male)" },
+      { "languageCode": "bn", "text": "ক্রীড়াবিদ (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Sportlerin",
     "article": "die",
     "gender": "feminine",
     "plural": "Sportlerinnen",
     "genitive_singular": "der Sportlerin",
-    "sentence_de": "Die Sportlerin läuft sehr schnell.",
-    "sentence_en": "The athlete runs very fast.",
-    "translation_en": "athlete (female)",
-    "translation_bn": "ক্রীড়াবিদ (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Sportlerin läuft sehr schnell." },
+      { "languageCode": "en", "text": "The athlete runs very fast." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "athlete (female)" },
+      { "languageCode": "bn", "text": "ক্রীড়াবিদ (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Urlaub",
     "article": "der",
     "gender": "masculine",
     "plural": "Urlaube",
     "genitive_singular": "des Urlaubs",
-    "sentence_de": "Ich mache im August Urlaub.",
-    "sentence_en": "I am going on vacation in August.",
-    "translation_en": "vacation",
-    "translation_bn": "ছুটি",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich mache im August Urlaub." },
+      { "languageCode": "en", "text": "I am going on vacation in August." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "vacation" },
+      { "languageCode": "bn", "text": "ছুটি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Verkäufer",
     "article": "der",
     "gender": "masculine",
     "plural": "Verkäufer",
     "genitive_singular": "des Verkäufers",
-    "sentence_de": "Der Verkäufer verkauft Obst.",
-    "sentence_en": "The salesman sells fruit.",
-    "translation_en": "salesman",
-    "translation_bn": "বিক্রয়কারী (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Verkäufer verkauft Obst." },
+      { "languageCode": "en", "text": "The salesman sells fruit." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "salesman" },
+      { "languageCode": "bn", "text": "বিক্রয়কারী (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Verkäuferin",
     "article": "die",
     "gender": "feminine",
     "plural": "Verkäuferinnen",
     "genitive_singular": "der Verkäuferin",
-    "sentence_de": "Die Verkäuferin ist sehr freundlich.",
-    "sentence_en": "The saleswoman is very friendly.",
-    "translation_en": "saleswoman",
-    "translation_bn": "বিক্রয়কারী (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Verkäuferin ist sehr freundlich." },
+      { "languageCode": "en", "text": "The saleswoman is very friendly." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "saleswoman" },
+      { "languageCode": "bn", "text": "বিক্রয়কারী (মহিলা)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Zahnarzt",
     "article": "der",
     "gender": "masculine",
     "plural": "Zahnärzte",
     "genitive_singular": "des Zahnarztes",
-    "sentence_de": "Der Zahnarzt behandelt die Zähne.",
-    "sentence_en": "The dentist treats teeth.",
-    "translation_en": "dentist (male)",
-    "translation_bn": "দাঁতের ডাক্তার (পুরুষ)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Zahnarzt behandelt die Zähne." },
+      { "languageCode": "en", "text": "The dentist treats teeth." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "dentist (male)" },
+      { "languageCode": "bn", "text": "দাঁতের ডাক্তার (পুরুষ)" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "professions-and-work",
     "part_of_speech": "noun",
     "word": "Zahnärztin",
     "article": "die",
     "gender": "feminine",
     "plural": "Zahnärztinnen",
     "genitive_singular": "der Zahnärztin",
-    "sentence_de": "Die Zahnärztin putzt die Zähne.",
-    "sentence_en": "The dentist cleans the teeth.",
-    "translation_en": "dentist (female)",
-    "translation_bn": "দাঁতের ডাক্তার (মহিলা)",
-    "topic": "professions-and-work",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Zahnärztin putzt die Zähne." },
+      { "languageCode": "en", "text": "The dentist cleans the teeth." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "dentist (female)" },
+      { "languageCode": "bn", "text": "দাঁতের ডাক্তার (মহিলা)" }
+    ]
   }
 ]

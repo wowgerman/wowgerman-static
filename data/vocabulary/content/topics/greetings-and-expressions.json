@@ -1,101 +1,131 @@
 [
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "hallo",
     "interjection_function": "greeting",
-    "sentence_de": "Hallo! Schön dich zu sehen.",
-    "sentence_en": "Hello! Nice to see you.",
-    "translation_en": "hello",
-    "translation_bn": "হ্যালো",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Hallo! Schön dich zu sehen." },
+      { "languageCode": "en", "text": "Hello! Nice to see you." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hello" },
+      { "languageCode": "bn", "text": "হ্যালো" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/hello.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
     "word": "Entschuldigung",
     "article": "die",
     "gender": "feminine",
     "plural": "Entschuldigungen",
     "genitive_singular": "der Entschuldigung",
-    "sentence_de": "Entschuldigung! Ich bin spät.",
-    "sentence_en": "Excuse me! I am late.",
-    "translation_en": "excuse me",
-    "translation_bn": "দুঃখিত",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Entschuldigung! Ich bin spät." },
+      { "languageCode": "en", "text": "Excuse me! I am late." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "excuse me" },
+      { "languageCode": "bn", "text": "দুঃখিত" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/excuse-me.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "guten Tag",
     "plural": null,
-    "translation_en": "good day",
-    "sentence_de": "Guten Tag! Wie geht es Ihnen?",
-    "sentence_en": "Good day! How are you?",
-    "translation_bn": "শুভ দিন",
     "separable_prefix": null,
-    "topic": "greetings-and-expressions",
     "gender": null,
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Guten Tag! Wie geht es Ihnen?" },
+      { "languageCode": "en", "text": "Good day! How are you?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "good day" },
+      { "languageCode": "bn", "text": "শুভ দিন" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/good-day.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "bitte",
     "interjection_function": "politeness",
-    "sentence_de": "Bitte, nimm Platz.",
-    "sentence_en": "Please, take a seat.",
-    "translation_en": "please",
-    "translation_bn": "অনুগ্রহ করে",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Bitte, nimm Platz." },
+      { "languageCode": "en", "text": "Please, take a seat." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "please" },
+      { "languageCode": "bn", "text": "অনুগ্রহ করে" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/please.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
     "word": "herzlich",
     "comparative": "herzlicher",
     "superlative": "am herzlichsten",
     "gradable": true,
-    "sentence_de": "Herzlichen Glückwunsch zum Geburtstag!",
-    "sentence_en": "Heartfelt congratulations on your birthday!",
-    "translation_en": "heartfelt, cordial",
-    "translation_bn": "হৃদয়গ্রাহী",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Herzlichen Glückwunsch zum Geburtstag!" },
+      { "languageCode": "en", "text": "Heartfelt congratulations on your birthday!" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "heartfelt, cordial" },
+      { "languageCode": "bn", "text": "হৃদয়গ্রাহী" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/heartfelt.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
     "word": "Dank",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Dankes",
-    "sentence_de": "Vielen Dank für deine Hilfe.",
-    "sentence_en": "Many thanks for your help.",
-    "translation_en": "gratitude, thanks",
-    "translation_bn": "কৃতজ্ঞতা",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Vielen Dank für deine Hilfe." },
+      { "languageCode": "en", "text": "Many thanks for your help." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "gratitude, thanks" },
+      { "languageCode": "bn", "text": "কৃতজ্ঞতা" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/thanks.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
     "word": "dankbar",
     "comparative": "dankbarer",
     "superlative": "am dankbarsten",
     "gradable": true,
-    "sentence_de": "Ich bin dankbar für deine Hilfe.",
-    "sentence_en": "I am grateful for your help.",
-    "translation_en": "grateful",
-    "translation_bn": "কৃতজ্ঞ",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin dankbar für deine Hilfe." },
+      { "languageCode": "en", "text": "I am grateful for your help." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "grateful" },
+      { "languageCode": "bn", "text": "কৃতজ্ঞ" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/grateful.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "verb",
     "word": "danken",
     "infinitive": "danken",
@@ -105,402 +135,520 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich danke dir für deine Hilfe.",
-    "sentence_en": "I thank you for your help.",
-    "translation_en": "to thank",
-    "translation_bn": "ধন্যবাদ দেওয়া",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich danke dir für deine Hilfe." },
+      { "languageCode": "en", "text": "I thank you for your help." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to thank" },
+      { "languageCode": "bn", "text": "ধন্যবাদ দেওয়া" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/to-thank.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "danke",
     "interjection_function": "gratitude",
-    "sentence_de": "Danke für deine Hilfe.",
-    "sentence_en": "Thank you for your help.",
-    "translation_en": "thank you",
-    "translation_bn": "ধন্যবাদ",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Danke für deine Hilfe." },
+      { "languageCode": "en", "text": "Thank you for your help." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "thank you" },
+      { "languageCode": "bn", "text": "ধন্যবাদ" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/thank-you.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "danke schön",
     "interjection_function": "gratitude",
-    "sentence_de": "Danke schön für das Geschenk.",
-    "sentence_en": "Thank you very much for the gift.",
-    "translation_en": "thank you very much",
-    "translation_bn": "অনেক ধন্যবাদ",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Danke schön für das Geschenk." },
+      { "languageCode": "en", "text": "Thank you very much for the gift." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "thank you very much" },
+      { "languageCode": "bn", "text": "অনেক ধন্যবাদ" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/thank-you-very-much.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "bis bald",
     "interjection_function": "farewell",
-    "sentence_de": "Bis bald! Ich rufe dich an.",
-    "sentence_en": "See you soon! I'll call you.",
-    "translation_en": "see you soon",
-    "translation_bn": "শীঘ্রই দেখা হবে",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Bis bald! Ich rufe dich an." },
+      { "languageCode": "en", "text": "See you soon! I'll call you." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "see you soon" },
+      { "languageCode": "bn", "text": "শীঘ্রই দেখা হবে" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/see-you-soon.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
     "word": "gleichfalls",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Schönen Tag noch! - Gleichfalls!",
-    "sentence_en": "Have a nice day! - Likewise!",
-    "translation_en": "likewise, you too, same to you",
-    "translation_bn": "একইভাবে",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Schönen Tag noch! - Gleichfalls!" },
+      { "languageCode": "en", "text": "Have a nice day! - Likewise!" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "likewise, you too, same to you" },
+      { "languageCode": "bn", "text": "একইভাবে" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/likewise.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "tschüs",
     "interjection_function": "farewell",
-    "sentence_de": "Tschüs! Bis morgen.",
-    "sentence_en": "Bye! See you tomorrow.",
-    "translation_en": "bye",
-    "translation_bn": "বিদায়",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Tschüs! Bis morgen." },
+      { "languageCode": "en", "text": "Bye! See you tomorrow." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bye" },
+      { "languageCode": "bn", "text": "বিদায়" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/bye.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "ciao",
     "interjection_function": "farewell",
-    "sentence_de": "Ciao! Hab einen schönen Tag.",
-    "sentence_en": "Ciao! Have a nice day.",
-    "translation_en": "bye",
-    "translation_bn": "বিদায়",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ciao! Hab einen schönen Tag." },
+      { "languageCode": "en", "text": "Ciao! Have a nice day." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bye" },
+      { "languageCode": "bn", "text": "বিদায়" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/bye-too.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "Auf Wiedersehen",
     "interjection_function": "farewell",
-    "sentence_de": "Auf Wiedersehen! Bis zum nächsten Mal.",
-    "sentence_en": "Goodbye! Until next time.",
-    "translation_en": "goodbye",
-    "translation_bn": "বিদায়",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Auf Wiedersehen! Bis zum nächsten Mal." },
+      { "languageCode": "en", "text": "Goodbye! Until next time." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "goodbye" },
+      { "languageCode": "bn", "text": "বিদায়" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/goodbye.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "los",
     "interjection_function": "encouragement",
-    "sentence_de": "Los! Wir müssen gehen.",
-    "sentence_en": "Come on! We have to go.",
-    "translation_en": "come on",
-    "translation_bn": "চলো",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Los! Wir müssen gehen." },
+      { "languageCode": "en", "text": "Come on! We have to go." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "come on" },
+      { "languageCode": "bn", "text": "চলো" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/come-on.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "okay",
     "interjection_function": "agreement",
-    "sentence_de": "Okay, das machen wir so.",
-    "sentence_en": "Okay, we'll do it like that.",
-    "translation_en": "okay",
-    "translation_bn": "ঠিক আছে",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Okay, das machen wir so." },
+      { "languageCode": "en", "text": "Okay, we'll do it like that." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "okay" },
+      { "languageCode": "bn", "text": "ঠিক আছে" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/okay.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
     "word": "freundlich",
     "comparative": "freundlicher",
     "superlative": "am freundlichsten",
     "gradable": true,
-    "sentence_de": "Sie ist sehr freundlich zu mir.",
-    "sentence_en": "She is very friendly to me.",
-    "translation_en": "friendly",
-    "translation_bn": "বন্ধুত্বপূর্ণ",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie ist sehr freundlich zu mir." },
+      { "languageCode": "en", "text": "She is very friendly to me." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "friendly" },
+      { "languageCode": "bn", "text": "বন্ধুত্বপূর্ণ" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/friendly.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
     "word": "echt",
     "comparative": "echter",
     "superlative": "am echtesten",
     "gradable": true,
-    "sentence_de": "Das ist echt schön!",
-    "sentence_en": "That's really beautiful!",
-    "translation_en": "really, genuine",
-    "translation_bn": "সত্যিই",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist echt schön!" },
+      { "languageCode": "en", "text": "That's really beautiful!" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "really, genuine" },
+      { "languageCode": "bn", "text": "সত্যিই" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/genuine.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "hurra",
     "interjection_function": "celebration",
-    "sentence_de": "Hurra! Wir haben gewonnen!",
-    "sentence_en": "Hurray! We won!",
-    "translation_en": "hurray",
-    "translation_bn": "হুররে",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Hurra! Wir haben gewonnen!" },
+      { "languageCode": "en", "text": "Hurray! We won!" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hurray" },
+      { "languageCode": "bn", "text": "হুররে" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/hurray.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
     "word": "zum Wohl",
     "interjection_function": "toast",
-    "sentence_de": "Zum Wohl! Auf unsere Freundschaft.",
-    "sentence_en": "Cheers! To our friendship.",
-    "translation_en": "cheers",
-    "translation_bn": "চিয়ার্স",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Zum Wohl! Auf unsere Freundschaft." },
+      { "languageCode": "en", "text": "Cheers! To our friendship." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cheers" },
+      { "languageCode": "bn", "text": "চিয়ার্স" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/cheers.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
     "word": "natürlich",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Natürlich kann ich dir helfen.",
-    "sentence_en": "Of course I can help you.",
-    "translation_en": "naturally, of course",
-    "translation_bn": "স্বাভাবিকভাবে",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Natürlich kann ich dir helfen." },
+      { "languageCode": "en", "text": "Of course I can help you." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "naturally, of course" },
+      { "languageCode": "bn", "text": "স্বাভাবিকভাবে" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/naturally-of-course.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
     "word": "klar",
     "comparative": "klarer",
     "superlative": "am klarsten",
     "gradable": true,
-    "sentence_de": "Das ist klar! Ich verstehe.",
-    "sentence_en": "That's clear! I understand.",
-    "translation_en": "clear, sure, of course",
-    "translation_bn": "স্পষ্ট, অবশ্যই",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist klar! Ich verstehe." },
+      { "languageCode": "en", "text": "That's clear! I understand." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "clear, sure, of course" },
+      { "languageCode": "bn", "text": "স্পষ্ট, অবশ্যই" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/sure.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
     "word": "geehrt",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Sehr geehrte Damen und Herren.",
-    "sentence_en": "Dear Ladies and Gentlemen.",
-    "translation_en": "honored, esteemed",
-    "translation_bn": "সম্মানিত",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sehr geehrte Damen und Herren." },
+      { "languageCode": "en", "text": "Dear Ladies and Gentlemen." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "honored, esteemed" },
+      { "languageCode": "bn", "text": "সম্মানিত" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/honored.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
     "word": "lieb",
     "comparative": "lieber",
     "superlative": "am liebsten",
     "gradable": true,
-    "sentence_de": "Du bist sehr lieb zu mir.",
-    "sentence_en": "You are very kind to me.",
-    "translation_en": "kind, dear",
-    "translation_bn": "প্রিয়",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Du bist sehr lieb zu mir." },
+      { "languageCode": "en", "text": "You are very kind to me." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "kind, dear" },
+      { "languageCode": "bn", "text": "প্রিয়" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/kind-dear.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
     "word": "schlecht",
     "comparative": "schlechter",
     "superlative": "am schlechtesten",
     "gradable": true,
-    "sentence_de": "Mir geht es heute schlecht.",
-    "sentence_en": "I feel bad today.",
-    "translation_en": "bad, sick",
-    "translation_bn": "খারাপ, অসুস্থ",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mir geht es heute schlecht." },
+      { "languageCode": "en", "text": "I feel bad today." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bad, sick" },
+      { "languageCode": "bn", "text": "খারাপ, অসুস্থ" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/bad.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
     "word": "nicht so gut",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Mir geht es nicht so gut.",
-    "sentence_en": "I'm not doing so well.",
-    "translation_en": "not so good",
-    "translation_bn": "এত ভালো না",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mir geht es nicht so gut." },
+      { "languageCode": "en", "text": "I'm not doing so well." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "not so good" },
+      { "languageCode": "bn", "text": "এত ভালো না" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/not-so-good.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
     "word": "ganz gut",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Mir geht es ganz gut.",
-    "sentence_en": "I'm doing quite well.",
-    "translation_en": "quite well",
-    "translation_bn": "বেশ ভালো",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mir geht es ganz gut." },
+      { "languageCode": "en", "text": "I'm doing quite well." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "quite well" },
+      { "languageCode": "bn", "text": "বেশ ভালো" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/quite-good.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
     "word": "gut",
     "comparative": "besser",
     "superlative": "am besten",
     "gradable": true,
-    "sentence_de": "Das Wetter ist gut heute.",
-    "sentence_en": "The weather is good today.",
-    "translation_en": "good",
-    "translation_bn": "ভালো",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Wetter ist gut heute." },
+      { "languageCode": "en", "text": "The weather is good today." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "good" },
+      { "languageCode": "bn", "text": "ভালো" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/good.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
     "word": "sehr gut",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das hast du sehr gut gemacht.",
-    "sentence_en": "You did that very well.",
-    "translation_en": "very well",
-    "translation_bn": "খুব ভালো",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das hast du sehr gut gemacht." },
+      { "languageCode": "en", "text": "You did that very well." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "very well" },
+      { "languageCode": "bn", "text": "খুব ভালো" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/very-good.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
     "word": "ausgezeichnet",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Das Essen war ausgezeichnet!",
-    "sentence_en": "The food was excellent!",
-    "translation_en": "excellent",
-    "translation_bn": "চমৎকার",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Essen war ausgezeichnet!" },
+      { "languageCode": "en", "text": "The food was excellent!" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "excellent" },
+      { "languageCode": "bn", "text": "চমৎকার" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/excellent.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
     "word": "Anrede",
     "article": "die",
     "gender": "feminine",
     "plural": "Anreden",
     "genitive_singular": "der Anrede",
-    "sentence_de": "Die Anrede ist sehr wichtig.",
-    "sentence_en": "The form of address is very important.",
-    "translation_en": "salutation",
-    "translation_bn": "সম্বোধন",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Anrede ist sehr wichtig." },
+      { "languageCode": "en", "text": "The form of address is very important." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "salutation" },
+      { "languageCode": "bn", "text": "সম্বোধন" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/salutation.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
     "word": "Anredeformel",
     "article": "die",
     "gender": "feminine",
     "plural": "Anredeformeln",
     "genitive_singular": "der Anredeformel",
-    "sentence_de": "Die Anredeformel ist höflich.",
-    "sentence_en": "The form of address is polite.",
-    "translation_en": "salutation formula",
-    "translation_bn": "সম্বোধনের সূত্র",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Anredeformel ist höflich." },
+      { "languageCode": "en", "text": "The form of address is polite." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "salutation formula" },
+      { "languageCode": "bn", "text": "সম্বোধনের সূত্র" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/salutation-formula.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
     "word": "Gruß",
     "article": "der",
     "gender": "masculine",
     "plural": "Grüße",
     "genitive_singular": "des Grußes",
-    "sentence_de": "Schöne Grüße an deine Familie.",
-    "sentence_en": "Kind regards to your family.",
-    "translation_en": "greeting",
-    "translation_bn": "শুভেচ্ছা",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Schöne Grüße an deine Familie." },
+      { "languageCode": "en", "text": "Kind regards to your family." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "greeting" },
+      { "languageCode": "bn", "text": "শুভেচ্ছা" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/greeting.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
     "word": "Grußformel",
     "article": "die",
     "gender": "feminine",
     "plural": "Grußformeln",
     "genitive_singular": "der Grußformel",
-    "sentence_de": "Die Grußformel ist freundlich.",
-    "sentence_en": "The salutation is friendly.",
-    "translation_en": "closing phrase",
-    "translation_bn": "সমাপনী সম্ভাষণ",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Grußformel ist freundlich." },
+      { "languageCode": "en", "text": "The salutation is friendly." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "closing phrase" },
+      { "languageCode": "bn", "text": "সমাপনী সম্ভাষণ" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/closing-phrase.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
     "word": "zum Glück",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Zum Glück ist alles gut gegangen.",
-    "sentence_en": "Fortunately, everything went well.",
-    "translation_en": "fortunately",
-    "translation_bn": "সৌভাগ্যবশত",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Zum Glück ist alles gut gegangen." },
+      { "languageCode": "en", "text": "Fortunately, everything went well." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fortunately" },
+      { "languageCode": "bn", "text": "সৌভাগ্যবশত" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/fortunately.png"
   },
   {
+    "level": "a1",
+    "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
     "word": "glücklich",
     "comparative": "glücklicher",
     "superlative": "am glücklichsten",
     "gradable": true,
-    "sentence_de": "Ich bin sehr glücklich.",
-    "sentence_en": "I am very happy.",
-    "translation_en": "happy",
-    "translation_bn": "খুশি",
-    "topic": "greetings-and-expressions",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin sehr glücklich." },
+      { "languageCode": "en", "text": "I am very happy." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "happy" },
+      { "languageCode": "bn", "text": "খুশি" }
+    ],
     "image": "data/vocabulary/images/greetings-and-expressions/happy.png"
   }
 ]

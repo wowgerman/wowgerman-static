@@ -1,1185 +1,1509 @@
 [
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Morgen",
     "article": "der",
     "gender": "masculine",
     "plural": "Morgen",
     "genitive_singular": "des Morgens",
-    "sentence_de": "Am Morgen trinke ich Tee.",
-    "sentence_en": "In the morning I drink tea.",
-    "translation_en": "morning",
-    "translation_bn": "সকাল",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Am Morgen trinke ich Tee." },
+      { "languageCode": "en", "text": "In the morning I drink tea." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "morning" },
+      { "languageCode": "bn", "text": "সকাল" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/morning.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Vormittag",
     "article": "der",
     "gender": "masculine",
     "plural": "Vormittage",
     "genitive_singular": "des Vormittags",
-    "sentence_de": "Am Vormittag arbeite ich.",
-    "sentence_en": "I work in the late morning.",
-    "translation_en": "late morning",
-    "translation_bn": "সকালের শেষ ভাগ",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Am Vormittag arbeite ich." },
+      { "languageCode": "en", "text": "I work in the late morning." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "late morning" },
+      { "languageCode": "bn", "text": "সকালের শেষ ভাগ" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/late-morning.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Mittag",
     "article": "der",
     "gender": "masculine",
     "plural": "Mittage",
     "genitive_singular": "des Mittags",
-    "sentence_de": "Am Mittag essen wir zusammen.",
-    "sentence_en": "At noon we eat together.",
-    "translation_en": "noon",
-    "translation_bn": "দুপুর",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Am Mittag essen wir zusammen." },
+      { "languageCode": "en", "text": "At noon we eat together." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "noon" },
+      { "languageCode": "bn", "text": "দুপুর" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/noon.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Nachmittag",
     "article": "der",
     "gender": "masculine",
     "plural": "Nachmittage",
     "genitive_singular": "des Nachmittags",
-    "sentence_de": "Am Nachmittag trinke ich Kaffee.",
-    "sentence_en": "In the afternoon I drink coffee.",
-    "translation_en": "afternoon",
-    "translation_bn": "বিকেল",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Am Nachmittag trinke ich Kaffee." },
+      { "languageCode": "en", "text": "In the afternoon I drink coffee." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "afternoon" },
+      { "languageCode": "bn", "text": "বিকেল" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/afternoon.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Abend",
     "article": "der",
     "gender": "masculine",
     "plural": "Abende",
     "genitive_singular": "des Abends",
-    "sentence_de": "Am Abend lese ich ein Buch.",
-    "sentence_en": "In the evening I read a book.",
-    "translation_en": "evening",
-    "translation_bn": "সন্ধ্যা",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Am Abend lese ich ein Buch." },
+      { "languageCode": "en", "text": "In the evening I read a book." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "evening" },
+      { "languageCode": "bn", "text": "সন্ধ্যা" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/evening.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Nacht",
     "article": "die",
     "gender": "feminine",
     "plural": "Nächte",
     "genitive_singular": "der Nacht",
-    "sentence_de": "Die Nacht ist dunkel.",
-    "sentence_en": "The night is dark.",
-    "translation_en": "night",
-    "translation_bn": "রাত",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Nacht ist dunkel." },
+      { "languageCode": "en", "text": "The night is dark." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "night" },
+      { "languageCode": "bn", "text": "রাত" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/night.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Mitternacht",
     "article": "die",
     "gender": "feminine",
     "plural": "Mitternächte",
     "genitive_singular": "der Mitternacht",
-    "sentence_de": "Um Mitternacht ist es still.",
-    "sentence_en": "At midnight it is quiet.",
-    "translation_en": "midnight",
-    "translation_bn": "মধ্যরাত",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Um Mitternacht ist es still." },
+      { "languageCode": "en", "text": "At midnight it is quiet." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "midnight" },
+      { "languageCode": "bn", "text": "মধ্যরাত" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/midnight.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Tagesanbruch",
     "article": "der",
     "gender": "masculine",
     "plural": "Tagesanbrüche",
     "genitive_singular": "des Tagesanbruchs",
-    "sentence_de": "Bei Tagesanbruch stehen wir auf.",
-    "sentence_en": "At daybreak we get up.",
-    "translation_en": "dawn, daybreak",
-    "translation_bn": "ভোর",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Bei Tagesanbruch stehen wir auf." },
+      { "languageCode": "en", "text": "At daybreak we get up." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "dawn, daybreak" },
+      { "languageCode": "bn", "text": "ভোর" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/dawn.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Montag",
     "article": "der",
     "gender": "masculine",
     "plural": "Montage",
     "genitive_singular": "des Montags",
-    "sentence_de": "Am Montag beginnt die Woche.",
-    "sentence_en": "On Monday the week begins.",
-    "translation_en": "Monday",
-    "translation_bn": "সোমবার",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Am Montag beginnt die Woche." },
+      { "languageCode": "en", "text": "On Monday the week begins." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Monday" },
+      { "languageCode": "bn", "text": "সোমবার" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/monday.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Dienstag",
     "article": "der",
     "gender": "masculine",
     "plural": "Dienstage",
     "genitive_singular": "des Dienstags",
-    "sentence_de": "Am Dienstag gehe ich arbeiten.",
-    "sentence_en": "On Tuesday I go to work.",
-    "translation_en": "Tuesday",
-    "translation_bn": "মঙ্গলবার",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Am Dienstag gehe ich arbeiten." },
+      { "languageCode": "en", "text": "On Tuesday I go to work." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Tuesday" },
+      { "languageCode": "bn", "text": "মঙ্গলবার" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/tuesday.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Mittwoch",
     "article": "der",
     "gender": "masculine",
     "plural": "Mittwoche",
     "genitive_singular": "des Mittwochs",
-    "sentence_de": "Mittwoch ist in der Mitte der Woche.",
-    "sentence_en": "Wednesday is in the middle of the week.",
-    "translation_en": "Wednesday",
-    "translation_bn": "বুধবার",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mittwoch ist in der Mitte der Woche." },
+      { "languageCode": "en", "text": "Wednesday is in the middle of the week." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Wednesday" },
+      { "languageCode": "bn", "text": "বুধবার" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/wednesday.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Donnerstag",
     "article": "der",
     "gender": "masculine",
     "plural": "Donnerstage",
     "genitive_singular": "des Donnerstags",
-    "sentence_de": "Donnerstag ist ein schöner Tag.",
-    "sentence_en": "Thursday is a beautiful day.",
-    "translation_en": "Thursday",
-    "translation_bn": "বৃহস্পতিবার",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Donnerstag ist ein schöner Tag." },
+      { "languageCode": "en", "text": "Thursday is a beautiful day." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Thursday" },
+      { "languageCode": "bn", "text": "বৃহস্পতিবার" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/thursday.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Freitag",
     "article": "der",
     "gender": "masculine",
     "plural": "Freitage",
     "genitive_singular": "des Freitags",
-    "sentence_de": "Am Freitag haben wir frei.",
-    "sentence_en": "On Friday we have free time.",
-    "translation_en": "Friday",
-    "translation_bn": "শুক্রবার",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Am Freitag haben wir frei." },
+      { "languageCode": "en", "text": "On Friday we have free time." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Friday" },
+      { "languageCode": "bn", "text": "শুক্রবার" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/friday.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Samstag",
     "article": "der",
     "gender": "masculine",
     "plural": "Samstage",
     "genitive_singular": "des Samstags",
-    "sentence_de": "Am Samstag gehe ich einkaufen.",
-    "sentence_en": "On Saturday I go shopping.",
-    "translation_en": "Saturday",
-    "translation_bn": "শনিবার",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Am Samstag gehe ich einkaufen." },
+      { "languageCode": "en", "text": "On Saturday I go shopping." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Saturday" },
+      { "languageCode": "bn", "text": "শনিবার" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/saturday.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Sonntag",
     "article": "der",
     "gender": "masculine",
     "plural": "Sonntage",
     "genitive_singular": "des Sonntags",
-    "sentence_de": "Am Sonntag ruhe ich mich aus.",
-    "sentence_en": "On Sunday I rest.",
-    "translation_en": "Sunday",
-    "translation_bn": "রবিবার",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Am Sonntag ruhe ich mich aus." },
+      { "languageCode": "en", "text": "On Sunday I rest." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "Sunday" },
+      { "languageCode": "bn", "text": "রবিবার" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/sunday.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Wochentag",
     "article": "der",
     "gender": "masculine",
     "plural": "Wochentage",
     "genitive_singular": "des Wochentags",
-    "sentence_de": "Montag ist ein Wochentag.",
-    "sentence_en": "Monday is a weekday.",
-    "translation_en": "weekday",
-    "translation_bn": "সপ্তাহের দিন",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Montag ist ein Wochentag." },
+      { "languageCode": "en", "text": "Monday is a weekday." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "weekday" },
+      { "languageCode": "bn", "text": "সপ্তাহের দিন" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/weekday.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Wochenende",
     "article": "das",
     "gender": "neuter",
     "plural": "Wochenenden",
     "genitive_singular": "des Wochenendes",
-    "sentence_de": "Am Wochenende bleibe ich zu Hause.",
-    "sentence_en": "On the weekend I stay at home.",
-    "translation_en": "weekend",
-    "translation_bn": "সপ্তাহান্ত",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Am Wochenende bleibe ich zu Hause." },
+      { "languageCode": "en", "text": "On the weekend I stay at home." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "weekend" },
+      { "languageCode": "bn", "text": "সপ্তাহান্ত" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/weekend.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Januar",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Januars",
-    "sentence_de": "Der Januar ist der erste Monat.",
-    "sentence_en": "January is the first month.",
-    "translation_en": "January",
-    "translation_bn": "জানুয়ারি",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Januar ist der erste Monat." },
+      { "languageCode": "en", "text": "January is the first month." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "January" },
+      { "languageCode": "bn", "text": "জানুয়ারি" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/january.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Februar",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Februars",
-    "sentence_de": "Der Februar hat 28 Tage.",
-    "sentence_en": "February has 28 days.",
-    "translation_en": "February",
-    "translation_bn": "ফেব্রুয়ারি",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Februar hat 28 Tage." },
+      { "languageCode": "en", "text": "February has 28 days." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "February" },
+      { "languageCode": "bn", "text": "ফেব্রুয়ারি" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/february.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "März",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Märzes",
-    "sentence_de": "Der März ist der dritte Monat.",
-    "sentence_en": "March is the third month.",
-    "translation_en": "March",
-    "translation_bn": "মার্চ",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der März ist der dritte Monat." },
+      { "languageCode": "en", "text": "March is the third month." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "March" },
+      { "languageCode": "bn", "text": "মার্চ" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/march.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "April",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Aprils",
-    "sentence_de": "Der April ist ein schöner Monat.",
-    "sentence_en": "April is a beautiful month.",
-    "translation_en": "April",
-    "translation_bn": "এপ্রিল",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der April ist ein schöner Monat." },
+      { "languageCode": "en", "text": "April is a beautiful month." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "April" },
+      { "languageCode": "bn", "text": "এপ্রিল" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/april.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Mai",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Mais",
-    "sentence_de": "Im Mai blühen die Blumen.",
-    "sentence_en": "In May the flowers bloom.",
-    "translation_en": "May",
-    "translation_bn": "মে",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Im Mai blühen die Blumen." },
+      { "languageCode": "en", "text": "In May the flowers bloom." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "May" },
+      { "languageCode": "bn", "text": "মে" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/may.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Juni",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Junis",
-    "sentence_de": "Der Juni ist ein warmer Monat.",
-    "sentence_en": "June is a warm month.",
-    "translation_en": "June",
-    "translation_bn": "জুন",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Juni ist ein warmer Monat." },
+      { "languageCode": "en", "text": "June is a warm month." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "June" },
+      { "languageCode": "bn", "text": "জুন" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/june.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Juli",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Julis",
-    "sentence_de": "Im Juli fahren wir in den Urlaub.",
-    "sentence_en": "In July we go on vacation.",
-    "translation_en": "July",
-    "translation_bn": "জুলাই",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Im Juli fahren wir in den Urlaub." },
+      { "languageCode": "en", "text": "In July we go on vacation." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "July" },
+      { "languageCode": "bn", "text": "জুলাই" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/july.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "August",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Augusts",
-    "sentence_de": "Im August ist es sehr warm.",
-    "sentence_en": "In August it is very warm.",
-    "translation_en": "August",
-    "translation_bn": "আগস্ট",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Im August ist es sehr warm." },
+      { "languageCode": "en", "text": "In August it is very warm." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "August" },
+      { "languageCode": "bn", "text": "আগস্ট" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/august.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "September",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Septembers",
-    "sentence_de": "Der September ist ein schöner Monat.",
-    "sentence_en": "September is a beautiful month.",
-    "translation_en": "September",
-    "translation_bn": "সেপ্টেম্বর",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der September ist ein schöner Monat." },
+      { "languageCode": "en", "text": "September is a beautiful month." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "September" },
+      { "languageCode": "bn", "text": "সেপ্টেম্বর" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/september.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Oktober",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Oktobers",
-    "sentence_de": "Der Oktober ist ein Herbstmonat.",
-    "sentence_en": "October is an autumn month.",
-    "translation_en": "October",
-    "translation_bn": "অক্টোবর",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Oktober ist ein Herbstmonat." },
+      { "languageCode": "en", "text": "October is an autumn month." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "October" },
+      { "languageCode": "bn", "text": "অক্টোবর" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/october.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "November",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Novembers",
-    "sentence_de": "Der November ist oft kalt.",
-    "sentence_en": "November is often cold.",
-    "translation_en": "November",
-    "translation_bn": "নভেম্বর",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der November ist oft kalt." },
+      { "languageCode": "en", "text": "November is often cold." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "November" },
+      { "languageCode": "bn", "text": "নভেম্বর" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/november.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Dezember",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Dezembers",
-    "sentence_de": "Der Dezember ist der letzte Monat.",
-    "sentence_en": "December is the last month.",
-    "translation_en": "December",
-    "translation_bn": "ডিসেম্বর",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Dezember ist der letzte Monat." },
+      { "languageCode": "en", "text": "December is the last month." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "December" },
+      { "languageCode": "bn", "text": "ডিসেম্বর" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/december.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Jahreszeit",
     "article": "die",
     "gender": "feminine",
     "plural": "Jahreszeiten",
     "genitive_singular": "der Jahreszeit",
-    "sentence_de": "Meine Lieblingsjahreszeit ist der Sommer.",
-    "sentence_en": "My favorite season is summer.",
-    "translation_en": "season",
-    "translation_bn": "ঋতু",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Lieblingsjahreszeit ist der Sommer." },
+      { "languageCode": "en", "text": "My favorite season is summer." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "season" },
+      { "languageCode": "bn", "text": "ঋতু" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/season.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Winter",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Winters",
-    "sentence_de": "Der Winter ist kalt.",
-    "sentence_en": "Winter is cold.",
-    "translation_en": "winter",
-    "translation_bn": "শীত",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Winter ist kalt." },
+      { "languageCode": "en", "text": "Winter is cold." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "winter" },
+      { "languageCode": "bn", "text": "শীত" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/winter.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Frühling",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Frühlings",
-    "sentence_de": "Der Frühling ist eine schöne Jahreszeit.",
-    "sentence_en": "Spring is a beautiful season.",
-    "translation_en": "spring",
-    "translation_bn": "বসন্ত",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Frühling ist eine schöne Jahreszeit." },
+      { "languageCode": "en", "text": "Spring is a beautiful season." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "spring" },
+      { "languageCode": "bn", "text": "বসন্ত" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/spring.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Sommer",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Sommers",
-    "sentence_de": "Der Sommer ist heiß.",
-    "sentence_en": "Summer is hot.",
-    "translation_en": "summer",
-    "translation_bn": "গ্রীষ্ম",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Sommer ist heiß." },
+      { "languageCode": "en", "text": "Summer is hot." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "summer" },
+      { "languageCode": "bn", "text": "গ্রীষ্ম" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/summer.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Herbst",
     "article": "der",
     "gender": "masculine",
     "plural": "-",
     "genitive_singular": "des Herbstes",
-    "sentence_de": "Der Herbst ist bunt.",
-    "sentence_en": "Autumn is colorful.",
-    "translation_en": "autumn",
-    "translation_bn": "শরৎ",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Herbst ist bunt." },
+      { "languageCode": "en", "text": "Autumn is colorful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "autumn" },
+      { "languageCode": "bn", "text": "শরৎ" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/autumn.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "gestern",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Gestern war ich im Kino.",
-    "sentence_en": "Yesterday I was at the cinema.",
-    "translation_en": "yesterday",
-    "translation_bn": "গতকাল",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Gestern war ich im Kino." },
+      { "languageCode": "en", "text": "Yesterday I was at the cinema." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "yesterday" },
+      { "languageCode": "bn", "text": "গতকাল" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/yesterday.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "heute",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Heute ist ein schöner Tag.",
-    "sentence_en": "Today is a beautiful day.",
-    "translation_en": "today",
-    "translation_bn": "আজ",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Heute ist ein schöner Tag." },
+      { "languageCode": "en", "text": "Today is a beautiful day." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "today" },
+      { "languageCode": "bn", "text": "আজ" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/today.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "morgen",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Morgen gehe ich einkaufen.",
-    "sentence_en": "Tomorrow I go shopping.",
-    "translation_en": "tomorrow",
-    "translation_bn": "আগামীকাল",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Morgen gehe ich einkaufen." },
+      { "languageCode": "en", "text": "Tomorrow I go shopping." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tomorrow" },
+      { "languageCode": "bn", "text": "আগামীকাল" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/tomorrow.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Tag",
     "article": "der",
     "gender": "masculine",
     "plural": "Tage",
     "genitive_singular": "des Tages",
-    "sentence_de": "Der Tag hat vierundzwanzig Stunden.",
-    "sentence_en": "The day has twenty-four hours.",
-    "translation_en": "day",
-    "translation_bn": "দিন",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Tag hat vierundzwanzig Stunden." },
+      { "languageCode": "en", "text": "The day has twenty-four hours." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "day" },
+      { "languageCode": "bn", "text": "দিন" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/day.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Woche",
     "article": "die",
     "gender": "feminine",
     "plural": "Wochen",
     "genitive_singular": "der Woche",
-    "sentence_de": "Die Woche hat sieben Tage.",
-    "sentence_en": "The week has seven days.",
-    "translation_en": "week",
-    "translation_bn": "সপ্তাহ",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Woche hat sieben Tage." },
+      { "languageCode": "en", "text": "The week has seven days." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "week" },
+      { "languageCode": "bn", "text": "সপ্তাহ" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/week.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Monat",
     "article": "der",
     "gender": "masculine",
     "plural": "Monate",
     "genitive_singular": "des Monats",
-    "sentence_de": "Der Monat Januar ist kalt.",
-    "sentence_en": "The month January is cold.",
-    "translation_en": "month",
-    "translation_bn": "মাস",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Monat Januar ist kalt." },
+      { "languageCode": "en", "text": "The month January is cold." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "month" },
+      { "languageCode": "bn", "text": "মাস" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/month.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Jahr",
     "article": "das",
     "gender": "neuter",
     "plural": "Jahre",
     "genitive_singular": "des Jahres",
-    "sentence_de": "Das Jahr hat zwölf Monate.",
-    "sentence_en": "The year has twelve months.",
-    "translation_en": "year",
-    "translation_bn": "বছর",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Jahr hat zwölf Monate." },
+      { "languageCode": "en", "text": "The year has twelve months." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "year" },
+      { "languageCode": "bn", "text": "বছর" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/year.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Kalender",
     "article": "der",
     "gender": "masculine",
     "plural": "Kalender",
     "genitive_singular": "des Kalenders",
-    "sentence_de": "Ich schaue in den Kalender.",
-    "sentence_en": "I look at the calendar.",
-    "translation_en": "calendar",
-    "translation_bn": "ক্যালেন্ডার",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich schaue in den Kalender." },
+      { "languageCode": "en", "text": "I look at the calendar." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "calendar" },
+      { "languageCode": "bn", "text": "ক্যালেন্ডার" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/calendar.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Zeit",
     "article": "die",
     "gender": "feminine",
     "plural": "Zeiten",
     "genitive_singular": "der Zeit",
-    "sentence_de": "Ich habe keine Zeit.",
-    "sentence_en": "I have no time.",
-    "translation_en": "time",
-    "translation_bn": "সময়",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich habe keine Zeit." },
+      { "languageCode": "en", "text": "I have no time." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "time" },
+      { "languageCode": "bn", "text": "সময়" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/time.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Uhr",
     "article": "die",
     "gender": "feminine",
     "plural": "Uhren",
     "genitive_singular": "der Uhr",
-    "sentence_de": "Wie spät ist die Uhr?",
-    "sentence_en": "What time is it on the clock?",
-    "translation_en": "clock",
-    "translation_bn": "ঘড়ি",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Wie spät ist die Uhr?" },
+      { "languageCode": "en", "text": "What time is it on the clock?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "clock" },
+      { "languageCode": "bn", "text": "ঘড়ি" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/clock.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Stunde",
     "article": "die",
     "gender": "feminine",
     "plural": "Stunden",
     "genitive_singular": "der Stunde",
-    "sentence_de": "Eine Stunde hat sechzig Minuten.",
-    "sentence_en": "One hour has sixty minutes.",
-    "translation_en": "hour",
-    "translation_bn": "ঘণ্টা",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Eine Stunde hat sechzig Minuten." },
+      { "languageCode": "en", "text": "One hour has sixty minutes." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hour" },
+      { "languageCode": "bn", "text": "ঘণ্টা" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/hour.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Minute",
     "article": "die",
     "gender": "feminine",
     "plural": "Minuten",
     "genitive_singular": "der Minute",
-    "sentence_de": "Bitte warte eine Minute.",
-    "sentence_en": "Please wait one minute.",
-    "translation_en": "minute",
-    "translation_bn": "মিনিট",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Bitte warte eine Minute." },
+      { "languageCode": "en", "text": "Please wait one minute." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "minute" },
+      { "languageCode": "bn", "text": "মিনিট" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/minute.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Sekunde",
     "article": "die",
     "gender": "feminine",
     "plural": "Sekunden",
     "genitive_singular": "der Sekunde",
-    "sentence_de": "Das dauert nur eine Sekunde.",
-    "sentence_en": "That only takes one second.",
-    "translation_en": "second",
-    "translation_bn": "সেকেন্ড",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das dauert nur eine Sekunde." },
+      { "languageCode": "en", "text": "That only takes one second." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "second" },
+      { "languageCode": "bn", "text": "সেকেন্ড" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/second.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adjective",
     "word": "pünktlich",
     "comparative": "pünktlicher",
     "superlative": "am pünktlichsten",
     "gradable": true,
-    "sentence_de": "Der Zug ist pünktlich.",
-    "sentence_en": "The train is on time.",
-    "translation_en": "on time",
-    "translation_bn": "সময়মতো",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Zug ist pünktlich." },
+      { "languageCode": "en", "text": "The train is on time." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "on time" },
+      { "languageCode": "bn", "text": "সময়মতো" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/on-time.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Zeitzone",
     "article": "die",
     "gender": "feminine",
     "plural": "Zeitzonen",
     "genitive_singular": "der Zeitzone",
-    "sentence_de": "Deutschland hat eine Zeitzone.",
-    "sentence_en": "Germany has one time zone.",
-    "translation_en": "time zone",
-    "translation_bn": "সময় অঞ্চল",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Deutschland hat eine Zeitzone." },
+      { "languageCode": "en", "text": "Germany has one time zone." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "time zone" },
+      { "languageCode": "bn", "text": "সময় অঞ্চল" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/time-zone.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Viertelstunde",
     "article": "die",
     "gender": "feminine",
     "plural": "Viertelstunden",
     "genitive_singular": "der Viertelstunde",
-    "sentence_de": "Der Weg dauert eine Viertelstunde.",
-    "sentence_en": "The way takes a quarter hour.",
-    "translation_en": "quarter hour",
-    "translation_bn": "পনেরো মিনিট",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Weg dauert eine Viertelstunde." },
+      { "languageCode": "en", "text": "The way takes a quarter hour." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "quarter hour" },
+      { "languageCode": "bn", "text": "পনেরো মিনিট" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/quarter-hour.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "Dreiviertelstunde",
     "article": "die",
     "gender": "feminine",
     "plural": "Dreiviertelstunden",
     "genitive_singular": "der Dreiviertelstunde",
-    "sentence_de": "Wir warten eine Dreiviertelstunde.",
-    "sentence_en": "We wait three quarters of an hour.",
-    "translation_en": "three-quarter hour",
-    "translation_bn": "পঁয়তাল্লিশ মিনিট",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir warten eine Dreiviertelstunde." },
+      { "languageCode": "en", "text": "We wait three quarters of an hour." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "three-quarter hour" },
+      { "languageCode": "bn", "text": "পঁয়তাল্লিশ মিনিট" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/three-quarter-hour.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "halbe Stunde",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich bin in einer halben Stunde da.",
-    "sentence_en": "I will be there in half an hour.",
-    "translation_en": "half hour",
-    "translation_bn": "আধা ঘণ্টা",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin in einer halben Stunde da." },
+      { "languageCode": "en", "text": "I will be there in half an hour." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "half hour" },
+      { "languageCode": "bn", "text": "আধা ঘণ্টা" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/half-hour.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "Viertel vor",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Es ist Viertel vor drei.",
-    "sentence_en": "It is a quarter to three.",
-    "translation_en": "quarter to",
-    "translation_bn": "পৌনে",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Es ist Viertel vor drei." },
+      { "languageCode": "en", "text": "It is a quarter to three." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "quarter to" },
+      { "languageCode": "bn", "text": "পৌনে" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/quarter-to.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "Viertel nach",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Es ist Viertel nach zwei.",
-    "sentence_en": "It is a quarter past two.",
-    "translation_en": "quarter past",
-    "translation_bn": "সোয়া (ঘণ্টা)",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Es ist Viertel nach zwei." },
+      { "languageCode": "en", "text": "It is a quarter past two." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "quarter past" },
+      { "languageCode": "bn", "text": "সোয়া (ঘণ্টা)" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/quarter-past.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "halb",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Es ist halb acht.",
-    "sentence_en": "It is half past seven.",
-    "translation_en": "half past",
-    "translation_bn": "সাড়ে",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Es ist halb acht." },
+      { "languageCode": "en", "text": "It is half past seven." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "half past" },
+      { "languageCode": "bn", "text": "সাড়ে" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/half-past.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "fünf vor",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Es ist fünf vor zwölf.",
-    "sentence_en": "It is five to twelve.",
-    "translation_en": "five to",
-    "translation_bn": "পাঁচ মিনিট বাকি",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Es ist fünf vor zwölf." },
+      { "languageCode": "en", "text": "It is five to twelve." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "five to" },
+      { "languageCode": "bn", "text": "পাঁচ মিনিট বাকি" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/five-to.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "fünf nach",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Es ist fünf nach eins.",
-    "sentence_en": "It is five past one.",
-    "translation_en": "five past",
-    "translation_bn": "পাঁচ মিনিট পেরিয়ে",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Es ist fünf nach eins." },
+      { "languageCode": "en", "text": "It is five past one." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "five past" },
+      { "languageCode": "bn", "text": "পাঁচ মিনিট পেরিয়ে" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/five-past.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "offizielle Zeit",
     "article": "die",
     "gender": "feminine",
     "plural": "offizielle Zeiten",
     "genitive_singular": "der offiziellen Zeit",
-    "sentence_de": "Die offizielle Zeit ist vierzehn Uhr fünfzehn.",
-    "sentence_en": "The official time is fourteen fifteen.",
-    "translation_en": "official time",
-    "translation_bn": "অফিসিয়াল সময়",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die offizielle Zeit ist vierzehn Uhr fünfzehn." },
+      { "languageCode": "en", "text": "The official time is fourteen fifteen." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "official time" },
+      { "languageCode": "bn", "text": "অফিসিয়াল সময়" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/official-hour.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "noun",
     "word": "inoffizielle Zeit",
     "article": "die",
     "gender": "feminine",
     "plural": "inoffizielle Zeiten",
     "genitive_singular": "der inoffiziellen Zeit",
-    "sentence_de": "Die inoffizielle Zeit ist Viertel nach zwei.",
-    "sentence_en": "The unofficial time is a quarter past two.",
-    "translation_en": "unofficial time",
-    "translation_bn": "অনানুষ্ঠানিক সময়",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die inoffizielle Zeit ist Viertel nach zwei." },
+      { "languageCode": "en", "text": "The unofficial time is a quarter past two." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "unofficial time" },
+      { "languageCode": "bn", "text": "অনানুষ্ঠানিক সময়" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/unofficial-hour.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adjective",
     "word": "früh",
     "comparative": "früher",
     "superlative": "am frühesten",
     "gradable": true,
-    "sentence_de": "Ich stehe früh auf.",
-    "sentence_en": "I get up early.",
-    "translation_en": "early",
-    "translation_bn": "তাড়াতাড়ি",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich stehe früh auf." },
+      { "languageCode": "en", "text": "I get up early." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "early" },
+      { "languageCode": "bn", "text": "তাড়াতাড়ি" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/early.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "bald",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Bald kommt der Winter.",
-    "sentence_en": "Winter is coming soon.",
-    "translation_en": "soon",
-    "translation_bn": "শীঘ্রই",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Bald kommt der Winter." },
+      { "languageCode": "en", "text": "Winter is coming soon." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "soon" },
+      { "languageCode": "bn", "text": "শীঘ্রই" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/soon.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "sofort",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich komme sofort.",
-    "sentence_en": "I come immediately.",
-    "translation_en": "immediately",
-    "translation_bn": "তৎক্ষণাৎ",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich komme sofort." },
+      { "languageCode": "en", "text": "I come immediately." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "immediately" },
+      { "languageCode": "bn", "text": "তৎক্ষণাৎ" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/immediately.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "zuerst",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Zuerst mache ich die Hausaufgaben.",
-    "sentence_en": "First I do my homework.",
-    "translation_en": "first",
-    "translation_bn": "প্রথমে",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Zuerst mache ich die Hausaufgaben." },
+      { "languageCode": "en", "text": "First I do my homework." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "first" },
+      { "languageCode": "bn", "text": "প্রথমে" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/first.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "dann",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Zuerst esse ich, dann trinke ich einen Kaffee.",
-    "sentence_en": "First I eat, then I drink a coffee.",
-    "translation_en": "then",
-    "translation_bn": "তারপর",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Zuerst esse ich, dann trinke ich einen Kaffee." },
+      { "languageCode": "en", "text": "First I eat, then I drink a coffee." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "then" },
+      { "languageCode": "bn", "text": "তারপর" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/then.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "zuletzt",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Zuletzt gehe ich.",
-    "sentence_en": "Lastly I go.",
-    "translation_en": "lastly",
-    "translation_bn": "শেষে",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Zuletzt gehe ich." },
+      { "languageCode": "en", "text": "Lastly I go." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lastly" },
+      { "languageCode": "bn", "text": "শেষে" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/lastly.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "immer",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich spiele am Nachmittag immer Fußball.",
-    "sentence_en": "I always play football in the afternoon.",
-    "translation_en": "always",
-    "translation_bn": "সর্বদা",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich spiele am Nachmittag immer Fußball." },
+      { "languageCode": "en", "text": "I always play football in the afternoon." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "always" },
+      { "languageCode": "bn", "text": "সর্বদা" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/always.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "oft",
     "comparative": "öfter",
     "superlative": "am öftesten",
     "gradable": true,
-    "sentence_de": "Ich gehe oft ins Kino.",
-    "sentence_en": "I often go to the cinema.",
-    "translation_en": "often",
-    "translation_bn": "প্রায়ই",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gehe oft ins Kino." },
+      { "languageCode": "en", "text": "I often go to the cinema." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "often" },
+      { "languageCode": "bn", "text": "প্রায়ই" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/often.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "manchmal",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Manchmal esse ich Pizza.",
-    "sentence_en": "Sometimes I eat pizza.",
-    "translation_en": "sometimes",
-    "translation_bn": "কখনো কখনো",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Manchmal esse ich Pizza." },
+      { "languageCode": "en", "text": "Sometimes I eat pizza." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sometimes" },
+      { "languageCode": "bn", "text": "কখনো কখনো" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/sometimes.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "nie",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich trinke nie Alkohol.",
-    "sentence_en": "I never drink alcohol.",
-    "translation_en": "never",
-    "translation_bn": "কখনো না",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich trinke nie Alkohol." },
+      { "languageCode": "en", "text": "I never drink alcohol." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "never" },
+      { "languageCode": "bn", "text": "কখনো না" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/never.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "regelmäßig",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich gehe regelmäßig zum Sport.",
-    "sentence_en": "I go to sports regularly.",
-    "translation_en": "regularly",
-    "translation_bn": "নিয়মিত",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gehe regelmäßig zum Sport." },
+      { "languageCode": "en", "text": "I go to sports regularly." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "regularly" },
+      { "languageCode": "bn", "text": "নিয়মিত" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/regularly.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "unregelmäßig",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Der Zug kommt unregelmäßig.",
-    "sentence_en": "The train comes irregularly.",
-    "translation_en": "irregularly",
-    "translation_bn": "অনিয়মিত",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Zug kommt unregelmäßig." },
+      { "languageCode": "en", "text": "The train comes irregularly." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "irregularly" },
+      { "languageCode": "bn", "text": "অনিয়মিত" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/irregularly.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "einmal",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich war einmal in Berlin.",
-    "sentence_en": "I was once in Berlin.",
-    "translation_en": "once",
-    "translation_bn": "একবার",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich war einmal in Berlin." },
+      { "languageCode": "en", "text": "I was once in Berlin." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "once" },
+      { "languageCode": "bn", "text": "একবার" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/once.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "zweimal",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich esse zweimal am Tag.",
-    "sentence_en": "I eat twice a day.",
-    "translation_en": "twice",
-    "translation_bn": "দুইবার",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich esse zweimal am Tag." },
+      { "languageCode": "en", "text": "I eat twice a day." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "twice" },
+      { "languageCode": "bn", "text": "দুইবার" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/twice.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "dreimal",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich putze dreimal am Tag Zähne.",
-    "sentence_en": "I brush my teeth thrice a day.",
-    "translation_en": "thrice",
-    "translation_bn": "তিনবার",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich putze dreimal am Tag Zähne." },
+      { "languageCode": "en", "text": "I brush my teeth thrice a day." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "thrice" },
+      { "languageCode": "bn", "text": "তিনবার" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/thrice.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "doppelt",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich habe doppelt so viele Bücher.",
-    "sentence_en": "I have twice as many books.",
-    "translation_en": "double",
-    "translation_bn": "দ্বিগুণ",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich habe doppelt so viele Bücher." },
+      { "languageCode": "en", "text": "I have twice as many books." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "double" },
+      { "languageCode": "bn", "text": "দ্বিগুণ" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/double.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "schnell",
     "comparative": "schneller",
     "superlative": "am schnellsten",
     "gradable": true,
-    "sentence_de": "Er läuft schnell.",
-    "sentence_en": "He runs fast.",
-    "translation_en": "fast",
-    "translation_bn": "দ্রুত",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Er läuft schnell." },
+      { "languageCode": "en", "text": "He runs fast." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fast" },
+      { "languageCode": "bn", "text": "দ্রুত" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/fast.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "langsam",
     "comparative": "langsamer",
     "superlative": "am langsamsten",
     "gradable": true,
-    "sentence_de": "Ich gehe langsam.",
-    "sentence_en": "I walk slowly.",
-    "translation_en": "slowly",
-    "translation_bn": "ধীরে",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gehe langsam." },
+      { "languageCode": "en", "text": "I walk slowly." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "slowly" },
+      { "languageCode": "bn", "text": "ধীরে" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/slowly.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "lange",
     "comparative": "länger",
     "superlative": "am längsten",
     "gradable": true,
-    "sentence_de": "Ich warte lange auf den Bus.",
-    "sentence_en": "I wait long for the bus.",
-    "translation_en": "long",
-    "translation_bn": "দীর্ঘ",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich warte lange auf den Bus." },
+      { "languageCode": "en", "text": "I wait long for the bus." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "long" },
+      { "languageCode": "bn", "text": "দীর্ঘ" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/long.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adjective",
     "word": "kurz",
     "comparative": "kürzer",
     "superlative": "am kürzesten",
     "gradable": true,
-    "sentence_de": "Das war eine kurze Reise.",
-    "sentence_en": "That was a short trip.",
-    "translation_en": "short",
-    "translation_bn": "সংক্ষিপ্ত",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das war eine kurze Reise." },
+      { "languageCode": "en", "text": "That was a short trip." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "short" },
+      { "languageCode": "bn", "text": "সংক্ষিপ্ত" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/short.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "wie lange",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Wie lange dauert der Film?",
-    "sentence_en": "How long does the movie last?",
-    "translation_en": "how long",
-    "translation_bn": "কত সময়",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Wie lange dauert der Film?" },
+      { "languageCode": "en", "text": "How long does the movie last?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "how long" },
+      { "languageCode": "bn", "text": "কত সময়" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/how-long.png"
   },
   {
+    "level": "a1",
+    "topic": "time-and-dates",
     "part_of_speech": "adverb",
     "word": "bis",
     "comparative": null,
     "superlative": null,
     "gradable": false,
-    "sentence_de": "Ich warte, bis der Bus kommt.",
-    "sentence_en": "I wait until the bus arrives.",
-    "translation_en": "until",
-    "translation_bn": "পর্যন্ত",
-    "topic": "time-and-dates",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich warte, bis der Bus kommt." },
+      { "languageCode": "en", "text": "I wait until the bus arrives." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "until" },
+      { "languageCode": "bn", "text": "পর্যন্ত" }
+    ],
     "image": "data/vocabulary/images/time-and-dates/until.png"
   }
 ]

@@ -1,33 +1,43 @@
 [
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Bäckerei",
     "article": "die",
     "gender": "feminine",
     "plural": "Bäckereien",
     "genitive_singular": "der Bäckerei",
-    "sentence_de": "Die Bäckerei ist um die Ecke.",
-    "sentence_en": "The bakery is around the corner.",
-    "translation_en": "bakery",
-    "translation_bn": "বেকারি",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Bäckerei ist um die Ecke." },
+      { "languageCode": "en", "text": "The bakery is around the corner." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bakery" },
+      { "languageCode": "bn", "text": "বেকারি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Becher",
     "article": "der",
     "gender": "masculine",
     "plural": "Becher",
     "genitive_singular": "des Bechers",
-    "sentence_de": "Ich trinke aus einem Becher.",
-    "sentence_en": "I drink from a cup.",
-    "translation_en": "cup",
-    "translation_bn": "কাপ",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich trinke aus einem Becher." },
+      { "languageCode": "en", "text": "I drink from a cup." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cup" },
+      { "languageCode": "bn", "text": "কাপ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "verb",
     "word": "bezahlen",
     "infinitive": "bezahlen",
@@ -37,208 +47,268 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Sie bezahlt mit Karte.",
-    "sentence_en": "She pays with a card.",
-    "translation_en": "to pay",
-    "translation_bn": "টাকা দেওয়া",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Sie bezahlt mit Karte." },
+      { "languageCode": "en", "text": "She pays with a card." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to pay" },
+      { "languageCode": "bn", "text": "টাকা দেওয়া" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "adjective",
     "word": "billig",
     "comparative": "billiger",
     "superlative": "am billigsten",
     "gradable": true,
-    "sentence_de": "Das Brot ist billig.",
-    "sentence_en": "The bread is cheap.",
-    "translation_en": "cheap",
-    "translation_bn": "সস্তা",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Brot ist billig." },
+      { "languageCode": "en", "text": "The bread is cheap." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cheap" },
+      { "languageCode": "bn", "text": "সস্তা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Bleistift",
     "article": "der",
     "gender": "masculine",
     "plural": "Bleistifte",
     "genitive_singular": "des Bleistifts",
-    "sentence_de": "Der Bleistift ist spitz.",
-    "sentence_en": "The pencil is sharp.",
-    "translation_en": "pencil",
-    "translation_bn": "পেন্সিল",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Bleistift ist spitz." },
+      { "languageCode": "en", "text": "The pencil is sharp." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "pencil" },
+      { "languageCode": "bn", "text": "পেন্সিল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Buchladen",
     "article": "der",
     "gender": "masculine",
     "plural": "Buchläden",
     "genitive_singular": "des Buchladens",
-    "sentence_de": "Der Buchladen ist sehr groß.",
-    "sentence_en": "The bookstore is very big.",
-    "translation_en": "bookstore",
-    "translation_bn": "বই দোকান",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Buchladen ist sehr groß." },
+      { "languageCode": "en", "text": "The bookstore is very big." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bookstore" },
+      { "languageCode": "bn", "text": "বই দোকান" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Cent",
     "article": "der",
     "gender": "masculine",
     "plural": "Cents",
     "genitive_singular": "des Cents",
-    "sentence_de": "Das kostet fünfzig Cent.",
-    "sentence_en": "That costs fifty cents.",
-    "translation_en": "cent",
-    "translation_bn": "সেন্ট",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das kostet fünfzig Cent." },
+      { "languageCode": "en", "text": "That costs fifty cents." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cent" },
+      { "languageCode": "bn", "text": "সেন্ট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Dose",
     "article": "die",
     "gender": "feminine",
     "plural": "Dosen",
     "genitive_singular": "der Dose",
-    "sentence_de": "Die Dose ist leer.",
-    "sentence_en": "The can is empty.",
-    "translation_en": "can",
-    "translation_bn": "ক্যান",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Dose ist leer." },
+      { "languageCode": "en", "text": "The can is empty." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "can" },
+      { "languageCode": "bn", "text": "ক্যান" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Einkauf",
     "article": "der",
     "gender": "masculine",
     "plural": "Einkäufe",
     "genitive_singular": "des Einkaufs",
-    "sentence_de": "Ich mache einen Einkauf.",
-    "sentence_en": "I am doing some shopping.",
-    "translation_en": "shopping",
-    "translation_bn": "কেনাকাটা",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich mache einen Einkauf." },
+      { "languageCode": "en", "text": "I am doing some shopping." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "shopping" },
+      { "languageCode": "bn", "text": "কেনাকাটা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Euro",
     "article": "der",
     "gender": "masculine",
     "plural": "Euro",
     "genitive_singular": "des Euros",
-    "sentence_de": "Das kostet zehn Euro.",
-    "sentence_en": "That costs ten euros.",
-    "translation_en": "euro",
-    "translation_bn": "ইউরো",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das kostet zehn Euro." },
+      { "languageCode": "en", "text": "That costs ten euros." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "euro" },
+      { "languageCode": "bn", "text": "ইউরো" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Flagship-Store",
     "article": "der",
     "gender": "masculine",
     "plural": "Flagship-Stores",
     "genitive_singular": "des Flagship-Stores",
-    "sentence_de": "Der Flagship-Store ist sehr groß.",
-    "sentence_en": "The flagship store is very big.",
-    "translation_en": "flagship store",
-    "translation_bn": "প্রধান দোকান",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Flagship-Store ist sehr groß." },
+      { "languageCode": "en", "text": "The flagship store is very big." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "flagship store" },
+      { "languageCode": "bn", "text": "প্রধান দোকান" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Flasche",
     "article": "die",
     "gender": "feminine",
     "plural": "Flaschen",
     "genitive_singular": "der Flasche",
-    "sentence_de": "Die Flasche ist voll.",
-    "sentence_en": "The bottle is full.",
-    "translation_en": "bottle",
-    "translation_bn": "বোতল",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Flasche ist voll." },
+      { "languageCode": "en", "text": "The bottle is full." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bottle" },
+      { "languageCode": "bn", "text": "বোতল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Franken",
     "article": "der",
     "gender": "masculine",
     "plural": "Franken",
     "genitive_singular": "des Frankens",
-    "sentence_de": "Das kostet zehn Franken.",
-    "sentence_en": "That costs ten francs.",
-    "translation_en": "franc",
-    "translation_bn": "ফ্রাঙ্ক",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das kostet zehn Franken." },
+      { "languageCode": "en", "text": "That costs ten francs." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "franc" },
+      { "languageCode": "bn", "text": "ফ্রাঙ্ক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Geld",
     "article": "das",
     "gender": "neuter",
     "plural": "Gelder",
     "genitive_singular": "des Geldes",
-    "sentence_de": "Ich habe kein Geld.",
-    "sentence_en": "I have no money.",
-    "translation_en": "money",
-    "translation_bn": "টাকা",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich habe kein Geld." },
+      { "languageCode": "en", "text": "I have no money." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "money" },
+      { "languageCode": "bn", "text": "টাকা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "adjective",
     "word": "günstig",
     "comparative": "günstiger",
     "superlative": "am günstigsten",
     "gradable": true,
-    "sentence_de": "Der Preis ist günstig.",
-    "sentence_en": "The price is affordable.",
-    "translation_en": "affordable",
-    "translation_bn": "সাশ্রয়ী",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Preis ist günstig." },
+      { "languageCode": "en", "text": "The price is affordable." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "affordable" },
+      { "languageCode": "bn", "text": "সাশ্রয়ী" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Haushalt",
     "article": "der",
     "gender": "masculine",
     "plural": "Haushalte",
     "genitive_singular": "des Haushalts",
-    "sentence_de": "Der Haushalt braucht neue Möbel.",
-    "sentence_en": "The household needs new furniture.",
-    "translation_en": "household",
-    "translation_bn": "পরিবার",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Haushalt braucht neue Möbel." },
+      { "languageCode": "en", "text": "The household needs new furniture." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "household" },
+      { "languageCode": "bn", "text": "পরিবার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Kasse",
     "article": "die",
     "gender": "feminine",
     "plural": "Kassen",
     "genitive_singular": "der Kasse",
-    "sentence_de": "Ich gehe zur Kasse.",
-    "sentence_en": "I go to the cash register.",
-    "translation_en": "cash register",
-    "translation_bn": "ক্যাশ রেজিস্টার",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gehe zur Kasse." },
+      { "languageCode": "en", "text": "I go to the cash register." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cash register" },
+      { "languageCode": "bn", "text": "ক্যাশ রেজিস্টার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "verb",
     "word": "kaufen",
     "infinitive": "kaufen",
@@ -248,56 +318,72 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Ich kaufe ein Buch.",
-    "sentence_en": "I am buying a book.",
-    "translation_en": "to buy",
-    "translation_bn": "কিনা",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich kaufe ein Buch." },
+      { "languageCode": "en", "text": "I am buying a book." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to buy" },
+      { "languageCode": "bn", "text": "কিনা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Kilo",
     "article": "das",
     "gender": "neuter",
     "plural": "Kilos",
     "genitive_singular": "des Kilos",
-    "sentence_de": "Ein Kilo Äpfel, bitte.",
-    "sentence_en": "One kilo of apples, please.",
-    "translation_en": "kilo",
-    "translation_bn": "কিলো",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ein Kilo Äpfel, bitte." },
+      { "languageCode": "en", "text": "One kilo of apples, please." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "kilo" },
+      { "languageCode": "bn", "text": "কিলো" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Kilogramm",
     "article": "das",
     "gender": "neuter",
     "plural": "Kilogramm",
     "genitive_singular": "des Kilogramms",
-    "sentence_de": "Das wiegt zwei Kilogramm.",
-    "sentence_en": "That weighs two kilograms.",
-    "translation_en": "kilogram",
-    "translation_bn": "কিলোগ্রাম",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das wiegt zwei Kilogramm." },
+      { "languageCode": "en", "text": "That weighs two kilograms." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "kilogram" },
+      { "languageCode": "bn", "text": "কিলোগ্রাম" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Kosmetik",
     "article": "die",
     "gender": "feminine",
     "plural": "Kosmetika",
     "genitive_singular": "der Kosmetik",
-    "sentence_de": "Sie kauft Kosmetik.",
-    "sentence_en": "She buys cosmetics.",
-    "translation_en": "cosmetics",
-    "translation_bn": "প্রসাধনী",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Sie kauft Kosmetik." },
+      { "languageCode": "en", "text": "She buys cosmetics." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cosmetics" },
+      { "languageCode": "bn", "text": "প্রসাধনী" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "verb",
     "word": "kosten",
     "infinitive": "kosten",
@@ -307,419 +393,539 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Das Auto kostet viel Geld.",
-    "sentence_en": "The car costs a lot of money.",
-    "translation_en": "to cost",
-    "translation_bn": "দাম হওয়া",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Auto kostet viel Geld." },
+      { "languageCode": "en", "text": "The car costs a lot of money." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to cost" },
+      { "languageCode": "bn", "text": "দাম হওয়া" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Kosten",
     "article": "die",
     "gender": "feminine",
     "plural": "Kosten",
     "genitive_singular": "der Kosten",
-    "sentence_de": "Die Kosten sind zu hoch.",
-    "sentence_en": "The costs are too high.",
-    "translation_en": "costs",
-    "translation_bn": "খরচ",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kosten sind zu hoch." },
+      { "languageCode": "en", "text": "The costs are too high." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "costs" },
+      { "languageCode": "bn", "text": "খরচ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Kugelschreiber",
     "article": "der",
     "gender": "masculine",
     "plural": "Kugelschreiber",
     "genitive_singular": "des Kugelschreibers",
-    "sentence_de": "Ich schreibe mit einem Kugelschreiber.",
-    "sentence_en": "I write with a ballpoint pen.",
-    "translation_en": "ballpoint pen",
-    "translation_bn": "বলপয়েন্ট কলম",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich schreibe mit einem Kugelschreiber." },
+      { "languageCode": "en", "text": "I write with a ballpoint pen." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ballpoint pen" },
+      { "languageCode": "bn", "text": "বলপয়েন্ট কলম" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Label",
     "article": "das",
     "gender": "neuter",
     "plural": "Labels",
     "genitive_singular": "des Labels",
-    "sentence_de": "Das Label ist auf der Flasche.",
-    "sentence_en": "The label is on the bottle.",
-    "translation_en": "label",
-    "translation_bn": "লেবেল",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Label ist auf der Flasche." },
+      { "languageCode": "en", "text": "The label is on the bottle." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "label" },
+      { "languageCode": "bn", "text": "লেবেল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Liter",
     "article": "der",
     "gender": "masculine",
     "plural": "Liter",
     "genitive_singular": "des Liters",
-    "sentence_de": "Ich brauche einen Liter Milch.",
-    "sentence_en": "I need a liter of milk.",
-    "translation_en": "liter",
-    "translation_bn": "লিটার",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich brauche einen Liter Milch." },
+      { "languageCode": "en", "text": "I need a liter of milk." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "liter" },
+      { "languageCode": "bn", "text": "লিটার" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Maß",
     "article": "das",
     "gender": "neuter",
     "plural": "Maße",
     "genitive_singular": "des Maßes",
-    "sentence_de": "Das richtige Maß ist wichtig.",
-    "sentence_en": "The right measurement is important.",
-    "translation_en": "measurement",
-    "translation_bn": "পরিমাপ",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das richtige Maß ist wichtig." },
+      { "languageCode": "en", "text": "The right measurement is important." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "measurement" },
+      { "languageCode": "bn", "text": "পরিমাপ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Metzgerei",
     "article": "die",
     "gender": "feminine",
     "plural": "Metzgereien",
     "genitive_singular": "der Metzgerei",
-    "sentence_de": "Ich kaufe Fleisch in der Metzgerei.",
-    "sentence_en": "I buy meat at the butcher shop.",
-    "translation_en": "butcher shop",
-    "translation_bn": "কসাইখানা",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich kaufe Fleisch in der Metzgerei." },
+      { "languageCode": "en", "text": "I buy meat at the butcher shop." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "butcher shop" },
+      { "languageCode": "bn", "text": "কসাইখানা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Mode",
     "article": "die",
     "gender": "feminine",
     "plural": "Moden",
     "genitive_singular": "der Mode",
-    "sentence_de": "Die Mode ändert sich schnell.",
-    "sentence_en": "Fashion changes quickly.",
-    "translation_en": "fashion",
-    "translation_bn": "ফ্যাশন",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Mode ändert sich schnell." },
+      { "languageCode": "en", "text": "Fashion changes quickly." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "fashion" },
+      { "languageCode": "bn", "text": "ফ্যাশন" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Modell",
     "article": "das",
     "gender": "neuter",
     "plural": "Modelle",
     "genitive_singular": "des Modells",
-    "sentence_de": "Das Modell ist sehr schön.",
-    "sentence_en": "The model is very beautiful.",
-    "translation_en": "model",
-    "translation_bn": "মডেল",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Modell ist sehr schön." },
+      { "languageCode": "en", "text": "The model is very beautiful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "model" },
+      { "languageCode": "bn", "text": "মডেল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Packung",
     "article": "die",
     "gender": "feminine",
     "plural": "Packungen",
     "genitive_singular": "der Packung",
-    "sentence_de": "Ich kaufe eine Packung Nudeln.",
-    "sentence_en": "I buy a package of pasta.",
-    "translation_en": "package",
-    "translation_bn": "প্যাকেট",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich kaufe eine Packung Nudeln." },
+      { "languageCode": "en", "text": "I buy a package of pasta." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "package" },
+      { "languageCode": "bn", "text": "প্যাকেট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Papier",
     "article": "das",
     "gender": "neuter",
     "plural": "Papiere",
     "genitive_singular": "des Papiers",
-    "sentence_de": "Das Papier ist weiß.",
-    "sentence_en": "The paper is white.",
-    "translation_en": "paper",
-    "translation_bn": "কাগজ",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Papier ist weiß." },
+      { "languageCode": "en", "text": "The paper is white." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "paper" },
+      { "languageCode": "bn", "text": "কাগজ" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Parfüm",
     "article": "das",
     "gender": "neuter",
     "plural": "Parfüms",
     "genitive_singular": "des Parfüms",
-    "sentence_de": "Das Parfüm riecht gut.",
-    "sentence_en": "The perfume smells good.",
-    "translation_en": "perfume",
-    "translation_bn": "পারফিউম",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Parfüm riecht gut." },
+      { "languageCode": "en", "text": "The perfume smells good." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "perfume" },
+      { "languageCode": "bn", "text": "পারফিউম" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Parfümerie",
     "article": "die",
     "gender": "feminine",
     "plural": "Parfümerien",
     "genitive_singular": "der Parfümerie",
-    "sentence_de": "Die Parfümerie ist im ersten Stock.",
-    "sentence_en": "The perfume shop is on the first floor.",
-    "translation_en": "perfume shop",
-    "translation_bn": "পারফিউম দোকান",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Parfümerie ist im ersten Stock." },
+      { "languageCode": "en", "text": "The perfume shop is on the first floor." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "perfume shop" },
+      { "languageCode": "bn", "text": "পারফিউম দোকান" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Produkt",
     "article": "das",
     "gender": "neuter",
     "plural": "Produkte",
     "genitive_singular": "des Produkts",
-    "sentence_de": "Das Produkt ist neu.",
-    "sentence_en": "The product is new.",
-    "translation_en": "product",
-    "translation_bn": "পণ্য",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Produkt ist neu." },
+      { "languageCode": "en", "text": "The product is new." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "product" },
+      { "languageCode": "bn", "text": "পণ্য" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Rechnung",
     "article": "die",
     "gender": "feminine",
     "plural": "Rechnungen",
     "genitive_singular": "der Rechnung",
-    "sentence_de": "Die Rechnung ist sehr hoch.",
-    "sentence_en": "The bill is very high.",
-    "translation_en": "bill",
-    "translation_bn": "বিল",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Rechnung ist sehr hoch." },
+      { "languageCode": "en", "text": "The bill is very high." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bill" },
+      { "languageCode": "bn", "text": "বিল" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Saison",
     "article": "die",
     "gender": "feminine",
     "plural": "Saisons",
     "genitive_singular": "der Saison",
-    "sentence_de": "Die Saison ist fast vorbei.",
-    "sentence_en": "The season is almost over.",
-    "translation_en": "season",
-    "translation_bn": "মৌসুম",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Saison ist fast vorbei." },
+      { "languageCode": "en", "text": "The season is almost over." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "season" },
+      { "languageCode": "bn", "text": "মৌসুম" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Schmuck",
     "article": "der",
     "gender": "masculine",
     "plural": "Schmucksachen",
     "genitive_singular": "des Schmucks",
-    "sentence_de": "Sie trägt schönen Schmuck.",
-    "sentence_en": "She wears beautiful jewelry.",
-    "translation_en": "jewelry",
-    "translation_bn": "গহনা",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Sie trägt schönen Schmuck." },
+      { "languageCode": "en", "text": "She wears beautiful jewelry." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "jewelry" },
+      { "languageCode": "bn", "text": "গহনা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Schreibwaren",
     "article": "die",
     "gender": "feminine",
     "plural": "Schreibwaren",
     "genitive_singular": "der Schreibwaren",
-    "sentence_de": "Ich kaufe Schreibwaren für die Schule.",
-    "sentence_en": "I buy stationery for school.",
-    "translation_en": "stationery",
-    "translation_bn": "স্টেশনারি",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich kaufe Schreibwaren für die Schule." },
+      { "languageCode": "en", "text": "I buy stationery for school." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "stationery" },
+      { "languageCode": "bn", "text": "স্টেশনারি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Schuhladen",
     "article": "der",
     "gender": "masculine",
     "plural": "Schuhläden",
     "genitive_singular": "des Schuhladens",
-    "sentence_de": "Der Schuhladen hat viele Schuhe.",
-    "sentence_en": "The shoe store has many shoes.",
-    "translation_en": "shoe store",
-    "translation_bn": "জুতার দোকান",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Schuhladen hat viele Schuhe." },
+      { "languageCode": "en", "text": "The shoe store has many shoes." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "shoe store" },
+      { "languageCode": "bn", "text": "জুতার দোকান" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Shop",
     "article": "der",
     "gender": "masculine",
     "plural": "Shops",
     "genitive_singular": "des Shops",
-    "sentence_de": "Der Shop ist heute geschlossen.",
-    "sentence_en": "The shop is closed today.",
-    "translation_en": "shop",
-    "translation_bn": "দোকান",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Shop ist heute geschlossen." },
+      { "languageCode": "en", "text": "The shop is closed today." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "shop" },
+      { "languageCode": "bn", "text": "দোকান" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Souvenir",
     "article": "das",
     "gender": "neuter",
     "plural": "Souvenirs",
     "genitive_singular": "des Souvenirs",
-    "sentence_de": "Das Souvenir ist für meine Mutter.",
-    "sentence_en": "The souvenir is for my mother.",
-    "translation_en": "souvenir",
-    "translation_bn": "স্মৃতিচিহ্ন",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Souvenir ist für meine Mutter." },
+      { "languageCode": "en", "text": "The souvenir is for my mother." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "souvenir" },
+      { "languageCode": "bn", "text": "স্মৃতিচিহ্ন" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Spielwaren",
     "article": "die",
     "gender": "feminine",
     "plural": "Spielwaren",
     "genitive_singular": "der Spielwaren",
-    "sentence_de": "Kinder lieben Spielwaren.",
-    "sentence_en": "Children love toys.",
-    "translation_en": "toys",
-    "translation_bn": "খেলনা",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Kinder lieben Spielwaren." },
+      { "languageCode": "en", "text": "Children love toys." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "toys" },
+      { "languageCode": "bn", "text": "খেলনা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Sportkleidung",
     "article": "die",
     "gender": "feminine",
     "plural": "Sportkleidungen",
     "genitive_singular": "der Sportkleidung",
-    "sentence_de": "Ich trage Sportkleidung im Fitness-Studio.",
-    "sentence_en": "I wear sportswear at the gym.",
-    "translation_en": "sportswear",
-    "translation_bn": "ক্রীড়া পোশাক",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich trage Sportkleidung im Fitness-Studio." },
+      { "languageCode": "en", "text": "I wear sportswear at the gym." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sportswear" },
+      { "languageCode": "bn", "text": "ক্রীড়া পোশাক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Supermarkt",
     "article": "der",
     "gender": "masculine",
     "plural": "Supermärkte",
     "genitive_singular": "des Supermarkts",
-    "sentence_de": "Der Supermarkt ist heute geöffnet.",
-    "sentence_en": "The supermarket is open today.",
-    "translation_en": "supermarket",
-    "translation_bn": "সুপারমার্কেট",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Supermarkt ist heute geöffnet." },
+      { "languageCode": "en", "text": "The supermarket is open today." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "supermarket" },
+      { "languageCode": "bn", "text": "সুপারমার্কেট" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Technik",
     "article": "die",
     "gender": "feminine",
     "plural": "Techniken",
     "genitive_singular": "der Technik",
-    "sentence_de": "Die neue Technik ist interessant.",
-    "sentence_en": "The new technology is interesting.",
-    "translation_en": "technology",
-    "translation_bn": "প্রযুক্তি",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die neue Technik ist interessant." },
+      { "languageCode": "en", "text": "The new technology is interesting." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "technology" },
+      { "languageCode": "bn", "text": "প্রযুক্তি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "adjective",
     "word": "teuer",
     "comparative": "teurer",
     "superlative": "am teuersten",
     "gradable": true,
-    "sentence_de": "Das Kleid ist teuer.",
-    "sentence_en": "The dress is expensive.",
-    "translation_en": "expensive",
-    "translation_bn": "দামি",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kleid ist teuer." },
+      { "languageCode": "en", "text": "The dress is expensive." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "expensive" },
+      { "languageCode": "bn", "text": "দামি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Uhr",
     "article": "die",
     "gender": "feminine",
     "plural": "Uhren",
     "genitive_singular": "der Uhr",
-    "sentence_de": "Die Uhr zeigt drei Uhr.",
-    "sentence_en": "The clock shows three o'clock.",
-    "translation_en": "clock/watch",
-    "translation_bn": "ঘড়ি",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Uhr zeigt drei Uhr." },
+      { "languageCode": "en", "text": "The clock shows three o'clock." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "clock/watch" },
+      { "languageCode": "bn", "text": "ঘড়ি" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Untergeschoss",
     "article": "das",
     "gender": "neuter",
     "plural": "Untergeschosse",
     "genitive_singular": "des Untergeschosses",
-    "sentence_de": "Der Laden ist im Untergeschoss.",
-    "sentence_en": "The store is in the basement.",
-    "translation_en": "basement",
-    "translation_bn": "নিচের তলা",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der Laden ist im Untergeschoss." },
+      { "languageCode": "en", "text": "The store is in the basement." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "basement" },
+      { "languageCode": "bn", "text": "নিচের তলা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "USB-Stick",
     "article": "der",
     "gender": "masculine",
     "plural": "USB-Sticks",
     "genitive_singular": "des USB-Sticks",
-    "sentence_de": "Der USB-Stick ist sehr klein.",
-    "sentence_en": "The USB stick is very small.",
-    "translation_en": "USB stick",
-    "translation_bn": "ইউএসবি স্টিক",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Der USB-Stick ist sehr klein." },
+      { "languageCode": "en", "text": "The USB stick is very small." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "USB stick" },
+      { "languageCode": "bn", "text": "ইউএসবি স্টিক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Variation",
     "article": "die",
     "gender": "feminine",
     "plural": "Variationen",
     "genitive_singular": "der Variation",
-    "sentence_de": "Die Variation ist interessant.",
-    "sentence_en": "The variation is interesting.",
-    "translation_en": "variation",
-    "translation_bn": "বৈচিত্র্য",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Variation ist interessant." },
+      { "languageCode": "en", "text": "The variation is interesting." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "variation" },
+      { "languageCode": "bn", "text": "বৈচিত্র্য" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "verb",
     "word": "verkaufen",
     "infinitive": "verkaufen",
@@ -729,39 +935,49 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Er verkauft Obst.",
-    "sentence_en": "He sells fruit.",
-    "translation_en": "to sell",
-    "translation_bn": "বিক্রি করা",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Er verkauft Obst." },
+      { "languageCode": "en", "text": "He sells fruit." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to sell" },
+      { "languageCode": "bn", "text": "বিক্রি করা" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Verpackung",
     "article": "die",
     "gender": "feminine",
     "plural": "Verpackungen",
     "genitive_singular": "der Verpackung",
-    "sentence_de": "Die Verpackung ist grün.",
-    "sentence_en": "The packaging is green.",
-    "translation_en": "packaging",
-    "translation_bn": "মোড়ক",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Die Verpackung ist grün." },
+      { "languageCode": "en", "text": "The packaging is green." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "packaging" },
+      { "languageCode": "bn", "text": "মোড়ক" }
+    ]
   },
   {
+    "level": "a1",
+    "topic": "shopping-and-commerce",
     "part_of_speech": "noun",
     "word": "Zeitschrift",
     "article": "die",
     "gender": "feminine",
     "plural": "Zeitschriften",
     "genitive_singular": "der Zeitschrift",
-    "sentence_de": "Ich lese eine Zeitschrift.",
-    "sentence_en": "I read a magazine.",
-    "translation_en": "magazine",
-    "translation_bn": "পত্রিকা",
-    "topic": "shopping-and-commerce",
-    "level": "a1"
+    "sentences": [
+      { "languageCode": "de", "text": "Ich lese eine Zeitschrift." },
+      { "languageCode": "en", "text": "I read a magazine." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "magazine" },
+      { "languageCode": "bn", "text": "পত্রিকা" }
+    ]
   }
 ]

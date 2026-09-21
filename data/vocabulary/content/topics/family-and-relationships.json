@@ -1,590 +1,748 @@
 [
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Baby",
     "article": "das",
     "gender": "neuter",
     "plural": "Babys",
     "genitive_singular": "des Babys",
-    "sentence_de": "Das Baby schläft sehr viel.",
-    "sentence_en": "The baby sleeps a lot.",
-    "translation_en": "baby (0–2 years)",
-    "translation_bn": "শিশু (০–২ বছর)",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Baby schläft sehr viel." },
+      { "languageCode": "en", "text": "The baby sleeps a lot." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "baby (0–2 years)" },
+      { "languageCode": "bn", "text": "শিশু (০–২ বছর)" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/baby.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Kind",
     "article": "das",
     "gender": "neuter",
     "plural": "Kinder",
     "genitive_singular": "des Kindes",
-    "sentence_de": "Das Kind spielt im Park.",
-    "sentence_en": "The child plays in the park.",
-    "translation_en": "child (3–6 years)",
-    "translation_bn": "শিশু (৩–৬ বছর)",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kind spielt im Park." },
+      { "languageCode": "en", "text": "The child plays in the park." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "child (3–6 years)" },
+      { "languageCode": "bn", "text": "শিশু (৩–৬ বছর)" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/child.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Junge",
     "article": "der",
     "gender": "masculine",
     "plural": "Jungen",
     "genitive_singular": "des Jungen",
-    "sentence_de": "Der Junge spielt im Garten.",
-    "sentence_en": "The boy plays in the garden.",
-    "translation_en": "boy (7–13 years)",
-    "translation_bn": "ছেলে (৭–১৩ বছর)",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Junge spielt im Garten." },
+      { "languageCode": "en", "text": "The boy plays in the garden." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "boy (7–13 years)" },
+      { "languageCode": "bn", "text": "ছেলে (৭–১৩ বছর)" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/boy.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Mädchen",
     "article": "das",
     "gender": "neuter",
     "plural": "Mädchen",
     "genitive_singular": "des Mädchens",
-    "sentence_de": "Das Mädchen trägt ein rotes Kleid.",
-    "sentence_en": "The girl wears a red dress.",
-    "translation_en": "girl (7–13 years)",
-    "translation_bn": "মেয়ে (৭–১৩ বছর)",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Mädchen trägt ein rotes Kleid." },
+      { "languageCode": "en", "text": "The girl wears a red dress." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "girl (7–13 years)" },
+      { "languageCode": "bn", "text": "মেয়ে (৭–১৩ বছর)" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/girl.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Jugendliche",
     "article": "der",
     "gender": "masculine",
     "plural": "Jugendlichen",
     "genitive_singular": "des Jugendlichen",
-    "sentence_de": "Der Jugendliche geht zur Schule.",
-    "sentence_en": "The male teenager goes to school.",
-    "translation_en": "male teenager (14–18 years)",
-    "translation_bn": "কিশোর (১৪–১৮ বছর)",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Jugendliche geht zur Schule." },
+      { "languageCode": "en", "text": "The male teenager goes to school." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "male teenager (14–18 years)" },
+      { "languageCode": "bn", "text": "কিশোর (১৪–১৮ বছর)" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/male-teenager.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Jugendliche",
     "article": "die",
     "gender": "feminine",
     "plural": "Jugendlichen",
     "genitive_singular": "der Jugendlichen",
-    "sentence_de": "Die Jugendliche spielt Tennis.",
-    "sentence_en": "The female teenager plays tennis.",
-    "translation_en": "female teenager (14–18 years)",
-    "translation_bn": "কিশোরী (১৪–১৮ বছর)",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Jugendliche spielt Tennis." },
+      { "languageCode": "en", "text": "The female teenager plays tennis." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "female teenager (14–18 years)" },
+      { "languageCode": "bn", "text": "কিশোরী (১৪–১৮ বছর)" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/female-teenager.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Ehemann",
     "article": "der",
     "gender": "masculine",
     "plural": "Ehemänner",
     "genitive_singular": "des Ehemanns",
-    "sentence_de": "Ihr Ehemann arbeitet als Lehrer.",
-    "sentence_en": "Her husband works as a teacher.",
-    "translation_en": "husband",
-    "translation_bn": "স্বামী",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ihr Ehemann arbeitet als Lehrer." },
+      { "languageCode": "en", "text": "Her husband works as a teacher." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "husband" },
+      { "languageCode": "bn", "text": "স্বামী" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/husband.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Ehefrau",
     "article": "die",
     "gender": "feminine",
     "plural": "Ehefrauen",
     "genitive_singular": "der Ehefrau",
-    "sentence_de": "Seine Ehefrau ist Ärztin.",
-    "sentence_en": "His wife is a doctor.",
-    "translation_en": "wife",
-    "translation_bn": "স্ত্রী",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Seine Ehefrau ist Ärztin." },
+      { "languageCode": "en", "text": "His wife is a doctor." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "wife" },
+      { "languageCode": "bn", "text": "স্ত্রী" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/wife.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Familie",
     "article": "die",
     "gender": "feminine",
     "plural": "Familien",
     "genitive_singular": "der Familie",
-    "sentence_de": "Meine Familie ist sehr groß.",
-    "sentence_en": "My family is very big.",
-    "translation_en": "family",
-    "translation_bn": "পরিবার",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Familie ist sehr groß." },
+      { "languageCode": "en", "text": "My family is very big." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "family" },
+      { "languageCode": "bn", "text": "পরিবার" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/family.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Vater",
     "article": "der",
     "gender": "masculine",
     "plural": "Väter",
     "genitive_singular": "des Vaters",
-    "sentence_de": "Mein Vater arbeitet im Büro.",
-    "sentence_en": "My father works in the office.",
-    "translation_en": "father",
-    "translation_bn": "বাবা",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Vater arbeitet im Büro." },
+      { "languageCode": "en", "text": "My father works in the office." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "father" },
+      { "languageCode": "bn", "text": "বাবা" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/father.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Mutter",
     "article": "die",
     "gender": "feminine",
     "plural": "Mütter",
     "genitive_singular": "der Mutter",
-    "sentence_de": "Meine Mutter kocht sehr gut.",
-    "sentence_en": "My mother cooks very well.",
-    "translation_en": "mother",
-    "translation_bn": "মা",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Mutter kocht sehr gut." },
+      { "languageCode": "en", "text": "My mother cooks very well." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "mother" },
+      { "languageCode": "bn", "text": "মা" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/mother.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Eltern",
     "article": "die",
     "gender": "plural",
     "plural": "Eltern",
     "genitive_singular": "der Eltern",
-    "sentence_de": "Meine Eltern wohnen in Berlin.",
-    "sentence_en": "My parents live in Berlin.",
-    "translation_en": "parents",
-    "translation_bn": "বাবা-মা",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Eltern wohnen in Berlin." },
+      { "languageCode": "en", "text": "My parents live in Berlin." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "parents" },
+      { "languageCode": "bn", "text": "বাবা-মা" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/parents.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Sohn",
     "article": "der",
     "gender": "masculine",
     "plural": "Söhne",
     "genitive_singular": "des Sohnes",
-    "sentence_de": "Ihr Sohn ist sehr intelligent.",
-    "sentence_en": "Her son is very intelligent.",
-    "translation_en": "son",
-    "translation_bn": "ছেলে",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ihr Sohn ist sehr intelligent." },
+      { "languageCode": "en", "text": "Her son is very intelligent." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "son" },
+      { "languageCode": "bn", "text": "ছেলে" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/son.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Tochter",
     "article": "die",
     "gender": "feminine",
     "plural": "Töchter",
     "genitive_singular": "der Tochter",
-    "sentence_de": "Seine Tochter ist zehn Jahre alt.",
-    "sentence_en": "His daughter is ten years old.",
-    "translation_en": "daughter",
-    "translation_bn": "মেয়ে",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Seine Tochter ist zehn Jahre alt." },
+      { "languageCode": "en", "text": "His daughter is ten years old." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "daughter" },
+      { "languageCode": "bn", "text": "মেয়ে" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/daughter.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Bruder",
     "article": "der",
     "gender": "masculine",
     "plural": "Brüder",
     "genitive_singular": "des Bruders",
-    "sentence_de": "Mein Bruder spielt Fußball.",
-    "sentence_en": "My brother plays football.",
-    "translation_en": "brother",
-    "translation_bn": "ভাই",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Bruder spielt Fußball." },
+      { "languageCode": "en", "text": "My brother plays football." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "brother" },
+      { "languageCode": "bn", "text": "ভাই" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/brother.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Schwester",
     "article": "die",
     "gender": "feminine",
     "plural": "Schwestern",
     "genitive_singular": "der Schwester",
-    "sentence_de": "Meine Schwester ist Ärztin.",
-    "sentence_en": "My sister is a doctor.",
-    "translation_en": "sister",
-    "translation_bn": "বোন",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Schwester ist Ärztin." },
+      { "languageCode": "en", "text": "My sister is a doctor." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sister" },
+      { "languageCode": "bn", "text": "বোন" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/sister.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Onkel",
     "article": "der",
     "gender": "masculine",
     "plural": "Onkel",
     "genitive_singular": "des Onkels",
-    "sentence_de": "Mein Onkel wohnt in Berlin.",
-    "sentence_en": "My uncle lives in Berlin.",
-    "translation_en": "uncle",
-    "translation_bn": "চাচা/মামা",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Onkel wohnt in Berlin." },
+      { "languageCode": "en", "text": "My uncle lives in Berlin." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "uncle" },
+      { "languageCode": "bn", "text": "চাচা/মামা" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/uncle.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Tante",
     "article": "die",
     "gender": "feminine",
     "plural": "Tanten",
     "genitive_singular": "der Tante",
-    "sentence_de": "Meine Tante kommt am Wochenende.",
-    "sentence_en": "My aunt is coming on the weekend.",
-    "translation_en": "aunt",
-    "translation_bn": "চাচি/মামি/ফুফু",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Tante kommt am Wochenende." },
+      { "languageCode": "en", "text": "My aunt is coming on the weekend." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "aunt" },
+      { "languageCode": "bn", "text": "চাচি/মামি/ফুফু" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/aunt.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Verwandte",
     "article": "der",
     "gender": "masculine",
     "plural": "Verwandten",
     "genitive_singular": "des Verwandten",
-    "sentence_de": "Ein Verwandter hilft mir.",
-    "sentence_en": "A male relative helps me.",
-    "translation_en": "male relative",
-    "translation_bn": "আত্মীয় (পুরুষ)",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Ein Verwandter hilft mir." },
+      { "languageCode": "en", "text": "A male relative helps me." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "male relative" },
+      { "languageCode": "bn", "text": "আত্মীয় (পুরুষ)" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/male-relative.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Verwandte",
     "article": "die",
     "gender": "feminine",
     "plural": "Verwandten",
     "genitive_singular": "der Verwandten",
-    "sentence_de": "Alle Verwandten kommen zum Fest.",
-    "sentence_en": "All relatives come to the celebration.",
-    "translation_en": "female relative",
-    "translation_bn": "আত্মীয়া",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Alle Verwandten kommen zum Fest." },
+      { "languageCode": "en", "text": "All relatives come to the celebration." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "female relative" },
+      { "languageCode": "bn", "text": "আত্মীয়া" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/female-relative.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Verwandten",
     "article": "die",
     "gender": "plural",
     "plural": "Verwandten",
     "genitive_singular": "der Verwandten",
-    "sentence_de": "Alle Verwandten kommen zum Fest.",
-    "sentence_en": "All relatives come to the celebration.",
-    "translation_en": "relatives",
-    "translation_bn": "আত্মীয়স্বজন",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Alle Verwandten kommen zum Fest." },
+      { "languageCode": "en", "text": "All relatives come to the celebration." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "relatives" },
+      { "languageCode": "bn", "text": "আত্মীয়স্বজন" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/relatives.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Cousin",
     "article": "der",
     "gender": "masculine",
     "plural": "Cousins",
     "genitive_singular": "des Cousins",
-    "sentence_de": "Mein Cousin besucht uns.",
-    "sentence_en": "My male cousin is visiting us.",
-    "translation_en": "male cousin",
-    "translation_bn": "চাচাতো/মামাতো ভাই",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Cousin besucht uns." },
+      { "languageCode": "en", "text": "My male cousin is visiting us." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "male cousin" },
+      { "languageCode": "bn", "text": "চাচাতো/মামাতো ভাই" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/male-cousin.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Cousine",
     "article": "die",
     "gender": "feminine",
     "plural": "Cousinen",
     "genitive_singular": "der Cousine",
-    "sentence_de": "Meine Cousine wohnt in Hamburg.",
-    "sentence_en": "My female cousin lives in Hamburg.",
-    "translation_en": "female cousin",
-    "translation_bn": "চাচাতো/মামাতো বোন",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Cousine wohnt in Hamburg." },
+      { "languageCode": "en", "text": "My female cousin lives in Hamburg." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "female cousin" },
+      { "languageCode": "bn", "text": "চাচাতো/মামাতো বোন" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/female-cousin.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Großvater",
     "article": "der",
     "gender": "masculine",
     "plural": "Großväter",
     "genitive_singular": "des Großvaters",
-    "sentence_de": "Mein Großvater erzählt Geschichten.",
-    "sentence_en": "My grandfather tells stories.",
-    "translation_en": "grandfather",
-    "translation_bn": "দাদা/নানা",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Großvater erzählt Geschichten." },
+      { "languageCode": "en", "text": "My grandfather tells stories." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "grandfather" },
+      { "languageCode": "bn", "text": "দাদা/নানা" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/grandfather.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Großmutter",
     "article": "die",
     "gender": "feminine",
     "plural": "Großmütter",
     "genitive_singular": "der Großmutter",
-    "sentence_de": "Meine Großmutter ist sehr nett.",
-    "sentence_en": "My grandmother is very nice.",
-    "translation_en": "grandmother",
-    "translation_bn": "দাদী/নানী",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Großmutter ist sehr nett." },
+      { "languageCode": "en", "text": "My grandmother is very nice." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "grandmother" },
+      { "languageCode": "bn", "text": "দাদী/নানী" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/grandmother.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Großeltern",
     "article": "die",
     "gender": "plural",
     "plural": "Großeltern",
     "genitive_singular": "der Großeltern",
-    "sentence_de": "Wir besuchen unsere Großeltern.",
-    "sentence_en": "We visit our grandparents.",
-    "translation_en": "grandparents",
-    "translation_bn": "দাদা-দাদী/নানা-নানী",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir besuchen unsere Großeltern." },
+      { "languageCode": "en", "text": "We visit our grandparents." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "grandparents" },
+      { "languageCode": "bn", "text": "দাদা-দাদী/নানা-নানী" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/grandparents.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Opa",
     "article": "der",
     "gender": "masculine",
     "plural": "Opas",
     "genitive_singular": "des Opas",
-    "sentence_de": "Opa liest mir vor.",
-    "sentence_en": "Grandpa reads to me.",
-    "translation_en": "grandpa",
-    "translation_bn": "দাদা/নানা",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Opa liest mir vor." },
+      { "languageCode": "en", "text": "Grandpa reads to me." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "grandpa" },
+      { "languageCode": "bn", "text": "দাদা/নানা" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/grandpa.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Oma",
     "article": "die",
     "gender": "feminine",
     "plural": "Omas",
     "genitive_singular": "der Oma",
-    "sentence_de": "Oma backt leckere Kuchen.",
-    "sentence_en": "Grandma bakes delicious cakes.",
-    "translation_en": "grandma",
-    "translation_bn": "দাদী/নানী",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Oma backt leckere Kuchen." },
+      { "languageCode": "en", "text": "Grandma bakes delicious cakes." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "grandma" },
+      { "languageCode": "bn", "text": "দাদী/নানী" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/grandma.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Freund",
     "article": "der",
     "gender": "masculine",
     "plural": "Freunde",
     "genitive_singular": "des Freundes",
-    "sentence_de": "Mein Freund ist sehr lustig.",
-    "sentence_en": "My friend is very funny.",
-    "translation_en": "male friend",
-    "translation_bn": "বন্ধু",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Freund ist sehr lustig." },
+      { "languageCode": "en", "text": "My friend is very funny." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "male friend" },
+      { "languageCode": "bn", "text": "বন্ধু" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/male-friend.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Freundin",
     "article": "die",
     "gender": "feminine",
     "plural": "Freundinnen",
     "genitive_singular": "der Freundin",
-    "sentence_de": "Meine Freundin kommt heute vorbei.",
-    "sentence_en": "My friend is coming over today.",
-    "translation_en": "female friend",
-    "translation_bn": "বান্ধবী",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Freundin kommt heute vorbei." },
+      { "languageCode": "en", "text": "My friend is coming over today." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "female friend" },
+      { "languageCode": "bn", "text": "বান্ধবী" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/female-friend.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Kollege",
     "article": "der",
     "gender": "masculine",
     "plural": "Kollegen",
     "genitive_singular": "des Kollegen",
-    "sentence_de": "Mein Kollege ist sehr hilfsbereit.",
-    "sentence_en": "My colleague is very helpful.",
-    "translation_en": "male colleague",
-    "translation_bn": "সহকর্মী (পুরুষ)",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Kollege ist sehr hilfsbereit." },
+      { "languageCode": "en", "text": "My colleague is very helpful." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "male colleague" },
+      { "languageCode": "bn", "text": "সহকর্মী (পুরুষ)" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/male-colleague.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Kollegin",
     "article": "die",
     "gender": "feminine",
     "plural": "Kolleginnen",
     "genitive_singular": "der Kollegin",
-    "sentence_de": "Meine Kollegin arbeitet im Marketing.",
-    "sentence_en": "My colleague works in marketing.",
-    "translation_en": "female colleague",
-    "translation_bn": "সহকর্মী (নারী)",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Kollegin arbeitet im Marketing." },
+      { "languageCode": "en", "text": "My colleague works in marketing." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "female colleague" },
+      { "languageCode": "bn", "text": "সহকর্মী (নারী)" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/female-colleague.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Paar",
     "article": "das",
     "gender": "neuter",
     "plural": "Paare",
     "genitive_singular": "des Paares",
-    "sentence_de": "Das Paar heiratet im Sommer.",
-    "sentence_en": "The couple is getting married in summer.",
-    "translation_en": "couple",
-    "translation_bn": "জোড়া/দম্পতি",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Paar heiratet im Sommer." },
+      { "languageCode": "en", "text": "The couple is getting married in summer." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "couple" },
+      { "languageCode": "bn", "text": "জোড়া/দম্পতি" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/couple.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Bräutigam",
     "article": "der",
     "gender": "masculine",
     "plural": "Bräutigame",
     "genitive_singular": "des Bräutigams",
-    "sentence_de": "Der Bräutigam steht vor der Kirche.",
-    "sentence_en": "The groom is standing in front of the church.",
-    "translation_en": "groom",
-    "translation_bn": "বর",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Bräutigam steht vor der Kirche." },
+      { "languageCode": "en", "text": "The groom is standing in front of the church." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "groom" },
+      { "languageCode": "bn", "text": "বর" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/groom.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Braut",
     "article": "die",
     "gender": "feminine",
     "plural": "Bräute",
     "genitive_singular": "der Braut",
-    "sentence_de": "Die Braut trägt ein weißes Kleid.",
-    "sentence_en": "The bride is wearing a white dress.",
-    "translation_en": "bride",
-    "translation_bn": "কনে",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Braut trägt ein weißes Kleid." },
+      { "languageCode": "en", "text": "The bride is wearing a white dress." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bride" },
+      { "languageCode": "bn", "text": "কনে" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/bride.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Mann",
     "article": "der",
     "gender": "masculine",
     "plural": "Männer",
     "genitive_singular": "des Mannes",
-    "sentence_de": "Der Mann liest eine Zeitung.",
-    "sentence_en": "The man is reading a newspaper.",
-    "translation_en": "man",
-    "translation_bn": "পুরুষ/মানুষ",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Mann liest eine Zeitung." },
+      { "languageCode": "en", "text": "The man is reading a newspaper." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "man" },
+      { "languageCode": "bn", "text": "পুরুষ/মানুষ" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/man.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Frau",
     "article": "die",
     "gender": "feminine",
     "plural": "Frauen",
     "genitive_singular": "der Frau",
-    "sentence_de": "Die Frau arbeitet im Büro.",
-    "sentence_en": "The woman works in the office.",
-    "translation_en": "woman",
-    "translation_bn": "নারী/মহিলা",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Frau arbeitet im Büro." },
+      { "languageCode": "en", "text": "The woman works in the office." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "woman" },
+      { "languageCode": "bn", "text": "নারী/মহিলা" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/woman.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Nachbar",
     "article": "der",
     "gender": "masculine",
     "plural": "Nachbarn",
     "genitive_singular": "des Nachbarn",
-    "sentence_de": "Mein Nachbar ist sehr freundlich.",
-    "sentence_en": "My male neighbor is very friendly.",
-    "translation_en": "male neighbor",
-    "translation_bn": "প্রতিবেশী (পুরুষ)",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Nachbar ist sehr freundlich." },
+      { "languageCode": "en", "text": "My male neighbor is very friendly." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "male neighbor" },
+      { "languageCode": "bn", "text": "প্রতিবেশী (পুরুষ)" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/male-neighbor.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "noun",
     "word": "Nachbarin",
     "article": "die",
     "gender": "feminine",
     "plural": "Nachbarinnen",
     "genitive_singular": "der Nachbarin",
-    "sentence_de": "Meine Nachbarin hat einen Hund.",
-    "sentence_en": "My female neighbor has a dog.",
-    "translation_en": "female neighbor",
-    "translation_bn": "প্রতিবেশী (নারী)",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Nachbarin hat einen Hund." },
+      { "languageCode": "en", "text": "My female neighbor has a dog." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "female neighbor" },
+      { "languageCode": "bn", "text": "প্রতিবেশী (নারী)" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/female-neighbor.png"
   },
   {
+    "level": "a1",
+    "topic": "family-and-relationships",
     "part_of_speech": "verb",
     "word": "betreuen",
     "infinitive": "betreuen",
@@ -594,12 +752,14 @@
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
-    "sentence_de": "Sie betreut die Kinder.",
-    "sentence_en": "She takes care of the children.",
-    "translation_en": "to take care of",
-    "translation_bn": "যত্ন নেওয়া",
-    "topic": "family-and-relationships",
-    "level": "a1",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie betreut die Kinder." },
+      { "languageCode": "en", "text": "She takes care of the children." }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to take care of" },
+      { "languageCode": "bn", "text": "যত্ন নেওয়া" }
+    ],
     "image": "data/vocabulary/images/family-and-relationships/to-take-care-of.png"
   }
 ]
