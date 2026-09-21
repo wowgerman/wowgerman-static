@@ -10,7 +10,8 @@
     "genitive_singular": "der Aktivität",
     "sentences": [
       { "languageCode": "de", "text": "Die Aktivität macht Spaß." },
-      { "languageCode": "en", "text": "The activity is fun." }
+      { "languageCode": "en", "text": "The activity is fun." },
+      { "languageCode": "bn", "text": "কার্যকলাপটা মজার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "activity" },
@@ -31,7 +32,8 @@
     "separable_prefix": "an",
     "sentences": [
       { "languageCode": "de", "text": "Sie macht das Radio an." },
-      { "languageCode": "en", "text": "She turns on the radio." }
+      { "languageCode": "en", "text": "She turns on the radio." },
+      { "languageCode": "bn", "text": "সে রেডিওটা চালু করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to turn on" },
@@ -48,7 +50,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Konzert ist sehr anstrengend." },
-      { "languageCode": "en", "text": "The concert is very exhausting." }
+      { "languageCode": "en", "text": "The concert is very exhausting." },
+      { "languageCode": "bn", "text": "কনসার্টটা খুব ক্লান্তিকর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "exhausting" },
@@ -69,7 +72,8 @@
     "separable_prefix": "aus",
     "sentences": [
       { "languageCode": "de", "text": "Ich höre das Lied aus." },
-      { "languageCode": "en", "text": "I listen to the song to the end." }
+      { "languageCode": "en", "text": "I listen to the song to the end." },
+      { "languageCode": "bn", "text": "আমি গানটা শেষ পর্যন্ত শুনছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to listen to the end" },
@@ -90,7 +94,8 @@
     "separable_prefix": "aus",
     "sentences": [
       { "languageCode": "de", "text": "Wir gehen heute Abend aus." },
-      { "languageCode": "en", "text": "We are going out tonight." }
+      { "languageCode": "en", "text": "We are going out tonight." },
+      { "languageCode": "bn", "text": "আমরা আজ রাতে বাইরে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to go out" },
@@ -111,7 +116,8 @@
     "separable_prefix": "aus",
     "sentences": [
       { "languageCode": "de", "text": "Ich mache den Fernseher aus." },
-      { "languageCode": "en", "text": "I turn off the TV." }
+      { "languageCode": "en", "text": "I turn off the TV." },
+      { "languageCode": "bn", "text": "আমি টিভিটা বন্ধ করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to turn off" },
@@ -129,7 +135,8 @@
     "genitive_singular": "der Bank",
     "sentences": [
       { "languageCode": "de", "text": "Wir sitzen auf der Bank." },
-      { "languageCode": "en", "text": "We are sitting on the bench." }
+      { "languageCode": "en", "text": "We are sitting on the bench." },
+      { "languageCode": "bn", "text": "আমরা বেঞ্চে বসে আছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bench" },
@@ -147,7 +154,8 @@
     "genitive_singular": "des Beisls",
     "sentences": [
       { "languageCode": "de", "text": "Das Beisl ist sehr gemütlich." },
-      { "languageCode": "en", "text": "The tavern is very cozy." }
+      { "languageCode": "en", "text": "The tavern is very cozy." },
+      { "languageCode": "bn", "text": "সরাইখানাটা খুব আরামদায়ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tavern" },
@@ -165,7 +173,8 @@
     "genitive_singular": "der Beiz",
     "sentences": [
       { "languageCode": "de", "text": "Die Beiz hat gutes Essen." },
-      { "languageCode": "en", "text": "The pub has good food." }
+      { "languageCode": "en", "text": "The pub has good food." },
+      { "languageCode": "bn", "text": "পাবটাতে ভালো খাবার আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "pub" },
@@ -183,7 +192,8 @@
     "genitive_singular": "des Besuchs",
     "sentences": [
       { "languageCode": "de", "text": "Der Besuch war schön." },
-      { "languageCode": "en", "text": "The visit was nice." }
+      { "languageCode": "en", "text": "The visit was nice." },
+      { "languageCode": "bn", "text": "সফরটা সুন্দর ছিল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "visit" },
@@ -204,7 +214,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir besuchen das Museum." },
-      { "languageCode": "en", "text": "We visit the museum." }
+      { "languageCode": "en", "text": "We visit the museum." },
+      { "languageCode": "bn", "text": "আমরা জাদুঘরটা পরিদর্শন করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to visit" },
@@ -222,7 +233,8 @@
     "genitive_singular": "des Biergartens",
     "sentences": [
       { "languageCode": "de", "text": "Der Biergarten ist im Sommer sehr beliebt." },
-      { "languageCode": "en", "text": "The beer garden is very popular in summer." }
+      { "languageCode": "en", "text": "The beer garden is very popular in summer." },
+      { "languageCode": "bn", "text": "বিয়ার গার্ডেনটা গ্রীষ্মে খুব জনপ্রিয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "beer garden" },
@@ -240,7 +252,8 @@
     "genitive_singular": "des Cafés",
     "sentences": [
       { "languageCode": "de", "text": "Das Café ist um die Ecke." },
-      { "languageCode": "en", "text": "The café is around the corner." }
+      { "languageCode": "en", "text": "The café is around the corner." },
+      { "languageCode": "bn", "text": "কফি শপটা কোণায় আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "café" },
@@ -258,7 +271,8 @@
     "genitive_singular": "des Chors",
     "sentences": [
       { "languageCode": "de", "text": "Der Chor singt sehr schön." },
-      { "languageCode": "en", "text": "The choir sings very beautifully." }
+      { "languageCode": "en", "text": "The choir sings very beautifully." },
+      { "languageCode": "bn", "text": "গায়কদলটা খুব সুন্দর গান করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "choir" },
@@ -279,7 +293,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich empfehle dieses Restaurant." },
-      { "languageCode": "en", "text": "I recommend this restaurant." }
+      { "languageCode": "en", "text": "I recommend this restaurant." },
+      { "languageCode": "bn", "text": "আমি এই রেস্তোরাঁটার সুপারিশ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to recommend" },
@@ -300,7 +315,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir entdecken neue Orte." },
-      { "languageCode": "en", "text": "We discover new places." }
+      { "languageCode": "en", "text": "We discover new places." },
+      { "languageCode": "bn", "text": "আমরা নতুন জায়গা আবিষ্কার করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to discover" },
@@ -318,7 +334,8 @@
     "genitive_singular": "des Events",
     "sentences": [
       { "languageCode": "de", "text": "Das Event war toll." },
-      { "languageCode": "en", "text": "The event was great." }
+      { "languageCode": "en", "text": "The event was great." },
+      { "languageCode": "bn", "text": "অনুষ্ঠানটা দারুণ ছিল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "event" },
@@ -336,7 +353,8 @@
     "genitive_singular": "des Familienfotos",
     "sentences": [
       { "languageCode": "de", "text": "Das Familienfoto ist schön." },
-      { "languageCode": "en", "text": "The family photo is beautiful." }
+      { "languageCode": "en", "text": "The family photo is beautiful." },
+      { "languageCode": "bn", "text": "পারিবারিক ছবিটা সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "family photo" },
@@ -357,7 +375,8 @@
     "separable_prefix": "fern",
     "sentences": [
       { "languageCode": "de", "text": "Abends sehe ich fern." },
-      { "languageCode": "en", "text": "I watch TV in the evening." }
+      { "languageCode": "en", "text": "I watch TV in the evening." },
+      { "languageCode": "bn", "text": "সন্ধ্যায় আমি টিভি দেখি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to watch TV" },
@@ -375,7 +394,8 @@
     "genitive_singular": "des Festes",
     "sentences": [
       { "languageCode": "de", "text": "Das Fest war toll." },
-      { "languageCode": "en", "text": "The celebration was great." }
+      { "languageCode": "en", "text": "The celebration was great." },
+      { "languageCode": "bn", "text": "উৎসবটা দারুণ ছিল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "celebration/party" },
@@ -393,7 +413,8 @@
     "genitive_singular": "des Festivals",
     "sentences": [
       { "languageCode": "de", "text": "Das Festival dauert drei Tage." },
-      { "languageCode": "en", "text": "The festival lasts three days." }
+      { "languageCode": "en", "text": "The festival lasts three days." },
+      { "languageCode": "bn", "text": "উৎসবটা তিন দিন ধরে চলে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "festival" },
@@ -411,7 +432,8 @@
     "genitive_singular": "des Films",
     "sentences": [
       { "languageCode": "de", "text": "Der Film ist sehr gut." },
-      { "languageCode": "en", "text": "The movie is very good." }
+      { "languageCode": "en", "text": "The movie is very good." },
+      { "languageCode": "bn", "text": "চলচ্চিত্রটা খুব ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "movie/film" },
@@ -429,7 +451,8 @@
     "genitive_singular": "des Filmfans",
     "sentences": [
       { "languageCode": "de", "text": "Er ist ein großer Filmfan." },
-      { "languageCode": "en", "text": "He is a big movie fan." }
+      { "languageCode": "en", "text": "He is a big movie fan." },
+      { "languageCode": "bn", "text": "সে একজন বড় চলচ্চিত্র প্রেমী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "movie fan" },
@@ -447,7 +470,8 @@
     "genitive_singular": "des Gastes",
     "sentences": [
       { "languageCode": "de", "text": "Wir haben einen Gast." },
-      { "languageCode": "en", "text": "We have a guest." }
+      { "languageCode": "en", "text": "We have a guest." },
+      { "languageCode": "bn", "text": "আমাদের একজন অতিথি আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "guest" },
@@ -465,7 +489,8 @@
     "genitive_singular": "des Gästebuchs",
     "sentences": [
       { "languageCode": "de", "text": "Bitte schreiben Sie ins Gästebuch." },
-      { "languageCode": "en", "text": "Please write in the guest book." }
+      { "languageCode": "en", "text": "Please write in the guest book." },
+      { "languageCode": "bn", "text": "দয়া করে অতিথি বইতে লিখুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "guest book" },
@@ -486,7 +511,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Der Film gefällt mir." },
-      { "languageCode": "en", "text": "I like the movie." }
+      { "languageCode": "en", "text": "I like the movie." },
+      { "languageCode": "bn", "text": "আমি চলচ্চিত্রটা পছন্দ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to like" },
@@ -504,7 +530,8 @@
     "genitive_singular": "der Grillparty",
     "sentences": [
       { "languageCode": "de", "text": "Die Grillparty ist im Garten." },
-      { "languageCode": "en", "text": "The barbecue party is in the garden." }
+      { "languageCode": "en", "text": "The barbecue party is in the garden." },
+      { "languageCode": "bn", "text": "বারবিকিউ পার্টিটা বাগানে হচ্ছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "barbecue party" },
@@ -522,7 +549,8 @@
     "genitive_singular": "des Kinos",
     "sentences": [
       { "languageCode": "de", "text": "Wir gehen ins Kino." },
-      { "languageCode": "en", "text": "We are going to the cinema." }
+      { "languageCode": "en", "text": "We are going to the cinema." },
+      { "languageCode": "bn", "text": "আমরা সিনেমা হলে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cinema" },
@@ -540,7 +568,8 @@
     "genitive_singular": "der Kneipe",
     "sentences": [
       { "languageCode": "de", "text": "Die Kneipe ist heute geschlossen." },
-      { "languageCode": "en", "text": "The pub is closed today." }
+      { "languageCode": "en", "text": "The pub is closed today." },
+      { "languageCode": "bn", "text": "পাবটা আজ বন্ধ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "pub" },
@@ -558,7 +587,8 @@
     "genitive_singular": "des Konzerts",
     "sentences": [
       { "languageCode": "de", "text": "Das Konzert beginnt um acht Uhr." },
-      { "languageCode": "en", "text": "The concert starts at eight o'clock." }
+      { "languageCode": "en", "text": "The concert starts at eight o'clock." },
+      { "languageCode": "bn", "text": "কনসার্টটা রাত আটটায় শুরু হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "concert" },
@@ -576,7 +606,8 @@
     "genitive_singular": "des Konzerthauses",
     "sentences": [
       { "languageCode": "de", "text": "Das Konzerthaus ist sehr schön." },
-      { "languageCode": "en", "text": "The concert hall is very beautiful." }
+      { "languageCode": "en", "text": "The concert hall is very beautiful." },
+      { "languageCode": "bn", "text": "কনসার্ট হলটা খুব সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "concert hall" },
@@ -594,7 +625,8 @@
     "genitive_singular": "der Kultur",
     "sentences": [
       { "languageCode": "de", "text": "Kultur ist wichtig." },
-      { "languageCode": "en", "text": "Culture is important." }
+      { "languageCode": "en", "text": "Culture is important." },
+      { "languageCode": "bn", "text": "সংস্কৃতি গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "culture" },
@@ -612,7 +644,8 @@
     "genitive_singular": "der Kultur-Nacht",
     "sentences": [
       { "languageCode": "de", "text": "Die Kultur-Nacht ist sehr beliebt." },
-      { "languageCode": "en", "text": "The culture night is very popular." }
+      { "languageCode": "en", "text": "The culture night is very popular." },
+      { "languageCode": "bn", "text": "সংস্কৃতি রাতটা খুব জনপ্রিয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "culture night" },
@@ -630,7 +663,8 @@
     "genitive_singular": "des Ladens",
     "sentences": [
       { "languageCode": "de", "text": "Der Laden ist bis 18 Uhr geöffnet." },
-      { "languageCode": "en", "text": "The store is open until 6 PM." }
+      { "languageCode": "en", "text": "The store is open until 6 PM." },
+      { "languageCode": "bn", "text": "দোকানটা সন্ধ্যা ৬টা পর্যন্ত খোলা থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "store" },
@@ -651,7 +685,8 @@
     "separable_prefix": "mit",
     "sentences": [
       { "languageCode": "de", "text": "Ich mache bei dem Spiel mit." },
-      { "languageCode": "en", "text": "I participate in the game." }
+      { "languageCode": "en", "text": "I participate in the game." },
+      { "languageCode": "bn", "text": "আমি খেলাটাতে অংশগ্রহণ করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to participate" },
@@ -669,7 +704,8 @@
     "genitive_singular": "der Museumsnacht",
     "sentences": [
       { "languageCode": "de", "text": "Die Museumsnacht ist kostenlos." },
-      { "languageCode": "en", "text": "The museum night is free." }
+      { "languageCode": "en", "text": "The museum night is free." },
+      { "languageCode": "bn", "text": "জাদুঘর রাতটা বিনামূল্যে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "museum night" },
@@ -687,7 +723,8 @@
     "genitive_singular": "der Musik",
     "sentences": [
       { "languageCode": "de", "text": "Ich höre gerne Musik." },
-      { "languageCode": "en", "text": "I like to listen to music." }
+      { "languageCode": "en", "text": "I like to listen to music." },
+      { "languageCode": "bn", "text": "আমি গান শুনতে পছন্দ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "music" },
@@ -705,7 +742,8 @@
     "genitive_singular": "der Musikproduktion",
     "sentences": [
       { "languageCode": "de", "text": "Die Musikproduktion ist teuer." },
-      { "languageCode": "en", "text": "The music production is expensive." }
+      { "languageCode": "en", "text": "The music production is expensive." },
+      { "languageCode": "bn", "text": "সংগীত উৎপাদন ব্যয়বহুল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "music production" },
@@ -723,7 +761,8 @@
     "genitive_singular": "der Natur",
     "sentences": [
       { "languageCode": "de", "text": "Die Natur ist wunderschön." },
-      { "languageCode": "en", "text": "Nature is beautiful." }
+      { "languageCode": "en", "text": "Nature is beautiful." },
+      { "languageCode": "bn", "text": "প্রকৃতি অত্যন্ত সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "nature" },
@@ -741,7 +780,8 @@
     "genitive_singular": "des Open-Air-Kinos",
     "sentences": [
       { "languageCode": "de", "text": "Das Open-Air-Kino ist im Park." },
-      { "languageCode": "en", "text": "The open-air cinema is in the park." }
+      { "languageCode": "en", "text": "The open-air cinema is in the park." },
+      { "languageCode": "bn", "text": "খোলা আকাশের সিনেমাটা পার্কে হচ্ছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "open-air cinema" },
@@ -759,7 +799,8 @@
     "genitive_singular": "des Picknicks",
     "sentences": [
       { "languageCode": "de", "text": "Das Picknick ist im Park." },
-      { "languageCode": "en", "text": "The picnic is in the park." }
+      { "languageCode": "en", "text": "The picnic is in the park." },
+      { "languageCode": "bn", "text": "পিকনিকটা পার্কে হচ্ছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "picnic" },
@@ -777,7 +818,8 @@
     "genitive_singular": "des Plakats",
     "sentences": [
       { "languageCode": "de", "text": "Das Plakat ist bunt." },
-      { "languageCode": "en", "text": "The poster is colorful." }
+      { "languageCode": "en", "text": "The poster is colorful." },
+      { "languageCode": "bn", "text": "পোস্টারটা রঙিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "poster" },
@@ -798,7 +840,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir planen eine Party." },
-      { "languageCode": "en", "text": "We are planning a party." }
+      { "languageCode": "en", "text": "We are planning a party." },
+      { "languageCode": "bn", "text": "আমরা একটা পার্টির পরিকল্পনা করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to plan" },
@@ -816,7 +859,8 @@
     "genitive_singular": "des Programms",
     "sentences": [
       { "languageCode": "de", "text": "Das Programm beginnt um sieben Uhr." },
-      { "languageCode": "en", "text": "The program starts at seven o'clock." }
+      { "languageCode": "en", "text": "The program starts at seven o'clock." },
+      { "languageCode": "bn", "text": "অনুষ্ঠানসূচিটা সাতটায় শুরু হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "program" },
@@ -834,7 +878,8 @@
     "genitive_singular": "der Radiosendung",
     "sentences": [
       { "languageCode": "de", "text": "Die Radiosendung ist interessant." },
-      { "languageCode": "en", "text": "The radio show is interesting." }
+      { "languageCode": "en", "text": "The radio show is interesting." },
+      { "languageCode": "bn", "text": "রেডিও অনুষ্ঠানটা আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "radio show" },
@@ -852,7 +897,8 @@
     "genitive_singular": "des Restaurants",
     "sentences": [
       { "languageCode": "de", "text": "Das Restaurant ist sehr teuer." },
-      { "languageCode": "en", "text": "The restaurant is very expensive." }
+      { "languageCode": "en", "text": "The restaurant is very expensive." },
+      { "languageCode": "bn", "text": "রেস্তোরাঁটা খুব ব্যয়বহুল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "restaurant" },
@@ -873,7 +919,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir schauen einen Film." },
-      { "languageCode": "en", "text": "We watch a movie." }
+      { "languageCode": "en", "text": "We watch a movie." },
+      { "languageCode": "bn", "text": "আমরা একটা সিনেমা দেখছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to watch" },
@@ -891,7 +938,8 @@
     "genitive_singular": "der Selbstbedienung",
     "sentences": [
       { "languageCode": "de", "text": "Die Selbstbedienung ist schnell." },
-      { "languageCode": "en", "text": "The self-service is fast." }
+      { "languageCode": "en", "text": "The self-service is fast." },
+      { "languageCode": "bn", "text": "স্ব-পরিষেবাটা দ্রুত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "self-service" },
@@ -909,7 +957,8 @@
     "genitive_singular": "des Spielplatzes",
     "sentences": [
       { "languageCode": "de", "text": "Der Spielplatz ist für Kinder." },
-      { "languageCode": "en", "text": "The playground is for children." }
+      { "languageCode": "en", "text": "The playground is for children." },
+      { "languageCode": "bn", "text": "খেলার মাঠটা শিশুদের জন্য।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "playground" },
@@ -927,7 +976,8 @@
     "genitive_singular": "des Stars",
     "sentences": [
       { "languageCode": "de", "text": "Der Star kommt heute." },
-      { "languageCode": "en", "text": "The star is coming today." }
+      { "languageCode": "en", "text": "The star is coming today." },
+      { "languageCode": "bn", "text": "তারকাটি আজ আসছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "star" },
@@ -945,7 +995,8 @@
     "genitive_singular": "der Strandbar",
     "sentences": [
       { "languageCode": "de", "text": "Die Strandbar hat kalte Getränke." },
-      { "languageCode": "en", "text": "The beach bar has cold drinks." }
+      { "languageCode": "en", "text": "The beach bar has cold drinks." },
+      { "languageCode": "bn", "text": "সমুদ্র সৈকত বারে ঠান্ডা পানীয় পাওয়া যায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "beach bar" },
@@ -962,7 +1013,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Die Bedienung ist supernett." },
-      { "languageCode": "en", "text": "The service is super nice." }
+      { "languageCode": "en", "text": "The service is super nice." },
+      { "languageCode": "bn", "text": "সেবাটা অত্যন্ত ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "super nice" },
@@ -980,7 +1032,8 @@
     "genitive_singular": "der Szene",
     "sentences": [
       { "languageCode": "de", "text": "Die Szene ist sehr spannend." },
-      { "languageCode": "en", "text": "The scene is very exciting." }
+      { "languageCode": "en", "text": "The scene is very exciting." },
+      { "languageCode": "bn", "text": "দৃশ্যটা খুব রোমাঞ্চকর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "scene" },
@@ -1001,7 +1054,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich treffe meine Freunde im Café." },
-      { "languageCode": "en", "text": "I meet my friends at the café." }
+      { "languageCode": "en", "text": "I meet my friends at the café." },
+      { "languageCode": "bn", "text": "আমি ক্যাফেতে আমার বন্ধুদের সাথে দেখা করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to meet" },
@@ -1019,7 +1073,8 @@
     "genitive_singular": "der Trendstadt",
     "sentences": [
       { "languageCode": "de", "text": "Berlin ist eine Trendstadt." },
-      { "languageCode": "en", "text": "Berlin is a trendy city." }
+      { "languageCode": "en", "text": "Berlin is a trendy city." },
+      { "languageCode": "bn", "text": "বার্লিন একটা ট্রেন্ডি শহর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "trendy city" },
@@ -1036,7 +1091,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist typisch deutsch." },
-      { "languageCode": "en", "text": "That is typically German." }
+      { "languageCode": "en", "text": "That is typically German." },
+      { "languageCode": "bn", "text": "এটা সাধারণ জার্মান বৈশিষ্ট্য।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "typical" },
@@ -1053,7 +1109,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Musik gibt es überall." },
-      { "languageCode": "en", "text": "There is music everywhere." }
+      { "languageCode": "en", "text": "There is music everywhere." },
+      { "languageCode": "bn", "text": "সর্বত্র সংগীত আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "everywhere" },
@@ -1071,7 +1128,8 @@
     "genitive_singular": "des Überraschungstags",
     "sentences": [
       { "languageCode": "de", "text": "Der Überraschungstag war wunderbar." },
-      { "languageCode": "en", "text": "The surprise day was wonderful." }
+      { "languageCode": "en", "text": "The surprise day was wonderful." },
+      { "languageCode": "bn", "text": "চমক দিবসটা চমৎকার ছিল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "surprise day" },

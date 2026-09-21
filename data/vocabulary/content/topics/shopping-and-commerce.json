@@ -10,7 +10,8 @@
     "genitive_singular": "der Bäckerei",
     "sentences": [
       { "languageCode": "de", "text": "Die Bäckerei ist um die Ecke." },
-      { "languageCode": "en", "text": "The bakery is around the corner." }
+      { "languageCode": "en", "text": "The bakery is around the corner." },
+      { "languageCode": "bn", "text": "বেকারিটা কোণায় আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bakery" },
@@ -28,7 +29,8 @@
     "genitive_singular": "des Bechers",
     "sentences": [
       { "languageCode": "de", "text": "Ich trinke aus einem Becher." },
-      { "languageCode": "en", "text": "I drink from a cup." }
+      { "languageCode": "en", "text": "I drink from a cup." },
+      { "languageCode": "bn", "text": "আমি একটা কাপ থেকে পান করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cup" },
@@ -49,7 +51,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Sie bezahlt mit Karte." },
-      { "languageCode": "en", "text": "She pays with a card." }
+      { "languageCode": "en", "text": "She pays with a card." },
+      { "languageCode": "bn", "text": "সে কার্ড দিয়ে টাকা দেয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to pay" },
@@ -66,7 +69,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Brot ist billig." },
-      { "languageCode": "en", "text": "The bread is cheap." }
+      { "languageCode": "en", "text": "The bread is cheap." },
+      { "languageCode": "bn", "text": "রুটিটা সস্তা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cheap" },
@@ -84,7 +88,8 @@
     "genitive_singular": "des Bleistifts",
     "sentences": [
       { "languageCode": "de", "text": "Der Bleistift ist spitz." },
-      { "languageCode": "en", "text": "The pencil is sharp." }
+      { "languageCode": "en", "text": "The pencil is sharp." },
+      { "languageCode": "bn", "text": "পেন্সিলটা সুচালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "pencil" },
@@ -102,7 +107,8 @@
     "genitive_singular": "des Buchladens",
     "sentences": [
       { "languageCode": "de", "text": "Der Buchladen ist sehr groß." },
-      { "languageCode": "en", "text": "The bookstore is very big." }
+      { "languageCode": "en", "text": "The bookstore is very big." },
+      { "languageCode": "bn", "text": "বই দোকানটা খুব বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bookstore" },
@@ -120,7 +126,8 @@
     "genitive_singular": "des Cents",
     "sentences": [
       { "languageCode": "de", "text": "Das kostet fünfzig Cent." },
-      { "languageCode": "en", "text": "That costs fifty cents." }
+      { "languageCode": "en", "text": "That costs fifty cents." },
+      { "languageCode": "bn", "text": "এটার দাম পঞ্চাশ সেন্ট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cent" },
@@ -138,7 +145,8 @@
     "genitive_singular": "der Dose",
     "sentences": [
       { "languageCode": "de", "text": "Die Dose ist leer." },
-      { "languageCode": "en", "text": "The can is empty." }
+      { "languageCode": "en", "text": "The can is empty." },
+      { "languageCode": "bn", "text": "ক্যানটা খালি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "can" },
@@ -156,7 +164,8 @@
     "genitive_singular": "des Einkaufs",
     "sentences": [
       { "languageCode": "de", "text": "Ich mache einen Einkauf." },
-      { "languageCode": "en", "text": "I am doing some shopping." }
+      { "languageCode": "en", "text": "I am doing some shopping." },
+      { "languageCode": "bn", "text": "আমি কিছু কেনাকাটা করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "shopping" },
@@ -174,7 +183,8 @@
     "genitive_singular": "des Euros",
     "sentences": [
       { "languageCode": "de", "text": "Das kostet zehn Euro." },
-      { "languageCode": "en", "text": "That costs ten euros." }
+      { "languageCode": "en", "text": "That costs ten euros." },
+      { "languageCode": "bn", "text": "এটার দাম দশ ইউরো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "euro" },
@@ -192,7 +202,8 @@
     "genitive_singular": "des Flagship-Stores",
     "sentences": [
       { "languageCode": "de", "text": "Der Flagship-Store ist sehr groß." },
-      { "languageCode": "en", "text": "The flagship store is very big." }
+      { "languageCode": "en", "text": "The flagship store is very big." },
+      { "languageCode": "bn", "text": "প্রধান দোকানটা খুব বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "flagship store" },
@@ -210,7 +221,8 @@
     "genitive_singular": "der Flasche",
     "sentences": [
       { "languageCode": "de", "text": "Die Flasche ist voll." },
-      { "languageCode": "en", "text": "The bottle is full." }
+      { "languageCode": "en", "text": "The bottle is full." },
+      { "languageCode": "bn", "text": "বোতলটা পূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bottle" },
@@ -228,7 +240,8 @@
     "genitive_singular": "des Frankens",
     "sentences": [
       { "languageCode": "de", "text": "Das kostet zehn Franken." },
-      { "languageCode": "en", "text": "That costs ten francs." }
+      { "languageCode": "en", "text": "That costs ten francs." },
+      { "languageCode": "bn", "text": "এটার দাম দশ ফ্রাঙ্ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "franc" },
@@ -246,7 +259,8 @@
     "genitive_singular": "des Geldes",
     "sentences": [
       { "languageCode": "de", "text": "Ich habe kein Geld." },
-      { "languageCode": "en", "text": "I have no money." }
+      { "languageCode": "en", "text": "I have no money." },
+      { "languageCode": "bn", "text": "আমার কাছে কোনো টাকা নেই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "money" },
@@ -263,7 +277,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Der Preis ist günstig." },
-      { "languageCode": "en", "text": "The price is affordable." }
+      { "languageCode": "en", "text": "The price is affordable." },
+      { "languageCode": "bn", "text": "দামটা সাশ্রয়ী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "affordable" },
@@ -281,7 +296,8 @@
     "genitive_singular": "des Haushalts",
     "sentences": [
       { "languageCode": "de", "text": "Der Haushalt braucht neue Möbel." },
-      { "languageCode": "en", "text": "The household needs new furniture." }
+      { "languageCode": "en", "text": "The household needs new furniture." },
+      { "languageCode": "bn", "text": "পরিবারের নতুন আসবাবপত্র দরকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "household" },
@@ -299,7 +315,8 @@
     "genitive_singular": "der Kasse",
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe zur Kasse." },
-      { "languageCode": "en", "text": "I go to the cash register." }
+      { "languageCode": "en", "text": "I go to the cash register." },
+      { "languageCode": "bn", "text": "আমি ক্যাশ রেজিস্টারের দিকে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cash register" },
@@ -320,7 +337,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich kaufe ein Buch." },
-      { "languageCode": "en", "text": "I am buying a book." }
+      { "languageCode": "en", "text": "I am buying a book." },
+      { "languageCode": "bn", "text": "আমি একটা বই কিনছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to buy" },
@@ -338,7 +356,8 @@
     "genitive_singular": "des Kilos",
     "sentences": [
       { "languageCode": "de", "text": "Ein Kilo Äpfel, bitte." },
-      { "languageCode": "en", "text": "One kilo of apples, please." }
+      { "languageCode": "en", "text": "One kilo of apples, please." },
+      { "languageCode": "bn", "text": "এক কিলো আপেল, দয়া করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "kilo" },
@@ -356,7 +375,8 @@
     "genitive_singular": "des Kilogramms",
     "sentences": [
       { "languageCode": "de", "text": "Das wiegt zwei Kilogramm." },
-      { "languageCode": "en", "text": "That weighs two kilograms." }
+      { "languageCode": "en", "text": "That weighs two kilograms." },
+      { "languageCode": "bn", "text": "এটার ওজন দুই কিলোগ্রাম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "kilogram" },
@@ -374,7 +394,8 @@
     "genitive_singular": "der Kosmetik",
     "sentences": [
       { "languageCode": "de", "text": "Sie kauft Kosmetik." },
-      { "languageCode": "en", "text": "She buys cosmetics." }
+      { "languageCode": "en", "text": "She buys cosmetics." },
+      { "languageCode": "bn", "text": "সে প্রসাধনী কিনছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cosmetics" },
@@ -395,7 +416,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Das Auto kostet viel Geld." },
-      { "languageCode": "en", "text": "The car costs a lot of money." }
+      { "languageCode": "en", "text": "The car costs a lot of money." },
+      { "languageCode": "bn", "text": "গাড়িটার অনেক দাম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to cost" },
@@ -413,7 +435,8 @@
     "genitive_singular": "der Kosten",
     "sentences": [
       { "languageCode": "de", "text": "Die Kosten sind zu hoch." },
-      { "languageCode": "en", "text": "The costs are too high." }
+      { "languageCode": "en", "text": "The costs are too high." },
+      { "languageCode": "bn", "text": "খরচটা অনেক বেশি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "costs" },
@@ -431,7 +454,8 @@
     "genitive_singular": "des Kugelschreibers",
     "sentences": [
       { "languageCode": "de", "text": "Ich schreibe mit einem Kugelschreiber." },
-      { "languageCode": "en", "text": "I write with a ballpoint pen." }
+      { "languageCode": "en", "text": "I write with a ballpoint pen." },
+      { "languageCode": "bn", "text": "আমি একটা বলপয়েন্ট কলম দিয়ে লিখছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "ballpoint pen" },
@@ -449,7 +473,8 @@
     "genitive_singular": "des Labels",
     "sentences": [
       { "languageCode": "de", "text": "Das Label ist auf der Flasche." },
-      { "languageCode": "en", "text": "The label is on the bottle." }
+      { "languageCode": "en", "text": "The label is on the bottle." },
+      { "languageCode": "bn", "text": "লেবেলটা বোতলের গায়ে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "label" },
@@ -467,7 +492,8 @@
     "genitive_singular": "des Liters",
     "sentences": [
       { "languageCode": "de", "text": "Ich brauche einen Liter Milch." },
-      { "languageCode": "en", "text": "I need a liter of milk." }
+      { "languageCode": "en", "text": "I need a liter of milk." },
+      { "languageCode": "bn", "text": "আমার এক লিটার দুধ দরকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "liter" },
@@ -485,7 +511,8 @@
     "genitive_singular": "des Maßes",
     "sentences": [
       { "languageCode": "de", "text": "Das richtige Maß ist wichtig." },
-      { "languageCode": "en", "text": "The right measurement is important." }
+      { "languageCode": "en", "text": "The right measurement is important." },
+      { "languageCode": "bn", "text": "সঠিক পরিমাপ গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "measurement" },
@@ -503,7 +530,8 @@
     "genitive_singular": "der Metzgerei",
     "sentences": [
       { "languageCode": "de", "text": "Ich kaufe Fleisch in der Metzgerei." },
-      { "languageCode": "en", "text": "I buy meat at the butcher shop." }
+      { "languageCode": "en", "text": "I buy meat at the butcher shop." },
+      { "languageCode": "bn", "text": "আমি কসাইখানা থেকে মাংস কিনি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "butcher shop" },
@@ -521,7 +549,8 @@
     "genitive_singular": "der Mode",
     "sentences": [
       { "languageCode": "de", "text": "Die Mode ändert sich schnell." },
-      { "languageCode": "en", "text": "Fashion changes quickly." }
+      { "languageCode": "en", "text": "Fashion changes quickly." },
+      { "languageCode": "bn", "text": "ফ্যাশন দ্রুত পরিবর্তিত হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fashion" },
@@ -539,7 +568,8 @@
     "genitive_singular": "des Modells",
     "sentences": [
       { "languageCode": "de", "text": "Das Modell ist sehr schön." },
-      { "languageCode": "en", "text": "The model is very beautiful." }
+      { "languageCode": "en", "text": "The model is very beautiful." },
+      { "languageCode": "bn", "text": "মডেলটা খুব সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "model" },
@@ -557,7 +587,8 @@
     "genitive_singular": "der Packung",
     "sentences": [
       { "languageCode": "de", "text": "Ich kaufe eine Packung Nudeln." },
-      { "languageCode": "en", "text": "I buy a package of pasta." }
+      { "languageCode": "en", "text": "I buy a package of pasta." },
+      { "languageCode": "bn", "text": "আমি এক প্যাকেট নুডলস কিনছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "package" },
@@ -575,7 +606,8 @@
     "genitive_singular": "des Papiers",
     "sentences": [
       { "languageCode": "de", "text": "Das Papier ist weiß." },
-      { "languageCode": "en", "text": "The paper is white." }
+      { "languageCode": "en", "text": "The paper is white." },
+      { "languageCode": "bn", "text": "কাগজটা সাদা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "paper" },
@@ -593,7 +625,8 @@
     "genitive_singular": "des Parfüms",
     "sentences": [
       { "languageCode": "de", "text": "Das Parfüm riecht gut." },
-      { "languageCode": "en", "text": "The perfume smells good." }
+      { "languageCode": "en", "text": "The perfume smells good." },
+      { "languageCode": "bn", "text": "পারফিউমটার গন্ধ ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "perfume" },
@@ -611,7 +644,8 @@
     "genitive_singular": "der Parfümerie",
     "sentences": [
       { "languageCode": "de", "text": "Die Parfümerie ist im ersten Stock." },
-      { "languageCode": "en", "text": "The perfume shop is on the first floor." }
+      { "languageCode": "en", "text": "The perfume shop is on the first floor." },
+      { "languageCode": "bn", "text": "পারফিউম দোকানটা প্রথম তলায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "perfume shop" },
@@ -629,7 +663,8 @@
     "genitive_singular": "des Produkts",
     "sentences": [
       { "languageCode": "de", "text": "Das Produkt ist neu." },
-      { "languageCode": "en", "text": "The product is new." }
+      { "languageCode": "en", "text": "The product is new." },
+      { "languageCode": "bn", "text": "পণ্যটা নতুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "product" },
@@ -647,7 +682,8 @@
     "genitive_singular": "der Rechnung",
     "sentences": [
       { "languageCode": "de", "text": "Die Rechnung ist sehr hoch." },
-      { "languageCode": "en", "text": "The bill is very high." }
+      { "languageCode": "en", "text": "The bill is very high." },
+      { "languageCode": "bn", "text": "বিলটা অনেক বেশি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bill" },
@@ -665,7 +701,8 @@
     "genitive_singular": "der Saison",
     "sentences": [
       { "languageCode": "de", "text": "Die Saison ist fast vorbei." },
-      { "languageCode": "en", "text": "The season is almost over." }
+      { "languageCode": "en", "text": "The season is almost over." },
+      { "languageCode": "bn", "text": "মৌসুমটা প্রায় শেষ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "season" },
@@ -683,7 +720,8 @@
     "genitive_singular": "des Schmucks",
     "sentences": [
       { "languageCode": "de", "text": "Sie trägt schönen Schmuck." },
-      { "languageCode": "en", "text": "She wears beautiful jewelry." }
+      { "languageCode": "en", "text": "She wears beautiful jewelry." },
+      { "languageCode": "bn", "text": "সে সুন্দর গহনা পরে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "jewelry" },
@@ -701,7 +739,8 @@
     "genitive_singular": "der Schreibwaren",
     "sentences": [
       { "languageCode": "de", "text": "Ich kaufe Schreibwaren für die Schule." },
-      { "languageCode": "en", "text": "I buy stationery for school." }
+      { "languageCode": "en", "text": "I buy stationery for school." },
+      { "languageCode": "bn", "text": "আমি স্কুলের জন্য স্টেশনারি কিনি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "stationery" },
@@ -719,7 +758,8 @@
     "genitive_singular": "des Schuhladens",
     "sentences": [
       { "languageCode": "de", "text": "Der Schuhladen hat viele Schuhe." },
-      { "languageCode": "en", "text": "The shoe store has many shoes." }
+      { "languageCode": "en", "text": "The shoe store has many shoes." },
+      { "languageCode": "bn", "text": "জুতার দোকানে অনেক জুতা আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "shoe store" },
@@ -737,7 +777,8 @@
     "genitive_singular": "des Shops",
     "sentences": [
       { "languageCode": "de", "text": "Der Shop ist heute geschlossen." },
-      { "languageCode": "en", "text": "The shop is closed today." }
+      { "languageCode": "en", "text": "The shop is closed today." },
+      { "languageCode": "bn", "text": "দোকানটা আজ বন্ধ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "shop" },
@@ -755,7 +796,8 @@
     "genitive_singular": "des Souvenirs",
     "sentences": [
       { "languageCode": "de", "text": "Das Souvenir ist für meine Mutter." },
-      { "languageCode": "en", "text": "The souvenir is for my mother." }
+      { "languageCode": "en", "text": "The souvenir is for my mother." },
+      { "languageCode": "bn", "text": "স্মৃতিচিহ্নটা আমার মায়ের জন্য।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "souvenir" },
@@ -773,7 +815,8 @@
     "genitive_singular": "der Spielwaren",
     "sentences": [
       { "languageCode": "de", "text": "Kinder lieben Spielwaren." },
-      { "languageCode": "en", "text": "Children love toys." }
+      { "languageCode": "en", "text": "Children love toys." },
+      { "languageCode": "bn", "text": "শিশুরা খেলনা পছন্দ করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "toys" },
@@ -791,7 +834,8 @@
     "genitive_singular": "der Sportkleidung",
     "sentences": [
       { "languageCode": "de", "text": "Ich trage Sportkleidung im Fitness-Studio." },
-      { "languageCode": "en", "text": "I wear sportswear at the gym." }
+      { "languageCode": "en", "text": "I wear sportswear at the gym." },
+      { "languageCode": "bn", "text": "আমি জিমে ক্রীড়া পোশাক পরি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sportswear" },
@@ -809,7 +853,8 @@
     "genitive_singular": "des Supermarkts",
     "sentences": [
       { "languageCode": "de", "text": "Der Supermarkt ist heute geöffnet." },
-      { "languageCode": "en", "text": "The supermarket is open today." }
+      { "languageCode": "en", "text": "The supermarket is open today." },
+      { "languageCode": "bn", "text": "সুপারমার্কেটটা আজ খোলা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "supermarket" },
@@ -827,7 +872,8 @@
     "genitive_singular": "der Technik",
     "sentences": [
       { "languageCode": "de", "text": "Die neue Technik ist interessant." },
-      { "languageCode": "en", "text": "The new technology is interesting." }
+      { "languageCode": "en", "text": "The new technology is interesting." },
+      { "languageCode": "bn", "text": "নতুন প্রযুক্তিটা আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "technology" },
@@ -844,7 +890,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Kleid ist teuer." },
-      { "languageCode": "en", "text": "The dress is expensive." }
+      { "languageCode": "en", "text": "The dress is expensive." },
+      { "languageCode": "bn", "text": "পোশাকটা দামি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "expensive" },
@@ -862,7 +909,8 @@
     "genitive_singular": "der Uhr",
     "sentences": [
       { "languageCode": "de", "text": "Die Uhr zeigt drei Uhr." },
-      { "languageCode": "en", "text": "The clock shows three o'clock." }
+      { "languageCode": "en", "text": "The clock shows three o'clock." },
+      { "languageCode": "bn", "text": "ঘড়িতে তিনটা বাজে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "clock/watch" },
@@ -880,7 +928,8 @@
     "genitive_singular": "des Untergeschosses",
     "sentences": [
       { "languageCode": "de", "text": "Der Laden ist im Untergeschoss." },
-      { "languageCode": "en", "text": "The store is in the basement." }
+      { "languageCode": "en", "text": "The store is in the basement." },
+      { "languageCode": "bn", "text": "দোকানটা নিচের তলায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "basement" },
@@ -898,7 +947,8 @@
     "genitive_singular": "des USB-Sticks",
     "sentences": [
       { "languageCode": "de", "text": "Der USB-Stick ist sehr klein." },
-      { "languageCode": "en", "text": "The USB stick is very small." }
+      { "languageCode": "en", "text": "The USB stick is very small." },
+      { "languageCode": "bn", "text": "ইউএসবি স্টিকটা খুব ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "USB stick" },
@@ -916,7 +966,8 @@
     "genitive_singular": "der Variation",
     "sentences": [
       { "languageCode": "de", "text": "Die Variation ist interessant." },
-      { "languageCode": "en", "text": "The variation is interesting." }
+      { "languageCode": "en", "text": "The variation is interesting." },
+      { "languageCode": "bn", "text": "বৈচিত্র্যটা আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "variation" },
@@ -937,7 +988,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Er verkauft Obst." },
-      { "languageCode": "en", "text": "He sells fruit." }
+      { "languageCode": "en", "text": "He sells fruit." },
+      { "languageCode": "bn", "text": "সে ফল বিক্রি করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to sell" },
@@ -955,7 +1007,8 @@
     "genitive_singular": "der Verpackung",
     "sentences": [
       { "languageCode": "de", "text": "Die Verpackung ist grün." },
-      { "languageCode": "en", "text": "The packaging is green." }
+      { "languageCode": "en", "text": "The packaging is green." },
+      { "languageCode": "bn", "text": "মোড়কটা সবুজ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "packaging" },
@@ -973,7 +1026,8 @@
     "genitive_singular": "der Zeitschrift",
     "sentences": [
       { "languageCode": "de", "text": "Ich lese eine Zeitschrift." },
-      { "languageCode": "en", "text": "I read a magazine." }
+      { "languageCode": "en", "text": "I read a magazine." },
+      { "languageCode": "bn", "text": "আমি একটা পত্রিকা পড়ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "magazine" },

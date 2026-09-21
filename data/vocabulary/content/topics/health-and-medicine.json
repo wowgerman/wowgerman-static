@@ -10,7 +10,8 @@
     "genitive_singular": "des/der Kranken",
     "sentences": [
       { "languageCode": "de", "text": "Der Kranke liegt im Bett." },
-      { "languageCode": "en", "text": "The sick person is lying in bed." }
+      { "languageCode": "en", "text": "The sick person is lying in bed." },
+      { "languageCode": "bn", "text": "অসুস্থ ব্যক্তিটি বিছানায় শুয়ে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sick person" },
@@ -29,7 +30,8 @@
     "genitive_singular": "des Patienten",
     "sentences": [
       { "languageCode": "de", "text": "Der Patient wartet im Wartezimmer." },
-      { "languageCode": "en", "text": "The patient is waiting in the waiting room." }
+      { "languageCode": "en", "text": "The patient is waiting in the waiting room." },
+      { "languageCode": "bn", "text": "রোগীটি অপেক্ষা কক্ষে অপেক্ষা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "patient (male)" },
@@ -48,7 +50,8 @@
     "genitive_singular": "der Patientin",
     "sentences": [
       { "languageCode": "de", "text": "Die Patientin fühlt sich besser." },
-      { "languageCode": "en", "text": "The patient feels better." }
+      { "languageCode": "en", "text": "The patient feels better." },
+      { "languageCode": "bn", "text": "রোগীটি এখন ভালো বোধ করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "patient (female)" },
@@ -67,7 +70,8 @@
     "genitive_singular": "des Arztes",
     "sentences": [
       { "languageCode": "de", "text": "Der Arzt hilft kranken Menschen." },
-      { "languageCode": "en", "text": "The doctor helps sick people." }
+      { "languageCode": "en", "text": "The doctor helps sick people." },
+      { "languageCode": "bn", "text": "ডাক্তার অসুস্থ মানুষদের সাহায্য করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "doctor (male)" },
@@ -86,7 +90,8 @@
     "genitive_singular": "der Ärztin",
     "sentences": [
       { "languageCode": "de", "text": "Die Ärztin gibt mir ein Medikament." },
-      { "languageCode": "en", "text": "The doctor gives me a medicine." }
+      { "languageCode": "en", "text": "The doctor gives me a medicine." },
+      { "languageCode": "bn", "text": "ডাক্তার আমাকে একটা ঔষধ দিচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "doctor (female)" },
@@ -105,7 +110,8 @@
     "genitive_singular": "des Arztbesuchs",
     "sentences": [
       { "languageCode": "de", "text": "Der Arztbesuch ist heute um 10 Uhr." },
-      { "languageCode": "en", "text": "The doctor's visit is today at 10 o'clock." }
+      { "languageCode": "en", "text": "The doctor's visit is today at 10 o'clock." },
+      { "languageCode": "bn", "text": "ডাক্তারের কাছে যাওয়ার সময় আজ সকাল ১০টায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "doctor's visit" },
@@ -124,7 +130,8 @@
     "genitive_singular": "des Labors",
     "sentences": [
       { "languageCode": "de", "text": "Das Blut geht ins Labor." },
-      { "languageCode": "en", "text": "The blood goes to the laboratory." }
+      { "languageCode": "en", "text": "The blood goes to the laboratory." },
+      { "languageCode": "bn", "text": "রক্তটা গবেষণাগারে যায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "laboratory" },
@@ -146,7 +153,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Der Arzt untersucht den Patienten." },
-      { "languageCode": "en", "text": "The doctor examines the patient." }
+      { "languageCode": "en", "text": "The doctor examines the patient." },
+      { "languageCode": "bn", "text": "ডাক্তার রোগীকে পরীক্ষা করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to examine" },
@@ -165,7 +173,8 @@
     "genitive_singular": "des Ergebnisses",
     "sentences": [
       { "languageCode": "de", "text": "Das Ergebnis der Untersuchung ist gut." },
-      { "languageCode": "en", "text": "The result of the examination is good." }
+      { "languageCode": "en", "text": "The result of the examination is good." },
+      { "languageCode": "bn", "text": "পরীক্ষার ফলাফল ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "result" },
@@ -184,7 +193,8 @@
     "genitive_singular": "des Fiebers",
     "sentences": [
       { "languageCode": "de", "text": "Das Kind hat hohes Fieber." },
-      { "languageCode": "en", "text": "The child has a high fever." }
+      { "languageCode": "en", "text": "The child has a high fever." },
+      { "languageCode": "bn", "text": "শিশুটির প্রচণ্ড জ্বর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fever" },
@@ -203,7 +213,8 @@
     "genitive_singular": "der Kopfschmerzen",
     "sentences": [
       { "languageCode": "de", "text": "Ich habe starke Kopfschmerzen." },
-      { "languageCode": "en", "text": "I have a severe headache." }
+      { "languageCode": "en", "text": "I have a severe headache." },
+      { "languageCode": "bn", "text": "আমার প্রচণ্ড মাথাব্যথা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "headache" },
@@ -220,7 +231,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin erkältet und huste viel." },
-      { "languageCode": "en", "text": "I have a cold and cough a lot." }
+      { "languageCode": "en", "text": "I have a cold and cough a lot." },
+      { "languageCode": "bn", "text": "আমার সর্দি-কাশি হয়েছে এবং আমি অনেক কাশছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "having a cold" },
@@ -239,7 +251,8 @@
     "genitive_singular": "des Hustensafts",
     "sentences": [
       { "languageCode": "de", "text": "Der Hustensaft schmeckt süß." },
-      { "languageCode": "en", "text": "The cough syrup tastes sweet." }
+      { "languageCode": "en", "text": "The cough syrup tastes sweet." },
+      { "languageCode": "bn", "text": "কাশির সিরাপটা মিষ্টি স্বাদের।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cough syrup" },
@@ -258,7 +271,8 @@
     "genitive_singular": "der Spritze",
     "sentences": [
       { "languageCode": "de", "text": "Der Arzt gibt eine Spritze." },
-      { "languageCode": "en", "text": "The doctor gives an injection." }
+      { "languageCode": "en", "text": "The doctor gives an injection." },
+      { "languageCode": "bn", "text": "ডাক্তার একটা ইনজেকশন দিচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "injection" },
@@ -277,7 +291,8 @@
     "genitive_singular": "des Bluts",
     "sentences": [
       { "languageCode": "de", "text": "Der Arzt nimmt Blut für die Untersuchung." },
-      { "languageCode": "en", "text": "The doctor takes blood for the examination." }
+      { "languageCode": "en", "text": "The doctor takes blood for the examination." },
+      { "languageCode": "bn", "text": "পরীক্ষার জন্য ডাক্তার রক্ত নিচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "blood" },
@@ -296,7 +311,8 @@
     "genitive_singular": "der Wunde",
     "sentences": [
       { "languageCode": "de", "text": "Die Wunde tut weh." },
-      { "languageCode": "en", "text": "The wound hurts." }
+      { "languageCode": "en", "text": "The wound hurts." },
+      { "languageCode": "bn", "text": "ক্ষতটায় ব্যথা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "wound" },
@@ -315,7 +331,8 @@
     "genitive_singular": "des Schmerzes",
     "sentences": [
       { "languageCode": "de", "text": "Ich habe einen Schmerz im Ellbogen." },
-      { "languageCode": "en", "text": "I have a pain in my elbow." }
+      { "languageCode": "en", "text": "I have a pain in my elbow." },
+      { "languageCode": "bn", "text": "আমার কনুইতে একটা ব্যথা আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "pain" },
@@ -334,7 +351,8 @@
     "genitive_singular": "der Bauchschmerzen",
     "sentences": [
       { "languageCode": "de", "text": "Ich habe starke Bauchschmerzen." },
-      { "languageCode": "en", "text": "I have severe stomach pain." }
+      { "languageCode": "en", "text": "I have severe stomach pain." },
+      { "languageCode": "bn", "text": "আমার প্রচণ্ড পেটের ব্যথা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "stomach pain" },
@@ -353,7 +371,8 @@
     "genitive_singular": "des Medikaments",
     "sentences": [
       { "languageCode": "de", "text": "Das Medikament hilft gegen Schmerzen." },
-      { "languageCode": "en", "text": "The medicine helps against pain." }
+      { "languageCode": "en", "text": "The medicine helps against pain." },
+      { "languageCode": "bn", "text": "ঔষধটা ব্যথা কমাতে সাহায্য করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "medicine" },
@@ -372,7 +391,8 @@
     "genitive_singular": "des Physiotherapeuten",
     "sentences": [
       { "languageCode": "de", "text": "Der Physiotherapeut zeigt mir neue Übungen." },
-      { "languageCode": "en", "text": "The physiotherapist shows me new exercises." }
+      { "languageCode": "en", "text": "The physiotherapist shows me new exercises." },
+      { "languageCode": "bn", "text": "ফিজিওথেরাপিস্ট আমাকে নতুন ব্যায়াম দেখাচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "physiotherapist (male)" },
@@ -391,7 +411,8 @@
     "genitive_singular": "der Physiotherapeutin",
     "sentences": [
       { "languageCode": "de", "text": "Die Physiotherapeutin behandelt meine Schulter." },
-      { "languageCode": "en", "text": "The physiotherapist treats my shoulder." }
+      { "languageCode": "en", "text": "The physiotherapist treats my shoulder." },
+      { "languageCode": "bn", "text": "ফিজিওথেরাপিস্ট আমার কাঁধের চিকিৎসা করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "physiotherapist (female)" },
@@ -410,7 +431,8 @@
     "genitive_singular": "der Physiotherapie",
     "sentences": [
       { "languageCode": "de", "text": "Die Physiotherapie ist gut für die Schultern." },
-      { "languageCode": "en", "text": "The physiotherapy is good for the shoulders." }
+      { "languageCode": "en", "text": "The physiotherapy is good for the shoulders." },
+      { "languageCode": "bn", "text": "ফিজিওথেরাপি কাঁধের জন্য ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "physiotherapy" },
@@ -429,7 +451,8 @@
     "genitive_singular": "der Übung",
     "sentences": [
       { "languageCode": "de", "text": "Die Übung ist gut für die Beine." },
-      { "languageCode": "en", "text": "The exercise is good for the legs." }
+      { "languageCode": "en", "text": "The exercise is good for the legs." },
+      { "languageCode": "bn", "text": "ব্যায়ামটা পায়ের জন্য ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "exercise, practice" },
@@ -448,7 +471,8 @@
     "genitive_singular": "der Anweisung",
     "sentences": [
       { "languageCode": "de", "text": "Ich folge der Anweisung des Arztes." },
-      { "languageCode": "en", "text": "I follow the doctor's instruction." }
+      { "languageCode": "en", "text": "I follow the doctor's instruction." },
+      { "languageCode": "bn", "text": "আমি ডাক্তারের নির্দেশনা মেনে চলি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "instruction" },
@@ -467,7 +491,8 @@
     "genitive_singular": "der Strategie",
     "sentences": [
       { "languageCode": "de", "text": "Wir brauchen eine neue Strategie gegen die Krankheit." },
-      { "languageCode": "en", "text": "We need a new strategy against the disease." }
+      { "languageCode": "en", "text": "We need a new strategy against the disease." },
+      { "languageCode": "bn", "text": "রোগের বিরুদ্ধে আমাদের একটা নতুন কৌশল দরকার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "strategy" },
@@ -486,7 +511,8 @@
     "genitive_singular": "des Tipps",
     "sentences": [
       { "languageCode": "de", "text": "Der Arzt gibt mir einen guten Tipp." },
-      { "languageCode": "en", "text": "The doctor gives me a good tip." }
+      { "languageCode": "en", "text": "The doctor gives me a good tip." },
+      { "languageCode": "bn", "text": "ডাক্তার আমাকে একটা ভালো পরামর্শ দিচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tip" },
@@ -504,7 +530,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Nach dem Sport fühle ich mich fit." },
-      { "languageCode": "en", "text": "After sports I feel fit." }
+      { "languageCode": "en", "text": "After sports I feel fit." },
+      { "languageCode": "bn", "text": "খেলাধুলার পর আমি সুস্থ বোধ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fit" },
@@ -523,7 +550,8 @@
     "genitive_singular": "der Müdigkeit",
     "sentences": [
       { "languageCode": "de", "text": "Die Müdigkeit kommt nach der Arbeit." },
-      { "languageCode": "en", "text": "The tiredness comes after work." }
+      { "languageCode": "en", "text": "The tiredness comes after work." },
+      { "languageCode": "bn", "text": "কাজের পর ক্লান্তি আসে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tiredness" },
@@ -541,7 +569,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin sehr müde." },
-      { "languageCode": "en", "text": "I am very tired." }
+      { "languageCode": "en", "text": "I am very tired." },
+      { "languageCode": "bn", "text": "আমি খুব ক্লান্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tired" },
@@ -560,7 +589,8 @@
     "genitive_singular": "der Erschöpfung",
     "sentences": [
       { "languageCode": "de", "text": "Nach dem langen Tag fühle ich starke Erschöpfung." },
-      { "languageCode": "en", "text": "After the long day I feel strong exhaustion." }
+      { "languageCode": "en", "text": "After the long day I feel strong exhaustion." },
+      { "languageCode": "bn", "text": "দীর্ঘ দিনের পর আমি প্রচণ্ড অবসাদ অনুভব করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "exhaustion" },
@@ -578,7 +608,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Nach der Arbeit bin ich total erschöpft." },
-      { "languageCode": "en", "text": "After work I am totally exhausted." }
+      { "languageCode": "en", "text": "After work I am totally exhausted." },
+      { "languageCode": "bn", "text": "কাজের পর আমি সম্পূর্ণ অবসন্ন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "exhausted" },
@@ -597,7 +628,8 @@
     "genitive_singular": "der Schlaftablette",
     "sentences": [
       { "languageCode": "de", "text": "Die Schlaftablette hilft beim Einschlafen." },
-      { "languageCode": "en", "text": "The sleeping pill helps with falling asleep." }
+      { "languageCode": "en", "text": "The sleeping pill helps with falling asleep." },
+      { "languageCode": "bn", "text": "ঘুমের ওষুধটা ঘুমাতে সাহায্য করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sleeping pill" },
@@ -616,7 +648,8 @@
     "genitive_singular": "des Hungers",
     "sentences": [
       { "languageCode": "de", "text": "Der Hunger ist nach dem Sport groß." },
-      { "languageCode": "en", "text": "The hunger is great after sports." }
+      { "languageCode": "en", "text": "The hunger is great after sports." },
+      { "languageCode": "bn", "text": "খেলাধুলার পর ক্ষুধা প্রবল হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hunger" },
@@ -634,7 +667,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin sehr hungrig." },
-      { "languageCode": "en", "text": "I am very hungry." }
+      { "languageCode": "en", "text": "I am very hungry." },
+      { "languageCode": "bn", "text": "আমি খুব ক্ষুধার্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hungry" },
@@ -656,7 +690,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Rauchen ist schlecht für die Gesundheit." },
-      { "languageCode": "en", "text": "Smoking is bad for health." }
+      { "languageCode": "en", "text": "Smoking is bad for health." },
+      { "languageCode": "bn", "text": "ধূমপান স্বাস্থ্যের জন্য খারাপ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to smoke" },
@@ -678,7 +713,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Sie dürfen das Medikament nehmen." },
-      { "languageCode": "en", "text": "You may take the medicine." }
+      { "languageCode": "en", "text": "You may take the medicine." },
+      { "languageCode": "bn", "text": "আপনি ঔষধটা নিতে পারেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "may/to be allowed" },
@@ -700,7 +736,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Du sollst viel Wasser trinken." },
-      { "languageCode": "en", "text": "You should drink a lot of water." }
+      { "languageCode": "en", "text": "You should drink a lot of water." },
+      { "languageCode": "bn", "text": "তোমার অনেক পানি পান করা উচিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "should" },
@@ -722,7 +759,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich nehme die Tablette dreimal am Tag." },
-      { "languageCode": "en", "text": "I take the tablet three times a day." }
+      { "languageCode": "en", "text": "I take the tablet three times a day." },
+      { "languageCode": "bn", "text": "আমি দিনে তিনবার ট্যাবলেটটা নিই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to take" },
@@ -744,7 +782,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Mein Kopf tut weh." },
-      { "languageCode": "en", "text": "My head hurts." }
+      { "languageCode": "en", "text": "My head hurts." },
+      { "languageCode": "bn", "text": "আমার মাথায় ব্যথা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to hurt" },
@@ -766,7 +805,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich versuche, gesund zu leben." },
-      { "languageCode": "en", "text": "I try to live healthy." }
+      { "languageCode": "en", "text": "I try to live healthy." },
+      { "languageCode": "bn", "text": "আমি সুস্থভাবে বাঁচার চেষ্টা করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to try" },
@@ -785,7 +825,8 @@
     "genitive_singular": "des Bades",
     "sentences": [
       { "languageCode": "de", "text": "Das Bad ist neben dem Schlafzimmer." },
-      { "languageCode": "en", "text": "The bathroom is next to the bedroom." }
+      { "languageCode": "en", "text": "The bathroom is next to the bedroom." },
+      { "languageCode": "bn", "text": "বাথরুমটা শোবার ঘরের পাশে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bathroom" },
@@ -807,7 +848,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich bade jeden Tag." },
-      { "languageCode": "en", "text": "I bathe every day." }
+      { "languageCode": "en", "text": "I bathe every day." },
+      { "languageCode": "bn", "text": "আমি প্রতিদিন গোসল করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to bathe" },

@@ -10,7 +10,8 @@
     "genitive_singular": "des Abschnitts",
     "sentences": [
       { "languageCode": "de", "text": "Der Abschnitt ist kurz." },
-      { "languageCode": "en", "text": "The section is short." }
+      { "languageCode": "en", "text": "The section is short." },
+      { "languageCode": "bn", "text": "অংশটা সংক্ষিপ্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "section" },
@@ -28,7 +29,8 @@
     "genitive_singular": "des Adjektivs",
     "sentences": [
       { "languageCode": "de", "text": "Das Adjektiv ist 'schön'." },
-      { "languageCode": "en", "text": "The adjective is 'beautiful'." }
+      { "languageCode": "en", "text": "The adjective is 'beautiful'." },
+      { "languageCode": "bn", "text": "বিশেষণটি হলো 'সুন্দর'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "adjective" },
@@ -46,7 +48,8 @@
     "genitive_singular": "des Akkusativs",
     "sentences": [
       { "languageCode": "de", "text": "Der Akkusativ ist 'den Mann'." },
-      { "languageCode": "en", "text": "The accusative is 'the man'." }
+      { "languageCode": "en", "text": "The accusative is 'the man'." },
+      { "languageCode": "bn", "text": "কর্মকারকটি হলো 'লোকটিকে'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "accusative" },
@@ -64,7 +67,8 @@
     "genitive_singular": "der Antwort",
     "sentences": [
       { "languageCode": "de", "text": "Die Antwort ist richtig." },
-      { "languageCode": "en", "text": "The answer is correct." }
+      { "languageCode": "en", "text": "The answer is correct." },
+      { "languageCode": "bn", "text": "উত্তরটা সঠিক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "answer" },
@@ -85,7 +89,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich antworte auf die Frage." },
-      { "languageCode": "en", "text": "I answer the question." }
+      { "languageCode": "en", "text": "I answer the question." },
+      { "languageCode": "bn", "text": "আমি প্রশ্নের উত্তর দিচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to answer" },
@@ -103,11 +108,12 @@
     "genitive_singular": "des Artikels",
     "sentences": [
       { "languageCode": "de", "text": "Der Artikel ist 'der'." },
-      { "languageCode": "en", "text": "The article is 'the'." }
+      { "languageCode": "en", "text": "The article is 'the'." },
+      { "languageCode": "bn", "text": "জার্মান আর্টিকেলটি হলো 'der'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "article" },
-      { "languageCode": "bn", "text": "প্রবন্ধ" }
+      { "languageCode": "bn", "text": "আর্টিকেল" }
     ]
   },
   {
@@ -121,7 +127,8 @@
     "genitive_singular": "der Assoziation",
     "sentences": [
       { "languageCode": "de", "text": "Die Assoziation hilft beim Lernen." },
-      { "languageCode": "en", "text": "The association helps with learning." }
+      { "languageCode": "en", "text": "The association helps with learning." },
+      { "languageCode": "bn", "text": "সংযোগ শেখার ক্ষেত্রে সাহায্য করে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "association" },
@@ -142,7 +149,8 @@
     "separable_prefix": "aus",
     "sentences": [
       { "languageCode": "de", "text": "Ich fülle das Formular aus." },
-      { "languageCode": "en", "text": "I fill out the form." }
+      { "languageCode": "en", "text": "I fill out the form." },
+      { "languageCode": "bn", "text": "আমি ফর্মটা পূরণ করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to fill out" },
@@ -163,7 +171,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Er beschreibt das Bild." },
-      { "languageCode": "en", "text": "He describes the picture." }
+      { "languageCode": "en", "text": "He describes the picture." },
+      { "languageCode": "bn", "text": "সে ছবিটা বর্ণনা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to describe" },
@@ -181,7 +190,8 @@
     "genitive_singular": "der Betonung",
     "sentences": [
       { "languageCode": "de", "text": "Die Betonung ist wichtig." },
-      { "languageCode": "en", "text": "The stress is important." }
+      { "languageCode": "en", "text": "The stress is important." },
+      { "languageCode": "bn", "text": "জোর দেওয়াটা গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "stress" },
@@ -202,7 +212,8 @@
     "separable_prefix": "dazu",
     "sentences": [
       { "languageCode": "de", "text": "Das gehört dazu." },
-      { "languageCode": "en", "text": "That belongs to it." }
+      { "languageCode": "en", "text": "That belongs to it." },
+      { "languageCode": "bn", "text": "এটা এর অন্তর্ভুক্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to belong to" },
@@ -218,7 +229,8 @@
     "cases": {"nominative": "dein", "accusative": "deinen", "dative": "deinem", "genitive": "deines"},
     "sentences": [
       { "languageCode": "de", "text": "Das ist dein Buch." },
-      { "languageCode": "en", "text": "That is your book." }
+      { "languageCode": "en", "text": "That is your book." },
+      { "languageCode": "bn", "text": "এটা তোমার বই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "your" },
@@ -234,7 +246,8 @@
     "cases": {"nominative": "deine", "accusative": "deine", "dative": "deiner", "genitive": "deiner"},
     "sentences": [
       { "languageCode": "de", "text": "Deine Schwester ist nett." },
-      { "languageCode": "en", "text": "Your sister is nice." }
+      { "languageCode": "en", "text": "Your sister is nice." },
+      { "languageCode": "bn", "text": "তোমার বোন খুব ভালো মানুষ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "your (feminine)" },
@@ -249,7 +262,8 @@
     "conjunction_type": "coordinating",
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe nach Hause, denn es ist spät." },
-      { "languageCode": "en", "text": "I'm going home, because it's late." }
+      { "languageCode": "en", "text": "I'm going home, because it's late." },
+      { "languageCode": "bn", "text": "আমি বাড়ি যাচ্ছি, কারণ দেরি হয়ে গেছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "because" },
@@ -268,7 +282,8 @@
     "genitive": "deiner",
     "sentences": [
       { "languageCode": "de", "text": "Ich sehe dich." },
-      { "languageCode": "en", "text": "I see you." }
+      { "languageCode": "en", "text": "I see you." },
+      { "languageCode": "bn", "text": "আমি তোমাকে দেখছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "you (accusative)" },
@@ -283,7 +298,8 @@
     "determiner_type": "demonstrative",
     "sentences": [
       { "languageCode": "de", "text": "Diese Blume ist schön." },
-      { "languageCode": "en", "text": "This flower is beautiful." }
+      { "languageCode": "en", "text": "This flower is beautiful." },
+      { "languageCode": "bn", "text": "এই ফুলটা সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "this (feminine)" },
@@ -298,7 +314,8 @@
     "determiner_type": "demonstrative",
     "sentences": [
       { "languageCode": "de", "text": "Dieser Mann ist mein Lehrer." },
-      { "languageCode": "en", "text": "This man is my teacher." }
+      { "languageCode": "en", "text": "This man is my teacher." },
+      { "languageCode": "bn", "text": "এই লোকটা আমার শিক্ষক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "this (masculine)" },
@@ -319,7 +336,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Der Lehrer erklärt die Regel." },
-      { "languageCode": "en", "text": "The teacher explains the rule." }
+      { "languageCode": "en", "text": "The teacher explains the rule." },
+      { "languageCode": "bn", "text": "শিক্ষক নিয়মটা ব্যাখ্যা করছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to explain" },
@@ -340,7 +358,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich ersetze das Wort." },
-      { "languageCode": "en", "text": "I replace the word." }
+      { "languageCode": "en", "text": "I replace the word." },
+      { "languageCode": "bn", "text": "আমি শব্দটা প্রতিস্থাপন করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to replace" },
@@ -361,7 +380,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Sie erzählt eine Geschichte." },
-      { "languageCode": "en", "text": "She tells a story." }
+      { "languageCode": "en", "text": "She tells a story." },
+      { "languageCode": "bn", "text": "সে একটা গল্প বলছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to tell" },
@@ -380,7 +400,8 @@
     "genitive": "euer",
     "sentences": [
       { "languageCode": "de", "text": "Ich besuche euch morgen." },
-      { "languageCode": "en", "text": "I will visit you tomorrow." }
+      { "languageCode": "en", "text": "I will visit you tomorrow." },
+      { "languageCode": "bn", "text": "আমি আগামীকাল তোমাদের সাথে দেখা করতে আসব।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "you (plural, accusative/dative)" },
@@ -396,7 +417,8 @@
     "cases": {"nominative": "euer", "accusative": "euren", "dative": "eurem", "genitive": "eures"},
     "sentences": [
       { "languageCode": "de", "text": "Euer Haus ist groß." },
-      { "languageCode": "en", "text": "Your house is big." }
+      { "languageCode": "en", "text": "Your house is big." },
+      { "languageCode": "bn", "text": "তোমাদের বাড়িটা বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "your (plural, masculine)" },
@@ -412,7 +434,8 @@
     "cases": {"nominative": "eure", "accusative": "eure", "dative": "eurer", "genitive": "eurer"},
     "sentences": [
       { "languageCode": "de", "text": "Eure Katze ist süß." },
-      { "languageCode": "en", "text": "Your cat is cute." }
+      { "languageCode": "en", "text": "Your cat is cute." },
+      { "languageCode": "bn", "text": "তোমাদের বিড়ালটা মিষ্টি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "your (plural, feminine)" },
@@ -429,7 +452,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist eine formelle Sprache." },
-      { "languageCode": "en", "text": "That is formal language." }
+      { "languageCode": "en", "text": "That is formal language." },
+      { "languageCode": "bn", "text": "এটা একটা আনুষ্ঠানিক ভাষা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "formal" },
@@ -450,7 +474,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich frage den Lehrer." },
-      { "languageCode": "en", "text": "I ask the teacher." }
+      { "languageCode": "en", "text": "I ask the teacher." },
+      { "languageCode": "bn", "text": "আমি শিক্ষককে জিজ্ঞাসা করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to ask" },
@@ -468,7 +493,8 @@
     "genitive_singular": "des Frageworts",
     "sentences": [
       { "languageCode": "de", "text": "Das Fragewort ist 'was'." },
-      { "languageCode": "en", "text": "The question word is 'what'." }
+      { "languageCode": "en", "text": "The question word is 'what'." },
+      { "languageCode": "bn", "text": "প্রশ্নবোধক শব্দটি হলো 'কী'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "question word" },
@@ -489,7 +515,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Er führt das Gespräch." },
-      { "languageCode": "en", "text": "He leads the conversation." }
+      { "languageCode": "en", "text": "He leads the conversation." },
+      { "languageCode": "bn", "text": "সে কথোপকথন পরিচালনা করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to lead" },
@@ -507,7 +534,8 @@
     "genitive_singular": "des Grundes",
     "sentences": [
       { "languageCode": "de", "text": "Der Grund ist wichtig." },
-      { "languageCode": "en", "text": "The reason is important." }
+      { "languageCode": "en", "text": "The reason is important." },
+      { "languageCode": "bn", "text": "কারণটা গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "reason" },
@@ -526,7 +554,8 @@
     "genitive": "-",
     "sentences": [
       { "languageCode": "de", "text": "Komm her!" },
-      { "languageCode": "en", "text": "Come here!" }
+      { "languageCode": "en", "text": "Come here!" },
+      { "languageCode": "bn", "text": "এখানে এসো!" }
     ],
     "translations": [
       { "languageCode": "en", "text": "here (direction)" },
@@ -543,7 +572,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Er ist sehr höflich." },
-      { "languageCode": "en", "text": "He is very polite." }
+      { "languageCode": "en", "text": "He is very polite." },
+      { "languageCode": "bn", "text": "সে খুব ভদ্র।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "polite" },
@@ -564,7 +594,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich höre Musik." },
-      { "languageCode": "en", "text": "I listen to music." }
+      { "languageCode": "en", "text": "I listen to music." },
+      { "languageCode": "bn", "text": "আমি গান শুনছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to listen" },
@@ -583,7 +614,8 @@
     "genitive": "seiner",
     "sentences": [
       { "languageCode": "de", "text": "Ich kenne ihn." },
-      { "languageCode": "en", "text": "I know him." }
+      { "languageCode": "en", "text": "I know him." },
+      { "languageCode": "bn", "text": "আমি তাকে চিনি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "him" },
@@ -601,7 +633,8 @@
     "genitive_singular": "des Imperativs",
     "sentences": [
       { "languageCode": "de", "text": "Der Imperativ ist 'Komm!'." },
-      { "languageCode": "en", "text": "The imperative is 'Come!'." }
+      { "languageCode": "en", "text": "The imperative is 'Come!'." },
+      { "languageCode": "bn", "text": "আদেশসূচক রূপটি হলো 'এসো!'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "imperative" },
@@ -618,7 +651,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Wir sprechen informell." },
-      { "languageCode": "en", "text": "We speak informally." }
+      { "languageCode": "en", "text": "We speak informally." },
+      { "languageCode": "bn", "text": "আমরা অনানুষ্ঠানিকভাবে কথা বলি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "informal" },
@@ -637,7 +671,8 @@
     "genitive": "jemandes",
     "sentences": [
       { "languageCode": "de", "text": "Jemand ist an der Tür." },
-      { "languageCode": "en", "text": "Someone is at the door." }
+      { "languageCode": "en", "text": "Someone is at the door." },
+      { "languageCode": "bn", "text": "দরজায় কেউ আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "someone" },
@@ -658,7 +693,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Das klingt gut." },
-      { "languageCode": "en", "text": "That sounds good." }
+      { "languageCode": "en", "text": "That sounds good." },
+      { "languageCode": "bn", "text": "এটা শুনতে ভালো লাগছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to sound" },
@@ -679,7 +715,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich kann Deutsch sprechen." },
-      { "languageCode": "en", "text": "I can speak German." }
+      { "languageCode": "en", "text": "I can speak German." },
+      { "languageCode": "bn", "text": "আমি জার্মান বলতে পারি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "can" },
@@ -697,7 +734,8 @@
     "genitive_singular": "des Konsonanten",
     "sentences": [
       { "languageCode": "de", "text": "Der Konsonant 'B' ist laut." },
-      { "languageCode": "en", "text": "The consonant 'B' is loud." }
+      { "languageCode": "en", "text": "The consonant 'B' is loud." },
+      { "languageCode": "bn", "text": "ব্যঞ্জনবর্ণ 'B' জোরে উচ্চারিত হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "consonant" },
@@ -718,7 +756,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Sie korrigiert den Fehler." },
-      { "languageCode": "en", "text": "She corrects the mistake." }
+      { "languageCode": "en", "text": "She corrects the mistake." },
+      { "languageCode": "bn", "text": "সে ভুলটা সংশোধন করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to correct" },
@@ -739,7 +778,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich kriege ein Geschenk." },
-      { "languageCode": "en", "text": "I get a gift." }
+      { "languageCode": "en", "text": "I get a gift." },
+      { "languageCode": "bn", "text": "আমি একটা উপহার পাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to get" },
@@ -757,7 +797,8 @@
     "genitive_singular": "der Kurzform",
     "sentences": [
       { "languageCode": "de", "text": "Die Kurzform ist 'ich bin'." },
-      { "languageCode": "en", "text": "The short form is 'I am'." }
+      { "languageCode": "en", "text": "The short form is 'I am'." },
+      { "languageCode": "bn", "text": "সংক্ষিপ্ত রূপটি হলো 'আমি আছি'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "short form" },
@@ -774,7 +815,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Die Musik ist laut." },
-      { "languageCode": "en", "text": "The music is loud." }
+      { "languageCode": "en", "text": "The music is loud." },
+      { "languageCode": "bn", "text": "গানটা জোরে বাজছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "loud" },
@@ -791,7 +833,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Bitte sprechen Sie leise." },
-      { "languageCode": "en", "text": "Please speak quietly." }
+      { "languageCode": "en", "text": "Please speak quietly." },
+      { "languageCode": "bn", "text": "দয়া করে আস্তে কথা বলুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "quiet/soft" },
@@ -812,7 +855,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich lese ein Buch." },
-      { "languageCode": "en", "text": "I read a book." }
+      { "languageCode": "en", "text": "I read a book." },
+      { "languageCode": "bn", "text": "আমি একটা বই পড়ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to read" },
@@ -828,7 +872,8 @@
     "cases": {"nominative": "mein", "accusative": "meinen", "dative": "meinem", "genitive": "meines"},
     "sentences": [
       { "languageCode": "de", "text": "Das ist mein Buch." },
-      { "languageCode": "en", "text": "That is my book." }
+      { "languageCode": "en", "text": "That is my book." },
+      { "languageCode": "bn", "text": "এটা আমার বই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "my" },
@@ -846,7 +891,8 @@
     "genitive_singular": "der Methode",
     "sentences": [
       { "languageCode": "de", "text": "Die Methode ist gut." },
-      { "languageCode": "en", "text": "The method is good." }
+      { "languageCode": "en", "text": "The method is good." },
+      { "languageCode": "bn", "text": "পদ্ধতিটা ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "method" },
@@ -865,7 +911,8 @@
     "genitive": "meiner",
     "sentences": [
       { "languageCode": "de", "text": "Sie sieht mich." },
-      { "languageCode": "en", "text": "She sees me." }
+      { "languageCode": "en", "text": "She sees me." },
+      { "languageCode": "bn", "text": "সে আমাকে দেখছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "me" },
@@ -883,7 +930,8 @@
     "genitive_singular": "der Mindmap",
     "sentences": [
       { "languageCode": "de", "text": "Die Mindmap ist nützlich." },
-      { "languageCode": "en", "text": "The mind map is useful." }
+      { "languageCode": "en", "text": "The mind map is useful." },
+      { "languageCode": "bn", "text": "মাইন্ড ম্যাপটা কার্যকর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "mind map" },
@@ -904,7 +952,8 @@
     "separable_prefix": "mit",
     "sentences": [
       { "languageCode": "de", "text": "Ich spreche mit meinem Freund mit." },
-      { "languageCode": "en", "text": "I speak along with my friend." }
+      { "languageCode": "en", "text": "I speak along with my friend." },
+      { "languageCode": "bn", "text": "আমি আমার বন্ধুর সাথে কথা বলছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to speak along" },
@@ -925,7 +974,8 @@
     "separable_prefix": "nach",
     "sentences": [
       { "languageCode": "de", "text": "Ich frage nach dem Weg." },
-      { "languageCode": "en", "text": "I ask for directions." }
+      { "languageCode": "en", "text": "I ask for directions." },
+      { "languageCode": "bn", "text": "আমি পথ সম্পর্কে জিজ্ঞাসা করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to ask for" },
@@ -946,7 +996,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Sie nennt ihren Namen." },
-      { "languageCode": "en", "text": "She says her name." }
+      { "languageCode": "en", "text": "She says her name." },
+      { "languageCode": "bn", "text": "সে তার নাম বলছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to name/call" },
@@ -963,7 +1014,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe nicht nach Hause." },
-      { "languageCode": "en", "text": "I'm not going home." }
+      { "languageCode": "en", "text": "I'm not going home." },
+      { "languageCode": "bn", "text": "আমি বাড়ি যাচ্ছি না।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "not" },
@@ -980,7 +1032,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin noch müde." },
-      { "languageCode": "en", "text": "I'm still tired." }
+      { "languageCode": "en", "text": "I'm still tired." },
+      { "languageCode": "bn", "text": "আমি এখনও ক্লান্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "still" },
@@ -997,7 +1050,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Sag das noch mal!" },
-      { "languageCode": "en", "text": "Say that again!" }
+      { "languageCode": "en", "text": "Say that again!" },
+      { "languageCode": "bn", "text": "এটা আবার বলো!" }
     ],
     "translations": [
       { "languageCode": "en", "text": "again" },
@@ -1015,7 +1069,8 @@
     "genitive_singular": "des Nominativs",
     "sentences": [
       { "languageCode": "de", "text": "Der Nominativ ist 'der Mann'." },
-      { "languageCode": "en", "text": "The nominative is 'the man'." }
+      { "languageCode": "en", "text": "The nominative is 'the man'." },
+      { "languageCode": "bn", "text": "কর্তৃকারকটি হলো 'লোকটি'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "nominative" },
@@ -1030,7 +1085,8 @@
     "conjunction_type": "coordinating",
     "sentences": [
       { "languageCode": "de", "text": "Kaffee oder Tee?" },
-      { "languageCode": "en", "text": "Coffee or tea?" }
+      { "languageCode": "en", "text": "Coffee or tea?" },
+      { "languageCode": "bn", "text": "কফি নাকি চা?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "or" },
@@ -1047,7 +1103,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist ein passendes Wort." },
-      { "languageCode": "en", "text": "That is a suitable word." }
+      { "languageCode": "en", "text": "That is a suitable word." },
+      { "languageCode": "bn", "text": "এটা একটা উপযুক্ত শব্দ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "suitable/fitting" },
@@ -1065,7 +1122,8 @@
     "genitive_singular": "des Personalpronomens",
     "sentences": [
       { "languageCode": "de", "text": "Das Personalpronomen ist 'ich'." },
-      { "languageCode": "en", "text": "The personal pronoun is 'I'." }
+      { "languageCode": "en", "text": "The personal pronoun is 'I'." },
+      { "languageCode": "bn", "text": "ব্যক্তিবাচক সর্বনামটি হলো 'আমি'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "personal pronoun" },
@@ -1083,7 +1141,8 @@
     "genitive_singular": "des Plurals",
     "sentences": [
       { "languageCode": "de", "text": "Der Plural von 'Buch' ist 'Bücher'." },
-      { "languageCode": "en", "text": "The plural of 'book' is 'books'." }
+      { "languageCode": "en", "text": "The plural of 'book' is 'books'." },
+      { "languageCode": "bn", "text": "'বই' শব্দের বহুবচন হলো 'বইগুলো'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "plural" },
@@ -1101,7 +1160,8 @@
     "genitive_singular": "der Position",
     "sentences": [
       { "languageCode": "de", "text": "Die Position ist am Anfang." },
-      { "languageCode": "en", "text": "The position is at the beginning." }
+      { "languageCode": "en", "text": "The position is at the beginning." },
+      { "languageCode": "bn", "text": "অবস্থানটা শুরুতে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "position" },
@@ -1119,7 +1179,8 @@
     "genitive_singular": "des Präfixes",
     "sentences": [
       { "languageCode": "de", "text": "Das Präfix ist 'un-'." },
-      { "languageCode": "en", "text": "The prefix is 'un-'." }
+      { "languageCode": "en", "text": "The prefix is 'un-'." },
+      { "languageCode": "bn", "text": "উপসর্গটি হলো 'un-'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "prefix" },
@@ -1137,7 +1198,8 @@
     "genitive_singular": "des Präteritums",
     "sentences": [
       { "languageCode": "de", "text": "Das Präteritum ist 'ich ging'." },
-      { "languageCode": "en", "text": "The preterite is 'I went'." }
+      { "languageCode": "en", "text": "The preterite is 'I went'." },
+      { "languageCode": "bn", "text": "অতীত কালের রূপটি হলো 'আমি গিয়েছিলাম'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "preterite" },
@@ -1155,11 +1217,12 @@
     "genitive_singular": "des Punkts",
     "sentences": [
       { "languageCode": "de", "text": "Der Punkt ist am Ende." },
-      { "languageCode": "en", "text": "The period is at the end." }
+      { "languageCode": "en", "text": "The period is at the end." },
+      { "languageCode": "bn", "text": "দাঁড়িটি বাক্যের শেষে বসে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "period/point" },
-      { "languageCode": "bn", "text": "বিন্দু" }
+      { "languageCode": "bn", "text": "দাঁড়ি" }
     ]
   },
   {
@@ -1173,7 +1236,8 @@
     "genitive_singular": "der Regel",
     "sentences": [
       { "languageCode": "de", "text": "Die Regel ist einfach." },
-      { "languageCode": "en", "text": "The rule is simple." }
+      { "languageCode": "en", "text": "The rule is simple." },
+      { "languageCode": "bn", "text": "নিয়মটা সহজ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "rule" },
@@ -1194,7 +1258,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Er sagt die Wahrheit." },
-      { "languageCode": "en", "text": "He says the truth." }
+      { "languageCode": "en", "text": "He says the truth." },
+      { "languageCode": "bn", "text": "সে সত্যি কথা বলছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to say" },
@@ -1212,7 +1277,8 @@
     "genitive_singular": "des Satzes",
     "sentences": [
       { "languageCode": "de", "text": "Der Satz ist lang." },
-      { "languageCode": "en", "text": "The sentence is long." }
+      { "languageCode": "en", "text": "The sentence is long." },
+      { "languageCode": "bn", "text": "বাক্যটা লম্বা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sentence" },
@@ -1233,7 +1299,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich schreibe einen Brief." },
-      { "languageCode": "en", "text": "I write a letter." }
+      { "languageCode": "en", "text": "I write a letter." },
+      { "languageCode": "bn", "text": "আমি একটা চিঠি লিখছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to write" },
@@ -1254,7 +1321,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin müde." },
-      { "languageCode": "en", "text": "I am tired." }
+      { "languageCode": "en", "text": "I am tired." },
+      { "languageCode": "bn", "text": "আমি ক্লান্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to be" },
@@ -1273,7 +1341,8 @@
     "genitive": "ihrer",
     "sentences": [
       { "languageCode": "de", "text": "Sie ist meine Freundin." },
-      { "languageCode": "en", "text": "She is my friend." }
+      { "languageCode": "en", "text": "She is my friend." },
+      { "languageCode": "bn", "text": "সে আমার বান্ধবী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "she/they" },
@@ -1294,7 +1363,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich spreche Deutsch." },
-      { "languageCode": "en", "text": "I speak German." }
+      { "languageCode": "en", "text": "I speak German." },
+      { "languageCode": "bn", "text": "আমি জার্মান বলি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to speak" },
@@ -1312,7 +1382,8 @@
     "genitive_singular": "der Tabelle",
     "sentences": [
       { "languageCode": "de", "text": "Die Tabelle ist sehr hilfreich." },
-      { "languageCode": "en", "text": "The table is very helpful." }
+      { "languageCode": "en", "text": "The table is very helpful." },
+      { "languageCode": "bn", "text": "টেবিলটা খুবই সহায়ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "table" },
@@ -1330,7 +1401,8 @@
     "genitive_singular": "des Textbausteins",
     "sentences": [
       { "languageCode": "de", "text": "Der Textbaustein ist hilfreich." },
-      { "languageCode": "en", "text": "The text building block is helpful." }
+      { "languageCode": "en", "text": "The text building block is helpful." },
+      { "languageCode": "bn", "text": "টেক্সট বিল্ডিং ব্লকটি সহায়ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "text building block" },
@@ -1348,7 +1420,8 @@
     "genitive_singular": "des Textbausteins",
     "sentences": [
       { "languageCode": "de", "text": "Der Textbaustein ist wichtig." },
-      { "languageCode": "en", "text": "The text block is important." }
+      { "languageCode": "en", "text": "The text block is important." },
+      { "languageCode": "bn", "text": "টেক্সট ব্লকটি গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "text block" },
@@ -1366,7 +1439,8 @@
     "genitive_singular": "des Themas",
     "sentences": [
       { "languageCode": "de", "text": "Das Thema ist interessant." },
-      { "languageCode": "en", "text": "The topic is interesting." }
+      { "languageCode": "en", "text": "The topic is interesting." },
+      { "languageCode": "bn", "text": "বিষয়টা আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "topic" },
@@ -1383,7 +1457,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist ein thematisches Wort." },
-      { "languageCode": "en", "text": "That is a thematic word." }
+      { "languageCode": "en", "text": "That is a thematic word." },
+      { "languageCode": "bn", "text": "এটা একটা বিষয়ভিত্তিক শব্দ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "thematic" },
@@ -1404,7 +1479,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich treffe meinen Freund." },
-      { "languageCode": "en", "text": "I meet my friend." }
+      { "languageCode": "en", "text": "I meet my friend." },
+      { "languageCode": "bn", "text": "আমি আমার বন্ধুর সাথে দেখা করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to meet" },
@@ -1422,7 +1498,8 @@
     "genitive_singular": "des Umlauts",
     "sentences": [
       { "languageCode": "de", "text": "Der Umlaut ist 'ä'." },
-      { "languageCode": "en", "text": "The umlaut is 'ä'." }
+      { "languageCode": "en", "text": "The umlaut is 'ä'." },
+      { "languageCode": "bn", "text": "উমলাউতটি হলো 'ä'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "umlaut" },
@@ -1439,7 +1516,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist ein unbestimmter Artikel." },
-      { "languageCode": "en", "text": "That is an indefinite article." }
+      { "languageCode": "en", "text": "That is an indefinite article." },
+      { "languageCode": "bn", "text": "এটা একটা অনির্দিষ্ট আর্টিকেল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "indefinite" },
@@ -1454,7 +1532,8 @@
     "conjunction_type": "coordinating",
     "sentences": [
       { "languageCode": "de", "text": "Er liest und schreibt." },
-      { "languageCode": "en", "text": "He reads and writes." }
+      { "languageCode": "en", "text": "He reads and writes." },
+      { "languageCode": "bn", "text": "সে পড়ে এবং লেখে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "and" },
@@ -1471,7 +1550,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist unhöflich." },
-      { "languageCode": "en", "text": "That is impolite." }
+      { "languageCode": "en", "text": "That is impolite." },
+      { "languageCode": "bn", "text": "এটা অভদ্র আচরণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "impolite/rude" },
@@ -1487,7 +1567,8 @@
     "cases": {"nominative": "unser", "accusative": "unseren", "dative": "unserem", "genitive": "unseres"},
     "sentences": [
       { "languageCode": "de", "text": "Unser Haus ist klein." },
-      { "languageCode": "en", "text": "Our house is small." }
+      { "languageCode": "en", "text": "Our house is small." },
+      { "languageCode": "bn", "text": "আমাদের বাড়িটা ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "our (masculine)" },
@@ -1503,7 +1584,8 @@
     "cases": {"nominative": "unsere", "accusative": "unsere", "dative": "unserer", "genitive": "unserer"},
     "sentences": [
       { "languageCode": "de", "text": "Unsere Tochter ist fünf Jahre alt." },
-      { "languageCode": "en", "text": "Our daughter is five years old." }
+      { "languageCode": "en", "text": "Our daughter is five years old." },
+      { "languageCode": "bn", "text": "আমাদের মেয়ের বয়স পাঁচ বছর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "our (feminine)" },
@@ -1521,7 +1603,8 @@
     "genitive_singular": "des Verbs",
     "sentences": [
       { "languageCode": "de", "text": "Das Verb ist wichtig." },
-      { "languageCode": "en", "text": "The verb is important." }
+      { "languageCode": "en", "text": "The verb is important." },
+      { "languageCode": "bn", "text": "ক্রিয়াপদটা গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "verb" },
@@ -1542,7 +1625,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich verwende einen Bleistift." },
-      { "languageCode": "en", "text": "I use a pencil." }
+      { "languageCode": "en", "text": "I use a pencil." },
+      { "languageCode": "bn", "text": "আমি একটা পেন্সিল ব্যবহার করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to use" },
@@ -1560,7 +1644,8 @@
     "genitive_singular": "des Vokals",
     "sentences": [
       { "languageCode": "de", "text": "Der Vokal 'A' ist wichtig." },
-      { "languageCode": "en", "text": "The vowel 'A' is important." }
+      { "languageCode": "en", "text": "The vowel 'A' is important." },
+      { "languageCode": "bn", "text": "স্বরবর্ণ 'A' গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "vowel" },
@@ -1581,7 +1666,8 @@
     "separable_prefix": "vor",
     "sentences": [
       { "languageCode": "de", "text": "Der Lehrer liest das Buch vor." },
-      { "languageCode": "en", "text": "The teacher reads the book aloud." }
+      { "languageCode": "en", "text": "The teacher reads the book aloud." },
+      { "languageCode": "bn", "text": "শিক্ষক বইটা জোরে পড়ে শোনাচ্ছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to read aloud" },
@@ -1598,7 +1684,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Wann kommst du?" },
-      { "languageCode": "en", "text": "When are you coming?" }
+      { "languageCode": "en", "text": "When are you coming?" },
+      { "languageCode": "bn", "text": "তুমি কখন আসবে?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "when" },
@@ -1617,7 +1704,8 @@
     "genitive": "-",
     "sentences": [
       { "languageCode": "de", "text": "Was ist das?" },
-      { "languageCode": "en", "text": "What is that?" }
+      { "languageCode": "en", "text": "What is that?" },
+      { "languageCode": "bn", "text": "এটা কী?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "what" },
@@ -1638,7 +1726,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich wasche meine Hände." },
-      { "languageCode": "en", "text": "I wash my hands." }
+      { "languageCode": "en", "text": "I wash my hands." },
+      { "languageCode": "bn", "text": "আমি হাত ধুচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to wash" },
@@ -1656,7 +1745,8 @@
     "genitive_singular": "der Wechselpräposition",
     "sentences": [
       { "languageCode": "de", "text": "Die Wechselpräposition ist 'in'." },
-      { "languageCode": "en", "text": "The two-way preposition is 'in'." }
+      { "languageCode": "en", "text": "The two-way preposition is 'in'." },
+      { "languageCode": "bn", "text": "দ্বিমুখী অব্যয়টি হলো 'in'।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "two-way preposition" },
@@ -1674,7 +1764,8 @@
     "genitive_singular": "der Weise",
     "sentences": [
       { "languageCode": "de", "text": "Die Weise ist sehr gut." },
-      { "languageCode": "en", "text": "The way is very good." }
+      { "languageCode": "en", "text": "The way is very good." },
+      { "languageCode": "bn", "text": "উপায়টা খুবই ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "way" },
@@ -1693,7 +1784,8 @@
     "genitive": "welcher",
     "sentences": [
       { "languageCode": "de", "text": "Welche Farbe magst du?" },
-      { "languageCode": "en", "text": "Which color do you like?" }
+      { "languageCode": "en", "text": "Which color do you like?" },
+      { "languageCode": "bn", "text": "তুমি কোন রঙ পছন্দ করো?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "which (feminine)" },
@@ -1712,7 +1804,8 @@
     "genitive": "welches",
     "sentences": [
       { "languageCode": "de", "text": "Welcher Tag ist heute?" },
-      { "languageCode": "en", "text": "Which day is today?" }
+      { "languageCode": "en", "text": "Which day is today?" },
+      { "languageCode": "bn", "text": "আজ কোন দিন?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "which (masculine)" },
@@ -1729,7 +1822,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist ein wichtiges Wort." },
-      { "languageCode": "en", "text": "That is an important word." }
+      { "languageCode": "en", "text": "That is an important word." },
+      { "languageCode": "bn", "text": "এটা একটা গুরুত্বপূর্ণ শব্দ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "important" },
@@ -1746,7 +1840,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Wie heißt du?" },
-      { "languageCode": "en", "text": "What is your name?" }
+      { "languageCode": "en", "text": "What is your name?" },
+      { "languageCode": "bn", "text": "তোমার নাম কী?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "how" },
@@ -1761,7 +1856,8 @@
     "interjection_function": "clarification",
     "sentences": [
       { "languageCode": "de", "text": "Wie bitte? Können Sie das wiederholen?" },
-      { "languageCode": "en", "text": "Excuse me? Can you repeat that?" }
+      { "languageCode": "en", "text": "Excuse me? Can you repeat that?" },
+      { "languageCode": "bn", "text": "মাফ করবেন? আপনি কি এটা আবার বলতে পারবেন?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "excuse me/pardon" },
@@ -1778,7 +1874,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Wie lange bleibst du?" },
-      { "languageCode": "en", "text": "How long are you staying?" }
+      { "languageCode": "en", "text": "How long are you staying?" },
+      { "languageCode": "bn", "text": "তুমি কত দিন থাকবে?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "how long" },
@@ -1799,7 +1896,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Bitte wiederholen Sie das." },
-      { "languageCode": "en", "text": "Please repeat that." }
+      { "languageCode": "en", "text": "Please repeat that." },
+      { "languageCode": "bn", "text": "দয়া করে এটা আবার বলুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to repeat" },
@@ -1820,7 +1918,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich weiß die Antwort." },
-      { "languageCode": "en", "text": "I know the answer." }
+      { "languageCode": "en", "text": "I know the answer." },
+      { "languageCode": "bn", "text": "আমি উত্তরটা জানি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to know" },
@@ -1837,7 +1936,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Wo ist mein Buch?" },
-      { "languageCode": "en", "text": "Where is my book?" }
+      { "languageCode": "en", "text": "Where is my book?" },
+      { "languageCode": "bn", "text": "আমার বইটা কোথায়?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "where" },
@@ -1854,7 +1954,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Woher kommst du?" },
-      { "languageCode": "en", "text": "Where are you from?" }
+      { "languageCode": "en", "text": "Where are you from?" },
+      { "languageCode": "bn", "text": "তুমি কোথা থেকে এসেছ?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "where from" },
@@ -1872,7 +1973,8 @@
     "genitive_singular": "der Wortgruppe",
     "sentences": [
       { "languageCode": "de", "text": "Die Wortgruppe ist wichtig." },
-      { "languageCode": "en", "text": "The word group is important." }
+      { "languageCode": "en", "text": "The word group is important." },
+      { "languageCode": "bn", "text": "শব্দ গোষ্ঠীটা গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "word group" },
@@ -1887,7 +1989,8 @@
     "conjunction_type": "coordinating",
     "sentences": [
       { "languageCode": "de", "text": "Ich esse gerne Obst, zum Beispiel Äpfel." },
-      { "languageCode": "en", "text": "I like to eat fruit, for example apples." }
+      { "languageCode": "en", "text": "I like to eat fruit, for example apples." },
+      { "languageCode": "bn", "text": "আমি ফল খেতে পছন্দ করি, উদাহরণস্বরূপ আপেল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "for example" },
@@ -1908,7 +2011,8 @@
     "separable_prefix": "zu",
     "sentences": [
       { "languageCode": "de", "text": "Ich ordne die Wörter zu." },
-      { "languageCode": "en", "text": "I assign the words." }
+      { "languageCode": "en", "text": "I assign the words." },
+      { "languageCode": "bn", "text": "আমি শব্দগুলো বরাদ্দ করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to assign" },
@@ -1929,7 +2033,8 @@
     "separable_prefix": "zurück",
     "sentences": [
       { "languageCode": "de", "text": "Ich schicke das Paket zurück." },
-      { "languageCode": "en", "text": "I send the package back." }
+      { "languageCode": "en", "text": "I send the package back." },
+      { "languageCode": "bn", "text": "আমি প্যাকেটটা ফেরত পাঠাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to send back" },
@@ -1950,7 +2055,8 @@
     "separable_prefix": "zusammen",
     "sentences": [
       { "languageCode": "de", "text": "Die Wörter gehören zusammen." },
-      { "languageCode": "en", "text": "The words belong together." }
+      { "languageCode": "en", "text": "The words belong together." },
+      { "languageCode": "bn", "text": "শব্দগুলো একসাথে থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to belong together" },

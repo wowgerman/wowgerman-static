@@ -10,7 +10,8 @@
     "genitive_singular": "des Frühlings",
     "sentences": [
       { "languageCode": "de", "text": "Der Frühling ist schön." },
-      { "languageCode": "en", "text": "Spring is beautiful." }
+      { "languageCode": "en", "text": "Spring is beautiful." },
+      { "languageCode": "bn", "text": "বসন্তকাল সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "spring" },
@@ -28,7 +29,8 @@
     "genitive_singular": "des Herbsts",
     "sentences": [
       { "languageCode": "de", "text": "Im Herbst fallen die Blätter." },
-      { "languageCode": "en", "text": "In autumn, the leaves fall." }
+      { "languageCode": "en", "text": "In autumn, the leaves fall." },
+      { "languageCode": "bn", "text": "শরৎকালে পাতা ঝরে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "autumn" },
@@ -46,7 +48,8 @@
     "genitive_singular": "der Jahreszeit",
     "sentences": [
       { "languageCode": "de", "text": "Meine Lieblingsjahreszeit ist der Frühling." },
-      { "languageCode": "en", "text": "My favorite season is spring." }
+      { "languageCode": "en", "text": "My favorite season is spring." },
+      { "languageCode": "bn", "text": "আমার প্রিয় ঋতু হলো বসন্তকাল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "season" },
@@ -63,7 +66,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Wasser ist kalt." },
-      { "languageCode": "en", "text": "The water is cold." }
+      { "languageCode": "en", "text": "The water is cold." },
+      { "languageCode": "bn", "text": "পানি ঠান্ডা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cold" },
@@ -80,7 +84,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Es ist ein regnerischer Tag." },
-      { "languageCode": "en", "text": "It's a rainy day." }
+      { "languageCode": "en", "text": "It's a rainy day." },
+      { "languageCode": "bn", "text": "আজ একটি বৃষ্টিযুক্ত দিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "rainy" },
@@ -98,7 +103,8 @@
     "genitive_singular": "des Schnees",
     "sentences": [
       { "languageCode": "de", "text": "Der Schnee ist weiß." },
-      { "languageCode": "en", "text": "The snow is white." }
+      { "languageCode": "en", "text": "The snow is white." },
+      { "languageCode": "bn", "text": "তুষার সাদা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "snow" },
@@ -119,7 +125,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Es schneit heute." },
-      { "languageCode": "en", "text": "It's snowing today." }
+      { "languageCode": "en", "text": "It's snowing today." },
+      { "languageCode": "bn", "text": "আজ তুষারপাত হচ্ছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to snow" },
@@ -137,7 +144,8 @@
     "genitive_singular": "des Sommers",
     "sentences": [
       { "languageCode": "de", "text": "Der Sommer ist warm." },
-      { "languageCode": "en", "text": "Summer is warm." }
+      { "languageCode": "en", "text": "Summer is warm." },
+      { "languageCode": "bn", "text": "গ্রীষ্মকাল গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "summer" },
@@ -155,7 +163,8 @@
     "genitive_singular": "der Sonne",
     "sentences": [
       { "languageCode": "de", "text": "Die Sonne scheint heute." },
-      { "languageCode": "en", "text": "The sun is shining today." }
+      { "languageCode": "en", "text": "The sun is shining today." },
+      { "languageCode": "bn", "text": "আজ সূর্য ঝলমল করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sun" },
@@ -172,7 +181,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Heute ist ein sonniger Tag." },
-      { "languageCode": "en", "text": "Today is a sunny day." }
+      { "languageCode": "en", "text": "Today is a sunny day." },
+      { "languageCode": "bn", "text": "আজ একটি রৌদ্রজ্জ্বল দিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sunny" },
@@ -189,7 +199,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Wetter ist warm." },
-      { "languageCode": "en", "text": "The weather is warm." }
+      { "languageCode": "en", "text": "The weather is warm." },
+      { "languageCode": "bn", "text": "আবহাওয়া গরম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "warm" },
@@ -207,7 +218,8 @@
     "genitive_singular": "des Wetterberichts",
     "sentences": [
       { "languageCode": "de", "text": "Der Wetterbericht sagt Regen voraus." },
-      { "languageCode": "en", "text": "The weather report predicts rain." }
+      { "languageCode": "en", "text": "The weather report predicts rain." },
+      { "languageCode": "bn", "text": "আবহাওয়ার প্রতিবেদনে বৃষ্টির পূর্বাভাস দেওয়া হয়েছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "weather report" },
@@ -225,7 +237,8 @@
     "genitive_singular": "des Windes",
     "sentences": [
       { "languageCode": "de", "text": "Der Wind ist sehr stark." },
-      { "languageCode": "en", "text": "The wind is very strong." }
+      { "languageCode": "en", "text": "The wind is very strong." },
+      { "languageCode": "bn", "text": "বাতাস খুব জোরে বইছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "wind" },
@@ -242,7 +255,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Es ist sehr windig draußen." },
-      { "languageCode": "en", "text": "It's very windy outside." }
+      { "languageCode": "en", "text": "It's very windy outside." },
+      { "languageCode": "bn", "text": "বাইরে খুব বাতাস বইছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "windy" },
@@ -260,7 +274,8 @@
     "genitive_singular": "des Winters",
     "sentences": [
       { "languageCode": "de", "text": "Der Winter ist kalt." },
-      { "languageCode": "en", "text": "Winter is cold." }
+      { "languageCode": "en", "text": "Winter is cold." },
+      { "languageCode": "bn", "text": "শীতকাল ঠান্ডা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "winter" },
@@ -278,7 +293,8 @@
     "genitive_singular": "der Wolke",
     "sentences": [
       { "languageCode": "de", "text": "Die Wolke ist grau." },
-      { "languageCode": "en", "text": "The cloud is gray." }
+      { "languageCode": "en", "text": "The cloud is gray." },
+      { "languageCode": "bn", "text": "মেঘ ধূসর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cloud" },

@@ -10,7 +10,8 @@
     "genitive_singular": "des Babys",
     "sentences": [
       { "languageCode": "de", "text": "Das Baby schläft sehr viel." },
-      { "languageCode": "en", "text": "The baby sleeps a lot." }
+      { "languageCode": "en", "text": "The baby sleeps a lot." },
+      { "languageCode": "bn", "text": "শিশুটি অনেক ঘুমায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "baby (0–2 years)" },
@@ -29,7 +30,8 @@
     "genitive_singular": "des Kindes",
     "sentences": [
       { "languageCode": "de", "text": "Das Kind spielt im Park." },
-      { "languageCode": "en", "text": "The child plays in the park." }
+      { "languageCode": "en", "text": "The child plays in the park." },
+      { "languageCode": "bn", "text": "শিশুটি পার্কে খেলে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "child (3–6 years)" },
@@ -48,7 +50,8 @@
     "genitive_singular": "des Jungen",
     "sentences": [
       { "languageCode": "de", "text": "Der Junge spielt im Garten." },
-      { "languageCode": "en", "text": "The boy plays in the garden." }
+      { "languageCode": "en", "text": "The boy plays in the garden." },
+      { "languageCode": "bn", "text": "ছেলেটি বাগানে খেলে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "boy (7–13 years)" },
@@ -67,7 +70,8 @@
     "genitive_singular": "des Mädchens",
     "sentences": [
       { "languageCode": "de", "text": "Das Mädchen trägt ein rotes Kleid." },
-      { "languageCode": "en", "text": "The girl wears a red dress." }
+      { "languageCode": "en", "text": "The girl wears a red dress." },
+      { "languageCode": "bn", "text": "মেয়েটি একটা লাল পোশাক পরে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "girl (7–13 years)" },
@@ -86,7 +90,8 @@
     "genitive_singular": "des Jugendlichen",
     "sentences": [
       { "languageCode": "de", "text": "Der Jugendliche geht zur Schule." },
-      { "languageCode": "en", "text": "The male teenager goes to school." }
+      { "languageCode": "en", "text": "The male teenager goes to school." },
+      { "languageCode": "bn", "text": "কিশোরটি স্কুলে যায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "male teenager (14–18 years)" },
@@ -105,7 +110,8 @@
     "genitive_singular": "der Jugendlichen",
     "sentences": [
       { "languageCode": "de", "text": "Die Jugendliche spielt Tennis." },
-      { "languageCode": "en", "text": "The female teenager plays tennis." }
+      { "languageCode": "en", "text": "The female teenager plays tennis." },
+      { "languageCode": "bn", "text": "কিশোরীটি টেনিস খেলে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "female teenager (14–18 years)" },
@@ -124,7 +130,8 @@
     "genitive_singular": "des Ehemanns",
     "sentences": [
       { "languageCode": "de", "text": "Ihr Ehemann arbeitet als Lehrer." },
-      { "languageCode": "en", "text": "Her husband works as a teacher." }
+      { "languageCode": "en", "text": "Her husband works as a teacher." },
+      { "languageCode": "bn", "text": "তার স্বামী শিক্ষক হিসেবে কাজ করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "husband" },
@@ -143,7 +150,8 @@
     "genitive_singular": "der Ehefrau",
     "sentences": [
       { "languageCode": "de", "text": "Seine Ehefrau ist Ärztin." },
-      { "languageCode": "en", "text": "His wife is a doctor." }
+      { "languageCode": "en", "text": "His wife is a doctor." },
+      { "languageCode": "bn", "text": "তার স্ত্রী একজন ডাক্তার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "wife" },
@@ -162,7 +170,8 @@
     "genitive_singular": "der Familie",
     "sentences": [
       { "languageCode": "de", "text": "Meine Familie ist sehr groß." },
-      { "languageCode": "en", "text": "My family is very big." }
+      { "languageCode": "en", "text": "My family is very big." },
+      { "languageCode": "bn", "text": "আমার পরিবার অনেক বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "family" },
@@ -181,7 +190,8 @@
     "genitive_singular": "des Vaters",
     "sentences": [
       { "languageCode": "de", "text": "Mein Vater arbeitet im Büro." },
-      { "languageCode": "en", "text": "My father works in the office." }
+      { "languageCode": "en", "text": "My father works in the office." },
+      { "languageCode": "bn", "text": "আমার বাবা অফিসে কাজ করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "father" },
@@ -200,7 +210,8 @@
     "genitive_singular": "der Mutter",
     "sentences": [
       { "languageCode": "de", "text": "Meine Mutter kocht sehr gut." },
-      { "languageCode": "en", "text": "My mother cooks very well." }
+      { "languageCode": "en", "text": "My mother cooks very well." },
+      { "languageCode": "bn", "text": "আমার মা খুব ভালো রান্না করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "mother" },
@@ -219,7 +230,8 @@
     "genitive_singular": "der Eltern",
     "sentences": [
       { "languageCode": "de", "text": "Meine Eltern wohnen in Berlin." },
-      { "languageCode": "en", "text": "My parents live in Berlin." }
+      { "languageCode": "en", "text": "My parents live in Berlin." },
+      { "languageCode": "bn", "text": "আমার বাবা-মা বার্লিনে থাকেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "parents" },
@@ -238,7 +250,8 @@
     "genitive_singular": "des Sohnes",
     "sentences": [
       { "languageCode": "de", "text": "Ihr Sohn ist sehr intelligent." },
-      { "languageCode": "en", "text": "Her son is very intelligent." }
+      { "languageCode": "en", "text": "Her son is very intelligent." },
+      { "languageCode": "bn", "text": "তার ছেলে খুব বুদ্ধিমান।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "son" },
@@ -257,7 +270,8 @@
     "genitive_singular": "der Tochter",
     "sentences": [
       { "languageCode": "de", "text": "Seine Tochter ist zehn Jahre alt." },
-      { "languageCode": "en", "text": "His daughter is ten years old." }
+      { "languageCode": "en", "text": "His daughter is ten years old." },
+      { "languageCode": "bn", "text": "তার মেয়ের বয়স দশ বছর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "daughter" },
@@ -276,7 +290,8 @@
     "genitive_singular": "des Bruders",
     "sentences": [
       { "languageCode": "de", "text": "Mein Bruder spielt Fußball." },
-      { "languageCode": "en", "text": "My brother plays football." }
+      { "languageCode": "en", "text": "My brother plays football." },
+      { "languageCode": "bn", "text": "আমার ভাই ফুটবল খেলে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "brother" },
@@ -295,7 +310,8 @@
     "genitive_singular": "der Schwester",
     "sentences": [
       { "languageCode": "de", "text": "Meine Schwester ist Ärztin." },
-      { "languageCode": "en", "text": "My sister is a doctor." }
+      { "languageCode": "en", "text": "My sister is a doctor." },
+      { "languageCode": "bn", "text": "আমার বোন একজন ডাক্তার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sister" },
@@ -314,7 +330,8 @@
     "genitive_singular": "des Onkels",
     "sentences": [
       { "languageCode": "de", "text": "Mein Onkel wohnt in Berlin." },
-      { "languageCode": "en", "text": "My uncle lives in Berlin." }
+      { "languageCode": "en", "text": "My uncle lives in Berlin." },
+      { "languageCode": "bn", "text": "আমার চাচা বার্লিনে থাকেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "uncle" },
@@ -333,7 +350,8 @@
     "genitive_singular": "der Tante",
     "sentences": [
       { "languageCode": "de", "text": "Meine Tante kommt am Wochenende." },
-      { "languageCode": "en", "text": "My aunt is coming on the weekend." }
+      { "languageCode": "en", "text": "My aunt is coming on the weekend." },
+      { "languageCode": "bn", "text": "আমার চাচি সপ্তাহান্তে আসছেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "aunt" },
@@ -352,7 +370,8 @@
     "genitive_singular": "des Verwandten",
     "sentences": [
       { "languageCode": "de", "text": "Ein Verwandter hilft mir." },
-      { "languageCode": "en", "text": "A male relative helps me." }
+      { "languageCode": "en", "text": "A male relative helps me." },
+      { "languageCode": "bn", "text": "একজন আত্মীয় আমাকে সাহায্য করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "male relative" },
@@ -371,7 +390,8 @@
     "genitive_singular": "der Verwandten",
     "sentences": [
       { "languageCode": "de", "text": "Alle Verwandten kommen zum Fest." },
-      { "languageCode": "en", "text": "All relatives come to the celebration." }
+      { "languageCode": "en", "text": "All relatives come to the celebration." },
+      { "languageCode": "bn", "text": "সব আত্মীয়স্বজন উৎসবে আসেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "female relative" },
@@ -390,7 +410,8 @@
     "genitive_singular": "der Verwandten",
     "sentences": [
       { "languageCode": "de", "text": "Alle Verwandten kommen zum Fest." },
-      { "languageCode": "en", "text": "All relatives come to the celebration." }
+      { "languageCode": "en", "text": "All relatives come to the celebration." },
+      { "languageCode": "bn", "text": "সব আত্মীয়স্বজন উৎসবে আসেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "relatives" },
@@ -409,7 +430,8 @@
     "genitive_singular": "des Cousins",
     "sentences": [
       { "languageCode": "de", "text": "Mein Cousin besucht uns." },
-      { "languageCode": "en", "text": "My male cousin is visiting us." }
+      { "languageCode": "en", "text": "My male cousin is visiting us." },
+      { "languageCode": "bn", "text": "আমার চাচাতো ভাই আমাদের সাথে দেখা করতে আসছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "male cousin" },
@@ -428,7 +450,8 @@
     "genitive_singular": "der Cousine",
     "sentences": [
       { "languageCode": "de", "text": "Meine Cousine wohnt in Hamburg." },
-      { "languageCode": "en", "text": "My female cousin lives in Hamburg." }
+      { "languageCode": "en", "text": "My female cousin lives in Hamburg." },
+      { "languageCode": "bn", "text": "আমার চাচাতো বোন হামবুর্গে থাকে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "female cousin" },
@@ -447,7 +470,8 @@
     "genitive_singular": "des Großvaters",
     "sentences": [
       { "languageCode": "de", "text": "Mein Großvater erzählt Geschichten." },
-      { "languageCode": "en", "text": "My grandfather tells stories." }
+      { "languageCode": "en", "text": "My grandfather tells stories." },
+      { "languageCode": "bn", "text": "আমার দাদা গল্প বলেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "grandfather" },
@@ -466,7 +490,8 @@
     "genitive_singular": "der Großmutter",
     "sentences": [
       { "languageCode": "de", "text": "Meine Großmutter ist sehr nett." },
-      { "languageCode": "en", "text": "My grandmother is very nice." }
+      { "languageCode": "en", "text": "My grandmother is very nice." },
+      { "languageCode": "bn", "text": "আমার দাদী খুব ভালো মানুষ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "grandmother" },
@@ -485,7 +510,8 @@
     "genitive_singular": "der Großeltern",
     "sentences": [
       { "languageCode": "de", "text": "Wir besuchen unsere Großeltern." },
-      { "languageCode": "en", "text": "We visit our grandparents." }
+      { "languageCode": "en", "text": "We visit our grandparents." },
+      { "languageCode": "bn", "text": "আমরা আমাদের দাদা-দাদীর সাথে দেখা করতে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "grandparents" },
@@ -504,7 +530,8 @@
     "genitive_singular": "des Opas",
     "sentences": [
       { "languageCode": "de", "text": "Opa liest mir vor." },
-      { "languageCode": "en", "text": "Grandpa reads to me." }
+      { "languageCode": "en", "text": "Grandpa reads to me." },
+      { "languageCode": "bn", "text": "দাদা আমাকে পড়ে শোনান।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "grandpa" },
@@ -523,7 +550,8 @@
     "genitive_singular": "der Oma",
     "sentences": [
       { "languageCode": "de", "text": "Oma backt leckere Kuchen." },
-      { "languageCode": "en", "text": "Grandma bakes delicious cakes." }
+      { "languageCode": "en", "text": "Grandma bakes delicious cakes." },
+      { "languageCode": "bn", "text": "দাদী সুস্বাদু কেক তৈরি করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "grandma" },
@@ -542,7 +570,8 @@
     "genitive_singular": "des Freundes",
     "sentences": [
       { "languageCode": "de", "text": "Mein Freund ist sehr lustig." },
-      { "languageCode": "en", "text": "My friend is very funny." }
+      { "languageCode": "en", "text": "My friend is very funny." },
+      { "languageCode": "bn", "text": "আমার বন্ধু খুব মজার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "male friend" },
@@ -561,7 +590,8 @@
     "genitive_singular": "der Freundin",
     "sentences": [
       { "languageCode": "de", "text": "Meine Freundin kommt heute vorbei." },
-      { "languageCode": "en", "text": "My friend is coming over today." }
+      { "languageCode": "en", "text": "My friend is coming over today." },
+      { "languageCode": "bn", "text": "আমার বান্ধবী আজ আসছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "female friend" },
@@ -580,7 +610,8 @@
     "genitive_singular": "des Kollegen",
     "sentences": [
       { "languageCode": "de", "text": "Mein Kollege ist sehr hilfsbereit." },
-      { "languageCode": "en", "text": "My colleague is very helpful." }
+      { "languageCode": "en", "text": "My colleague is very helpful." },
+      { "languageCode": "bn", "text": "আমার সহকর্মী খুবই সহায়ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "male colleague" },
@@ -599,7 +630,8 @@
     "genitive_singular": "der Kollegin",
     "sentences": [
       { "languageCode": "de", "text": "Meine Kollegin arbeitet im Marketing." },
-      { "languageCode": "en", "text": "My colleague works in marketing." }
+      { "languageCode": "en", "text": "My colleague works in marketing." },
+      { "languageCode": "bn", "text": "আমার সহকর্মী মার্কেটিংয়ে কাজ করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "female colleague" },
@@ -618,7 +650,8 @@
     "genitive_singular": "des Paares",
     "sentences": [
       { "languageCode": "de", "text": "Das Paar heiratet im Sommer." },
-      { "languageCode": "en", "text": "The couple is getting married in summer." }
+      { "languageCode": "en", "text": "The couple is getting married in summer." },
+      { "languageCode": "bn", "text": "দম্পতিটি গ্রীষ্মে বিয়ে করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "couple" },
@@ -637,7 +670,8 @@
     "genitive_singular": "des Bräutigams",
     "sentences": [
       { "languageCode": "de", "text": "Der Bräutigam steht vor der Kirche." },
-      { "languageCode": "en", "text": "The groom is standing in front of the church." }
+      { "languageCode": "en", "text": "The groom is standing in front of the church." },
+      { "languageCode": "bn", "text": "বরটি গির্জার সামনে দাঁড়িয়ে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "groom" },
@@ -656,7 +690,8 @@
     "genitive_singular": "der Braut",
     "sentences": [
       { "languageCode": "de", "text": "Die Braut trägt ein weißes Kleid." },
-      { "languageCode": "en", "text": "The bride is wearing a white dress." }
+      { "languageCode": "en", "text": "The bride is wearing a white dress." },
+      { "languageCode": "bn", "text": "কনেটি একটা সাদা পোশাক পরে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bride" },
@@ -675,7 +710,8 @@
     "genitive_singular": "des Mannes",
     "sentences": [
       { "languageCode": "de", "text": "Der Mann liest eine Zeitung." },
-      { "languageCode": "en", "text": "The man is reading a newspaper." }
+      { "languageCode": "en", "text": "The man is reading a newspaper." },
+      { "languageCode": "bn", "text": "মানুষটি একটা পত্রিকা পড়ছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "man" },
@@ -694,7 +730,8 @@
     "genitive_singular": "der Frau",
     "sentences": [
       { "languageCode": "de", "text": "Die Frau arbeitet im Büro." },
-      { "languageCode": "en", "text": "The woman works in the office." }
+      { "languageCode": "en", "text": "The woman works in the office." },
+      { "languageCode": "bn", "text": "নারীটি অফিসে কাজ করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "woman" },
@@ -713,7 +750,8 @@
     "genitive_singular": "des Nachbarn",
     "sentences": [
       { "languageCode": "de", "text": "Mein Nachbar ist sehr freundlich." },
-      { "languageCode": "en", "text": "My male neighbor is very friendly." }
+      { "languageCode": "en", "text": "My male neighbor is very friendly." },
+      { "languageCode": "bn", "text": "আমার প্রতিবেশী খুব বন্ধুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "male neighbor" },
@@ -732,7 +770,8 @@
     "genitive_singular": "der Nachbarin",
     "sentences": [
       { "languageCode": "de", "text": "Meine Nachbarin hat einen Hund." },
-      { "languageCode": "en", "text": "My female neighbor has a dog." }
+      { "languageCode": "en", "text": "My female neighbor has a dog." },
+      { "languageCode": "bn", "text": "আমার প্রতিবেশীর একটা কুকুর আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "female neighbor" },
@@ -754,7 +793,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Sie betreut die Kinder." },
-      { "languageCode": "en", "text": "She takes care of the children." }
+      { "languageCode": "en", "text": "She takes care of the children." },
+      { "languageCode": "bn", "text": "সে শিশুদের যত্ন নেয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to take care of" },

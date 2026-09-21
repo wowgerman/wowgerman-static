@@ -10,7 +10,8 @@
     "genitive_singular": "des Abendessens",
     "sentences": [
       { "languageCode": "de", "text": "Das Abendessen ist um 18 Uhr." },
-      { "languageCode": "en", "text": "Dinner is at 6 o'clock." }
+      { "languageCode": "en", "text": "Dinner is at 6 o'clock." },
+      { "languageCode": "bn", "text": "রাতের খাবার সন্ধ্যা ৬টায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "dinner" },
@@ -28,7 +29,8 @@
     "genitive_singular": "des Alltags",
     "sentences": [
       { "languageCode": "de", "text": "Der Alltag ist manchmal stressig." },
-      { "languageCode": "en", "text": "Daily life is sometimes stressful." }
+      { "languageCode": "en", "text": "Daily life is sometimes stressful." },
+      { "languageCode": "bn", "text": "দৈনন্দিন জীবন মাঝে মাঝে চাপযুক্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "daily life" },
@@ -46,7 +48,8 @@
     "genitive_singular": "der Arbeit",
     "sentences": [
       { "languageCode": "de", "text": "Die Arbeit beginnt um 9 Uhr." },
-      { "languageCode": "en", "text": "Work starts at 9 o'clock." }
+      { "languageCode": "en", "text": "Work starts at 9 o'clock." },
+      { "languageCode": "bn", "text": "কাজ সকাল ৯টায় শুরু হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "work" },
@@ -67,7 +70,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich arbeite im Büro." },
-      { "languageCode": "en", "text": "I work in the office." }
+      { "languageCode": "en", "text": "I work in the office." },
+      { "languageCode": "bn", "text": "আমি অফিসে কাজ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to work" },
@@ -88,7 +92,8 @@
     "separable_prefix": "auf",
     "sentences": [
       { "languageCode": "de", "text": "Ich stehe um 7 Uhr auf." },
-      { "languageCode": "en", "text": "I get up at 7 o'clock." }
+      { "languageCode": "en", "text": "I get up at 7 o'clock." },
+      { "languageCode": "bn", "text": "আমি সকাল ৭টায় উঠি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to get up" },
@@ -109,7 +114,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Das Kind badet in der Badewanne." },
-      { "languageCode": "en", "text": "The child is bathing in the bathtub." }
+      { "languageCode": "en", "text": "The child is bathing in the bathtub." },
+      { "languageCode": "bn", "text": "শিশুটি বাথটাবে স্নান করছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to bathe" },
@@ -127,7 +133,8 @@
     "genitive_singular": "des Bettes",
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe ins Bett." },
-      { "languageCode": "en", "text": "I am going to bed." }
+      { "languageCode": "en", "text": "I am going to bed." },
+      { "languageCode": "bn", "text": "আমি বিছানায় যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bed" },
@@ -148,7 +155,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich bringe das Buch." },
-      { "languageCode": "en", "text": "I bring the book." }
+      { "languageCode": "en", "text": "I bring the book." },
+      { "languageCode": "bn", "text": "আমি বইটা নিয়ে আসছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to bring" },
@@ -169,7 +177,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Wir essen Pizza." },
-      { "languageCode": "en", "text": "We are eating pizza." }
+      { "languageCode": "en", "text": "We are eating pizza." },
+      { "languageCode": "bn", "text": "আমরা পিৎজা খাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to eat" },
@@ -187,7 +196,8 @@
     "genitive_singular": "der Freizeit",
     "sentences": [
       { "languageCode": "de", "text": "In der Freizeit lese ich gern." },
-      { "languageCode": "en", "text": "In my free time I like to read." }
+      { "languageCode": "en", "text": "In my free time I like to read." },
+      { "languageCode": "bn", "text": "অবসর সময়ে আমি পড়তে পছন্দ করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "free time" },
@@ -204,7 +214,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich stehe früh auf." },
-      { "languageCode": "en", "text": "I get up early." }
+      { "languageCode": "en", "text": "I get up early." },
+      { "languageCode": "bn", "text": "আমি তাড়াতাড়ি উঠি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "early" },
@@ -222,7 +233,8 @@
     "genitive_singular": "des Frühstücks",
     "sentences": [
       { "languageCode": "de", "text": "Das Frühstück ist die wichtigste Mahlzeit." },
-      { "languageCode": "en", "text": "Breakfast is the most important meal." }
+      { "languageCode": "en", "text": "Breakfast is the most important meal." },
+      { "languageCode": "bn", "text": "সকালের নাস্তা সবচেয়ে গুরুত্বপূর্ণ খাবার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "breakfast" },
@@ -243,7 +255,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich gebe dir das Buch." },
-      { "languageCode": "en", "text": "I give you the book." }
+      { "languageCode": "en", "text": "I give you the book." },
+      { "languageCode": "bn", "text": "আমি তোমাকে বইটা দিচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to give" },
@@ -264,7 +277,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich gehe in die Schule." },
-      { "languageCode": "en", "text": "I go to school." }
+      { "languageCode": "en", "text": "I go to school." },
+      { "languageCode": "bn", "text": "আমি স্কুলে যাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to go" },
@@ -282,7 +296,8 @@
     "genitive_singular": "der Hausaufgabe",
     "sentences": [
       { "languageCode": "de", "text": "Die Hausaufgabe ist schwer." },
-      { "languageCode": "en", "text": "The homework is difficult." }
+      { "languageCode": "en", "text": "The homework is difficult." },
+      { "languageCode": "bn", "text": "বাড়ির কাজটা কঠিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "homework" },
@@ -303,7 +318,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Meine Mutter kocht das Essen." },
-      { "languageCode": "en", "text": "My mother cooks the food." }
+      { "languageCode": "en", "text": "My mother cooks the food." },
+      { "languageCode": "bn", "text": "আমার মা খাবার রান্না করেন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to cook" },
@@ -324,7 +340,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Er kommt morgen." },
-      { "languageCode": "en", "text": "He comes tomorrow." }
+      { "languageCode": "en", "text": "He comes tomorrow." },
+      { "languageCode": "bn", "text": "সে আগামীকাল আসবে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to come" },
@@ -345,7 +362,8 @@
     "separable_prefix": "los",
     "sentences": [
       { "languageCode": "de", "text": "Wir gehen um 8 Uhr los." },
-      { "languageCode": "en", "text": "We leave at 8 o'clock." }
+      { "languageCode": "en", "text": "We leave at 8 o'clock." },
+      { "languageCode": "bn", "text": "আমরা সকাল ৮টায় রওনা দেব।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to leave" },
@@ -366,7 +384,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich mache Hausaufgaben." },
-      { "languageCode": "en", "text": "I do homework." }
+      { "languageCode": "en", "text": "I do homework." },
+      { "languageCode": "bn", "text": "আমি বাড়ির কাজ করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to do/make" },
@@ -384,7 +403,8 @@
     "genitive_singular": "der Mahlzeit",
     "sentences": [
       { "languageCode": "de", "text": "Ich esse drei Mahlzeiten am Tag." },
-      { "languageCode": "en", "text": "I eat three meals a day." }
+      { "languageCode": "en", "text": "I eat three meals a day." },
+      { "languageCode": "bn", "text": "আমি দিনে তিনবার খাবার খাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "meal" },
@@ -405,7 +425,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich mische die Karten." },
-      { "languageCode": "en", "text": "I mix the cards." }
+      { "languageCode": "en", "text": "I mix the cards." },
+      { "languageCode": "bn", "text": "আমি তাসগুলো মেশাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to mix" },
@@ -423,7 +444,8 @@
     "genitive_singular": "des Mittagessens",
     "sentences": [
       { "languageCode": "de", "text": "Das Mittagessen ist um 12 Uhr." },
-      { "languageCode": "en", "text": "Lunch is at 12 o'clock." }
+      { "languageCode": "en", "text": "Lunch is at 12 o'clock." },
+      { "languageCode": "bn", "text": "দুপুরের খাবার দুপুর ১২টায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lunch" },
@@ -441,7 +463,8 @@
     "genitive_singular": "der Pause",
     "sentences": [
       { "languageCode": "de", "text": "Ich mache eine Pause." },
-      { "languageCode": "en", "text": "I am taking a break." }
+      { "languageCode": "en", "text": "I am taking a break." },
+      { "languageCode": "bn", "text": "আমি একটা বিরতি নিচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "break" },
@@ -458,7 +481,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich esse regelmäßig." },
-      { "languageCode": "en", "text": "I eat regularly." }
+      { "languageCode": "en", "text": "I eat regularly." },
+      { "languageCode": "bn", "text": "আমি নিয়মিত খাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "regularly" },
@@ -479,7 +503,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich säubere das Zimmer." },
-      { "languageCode": "en", "text": "I clean the room." }
+      { "languageCode": "en", "text": "I clean the room." },
+      { "languageCode": "bn", "text": "আমি ঘরটা পরিষ্কার করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to clean" },
@@ -500,7 +525,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich schenke dir ein Buch." },
-      { "languageCode": "en", "text": "I give you a book as a gift." }
+      { "languageCode": "en", "text": "I give you a book as a gift." },
+      { "languageCode": "bn", "text": "আমি তোমাকে একটা বই উপহার দিচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to give as a gift" },
@@ -518,7 +544,8 @@
     "genitive_singular": "des Schlafs",
     "sentences": [
       { "languageCode": "de", "text": "Der Schlaf ist wichtig für die Gesundheit." },
-      { "languageCode": "en", "text": "Sleep is important for health." }
+      { "languageCode": "en", "text": "Sleep is important for health." },
+      { "languageCode": "bn", "text": "স্বাস্থ্যের জন্য ঘুম গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sleep" },
@@ -539,7 +566,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Das Baby schläft." },
-      { "languageCode": "en", "text": "The baby is sleeping." }
+      { "languageCode": "en", "text": "The baby is sleeping." },
+      { "languageCode": "bn", "text": "শিশুটি ঘুমাচ্ছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to sleep" },
@@ -560,7 +588,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich schließe die Tür." },
-      { "languageCode": "en", "text": "I close the door." }
+      { "languageCode": "en", "text": "I close the door." },
+      { "languageCode": "bn", "text": "আমি দরজা বন্ধ করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to close" },
@@ -577,7 +606,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Er kommt spät nach Hause." },
-      { "languageCode": "en", "text": "He comes home late." }
+      { "languageCode": "en", "text": "He comes home late." },
+      { "languageCode": "bn", "text": "সে বাড়িতে দেরি করে ফেরে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "late" },
@@ -598,7 +628,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich stehe vor der Tür." },
-      { "languageCode": "en", "text": "I stand in front of the door." }
+      { "languageCode": "en", "text": "I stand in front of the door." },
+      { "languageCode": "bn", "text": "আমি দরজার সামনে দাঁড়িয়ে আছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to stand" },
@@ -615,7 +646,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Ich dusche täglich." },
-      { "languageCode": "en", "text": "I shower daily." }
+      { "languageCode": "en", "text": "I shower daily." },
+      { "languageCode": "bn", "text": "আমি প্রতিদিন গোসল করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "daily" },
@@ -636,7 +668,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich trinke Wasser." },
-      { "languageCode": "en", "text": "I drink water." }
+      { "languageCode": "en", "text": "I drink water." },
+      { "languageCode": "bn", "text": "আমি পানি পান করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to drink" },
@@ -657,7 +690,8 @@
     "separable_prefix": "um",
     "sentences": [
       { "languageCode": "de", "text": "Ich tausche die Karten um." },
-      { "languageCode": "en", "text": "I exchange the cards." }
+      { "languageCode": "en", "text": "I exchange the cards." },
+      { "languageCode": "bn", "text": "আমি তাসগুলো বিনিময় করছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to exchange" },
@@ -678,7 +712,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich vergesse oft meinen Schlüssel." },
-      { "languageCode": "en", "text": "I often forget my key." }
+      { "languageCode": "en", "text": "I often forget my key." },
+      { "languageCode": "bn", "text": "আমি প্রায়ই আমার চাবি ভুলে যাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to forget" },
@@ -699,7 +734,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich vermisse meine Familie." },
-      { "languageCode": "en", "text": "I miss my family." }
+      { "languageCode": "en", "text": "I miss my family." },
+      { "languageCode": "bn", "text": "আমি আমার পরিবারকে মিস করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to miss" },
@@ -720,7 +756,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich wasche meine Hände." },
-      { "languageCode": "en", "text": "I wash my hands." }
+      { "languageCode": "en", "text": "I wash my hands." },
+      { "languageCode": "bn", "text": "আমি হাত ধুচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to wash" },
@@ -741,7 +778,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Der Wecker weckt mich um 6 Uhr." },
-      { "languageCode": "en", "text": "The alarm clock wakes me at 6 o'clock." }
+      { "languageCode": "en", "text": "The alarm clock wakes me at 6 o'clock." },
+      { "languageCode": "bn", "text": "অ্যালার্ম ঘড়ি আমাকে সকাল ৬টায় জাগায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to wake up" },
@@ -762,7 +800,8 @@
     "separable_prefix": "weg",
     "sentences": [
       { "languageCode": "de", "text": "Ich räume die Bücher weg." },
-      { "languageCode": "en", "text": "I put away the books." }
+      { "languageCode": "en", "text": "I put away the books." },
+      { "languageCode": "bn", "text": "আমি বইগুলো সরিয়ে রাখছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to put away" },
@@ -783,7 +822,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich zeige dir das Bild." },
-      { "languageCode": "en", "text": "I show you the picture." }
+      { "languageCode": "en", "text": "I show you the picture." },
+      { "languageCode": "bn", "text": "আমি তোমাকে ছবিটা দেখাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to show" },

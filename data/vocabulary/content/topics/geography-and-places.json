@@ -10,7 +10,8 @@
     "genitive_singular": "der Altstadt",
     "sentences": [
       { "languageCode": "de", "text": "Die Altstadt ist sehr schön." },
-      { "languageCode": "en", "text": "The old town is very beautiful." }
+      { "languageCode": "en", "text": "The old town is very beautiful." },
+      { "languageCode": "bn", "text": "পুরাতন শহরটি খুব সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "old town" },
@@ -28,7 +29,8 @@
     "genitive_singular": "Deutschlands",
     "sentences": [
       { "languageCode": "de", "text": "Deutschland ist ein Land in Europa." },
-      { "languageCode": "en", "text": "Germany is a country in Europe." }
+      { "languageCode": "en", "text": "Germany is a country in Europe." },
+      { "languageCode": "bn", "text": "জার্মানি ইউরোপের একটি দেশ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Germany" },
@@ -46,7 +48,8 @@
     "genitive_singular": "des Dorfes",
     "sentences": [
       { "languageCode": "de", "text": "Das Dorf ist sehr klein." },
-      { "languageCode": "en", "text": "The village is very small." }
+      { "languageCode": "en", "text": "The village is very small." },
+      { "languageCode": "bn", "text": "গ্রামটি খুব ছোট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "village" },
@@ -64,7 +67,8 @@
     "genitive_singular": "des Flusses",
     "sentences": [
       { "languageCode": "de", "text": "Der Fluss ist sehr lang." },
-      { "languageCode": "en", "text": "The river is very long." }
+      { "languageCode": "en", "text": "The river is very long." },
+      { "languageCode": "bn", "text": "নদীটি খুব লম্বা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "river" },
@@ -82,7 +86,8 @@
     "genitive_singular": "Frankreichs",
     "sentences": [
       { "languageCode": "de", "text": "Frankreich ist bekannt für Wein." },
-      { "languageCode": "en", "text": "France is known for wine." }
+      { "languageCode": "en", "text": "France is known for wine." },
+      { "languageCode": "bn", "text": "ফ্রান্স ওয়াইনের জন্য বিখ্যাত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "France" },
@@ -100,7 +105,8 @@
     "genitive_singular": "Griechenlands",
     "sentences": [
       { "languageCode": "de", "text": "Griechenland hat viele Inseln." },
-      { "languageCode": "en", "text": "Greece has many islands." }
+      { "languageCode": "en", "text": "Greece has many islands." },
+      { "languageCode": "bn", "text": "গ্রিসের অনেক দ্বীপ আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Greece" },
@@ -118,7 +124,8 @@
     "genitive_singular": "des Hafens",
     "sentences": [
       { "languageCode": "de", "text": "Der Hafen ist sehr groß." },
-      { "languageCode": "en", "text": "The harbor is very big." }
+      { "languageCode": "en", "text": "The harbor is very big." },
+      { "languageCode": "bn", "text": "বন্দরটি খুব বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "harbor" },
@@ -136,7 +143,8 @@
     "genitive_singular": "der Insel",
     "sentences": [
       { "languageCode": "de", "text": "Die Insel ist wunderschön." },
-      { "languageCode": "en", "text": "The island is wonderful." }
+      { "languageCode": "en", "text": "The island is wonderful." },
+      { "languageCode": "bn", "text": "দ্বীপটি অত্যন্ত সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "island" },
@@ -154,7 +162,8 @@
     "genitive_singular": "Italiens",
     "sentences": [
       { "languageCode": "de", "text": "Italien ist bekannt für Pizza." },
-      { "languageCode": "en", "text": "Italy is known for pizza." }
+      { "languageCode": "en", "text": "Italy is known for pizza." },
+      { "languageCode": "bn", "text": "ইতালি পিৎজার জন্য বিখ্যাত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Italy" },
@@ -172,7 +181,8 @@
     "genitive_singular": "der Kirche",
     "sentences": [
       { "languageCode": "de", "text": "Die Kirche ist sehr alt." },
-      { "languageCode": "en", "text": "The church is very old." }
+      { "languageCode": "en", "text": "The church is very old." },
+      { "languageCode": "bn", "text": "গির্জাটি খুব পুরনো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "church" },
@@ -190,7 +200,8 @@
     "genitive_singular": "des Konzerts",
     "sentences": [
       { "languageCode": "de", "text": "Das Konzert ist heute Abend." },
-      { "languageCode": "en", "text": "The concert is tonight." }
+      { "languageCode": "en", "text": "The concert is tonight." },
+      { "languageCode": "bn", "text": "কনসার্টটি আজ সন্ধ্যায়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "concert" },
@@ -208,7 +219,8 @@
     "genitive_singular": "des Konzerthauses",
     "sentences": [
       { "languageCode": "de", "text": "Das Konzerthaus ist sehr elegant." },
-      { "languageCode": "en", "text": "The concert hall is very elegant." }
+      { "languageCode": "en", "text": "The concert hall is very elegant." },
+      { "languageCode": "bn", "text": "কনসার্ট হলটি খুব মার্জিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "concert hall" },
@@ -226,7 +238,8 @@
     "genitive_singular": "der Kultur",
     "sentences": [
       { "languageCode": "de", "text": "Die Kultur ist sehr interessant." },
-      { "languageCode": "en", "text": "The culture is very interesting." }
+      { "languageCode": "en", "text": "The culture is very interesting." },
+      { "languageCode": "bn", "text": "সংস্কৃতিটি খুব আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "culture" },
@@ -244,7 +257,8 @@
     "genitive_singular": "des Landes",
     "sentences": [
       { "languageCode": "de", "text": "Das Land ist sehr schön." },
-      { "languageCode": "en", "text": "The country is very beautiful." }
+      { "languageCode": "en", "text": "The country is very beautiful." },
+      { "languageCode": "bn", "text": "দেশটি খুব সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "country" },
@@ -262,7 +276,8 @@
     "genitive_singular": "der Landschaft",
     "sentences": [
       { "languageCode": "de", "text": "Die Landschaft ist sehr schön." },
-      { "languageCode": "en", "text": "The landscape is very beautiful." }
+      { "languageCode": "en", "text": "The landscape is very beautiful." },
+      { "languageCode": "bn", "text": "ভূদৃশ্যটি খুব সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "landscape" },
@@ -280,7 +295,8 @@
     "genitive_singular": "des Markts",
     "sentences": [
       { "languageCode": "de", "text": "Der Markt ist am Samstag." },
-      { "languageCode": "en", "text": "The market is on Saturday." }
+      { "languageCode": "en", "text": "The market is on Saturday." },
+      { "languageCode": "bn", "text": "বাজারটি শনিবারে বসে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "market" },
@@ -298,7 +314,8 @@
     "genitive_singular": "des Meeres",
     "sentences": [
       { "languageCode": "de", "text": "Das Meer ist blau." },
-      { "languageCode": "en", "text": "The sea is blue." }
+      { "languageCode": "en", "text": "The sea is blue." },
+      { "languageCode": "bn", "text": "সমুদ্রটি নীল।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "sea" },
@@ -316,7 +333,8 @@
     "genitive_singular": "Mexikos",
     "sentences": [
       { "languageCode": "de", "text": "Mexiko ist ein warmes Land." },
-      { "languageCode": "en", "text": "Mexico is a warm country." }
+      { "languageCode": "en", "text": "Mexico is a warm country." },
+      { "languageCode": "bn", "text": "মেক্সিকো একটি উষ্ণ দেশ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Mexico" },
@@ -334,7 +352,8 @@
     "genitive_singular": "der Mitte",
     "sentences": [
       { "languageCode": "de", "text": "Die Kirche ist in der Mitte." },
-      { "languageCode": "en", "text": "The church is in the middle." }
+      { "languageCode": "en", "text": "The church is in the middle." },
+      { "languageCode": "bn", "text": "গির্জাটি মধ্যে আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "middle" },
@@ -352,7 +371,8 @@
     "genitive_singular": "der Ortsangabe",
     "sentences": [
       { "languageCode": "de", "text": "Die Ortsangabe ist wichtig." },
-      { "languageCode": "en", "text": "The location information is important." }
+      { "languageCode": "en", "text": "The location information is important." },
+      { "languageCode": "bn", "text": "স্থানের তথ্যটি গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "location information" },
@@ -370,7 +390,8 @@
     "genitive_singular": "des Parks",
     "sentences": [
       { "languageCode": "de", "text": "Der Park ist sehr grün." },
-      { "languageCode": "en", "text": "The park is very green." }
+      { "languageCode": "en", "text": "The park is very green." },
+      { "languageCode": "bn", "text": "পার্কটি খুব সবুজ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "park" },
@@ -388,7 +409,8 @@
     "genitive_singular": "Polens",
     "sentences": [
       { "languageCode": "de", "text": "Polen ist ein Land in Europa." },
-      { "languageCode": "en", "text": "Poland is a country in Europe." }
+      { "languageCode": "en", "text": "Poland is a country in Europe." },
+      { "languageCode": "bn", "text": "পোল্যান্ড ইউরোপের একটি দেশ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Poland" },
@@ -406,7 +428,8 @@
     "genitive_singular": "Portugals",
     "sentences": [
       { "languageCode": "de", "text": "Portugal liegt neben Spanien." },
-      { "languageCode": "en", "text": "Portugal is next to Spain." }
+      { "languageCode": "en", "text": "Portugal is next to Spain." },
+      { "languageCode": "bn", "text": "পর্তুগাল স্পেনের পাশে অবস্থিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Portugal" },
@@ -424,7 +447,8 @@
     "genitive_singular": "des Rathauses",
     "sentences": [
       { "languageCode": "de", "text": "Das Rathaus ist im Zentrum." },
-      { "languageCode": "en", "text": "The town hall is in the center." }
+      { "languageCode": "en", "text": "The town hall is in the center." },
+      { "languageCode": "bn", "text": "টাউন হলটি কেন্দ্রে অবস্থিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "town hall" },
@@ -442,7 +466,8 @@
     "genitive_singular": "Russlands",
     "sentences": [
       { "languageCode": "de", "text": "Russland ist ein sehr großes Land." },
-      { "languageCode": "en", "text": "Russia is a very large country." }
+      { "languageCode": "en", "text": "Russia is a very large country." },
+      { "languageCode": "bn", "text": "রাশিয়া একটি অত্যন্ত বড় দেশ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Russia" },
@@ -460,7 +485,8 @@
     "genitive_singular": "der Schweiz",
     "sentences": [
       { "languageCode": "de", "text": "Die Schweiz ist sehr schön." },
-      { "languageCode": "en", "text": "Switzerland is very beautiful." }
+      { "languageCode": "en", "text": "Switzerland is very beautiful." },
+      { "languageCode": "bn", "text": "সুইজারল্যান্ড খুব সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Switzerland" },
@@ -478,7 +504,8 @@
     "genitive_singular": "des Sees",
     "sentences": [
       { "languageCode": "de", "text": "Der See ist sehr ruhig." },
-      { "languageCode": "en", "text": "The lake is very calm." }
+      { "languageCode": "en", "text": "The lake is very calm." },
+      { "languageCode": "bn", "text": "হ্রদটি খুব শান্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "lake" },
@@ -496,7 +523,8 @@
     "genitive_singular": "Spaniens",
     "sentences": [
       { "languageCode": "de", "text": "Spanien ist ein warmes Land." },
-      { "languageCode": "en", "text": "Spain is a warm country." }
+      { "languageCode": "en", "text": "Spain is a warm country." },
+      { "languageCode": "bn", "text": "স্পেন একটি উষ্ণ দেশ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Spain" },
@@ -514,7 +542,8 @@
     "genitive_singular": "Thailands",
     "sentences": [
       { "languageCode": "de", "text": "Thailand ist ein tropisches Land." },
-      { "languageCode": "en", "text": "Thailand is a tropical country." }
+      { "languageCode": "en", "text": "Thailand is a tropical country." },
+      { "languageCode": "bn", "text": "থাইল্যান্ড একটি গ্রীষ্মমন্ডলীয় দেশ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Thailand" },
@@ -532,7 +561,8 @@
     "genitive_singular": "der Türkei",
     "sentences": [
       { "languageCode": "de", "text": "Die Türkei liegt zwischen Europa und Asien." },
-      { "languageCode": "en", "text": "Turkey is between Europe and Asia." }
+      { "languageCode": "en", "text": "Turkey is between Europe and Asia." },
+      { "languageCode": "bn", "text": "তুরস্ক ইউরোপ এবং এশিয়ার মাঝে অবস্থিত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Turkey" },
@@ -550,7 +580,8 @@
     "genitive_singular": "des Turms",
     "sentences": [
       { "languageCode": "de", "text": "Der Turm ist sehr hoch." },
-      { "languageCode": "en", "text": "The tower is very high." }
+      { "languageCode": "en", "text": "The tower is very high." },
+      { "languageCode": "bn", "text": "টাওয়ারটি খুব উঁচু।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tower" },
@@ -568,7 +599,8 @@
     "genitive_singular": "der Ukraine",
     "sentences": [
       { "languageCode": "de", "text": "Die Ukraine ist ein Land in Europa." },
-      { "languageCode": "en", "text": "Ukraine is a country in Europe." }
+      { "languageCode": "en", "text": "Ukraine is a country in Europe." },
+      { "languageCode": "bn", "text": "ইউক্রেন ইউরোপের একটি দেশ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "Ukraine" },
@@ -586,7 +618,8 @@
     "genitive_singular": "der USA",
     "sentences": [
       { "languageCode": "de", "text": "Die USA sind ein großes Land." },
-      { "languageCode": "en", "text": "The USA is a large country." }
+      { "languageCode": "en", "text": "The USA is a large country." },
+      { "languageCode": "bn", "text": "যুক্তরাষ্ট্র একটি বড় দেশ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "USA" },

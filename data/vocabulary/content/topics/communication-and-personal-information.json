@@ -10,7 +10,8 @@
     "genitive_singular": "des Vornamens",
     "sentences": [
       { "languageCode": "de", "text": "Sein Vorname ist Thomas." },
-      { "languageCode": "en", "text": "His first name is Thomas." }
+      { "languageCode": "en", "text": "His first name is Thomas." },
+      { "languageCode": "bn", "text": "তার প্রথম নাম টমাস।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "first name" },
@@ -29,7 +30,8 @@
     "genitive_singular": "des Namens",
     "sentences": [
       { "languageCode": "de", "text": "Mein Name ist Anna." },
-      { "languageCode": "en", "text": "My name is Anna." }
+      { "languageCode": "en", "text": "My name is Anna." },
+      { "languageCode": "bn", "text": "আমার নাম আনা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "name" },
@@ -48,7 +50,8 @@
     "genitive_singular": "des Nachnamens",
     "sentences": [
       { "languageCode": "de", "text": "Mein Nachname ist Müller." },
-      { "languageCode": "en", "text": "My last name is Müller." }
+      { "languageCode": "en", "text": "My last name is Müller." },
+      { "languageCode": "bn", "text": "আমার পদবি মুলার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "last name" },
@@ -67,7 +70,8 @@
     "genitive_singular": "des Familiennamens",
     "sentences": [
       { "languageCode": "de", "text": "Ihr Familienname ist Schmidt." },
-      { "languageCode": "en", "text": "Her family name is Schmidt." }
+      { "languageCode": "en", "text": "Her family name is Schmidt." },
+      { "languageCode": "bn", "text": "তার পারিবারিক নাম শ্মিট।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "family name" },
@@ -86,7 +90,8 @@
     "genitive_singular": "des Geburtsortes",
     "sentences": [
       { "languageCode": "de", "text": "Ihr Geburtsort ist Berlin." },
-      { "languageCode": "en", "text": "Her place of birth is Berlin." }
+      { "languageCode": "en", "text": "Her place of birth is Berlin." },
+      { "languageCode": "bn", "text": "তার জন্মস্থান বার্লিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "place of birth" },
@@ -105,7 +110,8 @@
     "genitive_singular": "des Geburtsdatums",
     "sentences": [
       { "languageCode": "de", "text": "Mein Geburtsdatum ist der 15. Mai 1990." },
-      { "languageCode": "en", "text": "My date of birth is May 15, 1990." }
+      { "languageCode": "en", "text": "My date of birth is May 15, 1990." },
+      { "languageCode": "bn", "text": "আমার জন্মতারিখ ১৯৯০ সালের ১৫ মে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "date of birth" },
@@ -124,7 +130,8 @@
     "genitive_singular": "der E-Mail-Adresse",
     "sentences": [
       { "languageCode": "de", "text": "Meine E-Mail-Adresse ist anna@mail.com." },
-      { "languageCode": "en", "text": "My email address is anna@mail.com." }
+      { "languageCode": "en", "text": "My email address is anna@mail.com." },
+      { "languageCode": "bn", "text": "আমার ইমেইল ঠিকানা anna@mail.com।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "email address" },
@@ -143,7 +150,8 @@
     "genitive_singular": "der Handynummer",
     "sentences": [
       { "languageCode": "de", "text": "Ihre Handynummer ist 0172-123456." },
-      { "languageCode": "en", "text": "Her mobile number is 0172-123456." }
+      { "languageCode": "en", "text": "Her mobile number is 0172-123456." },
+      { "languageCode": "bn", "text": "তার মোবাইল নম্বর ০১৭২-১২৩৪৫৬।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "mobile number" },
@@ -162,7 +170,8 @@
     "genitive_singular": "der Hausnummer",
     "sentences": [
       { "languageCode": "de", "text": "Die Hausnummer ist 25." },
-      { "languageCode": "en", "text": "The house number is 25." }
+      { "languageCode": "en", "text": "The house number is 25." },
+      { "languageCode": "bn", "text": "বাড়ির নম্বরটি ২৫।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "house number" },
@@ -181,7 +190,8 @@
     "genitive_singular": "der Postleitzahl",
     "sentences": [
       { "languageCode": "de", "text": "Die Postleitzahl ist 10115." },
-      { "languageCode": "en", "text": "The postal code is 10115." }
+      { "languageCode": "en", "text": "The postal code is 10115." },
+      { "languageCode": "bn", "text": "পোস্টাল কোডটি ১০১১৫।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "postal code" },
@@ -200,7 +210,8 @@
     "genitive_singular": "des Anrufs",
     "sentences": [
       { "languageCode": "de", "text": "Ich bekomme einen Anruf." },
-      { "languageCode": "en", "text": "I receive a call." }
+      { "languageCode": "en", "text": "I receive a call." },
+      { "languageCode": "bn", "text": "আমি একটি কল পাচ্ছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "call" },
@@ -219,7 +230,8 @@
     "genitive_singular": "des Anschlusses",
     "sentences": [
       { "languageCode": "de", "text": "Der Anschluss ist besetzt." },
-      { "languageCode": "en", "text": "The line is busy." }
+      { "languageCode": "en", "text": "The line is busy." },
+      { "languageCode": "bn", "text": "সংযোগটি ব্যস্ত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "connection/line" },
@@ -238,7 +250,8 @@
     "genitive_singular": "des Telefons",
     "sentences": [
       { "languageCode": "de", "text": "Das Telefon klingelt." },
-      { "languageCode": "en", "text": "The telephone is ringing." }
+      { "languageCode": "en", "text": "The telephone is ringing." },
+      { "languageCode": "bn", "text": "টেলিফোনটি বাজছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "telephone" },
@@ -257,7 +270,8 @@
     "genitive_singular": "des Telefongesprächs",
     "sentences": [
       { "languageCode": "de", "text": "Das Telefongespräch dauert zehn Minuten." },
-      { "languageCode": "en", "text": "The phone call lasts ten minutes." }
+      { "languageCode": "en", "text": "The phone call lasts ten minutes." },
+      { "languageCode": "bn", "text": "টেলিফোন কথোপকথনটি দশ মিনিট স্থায়ী হয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "phone call" },
@@ -276,7 +290,8 @@
     "genitive_singular": "der Durchwahl",
     "sentences": [
       { "languageCode": "de", "text": "Die Durchwahl ist 123." },
-      { "languageCode": "en", "text": "The extension is 123." }
+      { "languageCode": "en", "text": "The extension is 123." },
+      { "languageCode": "bn", "text": "এক্সটেনশন নম্বরটি ১২৩।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "extension" },
@@ -295,7 +310,8 @@
     "genitive_singular": "des Alphabets",
     "sentences": [
       { "languageCode": "de", "text": "Das deutsche Alphabet hat 26 Buchstaben." },
-      { "languageCode": "en", "text": "The German alphabet has 26 letters." }
+      { "languageCode": "en", "text": "The German alphabet has 26 letters." },
+      { "languageCode": "bn", "text": "জার্মান বর্ণমালায় ২৬টি অক্ষর আছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "alphabet" },
@@ -314,7 +330,8 @@
     "genitive_singular": "des Personalpronomens",
     "sentences": [
       { "languageCode": "de", "text": "Ich ist ein Personalpronomen." },
-      { "languageCode": "en", "text": "I is a personal pronoun." }
+      { "languageCode": "en", "text": "I is a personal pronoun." },
+      { "languageCode": "bn", "text": "জার্মান শব্দ 'ich' একটি ব্যক্তিবাচক সর্বনাম।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "personal pronoun" },
@@ -336,7 +353,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich heiße Anna." },
-      { "languageCode": "en", "text": "My name is Anna." }
+      { "languageCode": "en", "text": "My name is Anna." },
+      { "languageCode": "bn", "text": "আমার নাম আনা।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to be called" },
@@ -358,7 +376,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich kenne ihn gut." },
-      { "languageCode": "en", "text": "I know him well." }
+      { "languageCode": "en", "text": "I know him well." },
+      { "languageCode": "bn", "text": "আমি তাকে ভালোভাবে চিনি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to know" },
@@ -380,7 +399,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich besuche meine Oma." },
-      { "languageCode": "en", "text": "I visit my grandmother." }
+      { "languageCode": "en", "text": "I visit my grandmother." },
+      { "languageCode": "bn", "text": "আমি আমার দাদির সাথে দেখা করি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to visit" },

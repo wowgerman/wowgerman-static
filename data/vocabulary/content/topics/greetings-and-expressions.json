@@ -7,7 +7,8 @@
     "interjection_function": "greeting",
     "sentences": [
       { "languageCode": "de", "text": "Hallo! Schön dich zu sehen." },
-      { "languageCode": "en", "text": "Hello! Nice to see you." }
+      { "languageCode": "en", "text": "Hello! Nice to see you." },
+      { "languageCode": "bn", "text": "হ্যালো! তোমাকে দেখে ভালো লাগলো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hello" },
@@ -26,7 +27,8 @@
     "genitive_singular": "der Entschuldigung",
     "sentences": [
       { "languageCode": "de", "text": "Entschuldigung! Ich bin spät." },
-      { "languageCode": "en", "text": "Excuse me! I am late." }
+      { "languageCode": "en", "text": "Excuse me! I am late." },
+      { "languageCode": "bn", "text": "দুঃখিত! আমার দেরি হয়ে গেছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "excuse me" },
@@ -44,7 +46,8 @@
     "gender": null,
     "sentences": [
       { "languageCode": "de", "text": "Guten Tag! Wie geht es Ihnen?" },
-      { "languageCode": "en", "text": "Good day! How are you?" }
+      { "languageCode": "en", "text": "Good day! How are you?" },
+      { "languageCode": "bn", "text": "শুভ দিন! আপনি কেমন আছেন?" }
     ],
     "translations": [
       { "languageCode": "en", "text": "good day" },
@@ -60,7 +63,8 @@
     "interjection_function": "politeness",
     "sentences": [
       { "languageCode": "de", "text": "Bitte, nimm Platz." },
-      { "languageCode": "en", "text": "Please, take a seat." }
+      { "languageCode": "en", "text": "Please, take a seat." },
+      { "languageCode": "bn", "text": "অনুগ্রহ করে বসুন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "please" },
@@ -78,11 +82,12 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Herzlichen Glückwunsch zum Geburtstag!" },
-      { "languageCode": "en", "text": "Heartfelt congratulations on your birthday!" }
+      { "languageCode": "en", "text": "Heartfelt congratulations on your birthday!" },
+      { "languageCode": "bn", "text": "জন্মদিনের আন্তরিক শুভেচ্ছা!" }
     ],
     "translations": [
       { "languageCode": "en", "text": "heartfelt, cordial" },
-      { "languageCode": "bn", "text": "হৃদয়গ্রাহী" }
+      { "languageCode": "bn", "text": "আন্তরিক" }
     ],
     "image": "data/vocabulary/images/greetings-and-expressions/heartfelt.png"
   },
@@ -97,11 +102,12 @@
     "genitive_singular": "des Dankes",
     "sentences": [
       { "languageCode": "de", "text": "Vielen Dank für deine Hilfe." },
-      { "languageCode": "en", "text": "Many thanks for your help." }
+      { "languageCode": "en", "text": "Many thanks for your help." },
+      { "languageCode": "bn", "text": "তোমার সাহায্যের জন্য অনেক ধন্যবাদ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "gratitude, thanks" },
-      { "languageCode": "bn", "text": "কৃতজ্ঞতা" }
+      { "languageCode": "bn", "text": "ধন্যবাদ" }
     ],
     "image": "data/vocabulary/images/greetings-and-expressions/thanks.png"
   },
@@ -115,7 +121,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin dankbar für deine Hilfe." },
-      { "languageCode": "en", "text": "I am grateful for your help." }
+      { "languageCode": "en", "text": "I am grateful for your help." },
+      { "languageCode": "bn", "text": "আমি তোমার সাহায্যের জন্য কৃতজ্ঞ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "grateful" },
@@ -137,7 +144,8 @@
     "separable_prefix": null,
     "sentences": [
       { "languageCode": "de", "text": "Ich danke dir für deine Hilfe." },
-      { "languageCode": "en", "text": "I thank you for your help." }
+      { "languageCode": "en", "text": "I thank you for your help." },
+      { "languageCode": "bn", "text": "আমি তোমার সাহায্যের জন্য তোমাকে ধন্যবাদ জানাই।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "to thank" },
@@ -153,7 +161,8 @@
     "interjection_function": "gratitude",
     "sentences": [
       { "languageCode": "de", "text": "Danke für deine Hilfe." },
-      { "languageCode": "en", "text": "Thank you for your help." }
+      { "languageCode": "en", "text": "Thank you for your help." },
+      { "languageCode": "bn", "text": "তোমার সাহায্যের জন্য ধন্যবাদ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "thank you" },
@@ -169,7 +178,8 @@
     "interjection_function": "gratitude",
     "sentences": [
       { "languageCode": "de", "text": "Danke schön für das Geschenk." },
-      { "languageCode": "en", "text": "Thank you very much for the gift." }
+      { "languageCode": "en", "text": "Thank you very much for the gift." },
+      { "languageCode": "bn", "text": "উপহারের জন্য অনেক ধন্যবাদ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "thank you very much" },
@@ -185,7 +195,8 @@
     "interjection_function": "farewell",
     "sentences": [
       { "languageCode": "de", "text": "Bis bald! Ich rufe dich an." },
-      { "languageCode": "en", "text": "See you soon! I'll call you." }
+      { "languageCode": "en", "text": "See you soon! I'll call you." },
+      { "languageCode": "bn", "text": "শীঘ্রই দেখা হবে! আমি তোমাকে ফোন করবো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "see you soon" },
@@ -203,7 +214,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Schönen Tag noch! - Gleichfalls!" },
-      { "languageCode": "en", "text": "Have a nice day! - Likewise!" }
+      { "languageCode": "en", "text": "Have a nice day! - Likewise!" },
+      { "languageCode": "bn", "text": "তোমার দিনটা ভালো কাটুক! - তোমারও তাই!" }
     ],
     "translations": [
       { "languageCode": "en", "text": "likewise, you too, same to you" },
@@ -219,7 +231,8 @@
     "interjection_function": "farewell",
     "sentences": [
       { "languageCode": "de", "text": "Tschüs! Bis morgen." },
-      { "languageCode": "en", "text": "Bye! See you tomorrow." }
+      { "languageCode": "en", "text": "Bye! See you tomorrow." },
+      { "languageCode": "bn", "text": "বিদায়! আগামীকাল দেখা হবে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bye" },
@@ -235,7 +248,8 @@
     "interjection_function": "farewell",
     "sentences": [
       { "languageCode": "de", "text": "Ciao! Hab einen schönen Tag." },
-      { "languageCode": "en", "text": "Ciao! Have a nice day." }
+      { "languageCode": "en", "text": "Ciao! Have a nice day." },
+      { "languageCode": "bn", "text": "বিদায়! ভালো একটা দিন কাটাও।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "bye" },
@@ -251,7 +265,8 @@
     "interjection_function": "farewell",
     "sentences": [
       { "languageCode": "de", "text": "Auf Wiedersehen! Bis zum nächsten Mal." },
-      { "languageCode": "en", "text": "Goodbye! Until next time." }
+      { "languageCode": "en", "text": "Goodbye! Until next time." },
+      { "languageCode": "bn", "text": "বিদায়! আবার দেখা হবে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "goodbye" },
@@ -267,7 +282,8 @@
     "interjection_function": "encouragement",
     "sentences": [
       { "languageCode": "de", "text": "Los! Wir müssen gehen." },
-      { "languageCode": "en", "text": "Come on! We have to go." }
+      { "languageCode": "en", "text": "Come on! We have to go." },
+      { "languageCode": "bn", "text": "চলো! আমাদের যেতে হবে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "come on" },
@@ -283,7 +299,8 @@
     "interjection_function": "agreement",
     "sentences": [
       { "languageCode": "de", "text": "Okay, das machen wir so." },
-      { "languageCode": "en", "text": "Okay, we'll do it like that." }
+      { "languageCode": "en", "text": "Okay, we'll do it like that." },
+      { "languageCode": "bn", "text": "ঠিক আছে, আমরা এভাবেই করবো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "okay" },
@@ -301,7 +318,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Sie ist sehr freundlich zu mir." },
-      { "languageCode": "en", "text": "She is very friendly to me." }
+      { "languageCode": "en", "text": "She is very friendly to me." },
+      { "languageCode": "bn", "text": "সে আমার সাথে খুব বন্ধুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "friendly" },
@@ -319,7 +337,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist echt schön!" },
-      { "languageCode": "en", "text": "That's really beautiful!" }
+      { "languageCode": "en", "text": "That's really beautiful!" },
+      { "languageCode": "bn", "text": "এটা সত্যিই সুন্দর!" }
     ],
     "translations": [
       { "languageCode": "en", "text": "really, genuine" },
@@ -335,7 +354,8 @@
     "interjection_function": "celebration",
     "sentences": [
       { "languageCode": "de", "text": "Hurra! Wir haben gewonnen!" },
-      { "languageCode": "en", "text": "Hurray! We won!" }
+      { "languageCode": "en", "text": "Hurray! We won!" },
+      { "languageCode": "bn", "text": "হুররে! আমরা জিতেছি!" }
     ],
     "translations": [
       { "languageCode": "en", "text": "hurray" },
@@ -351,7 +371,8 @@
     "interjection_function": "toast",
     "sentences": [
       { "languageCode": "de", "text": "Zum Wohl! Auf unsere Freundschaft." },
-      { "languageCode": "en", "text": "Cheers! To our friendship." }
+      { "languageCode": "en", "text": "Cheers! To our friendship." },
+      { "languageCode": "bn", "text": "চিয়ার্স! আমাদের বন্ধুত্বের নামে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "cheers" },
@@ -369,11 +390,12 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Natürlich kann ich dir helfen." },
-      { "languageCode": "en", "text": "Of course I can help you." }
+      { "languageCode": "en", "text": "Of course I can help you." },
+      { "languageCode": "bn", "text": "অবশ্যই আমি তোমাকে সাহায্য করতে পারি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "naturally, of course" },
-      { "languageCode": "bn", "text": "স্বাভাবিকভাবে" }
+      { "languageCode": "bn", "text": "অবশ্যই" }
     ],
     "image": "data/vocabulary/images/greetings-and-expressions/naturally-of-course.png"
   },
@@ -387,7 +409,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das ist klar! Ich verstehe." },
-      { "languageCode": "en", "text": "That's clear! I understand." }
+      { "languageCode": "en", "text": "That's clear! I understand." },
+      { "languageCode": "bn", "text": "এটা তো স্পষ্ট! আমি বুঝতে পারছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "clear, sure, of course" },
@@ -405,7 +428,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Sehr geehrte Damen und Herren." },
-      { "languageCode": "en", "text": "Dear Ladies and Gentlemen." }
+      { "languageCode": "en", "text": "Dear Ladies and Gentlemen." },
+      { "languageCode": "bn", "text": "সম্মানিত মহিলা ও ভদ্রমহোদয়গণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "honored, esteemed" },
@@ -423,11 +447,12 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Du bist sehr lieb zu mir." },
-      { "languageCode": "en", "text": "You are very kind to me." }
+      { "languageCode": "en", "text": "You are very kind to me." },
+      { "languageCode": "bn", "text": "তুমি আমার প্রতি খুব সদয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "kind, dear" },
-      { "languageCode": "bn", "text": "প্রিয়" }
+      { "languageCode": "bn", "text": "সদয়" }
     ],
     "image": "data/vocabulary/images/greetings-and-expressions/kind-dear.png"
   },
@@ -441,11 +466,12 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Mir geht es heute schlecht." },
-      { "languageCode": "en", "text": "I feel bad today." }
+      { "languageCode": "en", "text": "I feel bad today." },
+      { "languageCode": "bn", "text": "আজ আমি অসুস্থ বোধ করছি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "bad, sick" },
-      { "languageCode": "bn", "text": "খারাপ, অসুস্থ" }
+      { "languageCode": "en", "text": "sick" },
+      { "languageCode": "bn", "text": "অসুস্থ" }
     ],
     "image": "data/vocabulary/images/greetings-and-expressions/bad.png"
   },
@@ -459,11 +485,12 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Mir geht es nicht so gut." },
-      { "languageCode": "en", "text": "I'm not doing so well." }
+      { "languageCode": "en", "text": "I'm not doing so well." },
+      { "languageCode": "bn", "text": "আমার তেমন ভালো লাগছে না।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "not so good" },
-      { "languageCode": "bn", "text": "এত ভালো না" }
+      { "languageCode": "bn", "text": "তেমন ভালো না" }
     ],
     "image": "data/vocabulary/images/greetings-and-expressions/not-so-good.png"
   },
@@ -477,7 +504,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Mir geht es ganz gut." },
-      { "languageCode": "en", "text": "I'm doing quite well." }
+      { "languageCode": "en", "text": "I'm doing quite well." },
+      { "languageCode": "bn", "text": "আমি বেশ ভালো আছি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "quite well" },
@@ -495,7 +523,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Das Wetter ist gut heute." },
-      { "languageCode": "en", "text": "The weather is good today." }
+      { "languageCode": "en", "text": "The weather is good today." },
+      { "languageCode": "bn", "text": "আজ আবহাওয়া ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "good" },
@@ -513,7 +542,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Das hast du sehr gut gemacht." },
-      { "languageCode": "en", "text": "You did that very well." }
+      { "languageCode": "en", "text": "You did that very well." },
+      { "languageCode": "bn", "text": "তুমি এটা খুব ভালো করেছো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "very well" },
@@ -531,7 +561,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Das Essen war ausgezeichnet!" },
-      { "languageCode": "en", "text": "The food was excellent!" }
+      { "languageCode": "en", "text": "The food was excellent!" },
+      { "languageCode": "bn", "text": "খাবারটা চমৎকার ছিল!" }
     ],
     "translations": [
       { "languageCode": "en", "text": "excellent" },
@@ -550,7 +581,8 @@
     "genitive_singular": "der Anrede",
     "sentences": [
       { "languageCode": "de", "text": "Die Anrede ist sehr wichtig." },
-      { "languageCode": "en", "text": "The form of address is very important." }
+      { "languageCode": "en", "text": "The form of address is very important." },
+      { "languageCode": "bn", "text": "সম্বোধনটি খুব গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "salutation" },
@@ -569,7 +601,8 @@
     "genitive_singular": "der Anredeformel",
     "sentences": [
       { "languageCode": "de", "text": "Die Anredeformel ist höflich." },
-      { "languageCode": "en", "text": "The form of address is polite." }
+      { "languageCode": "en", "text": "The form of address is polite." },
+      { "languageCode": "bn", "text": "সম্বোধনের সূত্রটি ভদ্র।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "salutation formula" },
@@ -588,7 +621,8 @@
     "genitive_singular": "des Grußes",
     "sentences": [
       { "languageCode": "de", "text": "Schöne Grüße an deine Familie." },
-      { "languageCode": "en", "text": "Kind regards to your family." }
+      { "languageCode": "en", "text": "Kind regards to your family." },
+      { "languageCode": "bn", "text": "তোমার পরিবারকে আমার শুভেচ্ছা জানিও।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "greeting" },
@@ -607,7 +641,8 @@
     "genitive_singular": "der Grußformel",
     "sentences": [
       { "languageCode": "de", "text": "Die Grußformel ist freundlich." },
-      { "languageCode": "en", "text": "The salutation is friendly." }
+      { "languageCode": "en", "text": "The salutation is friendly." },
+      { "languageCode": "bn", "text": "সমাপনী সম্ভাষণটি বন্ধুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "closing phrase" },
@@ -625,7 +660,8 @@
     "gradable": false,
     "sentences": [
       { "languageCode": "de", "text": "Zum Glück ist alles gut gegangen." },
-      { "languageCode": "en", "text": "Fortunately, everything went well." }
+      { "languageCode": "en", "text": "Fortunately, everything went well." },
+      { "languageCode": "bn", "text": "সৌভাগ্যবশত সবকিছু ভালোভাবে হয়েছে।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "fortunately" },
@@ -643,7 +679,8 @@
     "gradable": true,
     "sentences": [
       { "languageCode": "de", "text": "Ich bin sehr glücklich." },
-      { "languageCode": "en", "text": "I am very happy." }
+      { "languageCode": "en", "text": "I am very happy." },
+      { "languageCode": "bn", "text": "আমি খুব খুশি।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "happy" },

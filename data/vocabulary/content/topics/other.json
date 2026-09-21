@@ -10,7 +10,8 @@
     "genitive_singular": "des Anhangs",
     "sentences": [
       { "languageCode": "de", "text": "Der Anhang ist wichtig." },
-      { "languageCode": "en", "text": "The attachment is important." }
+      { "languageCode": "en", "text": "The attachment is important." },
+      { "languageCode": "bn", "text": "সংযুক্তিটি গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "attachment" },
@@ -28,7 +29,8 @@
     "genitive_singular": "der Art",
     "sentences": [
       { "languageCode": "de", "text": "Die Art ist wichtig." },
-      { "languageCode": "en", "text": "The type is important." }
+      { "languageCode": "en", "text": "The type is important." },
+      { "languageCode": "bn", "text": "ধরনটি গুরুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "type" },
@@ -46,7 +48,8 @@
     "genitive_singular": "der Aufgabe",
     "sentences": [
       { "languageCode": "de", "text": "Die Aufgabe ist schwer." },
-      { "languageCode": "en", "text": "The task is difficult." }
+      { "languageCode": "en", "text": "The task is difficult." },
+      { "languageCode": "bn", "text": "কাজটি কঠিন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "task" },
@@ -64,7 +67,8 @@
     "genitive_singular": "der Bewegung",
     "sentences": [
       { "languageCode": "de", "text": "Die Bewegung ist langsam." },
-      { "languageCode": "en", "text": "The movement is slow." }
+      { "languageCode": "en", "text": "The movement is slow." },
+      { "languageCode": "bn", "text": "আন্দোলনটি ধীর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "movement" },
@@ -82,7 +86,8 @@
     "genitive_singular": "des Bildes",
     "sentences": [
       { "languageCode": "de", "text": "Das Bild ist schön." },
-      { "languageCode": "en", "text": "The picture is beautiful." }
+      { "languageCode": "en", "text": "The picture is beautiful." },
+      { "languageCode": "bn", "text": "ছবিটি সুন্দর।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "picture" },
@@ -100,7 +105,8 @@
     "genitive_singular": "des Dings",
     "sentences": [
       { "languageCode": "de", "text": "Das Ding ist interessant." },
-      { "languageCode": "en", "text": "The thing is interesting." }
+      { "languageCode": "en", "text": "The thing is interesting." },
+      { "languageCode": "bn", "text": "জিনিসটি আকর্ষণীয়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "thing" },
@@ -118,7 +124,8 @@
     "genitive_singular": "des Experiments",
     "sentences": [
       { "languageCode": "de", "text": "Das Experiment ist spannend." },
-      { "languageCode": "en", "text": "The experiment is exciting." }
+      { "languageCode": "en", "text": "The experiment is exciting." },
+      { "languageCode": "bn", "text": "পরীক্ষাটি উত্তেজনাপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "experiment" },
@@ -136,7 +143,8 @@
     "genitive_singular": "der Gruppe",
     "sentences": [
       { "languageCode": "de", "text": "Die Gruppe ist groß." },
-      { "languageCode": "en", "text": "The group is big." }
+      { "languageCode": "en", "text": "The group is big." },
+      { "languageCode": "bn", "text": "দলটি বড়।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "group" },
@@ -154,7 +162,8 @@
     "genitive_singular": "des Individualisten",
     "sentences": [
       { "languageCode": "de", "text": "Der Individualist ist anders." },
-      { "languageCode": "en", "text": "The individualist is different." }
+      { "languageCode": "en", "text": "The individualist is different." },
+      { "languageCode": "bn", "text": "স্বতন্ত্রবাদীটি ভিন্ন।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "individualist" },
@@ -172,7 +181,8 @@
     "genitive_singular": "der Individualistin",
     "sentences": [
       { "languageCode": "de", "text": "Die Individualistin ist stark." },
-      { "languageCode": "en", "text": "The individualist is strong." }
+      { "languageCode": "en", "text": "The individualist is strong." },
+      { "languageCode": "bn", "text": "স্বতন্ত্রবাদী নারীটি শক্তিশালী।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "individualist (female)" },
@@ -190,7 +200,8 @@
     "genitive_singular": "der Liste",
     "sentences": [
       { "languageCode": "de", "text": "Die Liste ist lang." },
-      { "languageCode": "en", "text": "The list is long." }
+      { "languageCode": "en", "text": "The list is long." },
+      { "languageCode": "bn", "text": "তালিকাটি দীর্ঘ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "list" },
@@ -208,7 +219,8 @@
     "genitive_singular": "des Menschen",
     "sentences": [
       { "languageCode": "de", "text": "Der Mensch ist freundlich." },
-      { "languageCode": "en", "text": "The person is friendly." }
+      { "languageCode": "en", "text": "The person is friendly." },
+      { "languageCode": "bn", "text": "মানুষটি বন্ধুত্বপূর্ণ।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "person" },
@@ -226,7 +238,8 @@
     "genitive_singular": "der Möglichkeit",
     "sentences": [
       { "languageCode": "de", "text": "Die Möglichkeit ist gut." },
-      { "languageCode": "en", "text": "The possibility is good." }
+      { "languageCode": "en", "text": "The possibility is good." },
+      { "languageCode": "bn", "text": "সম্ভাবনাটি ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "possibility" },
@@ -244,7 +257,8 @@
     "genitive_singular": "des Plans",
     "sentences": [
       { "languageCode": "de", "text": "Der Plan ist fertig." },
-      { "languageCode": "en", "text": "The plan is ready." }
+      { "languageCode": "en", "text": "The plan is ready." },
+      { "languageCode": "bn", "text": "পরিকল্পনাটি প্রস্তুত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "plan" },
@@ -262,7 +276,8 @@
     "genitive_singular": "der Strategie",
     "sentences": [
       { "languageCode": "de", "text": "Die Strategie ist gut." },
-      { "languageCode": "en", "text": "The strategy is good." }
+      { "languageCode": "en", "text": "The strategy is good." },
+      { "languageCode": "bn", "text": "কৌশলটি ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "strategy" },
@@ -280,7 +295,8 @@
     "genitive_singular": "des Teams",
     "sentences": [
       { "languageCode": "de", "text": "Das Team ist gut." },
-      { "languageCode": "en", "text": "The team is good." }
+      { "languageCode": "en", "text": "The team is good." },
+      { "languageCode": "bn", "text": "দলটি ভালো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "team" },
@@ -298,7 +314,8 @@
     "genitive_singular": "des Tipps",
     "sentences": [
       { "languageCode": "de", "text": "Der Tipp ist hilfreich." },
-      { "languageCode": "en", "text": "The tip is helpful." }
+      { "languageCode": "en", "text": "The tip is helpful." },
+      { "languageCode": "bn", "text": "টিপসটি সহায়ক।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "tip" },
@@ -316,7 +333,8 @@
     "genitive_singular": "der Vorliebe",
     "sentences": [
       { "languageCode": "de", "text": "Die Vorliebe ist persönlich." },
-      { "languageCode": "en", "text": "The preference is personal." }
+      { "languageCode": "en", "text": "The preference is personal." },
+      { "languageCode": "bn", "text": "পছন্দটি ব্যক্তিগত।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "preference" },
@@ -334,7 +352,8 @@
     "genitive_singular": "des Zufalls",
     "sentences": [
       { "languageCode": "de", "text": "Der Zufall ist komisch." },
-      { "languageCode": "en", "text": "The coincidence is funny." }
+      { "languageCode": "en", "text": "The coincidence is funny." },
+      { "languageCode": "bn", "text": "এই কাকতালীয় বিষয়টি মজার।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "coincidence" },
