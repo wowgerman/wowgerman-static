@@ -14,7 +14,7 @@
       { "languageCode": "en", "text": "hello" },
       { "languageCode": "bn", "text": "হ্যালো" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/hello.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/hello.png"
   },
   {
     "level": "a1",
@@ -34,7 +34,7 @@
       { "languageCode": "en", "text": "excuse me" },
       { "languageCode": "bn", "text": "দুঃখিত" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/excuse-me.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/excuse-me.png"
   },
   {
     "level": "a1",
@@ -53,7 +53,7 @@
       { "languageCode": "en", "text": "good day" },
       { "languageCode": "bn", "text": "শুভ দিন" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/good-day.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/good-day.png"
   },
   {
     "level": "a1",
@@ -70,7 +70,7 @@
       { "languageCode": "en", "text": "please" },
       { "languageCode": "bn", "text": "অনুগ্রহ করে" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/please.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/please.png"
   },
   {
     "level": "a1",
@@ -89,7 +89,7 @@
       { "languageCode": "en", "text": "heartfelt, cordial" },
       { "languageCode": "bn", "text": "আন্তরিক" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/heartfelt.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/heartfelt.png"
   },
   {
     "level": "a1",
@@ -109,7 +109,7 @@
       { "languageCode": "en", "text": "gratitude, thanks" },
       { "languageCode": "bn", "text": "ধন্যবাদ" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/thanks.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/thanks.png"
   },
   {
     "level": "a1",
@@ -128,7 +128,7 @@
       { "languageCode": "en", "text": "grateful" },
       { "languageCode": "bn", "text": "কৃতজ্ঞ" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/grateful.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/grateful.png"
   },
   {
     "level": "a1",
@@ -151,7 +151,7 @@
       { "languageCode": "en", "text": "to thank" },
       { "languageCode": "bn", "text": "ধন্যবাদ দেওয়া" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/to-thank.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/to-thank.png"
   },
   {
     "level": "a1",
@@ -168,7 +168,7 @@
       { "languageCode": "en", "text": "thank you" },
       { "languageCode": "bn", "text": "ধন্যবাদ" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/thank-you.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/thank-you.png"
   },
   {
     "level": "a1",
@@ -185,7 +185,7 @@
       { "languageCode": "en", "text": "thank you very much" },
       { "languageCode": "bn", "text": "অনেক ধন্যবাদ" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/thank-you-very-much.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/thank-you-very-much.png"
   },
   {
     "level": "a1",
@@ -202,7 +202,7 @@
       { "languageCode": "en", "text": "see you soon" },
       { "languageCode": "bn", "text": "শীঘ্রই দেখা হবে" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/see-you-soon.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/see-you-soon.png"
   },
   {
     "level": "a1",
@@ -221,7 +221,7 @@
       { "languageCode": "en", "text": "likewise, you too, same to you" },
       { "languageCode": "bn", "text": "একইভাবে" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/likewise.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/likewise.png"
   },
   {
     "level": "a1",
@@ -238,7 +238,7 @@
       { "languageCode": "en", "text": "bye" },
       { "languageCode": "bn", "text": "বিদায়" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/bye.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/bye.png"
   },
   {
     "level": "a1",
@@ -255,7 +255,7 @@
       { "languageCode": "en", "text": "bye" },
       { "languageCode": "bn", "text": "বিদায়" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/bye-too.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/bye-too.png"
   },
   {
     "level": "a1",
@@ -272,7 +272,7 @@
       { "languageCode": "en", "text": "goodbye" },
       { "languageCode": "bn", "text": "বিদায়" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/goodbye.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/goodbye.png"
   },
   {
     "level": "a1",
@@ -289,7 +289,7 @@
       { "languageCode": "en", "text": "come on" },
       { "languageCode": "bn", "text": "চলো" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/come-on.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/come-on.png"
   },
   {
     "level": "a1",
@@ -306,7 +306,7 @@
       { "languageCode": "en", "text": "okay" },
       { "languageCode": "bn", "text": "ঠিক আছে" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/okay.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/okay.png"
   },
   {
     "level": "a1",
@@ -325,7 +325,7 @@
       { "languageCode": "en", "text": "friendly" },
       { "languageCode": "bn", "text": "বন্ধুত্বপূর্ণ" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/friendly.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/friendly.png"
   },
   {
     "level": "a1",
@@ -344,7 +344,7 @@
       { "languageCode": "en", "text": "really, genuine" },
       { "languageCode": "bn", "text": "সত্যিই" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/genuine.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/genuine.png"
   },
   {
     "level": "a1",
@@ -361,7 +361,7 @@
       { "languageCode": "en", "text": "hurray" },
       { "languageCode": "bn", "text": "হুররে" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/hurray.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/hurray.png"
   },
   {
     "level": "a1",
@@ -378,7 +378,7 @@
       { "languageCode": "en", "text": "cheers" },
       { "languageCode": "bn", "text": "চিয়ার্স" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/cheers.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/cheers.png"
   },
   {
     "level": "a1",
@@ -397,7 +397,7 @@
       { "languageCode": "en", "text": "naturally, of course" },
       { "languageCode": "bn", "text": "অবশ্যই" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/naturally-of-course.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/naturally-of-course.png"
   },
   {
     "level": "a1",
@@ -416,7 +416,7 @@
       { "languageCode": "en", "text": "clear, sure, of course" },
       { "languageCode": "bn", "text": "স্পষ্ট, অবশ্যই" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/sure.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/sure.png"
   },
   {
     "level": "a1",
@@ -435,7 +435,7 @@
       { "languageCode": "en", "text": "honored, esteemed" },
       { "languageCode": "bn", "text": "সম্মানিত" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/honored.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/honored.png"
   },
   {
     "level": "a1",
@@ -454,7 +454,7 @@
       { "languageCode": "en", "text": "kind, dear" },
       { "languageCode": "bn", "text": "সদয়" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/kind-dear.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/kind-dear.png"
   },
   {
     "level": "a1",
@@ -473,7 +473,7 @@
       { "languageCode": "en", "text": "sick" },
       { "languageCode": "bn", "text": "অসুস্থ" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/bad.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/bad.png"
   },
   {
     "level": "a1",
@@ -492,7 +492,7 @@
       { "languageCode": "en", "text": "not so good" },
       { "languageCode": "bn", "text": "তেমন ভালো না" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/not-so-good.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/not-so-good.png"
   },
   {
     "level": "a1",
@@ -511,7 +511,7 @@
       { "languageCode": "en", "text": "quite well" },
       { "languageCode": "bn", "text": "বেশ ভালো" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/quite-good.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/quite-good.png"
   },
   {
     "level": "a1",
@@ -530,7 +530,7 @@
       { "languageCode": "en", "text": "good" },
       { "languageCode": "bn", "text": "ভালো" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/good.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/good.png"
   },
   {
     "level": "a1",
@@ -549,7 +549,7 @@
       { "languageCode": "en", "text": "very well" },
       { "languageCode": "bn", "text": "খুব ভালো" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/very-good.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/very-good.png"
   },
   {
     "level": "a1",
@@ -568,7 +568,7 @@
       { "languageCode": "en", "text": "excellent" },
       { "languageCode": "bn", "text": "চমৎকার" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/excellent.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/excellent.png"
   },
   {
     "level": "a1",
@@ -588,7 +588,7 @@
       { "languageCode": "en", "text": "salutation" },
       { "languageCode": "bn", "text": "সম্বোধন" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/salutation.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/salutation.png"
   },
   {
     "level": "a1",
@@ -608,7 +608,7 @@
       { "languageCode": "en", "text": "salutation formula" },
       { "languageCode": "bn", "text": "সম্বোধনের সূত্র" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/salutation-formula.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/salutation-formula.png"
   },
   {
     "level": "a1",
@@ -628,7 +628,7 @@
       { "languageCode": "en", "text": "greeting" },
       { "languageCode": "bn", "text": "শুভেচ্ছা" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/greeting.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/greeting.png"
   },
   {
     "level": "a1",
@@ -648,7 +648,7 @@
       { "languageCode": "en", "text": "closing phrase" },
       { "languageCode": "bn", "text": "সমাপনী সম্ভাষণ" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/closing-phrase.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/closing-phrase.png"
   },
   {
     "level": "a1",
@@ -667,7 +667,7 @@
       { "languageCode": "en", "text": "fortunately" },
       { "languageCode": "bn", "text": "সৌভাগ্যবশত" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/fortunately.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/fortunately.png"
   },
   {
     "level": "a1",
@@ -686,6 +686,6 @@
       { "languageCode": "en", "text": "happy" },
       { "languageCode": "bn", "text": "খুশি" }
     ],
-    "image": "data/vocabulary/images/greetings-and-expressions/happy.png"
+    "image": "private/data/vocabulary/images/greetings-and-expressions/happy.png"
   }
 ]

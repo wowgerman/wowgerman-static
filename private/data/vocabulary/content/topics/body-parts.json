@@ -17,7 +17,7 @@
       { "languageCode": "en", "text": "hair" },
       { "languageCode": "bn", "text": "চুল" }
     ],
-    "image": "data/vocabulary/images/body-parts/hair.png"
+    "image": "private/data/vocabulary/images/body-parts/hair.png"
   },
   {
     "level": "a1",
@@ -37,7 +37,7 @@
       { "languageCode": "en", "text": "ear" },
       { "languageCode": "bn", "text": "কান" }
     ],
-    "image": "data/vocabulary/images/body-parts/ear.png"
+    "image": "private/data/vocabulary/images/body-parts/ear.png"
   },
   {
     "level": "a1",
@@ -57,7 +57,7 @@
       { "languageCode": "en", "text": "head" },
       { "languageCode": "bn", "text": "মাথা" }
     ],
-    "image": "data/vocabulary/images/body-parts/head.png"
+    "image": "private/data/vocabulary/images/body-parts/head.png"
   },
   {
     "level": "a1",
@@ -77,7 +77,7 @@
       { "languageCode": "en", "text": "neck" },
       { "languageCode": "bn", "text": "ঘাড়" }
     ],
-    "image": "data/vocabulary/images/body-parts/neck.png"
+    "image": "private/data/vocabulary/images/body-parts/neck.png"
   },
   {
     "level": "a1",
@@ -97,7 +97,7 @@
       { "languageCode": "en", "text": "face" },
       { "languageCode": "bn", "text": "মুখমণ্ডল" }
     ],
-    "image": "data/vocabulary/images/body-parts/face.png"
+    "image": "private/data/vocabulary/images/body-parts/face.png"
   },
   {
     "level": "a1",
@@ -117,7 +117,7 @@
       { "languageCode": "en", "text": "chin" },
       { "languageCode": "bn", "text": "থুতনি" }
     ],
-    "image": "data/vocabulary/images/body-parts/chin.png"
+    "image": "private/data/vocabulary/images/body-parts/chin.png"
   },
   {
     "level": "a1",
@@ -137,7 +137,7 @@
       { "languageCode": "en", "text": "forehead" },
       { "languageCode": "bn", "text": "কপাল" }
     ],
-    "image": "data/vocabulary/images/body-parts/forehead.png"
+    "image": "private/data/vocabulary/images/body-parts/forehead.png"
   },
   {
     "level": "a1",
@@ -157,7 +157,7 @@
       { "languageCode": "en", "text": "nose" },
       { "languageCode": "bn", "text": "নাক" }
     ],
-    "image": "data/vocabulary/images/body-parts/nose.png"
+    "image": "private/data/vocabulary/images/body-parts/nose.png"
   },
   {
     "level": "a1",
@@ -177,7 +177,7 @@
       { "languageCode": "en", "text": "eyebrow" },
       { "languageCode": "bn", "text": "ভ্রু" }
     ],
-    "image": "data/vocabulary/images/body-parts/eyebrow.png"
+    "image": "private/data/vocabulary/images/body-parts/eyebrow.png"
   },
   {
     "level": "a1",
@@ -197,7 +197,7 @@
       { "languageCode": "en", "text": "eye" },
       { "languageCode": "bn", "text": "চোখ" }
     ],
-    "image": "data/vocabulary/images/body-parts/eye.png"
+    "image": "private/data/vocabulary/images/body-parts/eye.png"
   },
   {
     "level": "a1",
@@ -217,7 +217,7 @@
       { "languageCode": "en", "text": "tooth" },
       { "languageCode": "bn", "text": "দাঁত" }
     ],
-    "image": "data/vocabulary/images/body-parts/tooth.png"
+    "image": "private/data/vocabulary/images/body-parts/tooth.png"
   },
   {
     "level": "a1",
@@ -237,7 +237,7 @@
       { "languageCode": "en", "text": "mouth" },
       { "languageCode": "bn", "text": "মুখ" }
     ],
-    "image": "data/vocabulary/images/body-parts/mouth.png"
+    "image": "private/data/vocabulary/images/body-parts/mouth.png"
   },
   {
     "level": "a1",
@@ -257,7 +257,7 @@
       { "languageCode": "en", "text": "lip" },
       { "languageCode": "bn", "text": "ঠোঁট" }
     ],
-    "image": "data/vocabulary/images/body-parts/lip.png"
+    "image": "private/data/vocabulary/images/body-parts/lip.png"
   },
   {
     "level": "a1",
@@ -277,7 +277,7 @@
       { "languageCode": "en", "text": "arm" },
       { "languageCode": "bn", "text": "হাত" }
     ],
-    "image": "data/vocabulary/images/body-parts/arm.png"
+    "image": "private/data/vocabulary/images/body-parts/arm.png"
   },
   {
     "level": "a1",
@@ -297,7 +297,7 @@
       { "languageCode": "en", "text": "elbow" },
       { "languageCode": "bn", "text": "কনুই" }
     ],
-    "image": "data/vocabulary/images/body-parts/elbow.png"
+    "image": "private/data/vocabulary/images/body-parts/elbow.png"
   },
   {
     "level": "a1",
@@ -317,7 +317,7 @@
       { "languageCode": "en", "text": "back" },
       { "languageCode": "bn", "text": "পিঠ" }
     ],
-    "image": "data/vocabulary/images/body-parts/back.png"
+    "image": "private/data/vocabulary/images/body-parts/back.png"
   },
   {
     "level": "a1",
@@ -337,7 +337,7 @@
       { "languageCode": "en", "text": "belly/stomach" },
       { "languageCode": "bn", "text": "পেট" }
     ],
-    "image": "data/vocabulary/images/body-parts/belly.png"
+    "image": "private/data/vocabulary/images/body-parts/belly.png"
   },
   {
     "level": "a1",
@@ -357,7 +357,7 @@
       { "languageCode": "en", "text": "finger" },
       { "languageCode": "bn", "text": "আঙুল" }
     ],
-    "image": "data/vocabulary/images/body-parts/finger.png"
+    "image": "private/data/vocabulary/images/body-parts/finger.png"
   },
   {
     "level": "a1",
@@ -377,7 +377,7 @@
       { "languageCode": "en", "text": "skin" },
       { "languageCode": "bn", "text": "চামড়া" }
     ],
-    "image": "data/vocabulary/images/body-parts/skin.png"
+    "image": "private/data/vocabulary/images/body-parts/skin.png"
   },
   {
     "level": "a1",
@@ -397,7 +397,7 @@
       { "languageCode": "en", "text": "shoulder" },
       { "languageCode": "bn", "text": "কাঁধ" }
     ],
-    "image": "data/vocabulary/images/body-parts/shoulder.png"
+    "image": "private/data/vocabulary/images/body-parts/shoulder.png"
   },
   {
     "level": "a1",
@@ -417,7 +417,7 @@
       { "languageCode": "en", "text": "chest" },
       { "languageCode": "bn", "text": "বুক" }
     ],
-    "image": "data/vocabulary/images/body-parts/chest.png"
+    "image": "private/data/vocabulary/images/body-parts/chest.png"
   },
   {
     "level": "a1",
@@ -437,7 +437,7 @@
       { "languageCode": "en", "text": "waist" },
       { "languageCode": "bn", "text": "কোমর" }
     ],
-    "image": "data/vocabulary/images/body-parts/waist.png"
+    "image": "private/data/vocabulary/images/body-parts/waist.png"
   },
   {
     "level": "a1",
@@ -457,7 +457,7 @@
       { "languageCode": "en", "text": "hand" },
       { "languageCode": "bn", "text": "হাত" }
     ],
-    "image": "data/vocabulary/images/body-parts/hand.png"
+    "image": "private/data/vocabulary/images/body-parts/hand.png"
   },
   {
     "level": "a1",
@@ -477,7 +477,7 @@
       { "languageCode": "en", "text": "wrist" },
       { "languageCode": "bn", "text": "কব্জি" }
     ],
-    "image": "data/vocabulary/images/body-parts/wrist.png"
+    "image": "private/data/vocabulary/images/body-parts/wrist.png"
   },
   {
     "level": "a1",
@@ -497,7 +497,7 @@
       { "languageCode": "en", "text": "knee" },
       { "languageCode": "bn", "text": "হাঁটু" }
     ],
-    "image": "data/vocabulary/images/body-parts/knee.png"
+    "image": "private/data/vocabulary/images/body-parts/knee.png"
   },
   {
     "level": "a1",
@@ -517,7 +517,7 @@
       { "languageCode": "en", "text": "leg" },
       { "languageCode": "bn", "text": "পা" }
     ],
-    "image": "data/vocabulary/images/body-parts/leg.png"
+    "image": "private/data/vocabulary/images/body-parts/leg.png"
   },
   {
     "level": "a1",
@@ -537,7 +537,7 @@
       { "languageCode": "en", "text": "thigh" },
       { "languageCode": "bn", "text": "উরু" }
     ],
-    "image": "data/vocabulary/images/body-parts/thigh.png"
+    "image": "private/data/vocabulary/images/body-parts/thigh.png"
   },
   {
     "level": "a1",
@@ -557,7 +557,7 @@
       { "languageCode": "en", "text": "ankle" },
       { "languageCode": "bn", "text": "গোড়ালি" }
     ],
-    "image": "data/vocabulary/images/body-parts/ankle.png"
+    "image": "private/data/vocabulary/images/body-parts/ankle.png"
   },
   {
     "level": "a1",
@@ -577,7 +577,7 @@
       { "languageCode": "en", "text": "foot" },
       { "languageCode": "bn", "text": "পা" }
     ],
-    "image": "data/vocabulary/images/body-parts/foot.png"
+    "image": "private/data/vocabulary/images/body-parts/foot.png"
   },
   {
     "level": "a1",
@@ -597,7 +597,7 @@
       { "languageCode": "en", "text": "toe" },
       { "languageCode": "bn", "text": "পায়ের আঙুল" }
     ],
-    "image": "data/vocabulary/images/body-parts/toe.png"
+    "image": "private/data/vocabulary/images/body-parts/toe.png"
   },
   {
     "level": "a1",
@@ -617,6 +617,6 @@
       { "languageCode": "en", "text": "heart" },
       { "languageCode": "bn", "text": "হৃদয়" }
     ],
-    "image": "data/vocabulary/images/body-parts/heart.png"
+    "image": "private/data/vocabulary/images/body-parts/heart.png"
   }
 ]

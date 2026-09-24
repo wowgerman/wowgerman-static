@@ -20,7 +20,7 @@
       { "languageCode": "en", "text": "to like" },
       { "languageCode": "bn", "text": "পছন্দ করা" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/to-like.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/to-like.png"
   },
   {
     "level": "a1",
@@ -40,7 +40,7 @@
       { "languageCode": "en", "text": "favor" },
       { "languageCode": "bn", "text": "উপকার" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/favor.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/favor.png"
   },
   {
     "level": "a1",
@@ -60,7 +60,7 @@
       { "languageCode": "en", "text": "dissatisfaction" },
       { "languageCode": "bn", "text": "অসন্তুষ্টি" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/dissatisfaction.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/dissatisfaction.png"
   },
   {
     "level": "a1",
@@ -79,7 +79,7 @@
       { "languageCode": "en", "text": "cheerful" },
       { "languageCode": "bn", "text": "প্রফুল্ল" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/cheerful.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/cheerful.png"
   },
   {
     "level": "a1",
@@ -98,7 +98,7 @@
       { "languageCode": "en", "text": "satisfied" },
       { "languageCode": "bn", "text": "সন্তুষ্ট" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/satisfied.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/satisfied.png"
   },
   {
     "level": "a1",
@@ -117,7 +117,7 @@
       { "languageCode": "en", "text": "hopeful" },
       { "languageCode": "bn", "text": "আশাবাদী" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/hopeful.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/hopeful.png"
   },
   {
     "level": "a1",
@@ -136,7 +136,7 @@
       { "languageCode": "en", "text": "proud" },
       { "languageCode": "bn", "text": "গর্বিত" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/proud.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/proud.png"
   },
   {
     "level": "a1",
@@ -155,7 +155,7 @@
       { "languageCode": "en", "text": "calm" },
       { "languageCode": "bn", "text": "শান্ত" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/calm.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/calm.png"
   },
   {
     "level": "a1",
@@ -174,7 +174,7 @@
       { "languageCode": "en", "text": "relaxed" },
       { "languageCode": "bn", "text": "শিথিল" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/relaxed.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/relaxed.png"
   },
   {
     "level": "a1",
@@ -193,7 +193,7 @@
       { "languageCode": "en", "text": "nervous" },
       { "languageCode": "bn", "text": "নার্ভাস" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/nervous.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/nervous.png"
   },
   {
     "level": "a1",
@@ -212,7 +212,7 @@
       { "languageCode": "en", "text": "anxious" },
       { "languageCode": "bn", "text": "উদ্বিগ্ন" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/anxious.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/anxious.png"
   },
   {
     "level": "a1",
@@ -232,7 +232,7 @@
       { "languageCode": "en", "text": "nonsense" },
       { "languageCode": "bn", "text": "আজেবাজে কথা" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/nonsense.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/nonsense.png"
   },
   {
     "level": "a1",
@@ -255,7 +255,7 @@
       { "languageCode": "en", "text": "to wish" },
       { "languageCode": "bn", "text": "ইচ্ছা করা" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/to-wish.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/to-wish.png"
   },
   {
     "level": "a1",
@@ -274,7 +274,7 @@
       { "languageCode": "en", "text": "stressed" },
       { "languageCode": "bn", "text": "চাপগ্রস্ত" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/stressed.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/stressed.png"
   },
   {
     "level": "a1",
@@ -293,7 +293,7 @@
       { "languageCode": "en", "text": "awake" },
       { "languageCode": "bn", "text": "জাগ্রত" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/awake.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/awake.png"
   },
   {
     "level": "a1",
@@ -312,7 +312,7 @@
       { "languageCode": "en", "text": "rare" },
       { "languageCode": "bn", "text": "বিরল" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/rare.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/rare.png"
   },
   {
     "level": "a1",
@@ -331,7 +331,7 @@
       { "languageCode": "en", "text": "surprised" },
       { "languageCode": "bn", "text": "অবাক" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/surprised.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/surprised.png"
   },
   {
     "level": "a1",
@@ -350,7 +350,7 @@
       { "languageCode": "en", "text": "excited" },
       { "languageCode": "bn", "text": "উত্তেজিত" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/excited.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/excited.png"
   },
   {
     "level": "a1",
@@ -369,7 +369,7 @@
       { "languageCode": "en", "text": "sad" },
       { "languageCode": "bn", "text": "দুঃখিত" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/sad.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/sad.png"
   },
   {
     "level": "a1",
@@ -388,7 +388,7 @@
       { "languageCode": "en", "text": "lonely" },
       { "languageCode": "bn", "text": "একাকী" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/lonely.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/lonely.png"
   },
   {
     "level": "a1",
@@ -407,7 +407,7 @@
       { "languageCode": "en", "text": "disappointed" },
       { "languageCode": "bn", "text": "হতাশ" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/disappointed.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/disappointed.png"
   },
   {
     "level": "a1",
@@ -430,7 +430,7 @@
       { "languageCode": "en", "text": "to annoy" },
       { "languageCode": "bn", "text": "বিরক্ত করা" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/to-annoy.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/to-annoy.png"
   },
   {
     "level": "a1",
@@ -449,7 +449,7 @@
       { "languageCode": "en", "text": "angry" },
       { "languageCode": "bn", "text": "রাগান্বিত" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/angry.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/angry.png"
   },
   {
     "level": "a1",
@@ -468,7 +468,7 @@
       { "languageCode": "en", "text": "in love" },
       { "languageCode": "bn", "text": "প্রেমে পড়া" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/in-love.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/in-love.png"
   },
   {
     "level": "a1",
@@ -491,7 +491,7 @@
       { "languageCode": "en", "text": "to miss" },
       { "languageCode": "bn", "text": "মিস করা" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/to-miss.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/to-miss.png"
   },
   {
     "level": "a1",
@@ -511,7 +511,7 @@
       { "languageCode": "en", "text": "decision" },
       { "languageCode": "bn", "text": "সিদ্ধান্ত" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/decision.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/decision.png"
   },
   {
     "level": "a1",
@@ -531,7 +531,7 @@
       { "languageCode": "en", "text": "reaction" },
       { "languageCode": "bn", "text": "প্রতিক্রিয়া" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/reaction.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/reaction.png"
   },
   {
     "level": "a1",
@@ -551,6 +551,6 @@
       { "languageCode": "en", "text": "thing" },
       { "languageCode": "bn", "text": "বিষয়" }
     ],
-    "image": "data/vocabulary/images/emotions-and-feelings/thing.png"
+    "image": "private/data/vocabulary/images/emotions-and-feelings/thing.png"
   }
 ]

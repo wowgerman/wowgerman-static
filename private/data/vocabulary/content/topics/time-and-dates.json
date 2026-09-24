@@ -17,7 +17,7 @@
       { "languageCode": "en", "text": "morning" },
       { "languageCode": "bn", "text": "সকাল" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/morning.png"
+    "image": "private/data/vocabulary/images/time-and-dates/morning.png"
   },
   {
     "level": "a1",
@@ -37,7 +37,7 @@
       { "languageCode": "en", "text": "late morning" },
       { "languageCode": "bn", "text": "সকালের শেষ ভাগ" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/late-morning.png"
+    "image": "private/data/vocabulary/images/time-and-dates/late-morning.png"
   },
   {
     "level": "a1",
@@ -57,7 +57,7 @@
       { "languageCode": "en", "text": "noon" },
       { "languageCode": "bn", "text": "দুপুর" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/noon.png"
+    "image": "private/data/vocabulary/images/time-and-dates/noon.png"
   },
   {
     "level": "a1",
@@ -77,7 +77,7 @@
       { "languageCode": "en", "text": "afternoon" },
       { "languageCode": "bn", "text": "বিকেল" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/afternoon.png"
+    "image": "private/data/vocabulary/images/time-and-dates/afternoon.png"
   },
   {
     "level": "a1",
@@ -97,7 +97,7 @@
       { "languageCode": "en", "text": "evening" },
       { "languageCode": "bn", "text": "সন্ধ্যা" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/evening.png"
+    "image": "private/data/vocabulary/images/time-and-dates/evening.png"
   },
   {
     "level": "a1",
@@ -117,7 +117,7 @@
       { "languageCode": "en", "text": "night" },
       { "languageCode": "bn", "text": "রাত" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/night.png"
+    "image": "private/data/vocabulary/images/time-and-dates/night.png"
   },
   {
     "level": "a1",
@@ -137,7 +137,7 @@
       { "languageCode": "en", "text": "midnight" },
       { "languageCode": "bn", "text": "মধ্যরাত" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/midnight.png"
+    "image": "private/data/vocabulary/images/time-and-dates/midnight.png"
   },
   {
     "level": "a1",
@@ -157,7 +157,7 @@
       { "languageCode": "en", "text": "dawn, daybreak" },
       { "languageCode": "bn", "text": "ভোর" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/dawn.png"
+    "image": "private/data/vocabulary/images/time-and-dates/dawn.png"
   },
   {
     "level": "a1",
@@ -177,7 +177,7 @@
       { "languageCode": "en", "text": "Monday" },
       { "languageCode": "bn", "text": "সোমবার" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/monday.png"
+    "image": "private/data/vocabulary/images/time-and-dates/monday.png"
   },
   {
     "level": "a1",
@@ -197,7 +197,7 @@
       { "languageCode": "en", "text": "Tuesday" },
       { "languageCode": "bn", "text": "মঙ্গলবার" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/tuesday.png"
+    "image": "private/data/vocabulary/images/time-and-dates/tuesday.png"
   },
   {
     "level": "a1",
@@ -217,7 +217,7 @@
       { "languageCode": "en", "text": "Wednesday" },
       { "languageCode": "bn", "text": "বুধবার" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/wednesday.png"
+    "image": "private/data/vocabulary/images/time-and-dates/wednesday.png"
   },
   {
     "level": "a1",
@@ -237,7 +237,7 @@
       { "languageCode": "en", "text": "Thursday" },
       { "languageCode": "bn", "text": "বৃহস্পতিবার" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/thursday.png"
+    "image": "private/data/vocabulary/images/time-and-dates/thursday.png"
   },
   {
     "level": "a1",
@@ -257,7 +257,7 @@
       { "languageCode": "en", "text": "Friday" },
       { "languageCode": "bn", "text": "শুক্রবার" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/friday.png"
+    "image": "private/data/vocabulary/images/time-and-dates/friday.png"
   },
   {
     "level": "a1",
@@ -277,7 +277,7 @@
       { "languageCode": "en", "text": "Saturday" },
       { "languageCode": "bn", "text": "শনিবার" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/saturday.png"
+    "image": "private/data/vocabulary/images/time-and-dates/saturday.png"
   },
   {
     "level": "a1",
@@ -297,7 +297,7 @@
       { "languageCode": "en", "text": "Sunday" },
       { "languageCode": "bn", "text": "রবিবার" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/sunday.png"
+    "image": "private/data/vocabulary/images/time-and-dates/sunday.png"
   },
   {
     "level": "a1",
@@ -317,7 +317,7 @@
       { "languageCode": "en", "text": "weekday" },
       { "languageCode": "bn", "text": "কর্মদিবস" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/weekday.png"
+    "image": "private/data/vocabulary/images/time-and-dates/weekday.png"
   },
   {
     "level": "a1",
@@ -337,7 +337,7 @@
       { "languageCode": "en", "text": "weekend" },
       { "languageCode": "bn", "text": "সপ্তাহান্ত" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/weekend.png"
+    "image": "private/data/vocabulary/images/time-and-dates/weekend.png"
   },
   {
     "level": "a1",
@@ -357,7 +357,7 @@
       { "languageCode": "en", "text": "January" },
       { "languageCode": "bn", "text": "জানুয়ারি" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/january.png"
+    "image": "private/data/vocabulary/images/time-and-dates/january.png"
   },
   {
     "level": "a1",
@@ -377,7 +377,7 @@
       { "languageCode": "en", "text": "February" },
       { "languageCode": "bn", "text": "ফেব্রুয়ারি" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/february.png"
+    "image": "private/data/vocabulary/images/time-and-dates/february.png"
   },
   {
     "level": "a1",
@@ -397,7 +397,7 @@
       { "languageCode": "en", "text": "March" },
       { "languageCode": "bn", "text": "মার্চ" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/march.png"
+    "image": "private/data/vocabulary/images/time-and-dates/march.png"
   },
   {
     "level": "a1",
@@ -417,7 +417,7 @@
       { "languageCode": "en", "text": "April" },
       { "languageCode": "bn", "text": "এপ্রিল" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/april.png"
+    "image": "private/data/vocabulary/images/time-and-dates/april.png"
   },
   {
     "level": "a1",
@@ -437,7 +437,7 @@
       { "languageCode": "en", "text": "May" },
       { "languageCode": "bn", "text": "মে" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/may.png"
+    "image": "private/data/vocabulary/images/time-and-dates/may.png"
   },
   {
     "level": "a1",
@@ -457,7 +457,7 @@
       { "languageCode": "en", "text": "June" },
       { "languageCode": "bn", "text": "জুন" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/june.png"
+    "image": "private/data/vocabulary/images/time-and-dates/june.png"
   },
   {
     "level": "a1",
@@ -477,7 +477,7 @@
       { "languageCode": "en", "text": "July" },
       { "languageCode": "bn", "text": "জুলাই" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/july.png"
+    "image": "private/data/vocabulary/images/time-and-dates/july.png"
   },
   {
     "level": "a1",
@@ -497,7 +497,7 @@
       { "languageCode": "en", "text": "August" },
       { "languageCode": "bn", "text": "আগস্ট" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/august.png"
+    "image": "private/data/vocabulary/images/time-and-dates/august.png"
   },
   {
     "level": "a1",
@@ -517,7 +517,7 @@
       { "languageCode": "en", "text": "September" },
       { "languageCode": "bn", "text": "সেপ্টেম্বর" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/september.png"
+    "image": "private/data/vocabulary/images/time-and-dates/september.png"
   },
   {
     "level": "a1",
@@ -537,7 +537,7 @@
       { "languageCode": "en", "text": "October" },
       { "languageCode": "bn", "text": "অক্টোবর" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/october.png"
+    "image": "private/data/vocabulary/images/time-and-dates/october.png"
   },
   {
     "level": "a1",
@@ -557,7 +557,7 @@
       { "languageCode": "en", "text": "November" },
       { "languageCode": "bn", "text": "নভেম্বর" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/november.png"
+    "image": "private/data/vocabulary/images/time-and-dates/november.png"
   },
   {
     "level": "a1",
@@ -577,7 +577,7 @@
       { "languageCode": "en", "text": "December" },
       { "languageCode": "bn", "text": "ডিসেম্বর" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/december.png"
+    "image": "private/data/vocabulary/images/time-and-dates/december.png"
   },
   {
     "level": "a1",
@@ -597,7 +597,7 @@
       { "languageCode": "en", "text": "season" },
       { "languageCode": "bn", "text": "ঋতু" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/season.png"
+    "image": "private/data/vocabulary/images/time-and-dates/season.png"
   },
   {
     "level": "a1",
@@ -617,7 +617,7 @@
       { "languageCode": "en", "text": "winter" },
       { "languageCode": "bn", "text": "শীত" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/winter.png"
+    "image": "private/data/vocabulary/images/time-and-dates/winter.png"
   },
   {
     "level": "a1",
@@ -637,7 +637,7 @@
       { "languageCode": "en", "text": "spring" },
       { "languageCode": "bn", "text": "বসন্ত" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/spring.png"
+    "image": "private/data/vocabulary/images/time-and-dates/spring.png"
   },
   {
     "level": "a1",
@@ -657,7 +657,7 @@
       { "languageCode": "en", "text": "summer" },
       { "languageCode": "bn", "text": "গ্রীষ্ম" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/summer.png"
+    "image": "private/data/vocabulary/images/time-and-dates/summer.png"
   },
   {
     "level": "a1",
@@ -677,7 +677,7 @@
       { "languageCode": "en", "text": "autumn" },
       { "languageCode": "bn", "text": "শরৎ" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/autumn.png"
+    "image": "private/data/vocabulary/images/time-and-dates/autumn.png"
   },
   {
     "level": "a1",
@@ -696,7 +696,7 @@
       { "languageCode": "en", "text": "yesterday" },
       { "languageCode": "bn", "text": "গতকাল" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/yesterday.png"
+    "image": "private/data/vocabulary/images/time-and-dates/yesterday.png"
   },
   {
     "level": "a1",
@@ -715,7 +715,7 @@
       { "languageCode": "en", "text": "today" },
       { "languageCode": "bn", "text": "আজ" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/today.png"
+    "image": "private/data/vocabulary/images/time-and-dates/today.png"
   },
   {
     "level": "a1",
@@ -734,7 +734,7 @@
       { "languageCode": "en", "text": "tomorrow" },
       { "languageCode": "bn", "text": "আগামীকাল" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/tomorrow.png"
+    "image": "private/data/vocabulary/images/time-and-dates/tomorrow.png"
   },
   {
     "level": "a1",
@@ -754,7 +754,7 @@
       { "languageCode": "en", "text": "day" },
       { "languageCode": "bn", "text": "দিন" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/day.png"
+    "image": "private/data/vocabulary/images/time-and-dates/day.png"
   },
   {
     "level": "a1",
@@ -774,7 +774,7 @@
       { "languageCode": "en", "text": "week" },
       { "languageCode": "bn", "text": "সপ্তাহ" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/week.png"
+    "image": "private/data/vocabulary/images/time-and-dates/week.png"
   },
   {
     "level": "a1",
@@ -794,7 +794,7 @@
       { "languageCode": "en", "text": "month" },
       { "languageCode": "bn", "text": "মাস" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/month.png"
+    "image": "private/data/vocabulary/images/time-and-dates/month.png"
   },
   {
     "level": "a1",
@@ -814,7 +814,7 @@
       { "languageCode": "en", "text": "year" },
       { "languageCode": "bn", "text": "বছর" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/year.png"
+    "image": "private/data/vocabulary/images/time-and-dates/year.png"
   },
   {
     "level": "a1",
@@ -834,7 +834,7 @@
       { "languageCode": "en", "text": "calendar" },
       { "languageCode": "bn", "text": "ক্যালেন্ডার" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/calendar.png"
+    "image": "private/data/vocabulary/images/time-and-dates/calendar.png"
   },
   {
     "level": "a1",
@@ -854,7 +854,7 @@
       { "languageCode": "en", "text": "time" },
       { "languageCode": "bn", "text": "সময়" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/time.png"
+    "image": "private/data/vocabulary/images/time-and-dates/time.png"
   },
   {
     "level": "a1",
@@ -874,7 +874,7 @@
       { "languageCode": "en", "text": "clock" },
       { "languageCode": "bn", "text": "ঘড়ি" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/clock.png"
+    "image": "private/data/vocabulary/images/time-and-dates/clock.png"
   },
   {
     "level": "a1",
@@ -894,7 +894,7 @@
       { "languageCode": "en", "text": "hour" },
       { "languageCode": "bn", "text": "ঘণ্টা" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/hour.png"
+    "image": "private/data/vocabulary/images/time-and-dates/hour.png"
   },
   {
     "level": "a1",
@@ -914,7 +914,7 @@
       { "languageCode": "en", "text": "minute" },
       { "languageCode": "bn", "text": "মিনিট" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/minute.png"
+    "image": "private/data/vocabulary/images/time-and-dates/minute.png"
   },
   {
     "level": "a1",
@@ -934,7 +934,7 @@
       { "languageCode": "en", "text": "second" },
       { "languageCode": "bn", "text": "সেকেন্ড" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/second.png"
+    "image": "private/data/vocabulary/images/time-and-dates/second.png"
   },
   {
     "level": "a1",
@@ -953,7 +953,7 @@
       { "languageCode": "en", "text": "on time" },
       { "languageCode": "bn", "text": "সময়মতো" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/on-time.png"
+    "image": "private/data/vocabulary/images/time-and-dates/on-time.png"
   },
   {
     "level": "a1",
@@ -973,7 +973,7 @@
       { "languageCode": "en", "text": "time zone" },
       { "languageCode": "bn", "text": "সময় অঞ্চল" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/time-zone.png"
+    "image": "private/data/vocabulary/images/time-and-dates/time-zone.png"
   },
   {
     "level": "a1",
@@ -993,7 +993,7 @@
       { "languageCode": "en", "text": "quarter hour" },
       { "languageCode": "bn", "text": "পনেরো মিনিট" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/quarter-hour.png"
+    "image": "private/data/vocabulary/images/time-and-dates/quarter-hour.png"
   },
   {
     "level": "a1",
@@ -1013,7 +1013,7 @@
       { "languageCode": "en", "text": "three-quarter hour" },
       { "languageCode": "bn", "text": "পঁয়তাল্লিশ মিনিট" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/three-quarter-hour.png"
+    "image": "private/data/vocabulary/images/time-and-dates/three-quarter-hour.png"
   },
   {
     "level": "a1",
@@ -1032,7 +1032,7 @@
       { "languageCode": "en", "text": "half hour" },
       { "languageCode": "bn", "text": "আধা ঘণ্টা" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/half-hour.png"
+    "image": "private/data/vocabulary/images/time-and-dates/half-hour.png"
   },
   {
     "level": "a1",
@@ -1051,7 +1051,7 @@
       { "languageCode": "en", "text": "quarter to" },
       { "languageCode": "bn", "text": "পৌনে" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/quarter-to.png"
+    "image": "private/data/vocabulary/images/time-and-dates/quarter-to.png"
   },
   {
     "level": "a1",
@@ -1070,7 +1070,7 @@
       { "languageCode": "en", "text": "quarter past" },
       { "languageCode": "bn", "text": "সোয়া (ঘণ্টা)" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/quarter-past.png"
+    "image": "private/data/vocabulary/images/time-and-dates/quarter-past.png"
   },
   {
     "level": "a1",
@@ -1089,7 +1089,7 @@
       { "languageCode": "en", "text": "half past" },
       { "languageCode": "bn", "text": "সাড়ে" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/half-past.png"
+    "image": "private/data/vocabulary/images/time-and-dates/half-past.png"
   },
   {
     "level": "a1",
@@ -1108,7 +1108,7 @@
       { "languageCode": "en", "text": "five to" },
       { "languageCode": "bn", "text": "পাঁচ মিনিট বাকি" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/five-to.png"
+    "image": "private/data/vocabulary/images/time-and-dates/five-to.png"
   },
   {
     "level": "a1",
@@ -1127,7 +1127,7 @@
       { "languageCode": "en", "text": "five past" },
       { "languageCode": "bn", "text": "পাঁচ মিনিট পেরিয়ে" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/five-past.png"
+    "image": "private/data/vocabulary/images/time-and-dates/five-past.png"
   },
   {
     "level": "a1",
@@ -1147,7 +1147,7 @@
       { "languageCode": "en", "text": "official time" },
       { "languageCode": "bn", "text": "অফিসিয়াল সময়" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/official-hour.png"
+    "image": "private/data/vocabulary/images/time-and-dates/official-hour.png"
   },
   {
     "level": "a1",
@@ -1167,7 +1167,7 @@
       { "languageCode": "en", "text": "unofficial time" },
       { "languageCode": "bn", "text": "অনানুষ্ঠানিক সময়" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/unofficial-hour.png"
+    "image": "private/data/vocabulary/images/time-and-dates/unofficial-hour.png"
   },
   {
     "level": "a1",
@@ -1186,7 +1186,7 @@
       { "languageCode": "en", "text": "early" },
       { "languageCode": "bn", "text": "তাড়াতাড়ি" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/early.png"
+    "image": "private/data/vocabulary/images/time-and-dates/early.png"
   },
   {
     "level": "a1",
@@ -1205,7 +1205,7 @@
       { "languageCode": "en", "text": "soon" },
       { "languageCode": "bn", "text": "শীঘ্রই" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/soon.png"
+    "image": "private/data/vocabulary/images/time-and-dates/soon.png"
   },
   {
     "level": "a1",
@@ -1224,7 +1224,7 @@
       { "languageCode": "en", "text": "immediately" },
       { "languageCode": "bn", "text": "তৎক্ষণাৎ" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/immediately.png"
+    "image": "private/data/vocabulary/images/time-and-dates/immediately.png"
   },
   {
     "level": "a1",
@@ -1243,7 +1243,7 @@
       { "languageCode": "en", "text": "first" },
       { "languageCode": "bn", "text": "প্রথমে" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/first.png"
+    "image": "private/data/vocabulary/images/time-and-dates/first.png"
   },
   {
     "level": "a1",
@@ -1262,7 +1262,7 @@
       { "languageCode": "en", "text": "then" },
       { "languageCode": "bn", "text": "তারপর" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/then.png"
+    "image": "private/data/vocabulary/images/time-and-dates/then.png"
   },
   {
     "level": "a1",
@@ -1281,7 +1281,7 @@
       { "languageCode": "en", "text": "lastly" },
       { "languageCode": "bn", "text": "শেষে" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/lastly.png"
+    "image": "private/data/vocabulary/images/time-and-dates/lastly.png"
   },
   {
     "level": "a1",
@@ -1300,7 +1300,7 @@
       { "languageCode": "en", "text": "always" },
       { "languageCode": "bn", "text": "সর্বদা" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/always.png"
+    "image": "private/data/vocabulary/images/time-and-dates/always.png"
   },
   {
     "level": "a1",
@@ -1319,7 +1319,7 @@
       { "languageCode": "en", "text": "often" },
       { "languageCode": "bn", "text": "প্রায়ই" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/often.png"
+    "image": "private/data/vocabulary/images/time-and-dates/often.png"
   },
   {
     "level": "a1",
@@ -1338,7 +1338,7 @@
       { "languageCode": "en", "text": "sometimes" },
       { "languageCode": "bn", "text": "কখনো কখনো" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/sometimes.png"
+    "image": "private/data/vocabulary/images/time-and-dates/sometimes.png"
   },
   {
     "level": "a1",
@@ -1357,7 +1357,7 @@
       { "languageCode": "en", "text": "never" },
       { "languageCode": "bn", "text": "কখনো না" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/never.png"
+    "image": "private/data/vocabulary/images/time-and-dates/never.png"
   },
   {
     "level": "a1",
@@ -1376,7 +1376,7 @@
       { "languageCode": "en", "text": "regularly" },
       { "languageCode": "bn", "text": "নিয়মিত" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/regularly.png"
+    "image": "private/data/vocabulary/images/time-and-dates/regularly.png"
   },
   {
     "level": "a1",
@@ -1395,7 +1395,7 @@
       { "languageCode": "en", "text": "irregularly" },
       { "languageCode": "bn", "text": "অনিয়মিত" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/irregularly.png"
+    "image": "private/data/vocabulary/images/time-and-dates/irregularly.png"
   },
   {
     "level": "a1",
@@ -1414,7 +1414,7 @@
       { "languageCode": "en", "text": "once" },
       { "languageCode": "bn", "text": "একবার" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/once.png"
+    "image": "private/data/vocabulary/images/time-and-dates/once.png"
   },
   {
     "level": "a1",
@@ -1433,7 +1433,7 @@
       { "languageCode": "en", "text": "twice" },
       { "languageCode": "bn", "text": "দুইবার" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/twice.png"
+    "image": "private/data/vocabulary/images/time-and-dates/twice.png"
   },
   {
     "level": "a1",
@@ -1452,7 +1452,7 @@
       { "languageCode": "en", "text": "thrice" },
       { "languageCode": "bn", "text": "তিনবার" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/thrice.png"
+    "image": "private/data/vocabulary/images/time-and-dates/thrice.png"
   },
   {
     "level": "a1",
@@ -1471,7 +1471,7 @@
       { "languageCode": "en", "text": "double" },
       { "languageCode": "bn", "text": "দ্বিগুণ" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/double.png"
+    "image": "private/data/vocabulary/images/time-and-dates/double.png"
   },
   {
     "level": "a1",
@@ -1490,7 +1490,7 @@
       { "languageCode": "en", "text": "fast" },
       { "languageCode": "bn", "text": "দ্রুত" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/fast.png"
+    "image": "private/data/vocabulary/images/time-and-dates/fast.png"
   },
   {
     "level": "a1",
@@ -1509,7 +1509,7 @@
       { "languageCode": "en", "text": "slowly" },
       { "languageCode": "bn", "text": "ধীরে" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/slowly.png"
+    "image": "private/data/vocabulary/images/time-and-dates/slowly.png"
   },
   {
     "level": "a1",
@@ -1528,7 +1528,7 @@
       { "languageCode": "en", "text": "long" },
       { "languageCode": "bn", "text": "দীর্ঘ" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/long.png"
+    "image": "private/data/vocabulary/images/time-and-dates/long.png"
   },
   {
     "level": "a1",
@@ -1547,7 +1547,7 @@
       { "languageCode": "en", "text": "short" },
       { "languageCode": "bn", "text": "সংক্ষিপ্ত" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/short.png"
+    "image": "private/data/vocabulary/images/time-and-dates/short.png"
   },
   {
     "level": "a1",
@@ -1566,7 +1566,7 @@
       { "languageCode": "en", "text": "how long" },
       { "languageCode": "bn", "text": "কত সময়" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/how-long.png"
+    "image": "private/data/vocabulary/images/time-and-dates/how-long.png"
   },
   {
     "level": "a1",
@@ -1585,6 +1585,6 @@
       { "languageCode": "en", "text": "until" },
       { "languageCode": "bn", "text": "পর্যন্ত" }
     ],
-    "image": "data/vocabulary/images/time-and-dates/until.png"
+    "image": "private/data/vocabulary/images/time-and-dates/until.png"
   }
 ]
