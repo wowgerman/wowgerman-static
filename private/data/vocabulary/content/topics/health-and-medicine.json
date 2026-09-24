@@ -17,7 +17,7 @@
       { "languageCode": "en", "text": "sick person" },
       { "languageCode": "bn", "text": "অসুস্থ ব্যক্তি" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/sick-person.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/sick-person.png"
   },
   {
     "level": "a1",
@@ -37,7 +37,7 @@
       { "languageCode": "en", "text": "patient (male)" },
       { "languageCode": "bn", "text": "রোগী (পুরুষ)" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/male-patient.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/male-patient.png"
   },
   {
     "level": "a1",
@@ -57,7 +57,7 @@
       { "languageCode": "en", "text": "patient (female)" },
       { "languageCode": "bn", "text": "রোগী (মহিলা)" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/female-patient.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/female-patient.png"
   },
   {
     "level": "a1",
@@ -77,7 +77,7 @@
       { "languageCode": "en", "text": "doctor (male)" },
       { "languageCode": "bn", "text": "ডাক্তার (পুরুষ)" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/male-doctor.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/male-doctor.png"
   },
   {
     "level": "a1",
@@ -97,7 +97,7 @@
       { "languageCode": "en", "text": "doctor (female)" },
       { "languageCode": "bn", "text": "ডাক্তার (মহিলা)" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/female-doctor.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/female-doctor.png"
   },
   {
     "level": "a1",
@@ -117,7 +117,7 @@
       { "languageCode": "en", "text": "doctor's visit" },
       { "languageCode": "bn", "text": "ডাক্তারের কাছে যাওয়া" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/doctors-visit.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/doctors-visit.png"
   },
   {
     "level": "a1",
@@ -137,7 +137,7 @@
       { "languageCode": "en", "text": "laboratory" },
       { "languageCode": "bn", "text": "গবেষণাগার" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/laboratory.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/laboratory.png"
   },
   {
     "level": "a1",
@@ -160,7 +160,7 @@
       { "languageCode": "en", "text": "to examine" },
       { "languageCode": "bn", "text": "পরীক্ষা করা" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/to-examine.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/to-examine.png"
   },
   {
     "level": "a1",
@@ -180,7 +180,7 @@
       { "languageCode": "en", "text": "result" },
       { "languageCode": "bn", "text": "ফলাফল" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/result.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/result.png"
   },
   {
     "level": "a1",
@@ -200,7 +200,7 @@
       { "languageCode": "en", "text": "fever" },
       { "languageCode": "bn", "text": "জ্বর" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/fever.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/fever.png"
   },
   {
     "level": "a1",
@@ -238,7 +238,7 @@
       { "languageCode": "en", "text": "having a cold" },
       { "languageCode": "bn", "text": "সর্দি-কাশি" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/having-a-cold.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/having-a-cold.png"
   },
   {
     "level": "a1",
@@ -258,7 +258,7 @@
       { "languageCode": "en", "text": "cough syrup" },
       { "languageCode": "bn", "text": "কাশির সিরাপ" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/cough-syrup.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/cough-syrup.png"
   },
   {
     "level": "a1",
@@ -278,7 +278,7 @@
       { "languageCode": "en", "text": "injection" },
       { "languageCode": "bn", "text": "ইনজেকশন" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/injection.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/injection.png"
   },
   {
     "level": "a1",
@@ -298,7 +298,7 @@
       { "languageCode": "en", "text": "blood" },
       { "languageCode": "bn", "text": "রক্ত" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/blood.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/blood.png"
   },
   {
     "level": "a1",
@@ -318,7 +318,7 @@
       { "languageCode": "en", "text": "wound" },
       { "languageCode": "bn", "text": "ক্ষত" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/wound.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/wound.png"
   },
   {
     "level": "a1",
@@ -338,7 +338,7 @@
       { "languageCode": "en", "text": "pain" },
       { "languageCode": "bn", "text": "ব্যথা" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/pain.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/pain.png"
   },
   {
     "level": "a1",
@@ -358,7 +358,7 @@
       { "languageCode": "en", "text": "stomach pain" },
       { "languageCode": "bn", "text": "পেটের ব্যথা" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/stomach-pain.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/stomach-pain.png"
   },
   {
     "level": "a1",
@@ -378,7 +378,7 @@
       { "languageCode": "en", "text": "medicine" },
       { "languageCode": "bn", "text": "ঔষধ" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/medicine.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/medicine.png"
   },
   {
     "level": "a1",
@@ -398,7 +398,7 @@
       { "languageCode": "en", "text": "physiotherapist (male)" },
       { "languageCode": "bn", "text": "ফিজিওথেরাপিস্ট (পুরুষ)" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/male-physiotherapist.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/male-physiotherapist.png"
   },
   {
     "level": "a1",
@@ -418,7 +418,7 @@
       { "languageCode": "en", "text": "physiotherapist (female)" },
       { "languageCode": "bn", "text": "ফিজিওথেরাপিস্ট (মহিলা)" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/female-physiotherapist.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/female-physiotherapist.png"
   },
   {
     "level": "a1",
@@ -438,7 +438,7 @@
       { "languageCode": "en", "text": "physiotherapy" },
       { "languageCode": "bn", "text": "ফিজিওথেরাপি" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/physiotherapy.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/physiotherapy.png"
   },
   {
     "level": "a1",
@@ -458,7 +458,7 @@
       { "languageCode": "en", "text": "exercise, practice" },
       { "languageCode": "bn", "text": "ব্যায়াম, অনুশীলন" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/exercise.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/exercise.png"
   },
   {
     "level": "a1",
@@ -478,7 +478,7 @@
       { "languageCode": "en", "text": "instruction" },
       { "languageCode": "bn", "text": "নির্দেশনা" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/instruction.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/instruction.png"
   },
   {
     "level": "a1",
@@ -498,7 +498,7 @@
       { "languageCode": "en", "text": "strategy" },
       { "languageCode": "bn", "text": "কৌশল" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/strategy.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/strategy.png"
   },
   {
     "level": "a1",
@@ -518,7 +518,7 @@
       { "languageCode": "en", "text": "tip" },
       { "languageCode": "bn", "text": "পরামর্শ" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/tip.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/tip.png"
   },
   {
     "level": "a1",
@@ -537,7 +537,7 @@
       { "languageCode": "en", "text": "fit" },
       { "languageCode": "bn", "text": "সুস্থ" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/fit.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/fit.png"
   },
   {
     "level": "a1",
@@ -557,7 +557,7 @@
       { "languageCode": "en", "text": "tiredness" },
       { "languageCode": "bn", "text": "ক্লান্তি" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/tiredness.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/tiredness.png"
   },
   {
     "level": "a1",
@@ -576,7 +576,7 @@
       { "languageCode": "en", "text": "tired" },
       { "languageCode": "bn", "text": "ক্লান্ত" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/tired.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/tired.png"
   },
   {
     "level": "a1",
@@ -596,7 +596,7 @@
       { "languageCode": "en", "text": "exhaustion" },
       { "languageCode": "bn", "text": "অবসাদ" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/exhaustion.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/exhaustion.png"
   },
   {
     "level": "a1",
@@ -615,7 +615,7 @@
       { "languageCode": "en", "text": "exhausted" },
       { "languageCode": "bn", "text": "অবসন্ন" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/exhausted.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/exhausted.png"
   },
   {
     "level": "a1",
@@ -635,7 +635,7 @@
       { "languageCode": "en", "text": "sleeping pill" },
       { "languageCode": "bn", "text": "ঘুমের ওষুধ" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/sleeping-pill.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/sleeping-pill.png"
   },
   {
     "level": "a1",
@@ -655,7 +655,7 @@
       { "languageCode": "en", "text": "hunger" },
       { "languageCode": "bn", "text": "ক্ষুধা" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/hunger.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/hunger.png"
   },
   {
     "level": "a1",
@@ -674,7 +674,7 @@
       { "languageCode": "en", "text": "hungry" },
       { "languageCode": "bn", "text": "ক্ষুধার্ত" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/hungry.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/hungry.png"
   },
   {
     "level": "a1",
@@ -697,7 +697,7 @@
       { "languageCode": "en", "text": "to smoke" },
       { "languageCode": "bn", "text": "ধূমপান করা" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/to-smoke.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/to-smoke.png"
   },
   {
     "level": "a1",
@@ -720,7 +720,7 @@
       { "languageCode": "en", "text": "may/to be allowed" },
       { "languageCode": "bn", "text": "অনুমতি থাকা" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/to-be-allowed.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/to-be-allowed.png"
   },
   {
     "level": "a1",
@@ -743,7 +743,7 @@
       { "languageCode": "en", "text": "should" },
       { "languageCode": "bn", "text": "উচিত" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/should.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/should.png"
   },
   {
     "level": "a1",
@@ -766,7 +766,7 @@
       { "languageCode": "en", "text": "to take" },
       { "languageCode": "bn", "text": "নেওয়া" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/to-take.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/to-take.png"
   },
   {
     "level": "a1",
@@ -789,7 +789,7 @@
       { "languageCode": "en", "text": "to hurt" },
       { "languageCode": "bn", "text": "ব্যথা করা" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/to-hurt.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/to-hurt.png"
   },
   {
     "level": "a1",
@@ -812,7 +812,7 @@
       { "languageCode": "en", "text": "to try" },
       { "languageCode": "bn", "text": "চেষ্টা করা" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/to-try.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/to-try.png"
   },
   {
     "level": "a1",
@@ -832,7 +832,7 @@
       { "languageCode": "en", "text": "bathroom" },
       { "languageCode": "bn", "text": "বাথরুম" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/bathroom.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/bathroom.png"
   },
   {
     "level": "a1",
@@ -855,6 +855,6 @@
       { "languageCode": "en", "text": "to bathe" },
       { "languageCode": "bn", "text": "গোসল করা" }
     ],
-    "image": "data/vocabulary/images/health-and-medicine/to-bathe.png"
+    "image": "private/data/vocabulary/images/health-and-medicine/to-bathe.png"
   }
 ]

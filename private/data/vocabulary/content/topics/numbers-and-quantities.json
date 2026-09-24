@@ -13,7 +13,7 @@
       { "languageCode": "en", "text": "zero" },
       { "languageCode": "bn", "text": "শূন্য" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/zero.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/zero.png"
   },
   {
     "level": "a1",
@@ -29,7 +29,7 @@
       { "languageCode": "en", "text": "one" },
       { "languageCode": "bn", "text": "এক" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/one.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/one.png"
   },
   {
     "level": "a1",
@@ -45,7 +45,7 @@
       { "languageCode": "en", "text": "two" },
       { "languageCode": "bn", "text": "দুই" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/two.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/two.png"
   },
   {
     "level": "a1",
@@ -61,7 +61,7 @@
       { "languageCode": "en", "text": "six" },
       { "languageCode": "bn", "text": "ছয়" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/six.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/six.png"
   },
   {
     "level": "a1",
@@ -77,7 +77,7 @@
       { "languageCode": "en", "text": "seven" },
       { "languageCode": "bn", "text": "সাত" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/seven.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/seven.png"
   },
   {
     "level": "a1",
@@ -93,7 +93,7 @@
       { "languageCode": "en", "text": "ten" },
       { "languageCode": "bn", "text": "দশ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/ten.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/ten.png"
   },
   {
     "level": "a1",
@@ -109,7 +109,7 @@
       { "languageCode": "en", "text": "eleven" },
       { "languageCode": "bn", "text": "এগারো" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/eleven.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/eleven.png"
   },
   {
     "level": "a1",
@@ -125,7 +125,7 @@
       { "languageCode": "en", "text": "twelve" },
       { "languageCode": "bn", "text": "বারো" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/twelve.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/twelve.png"
   },
   {
     "level": "a1",
@@ -141,7 +141,7 @@
       { "languageCode": "en", "text": "sixteen" },
       { "languageCode": "bn", "text": "ষোলো" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/sixteen.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/sixteen.png"
   },
   {
     "level": "a1",
@@ -157,7 +157,7 @@
       { "languageCode": "en", "text": "seventeen" },
       { "languageCode": "bn", "text": "সতেরো" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/seventeen.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/seventeen.png"
   },
   {
     "level": "a1",
@@ -173,7 +173,7 @@
       { "languageCode": "en", "text": "twenty" },
       { "languageCode": "bn", "text": "বিশ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/twenty.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/twenty.png"
   },
   {
     "level": "a1",
@@ -189,7 +189,7 @@
       { "languageCode": "en", "text": "twenty-nine" },
       { "languageCode": "bn", "text": "ঊনত্রিশ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/twenty-nine.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/twenty-nine.png"
   },
   {
     "level": "a1",
@@ -205,7 +205,7 @@
       { "languageCode": "en", "text": "thirty" },
       { "languageCode": "bn", "text": "ত্রিশ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/thirty.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/thirty.png"
   },
   {
     "level": "a1",
@@ -221,7 +221,7 @@
       { "languageCode": "en", "text": "forty" },
       { "languageCode": "bn", "text": "চল্লিশ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/forty.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/forty.png"
   },
   {
     "level": "a1",
@@ -237,7 +237,7 @@
       { "languageCode": "en", "text": "fifty" },
       { "languageCode": "bn", "text": "পঞ্চাশ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/fifty.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/fifty.png"
   },
   {
     "level": "a1",
@@ -253,7 +253,7 @@
       { "languageCode": "en", "text": "sixty" },
       { "languageCode": "bn", "text": "ষাট" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/sixty.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/sixty.png"
   },
   {
     "level": "a1",
@@ -269,7 +269,7 @@
       { "languageCode": "en", "text": "seventy" },
       { "languageCode": "bn", "text": "সত্তর" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/seventy.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/seventy.png"
   },
   {
     "level": "a1",
@@ -285,7 +285,7 @@
       { "languageCode": "en", "text": "eighty" },
       { "languageCode": "bn", "text": "আশি" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/eighty.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/eighty.png"
   },
   {
     "level": "a1",
@@ -301,7 +301,7 @@
       { "languageCode": "en", "text": "ninety" },
       { "languageCode": "bn", "text": "নব্বই" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/ninety.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/ninety.png"
   },
   {
     "level": "a1",
@@ -317,7 +317,7 @@
       { "languageCode": "en", "text": "hundred" },
       { "languageCode": "bn", "text": "একশো" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/hundred.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/hundred.png"
   },
   {
     "level": "a1",
@@ -333,7 +333,7 @@
       { "languageCode": "en", "text": "two hundred" },
       { "languageCode": "bn", "text": "দুইশো" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/two-hundred.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/two-hundred.png"
   },
   {
     "level": "a1",
@@ -349,7 +349,7 @@
       { "languageCode": "en", "text": "thousand" },
       { "languageCode": "bn", "text": "হাজার" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/thousand.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/thousand.png"
   },
   {
     "level": "a1",
@@ -365,7 +365,7 @@
       { "languageCode": "en", "text": "ten thousand" },
       { "languageCode": "bn", "text": "দশ হাজার" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/ten-thousand.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/ten-thousand.png"
   },
   {
     "level": "a1",
@@ -385,7 +385,7 @@
       { "languageCode": "en", "text": "million" },
       { "languageCode": "bn", "text": "মিলিয়ন" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/million.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/million.png"
   },
   {
     "level": "a1",
@@ -405,7 +405,7 @@
       { "languageCode": "en", "text": "billion" },
       { "languageCode": "bn", "text": "বিলিয়ন" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/billion.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/billion.png"
   },
   {
     "level": "a1",
@@ -421,7 +421,7 @@
       { "languageCode": "en", "text": "first" },
       { "languageCode": "bn", "text": "প্রথম" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/first.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/first.png"
   },
   {
     "level": "a1",
@@ -437,7 +437,7 @@
       { "languageCode": "en", "text": "second" },
       { "languageCode": "bn", "text": "দ্বিতীয়" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/second.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/second.png"
   },
   {
     "level": "a1",
@@ -453,7 +453,7 @@
       { "languageCode": "en", "text": "third" },
       { "languageCode": "bn", "text": "তৃতীয়" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/third.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/third.png"
   },
   {
     "level": "a1",
@@ -469,7 +469,7 @@
       { "languageCode": "en", "text": "fourth" },
       { "languageCode": "bn", "text": "চতুর্থ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/fourth.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/fourth.png"
   },
   {
     "level": "a1",
@@ -485,7 +485,7 @@
       { "languageCode": "en", "text": "fifth" },
       { "languageCode": "bn", "text": "পঞ্চম" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/fifth.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/fifth.png"
   },
   {
     "level": "a1",
@@ -501,7 +501,7 @@
       { "languageCode": "en", "text": "sixth" },
       { "languageCode": "bn", "text": "ষষ্ঠ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/sixth.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/sixth.png"
   },
   {
     "level": "a1",
@@ -517,7 +517,7 @@
       { "languageCode": "en", "text": "seventh" },
       { "languageCode": "bn", "text": "সপ্তম" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/seventh.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/seventh.png"
   },
   {
     "level": "a1",
@@ -533,7 +533,7 @@
       { "languageCode": "en", "text": "eighth" },
       { "languageCode": "bn", "text": "অষ্টম" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/eighth.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/eighth.png"
   },
   {
     "level": "a1",
@@ -549,7 +549,7 @@
       { "languageCode": "en", "text": "ninth" },
       { "languageCode": "bn", "text": "নবম" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/ninth.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/ninth.png"
   },
   {
     "level": "a1",
@@ -565,7 +565,7 @@
       { "languageCode": "en", "text": "tenth" },
       { "languageCode": "bn", "text": "দশম" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/tenth.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/tenth.png"
   },
   {
     "level": "a1",
@@ -586,7 +586,7 @@
       { "languageCode": "en", "text": "all" },
       { "languageCode": "bn", "text": "সব" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/all.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/all.png"
   },
   {
     "level": "a1",
@@ -607,7 +607,7 @@
       { "languageCode": "en", "text": "both" },
       { "languageCode": "bn", "text": "উভয়" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/both.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/both.png"
   },
   {
     "level": "a1",
@@ -626,7 +626,7 @@
       { "languageCode": "en", "text": "approximately" },
       { "languageCode": "bn", "text": "প্রায়" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/approximately.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/approximately.png"
   },
   {
     "level": "a1",
@@ -647,7 +647,7 @@
       { "languageCode": "en", "text": "something, some" },
       { "languageCode": "bn", "text": "কিছু" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/some.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/some.png"
   },
   {
     "level": "a1",
@@ -666,7 +666,7 @@
       { "languageCode": "en", "text": "little, few" },
       { "languageCode": "bn", "text": "কম" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/little.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/little.png"
   },
   {
     "level": "a1",
@@ -685,7 +685,7 @@
       { "languageCode": "en", "text": "extra" },
       { "languageCode": "bn", "text": "অতিরিক্ত" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/extra.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/extra.png"
   },
   {
     "level": "a1",
@@ -704,7 +704,7 @@
       { "languageCode": "en", "text": "more" },
       { "languageCode": "bn", "text": "আরো" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/more.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/more.png"
   },
   {
     "level": "a1",
@@ -723,7 +723,7 @@
       { "languageCode": "en", "text": "much, many" },
       { "languageCode": "bn", "text": "অনেক" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/much.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/much.png"
   },
   {
     "level": "a1",
@@ -742,7 +742,7 @@
       { "languageCode": "en", "text": "full" },
       { "languageCode": "bn", "text": "পূর্ণ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/full.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/full.png"
   },
   {
     "level": "a1",
@@ -759,7 +759,7 @@
       { "languageCode": "en", "text": "without" },
       { "languageCode": "bn", "text": "ছাড়া" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/without.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/without.png"
   },
   {
     "level": "a1",
@@ -776,7 +776,7 @@
       { "languageCode": "en", "text": "plus" },
       { "languageCode": "bn", "text": "যোগ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/plus.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/plus.png"
   },
   {
     "level": "a1",
@@ -793,7 +793,7 @@
       { "languageCode": "en", "text": "minus" },
       { "languageCode": "bn", "text": "বিয়োগ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/minus.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/minus.png"
   },
   {
     "level": "a1",
@@ -810,6 +810,6 @@
       { "languageCode": "en", "text": "times" },
       { "languageCode": "bn", "text": "গুণ" }
     ],
-    "image": "data/vocabulary/images/numbers-and-quantities/times.png"
+    "image": "private/data/vocabulary/images/numbers-and-quantities/times.png"
   }
 ]

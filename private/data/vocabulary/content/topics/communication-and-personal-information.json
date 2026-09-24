@@ -17,7 +17,7 @@
       { "languageCode": "en", "text": "first name" },
       { "languageCode": "bn", "text": "নাম" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/first-name.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/first-name.png"
   },
   {
     "level": "a1",
@@ -37,7 +37,7 @@
       { "languageCode": "en", "text": "name" },
       { "languageCode": "bn", "text": "নাম" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/name.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/name.png"
   },
   {
     "level": "a1",
@@ -57,7 +57,7 @@
       { "languageCode": "en", "text": "last name" },
       { "languageCode": "bn", "text": "পদবি" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/last-name.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/last-name.png"
   },
   {
     "level": "a1",
@@ -77,7 +77,7 @@
       { "languageCode": "en", "text": "family name" },
       { "languageCode": "bn", "text": "পারিবারিক নাম" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/family-name.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/family-name.png"
   },
   {
     "level": "a1",
@@ -97,7 +97,7 @@
       { "languageCode": "en", "text": "place of birth" },
       { "languageCode": "bn", "text": "জন্মস্থান" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/place-of-birth.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/place-of-birth.png"
   },
   {
     "level": "a1",
@@ -117,7 +117,7 @@
       { "languageCode": "en", "text": "date of birth" },
       { "languageCode": "bn", "text": "জন্মতারিখ" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/date-of-birth.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/date-of-birth.png"
   },
   {
     "level": "a1",
@@ -137,7 +137,7 @@
       { "languageCode": "en", "text": "email address" },
       { "languageCode": "bn", "text": "ইমেইল ঠিকানা" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/email-address.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/email-address.png"
   },
   {
     "level": "a1",
@@ -157,7 +157,7 @@
       { "languageCode": "en", "text": "mobile number" },
       { "languageCode": "bn", "text": "মোবাইল নম্বর" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/mobile-number.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/mobile-number.png"
   },
   {
     "level": "a1",
@@ -177,7 +177,7 @@
       { "languageCode": "en", "text": "house number" },
       { "languageCode": "bn", "text": "বাড়ির নম্বর" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/house-number.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/house-number.png"
   },
   {
     "level": "a1",
@@ -197,7 +197,7 @@
       { "languageCode": "en", "text": "postal code" },
       { "languageCode": "bn", "text": "পোস্টাল কোড" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/postal-code.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/postal-code.png"
   },
   {
     "level": "a1",
@@ -217,7 +217,7 @@
       { "languageCode": "en", "text": "call" },
       { "languageCode": "bn", "text": "কল" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/call.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/call.png"
   },
   {
     "level": "a1",
@@ -237,7 +237,7 @@
       { "languageCode": "en", "text": "connection/line" },
       { "languageCode": "bn", "text": "সংযোগ" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/connection.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/connection.png"
   },
   {
     "level": "a1",
@@ -257,7 +257,7 @@
       { "languageCode": "en", "text": "telephone" },
       { "languageCode": "bn", "text": "টেলিফোন" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/telephone.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/telephone.png"
   },
   {
     "level": "a1",
@@ -277,7 +277,7 @@
       { "languageCode": "en", "text": "phone call" },
       { "languageCode": "bn", "text": "টেলিফোন কথোপকথন" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/phone-call.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/phone-call.png"
   },
   {
     "level": "a1",
@@ -297,7 +297,7 @@
       { "languageCode": "en", "text": "extension" },
       { "languageCode": "bn", "text": "এক্সটেনশন" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/extension.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/extension.png"
   },
   {
     "level": "a1",
@@ -317,7 +317,7 @@
       { "languageCode": "en", "text": "alphabet" },
       { "languageCode": "bn", "text": "বর্ণমালা" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/alphabet.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/alphabet.png"
   },
   {
     "level": "a1",
@@ -337,7 +337,7 @@
       { "languageCode": "en", "text": "personal pronoun" },
       { "languageCode": "bn", "text": "ব্যক্তিবাচক সর্বনাম" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/personal-pronoun.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/personal-pronoun.png"
   },
   {
     "level": "a1",
@@ -360,7 +360,7 @@
       { "languageCode": "en", "text": "to be called" },
       { "languageCode": "bn", "text": "নাম হওয়া" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/to-be-called.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/to-be-called.png"
   },
   {
     "level": "a1",
@@ -383,7 +383,7 @@
       { "languageCode": "en", "text": "to know" },
       { "languageCode": "bn", "text": "চেনা" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/to-know.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/to-know.png"
   },
   {
     "level": "a1",
@@ -406,6 +406,6 @@
       { "languageCode": "en", "text": "to visit" },
       { "languageCode": "bn", "text": "দেখা করা" }
     ],
-    "image": "data/vocabulary/images/communication-and-personal-information/to-visit.png"
+    "image": "private/data/vocabulary/images/communication-and-personal-information/to-visit.png"
   }
 ]

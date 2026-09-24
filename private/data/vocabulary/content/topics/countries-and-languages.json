@@ -17,7 +17,7 @@
       { "languageCode": "en", "text": "mother tongue, native language" },
       { "languageCode": "bn", "text": "মাতৃভাষা" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/mother-tongue.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/mother-tongue.png"
   },
   {
     "level": "a1",
@@ -36,7 +36,7 @@
       { "languageCode": "en", "text": "German-speaking" },
       { "languageCode": "bn", "text": "জার্মান ভাষাভাষী" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/german-speaking.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/german-speaking.png"
   },
   {
     "level": "a1",
@@ -56,7 +56,7 @@
       { "languageCode": "en", "text": "Germany" },
       { "languageCode": "bn", "text": "জার্মানি" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/germany.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/germany.png"
   },
   {
     "level": "a1",
@@ -75,7 +75,7 @@
       { "languageCode": "en", "text": "German" },
       { "languageCode": "bn", "text": "জার্মান" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/german.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/german.png"
   },
   {
     "level": "a1",
@@ -95,7 +95,7 @@
       { "languageCode": "en", "text": "German (language)" },
       { "languageCode": "bn", "text": "জার্মান (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/german-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/german-language.png"
   },
   {
     "level": "a1",
@@ -115,7 +115,7 @@
       { "languageCode": "en", "text": "Austria" },
       { "languageCode": "bn", "text": "অস্ট্রিয়া" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/austria.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/austria.png"
   },
   {
     "level": "a1",
@@ -134,7 +134,7 @@
       { "languageCode": "en", "text": "Austrian" },
       { "languageCode": "bn", "text": "অস্ট্রিয়ান" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/austrian.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/austrian.png"
   },
   {
     "level": "a1",
@@ -154,7 +154,7 @@
       { "languageCode": "en", "text": "Switzerland" },
       { "languageCode": "bn", "text": "সুইজারল্যান্ড" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/switzerland.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/switzerland.png"
   },
   {
     "level": "a1",
@@ -173,7 +173,7 @@
       { "languageCode": "en", "text": "Swiss" },
       { "languageCode": "bn", "text": "সুইস" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/swiss.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/swiss.png"
   },
   {
     "level": "a1",
@@ -193,7 +193,7 @@
       { "languageCode": "en", "text": "France" },
       { "languageCode": "bn", "text": "ফ্রান্স" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/france.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/france.png"
   },
   {
     "level": "a1",
@@ -212,7 +212,7 @@
       { "languageCode": "en", "text": "French" },
       { "languageCode": "bn", "text": "ফরাসি" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/french.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/french.png"
   },
   {
     "level": "a1",
@@ -232,7 +232,7 @@
       { "languageCode": "en", "text": "French (language)" },
       { "languageCode": "bn", "text": "ফরাসি (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/french-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/french-language.png"
   },
   {
     "level": "a1",
@@ -252,7 +252,7 @@
       { "languageCode": "en", "text": "Spain" },
       { "languageCode": "bn", "text": "স্পেন" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/spain.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/spain.png"
   },
   {
     "level": "a1",
@@ -271,7 +271,7 @@
       { "languageCode": "en", "text": "Spanish" },
       { "languageCode": "bn", "text": "স্প্যানিশ" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/spanish.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/spanish.png"
   },
   {
     "level": "a1",
@@ -291,7 +291,7 @@
       { "languageCode": "en", "text": "Spanish (language)" },
       { "languageCode": "bn", "text": "স্প্যানিশ (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/spanish-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/spanish-language.png"
   },
   {
     "level": "a1",
@@ -311,7 +311,7 @@
       { "languageCode": "en", "text": "Turkey" },
       { "languageCode": "bn", "text": "তুরস্ক" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/turkey.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/turkey.png"
   },
   {
     "level": "a1",
@@ -330,7 +330,7 @@
       { "languageCode": "en", "text": "Turkish" },
       { "languageCode": "bn", "text": "তুর্কি" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/turkish.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/turkish.png"
   },
   {
     "level": "a1",
@@ -350,7 +350,7 @@
       { "languageCode": "en", "text": "Turkish (language)" },
       { "languageCode": "bn", "text": "তুর্কি (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/turkish-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/turkish-language.png"
   },
   {
     "level": "a1",
@@ -370,7 +370,7 @@
       { "languageCode": "en", "text": "Argentina" },
       { "languageCode": "bn", "text": "আর্জেন্টিনা" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/argentina.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/argentina.png"
   },
   {
     "level": "a1",
@@ -389,7 +389,7 @@
       { "languageCode": "en", "text": "Argentinian" },
       { "languageCode": "bn", "text": "আর্জেন্টিনিয়ান" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/argentinian.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/argentinian.png"
   },
   {
     "level": "a1",
@@ -409,7 +409,7 @@
       { "languageCode": "en", "text": "United Kingdom" },
       { "languageCode": "bn", "text": "যুক্তরাজ্য" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/united-kingdom.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/united-kingdom.png"
   },
   {
     "level": "a1",
@@ -428,7 +428,7 @@
       { "languageCode": "en", "text": "British" },
       { "languageCode": "bn", "text": "ব্রিটিশ" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/british.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/british.png"
   },
   {
     "level": "a1",
@@ -448,7 +448,7 @@
       { "languageCode": "en", "text": "English (language)" },
       { "languageCode": "bn", "text": "ইংরেজি (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/english-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/english-language.png"
   },
   {
     "level": "a1",
@@ -468,7 +468,7 @@
       { "languageCode": "en", "text": "Portugal" },
       { "languageCode": "bn", "text": "পর্তুগাল" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/portugal.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/portugal.png"
   },
   {
     "level": "a1",
@@ -487,7 +487,7 @@
       { "languageCode": "en", "text": "Portuguese" },
       { "languageCode": "bn", "text": "পর্তুগিজ" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/portuguese.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/portuguese.png"
   },
   {
     "level": "a1",
@@ -507,7 +507,7 @@
       { "languageCode": "en", "text": "Portuguese (language)" },
       { "languageCode": "bn", "text": "পর্তুগিজ (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/portuguese-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/portuguese-language.png"
   },
   {
     "level": "a1",
@@ -527,7 +527,7 @@
       { "languageCode": "en", "text": "United States of America" },
       { "languageCode": "bn", "text": "মার্কিন যুক্তরাষ্ট্র" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/united-states-of-america.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/united-states-of-america.png"
   },
   {
     "level": "a1",
@@ -546,7 +546,7 @@
       { "languageCode": "en", "text": "American" },
       { "languageCode": "bn", "text": "আমেরিকান" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/american.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/american.png"
   },
   {
     "level": "a1",
@@ -566,7 +566,7 @@
       { "languageCode": "en", "text": "Poland" },
       { "languageCode": "bn", "text": "পোল্যান্ড" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/poland.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/poland.png"
   },
   {
     "level": "a1",
@@ -585,7 +585,7 @@
       { "languageCode": "en", "text": "Polish" },
       { "languageCode": "bn", "text": "পোলিশ" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/polish.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/polish.png"
   },
   {
     "level": "a1",
@@ -605,7 +605,7 @@
       { "languageCode": "en", "text": "Polish (language)" },
       { "languageCode": "bn", "text": "পোলিশ (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/polish-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/polish-language.png"
   },
   {
     "level": "a1",
@@ -625,7 +625,7 @@
       { "languageCode": "en", "text": "Hungary" },
       { "languageCode": "bn", "text": "হাঙ্গেরি" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/hungary.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/hungary.png"
   },
   {
     "level": "a1",
@@ -644,7 +644,7 @@
       { "languageCode": "en", "text": "Hungarian" },
       { "languageCode": "bn", "text": "হাঙ্গেরিয়ান" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/hungarian.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/hungarian.png"
   },
   {
     "level": "a1",
@@ -664,7 +664,7 @@
       { "languageCode": "en", "text": "Hungarian (language)" },
       { "languageCode": "bn", "text": "হাঙ্গেরিয়ান (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/hungarian-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/hungarian-language.png"
   },
   {
     "level": "a1",
@@ -684,7 +684,7 @@
       { "languageCode": "en", "text": "Italy" },
       { "languageCode": "bn", "text": "ইতালি" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/italy.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/italy.png"
   },
   {
     "level": "a1",
@@ -703,7 +703,7 @@
       { "languageCode": "en", "text": "Italian" },
       { "languageCode": "bn", "text": "ইতালিয়ান" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/italian.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/italian.png"
   },
   {
     "level": "a1",
@@ -723,7 +723,7 @@
       { "languageCode": "en", "text": "Italian (language)" },
       { "languageCode": "bn", "text": "ইতালিয়ান (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/italian-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/italian-language.png"
   },
   {
     "level": "a1",
@@ -743,7 +743,7 @@
       { "languageCode": "en", "text": "Russia" },
       { "languageCode": "bn", "text": "রাশিয়া" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/russia.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/russia.png"
   },
   {
     "level": "a1",
@@ -762,7 +762,7 @@
       { "languageCode": "en", "text": "Russian" },
       { "languageCode": "bn", "text": "রুশ" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/russian.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/russian.png"
   },
   {
     "level": "a1",
@@ -782,7 +782,7 @@
       { "languageCode": "en", "text": "Russian (language)" },
       { "languageCode": "bn", "text": "রুশ (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/russian-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/russian-language.png"
   },
   {
     "level": "a1",
@@ -802,7 +802,7 @@
       { "languageCode": "en", "text": "Japan" },
       { "languageCode": "bn", "text": "জাপান" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/japan.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/japan.png"
   },
   {
     "level": "a1",
@@ -821,7 +821,7 @@
       { "languageCode": "en", "text": "Japanese" },
       { "languageCode": "bn", "text": "জাপানি" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/japanese.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/japanese.png"
   },
   {
     "level": "a1",
@@ -841,7 +841,7 @@
       { "languageCode": "en", "text": "Japanese (language)" },
       { "languageCode": "bn", "text": "জাপানি (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/japanese-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/japanese-language.png"
   },
   {
     "level": "a1",
@@ -861,7 +861,7 @@
       { "languageCode": "en", "text": "China" },
       { "languageCode": "bn", "text": "চীন" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/china.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/china.png"
   },
   {
     "level": "a1",
@@ -880,7 +880,7 @@
       { "languageCode": "en", "text": "Chinese" },
       { "languageCode": "bn", "text": "চীনা" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/chinese.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/chinese.png"
   },
   {
     "level": "a1",
@@ -900,7 +900,7 @@
       { "languageCode": "en", "text": "Chinese (language)" },
       { "languageCode": "bn", "text": "চীনা (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/chinese-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/chinese-language.png"
   },
   {
     "level": "a1",
@@ -920,7 +920,7 @@
       { "languageCode": "en", "text": "Bulgaria" },
       { "languageCode": "bn", "text": "বুলগেরিয়া" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/bulgaria.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/bulgaria.png"
   },
   {
     "level": "a1",
@@ -939,7 +939,7 @@
       { "languageCode": "en", "text": "Bulgarian" },
       { "languageCode": "bn", "text": "বুলগেরিয়ান" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/bulgarian.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/bulgarian.png"
   },
   {
     "level": "a1",
@@ -959,7 +959,7 @@
       { "languageCode": "en", "text": "Bulgarian (language)" },
       { "languageCode": "bn", "text": "বুলগেরিয়ান (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/bulgarian-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/bulgarian-language.png"
   },
   {
     "level": "a1",
@@ -979,7 +979,7 @@
       { "languageCode": "en", "text": "Bangladesh" },
       { "languageCode": "bn", "text": "বাংলাদেশ" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/bangladesh.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/bangladesh.png"
   },
   {
     "level": "a1",
@@ -998,7 +998,7 @@
       { "languageCode": "en", "text": "Bangladeshi" },
       { "languageCode": "bn", "text": "বাংলাদেশি" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/bangladeshi.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/bangladeshi.png"
   },
   {
     "level": "a1",
@@ -1018,7 +1018,7 @@
       { "languageCode": "en", "text": "Bengali (language)" },
       { "languageCode": "bn", "text": "বাংলা (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/bengali-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/bengali-language.png"
   },
   {
     "level": "a1",
@@ -1038,7 +1038,7 @@
       { "languageCode": "en", "text": "India" },
       { "languageCode": "bn", "text": "ভারত" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/india.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/india.png"
   },
   {
     "level": "a1",
@@ -1057,7 +1057,7 @@
       { "languageCode": "en", "text": "Indian" },
       { "languageCode": "bn", "text": "ভারতীয়" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/indian.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/indian.png"
   },
   {
     "level": "a1",
@@ -1077,7 +1077,7 @@
       { "languageCode": "en", "text": "Hindi (language)" },
       { "languageCode": "bn", "text": "হিন্দি (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/hindi-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/hindi-language.png"
   },
   {
     "level": "a1",
@@ -1097,7 +1097,7 @@
       { "languageCode": "en", "text": "Nepal" },
       { "languageCode": "bn", "text": "নেপাল" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/nepal.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/nepal.png"
   },
   {
     "level": "a1",
@@ -1116,7 +1116,7 @@
       { "languageCode": "en", "text": "Nepalese" },
       { "languageCode": "bn", "text": "নেপালি" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/nepalese.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/nepalese.png"
   },
   {
     "level": "a1",
@@ -1136,7 +1136,7 @@
       { "languageCode": "en", "text": "Nepali (language)" },
       { "languageCode": "bn", "text": "নেপালি (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/nepali-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/nepali-language.png"
   },
   {
     "level": "a1",
@@ -1156,7 +1156,7 @@
       { "languageCode": "en", "text": "Thailand" },
       { "languageCode": "bn", "text": "থাইল্যান্ড" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/thailand.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/thailand.png"
   },
   {
     "level": "a1",
@@ -1175,7 +1175,7 @@
       { "languageCode": "en", "text": "Thai" },
       { "languageCode": "bn", "text": "থাই" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/thai.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/thai.png"
   },
   {
     "level": "a1",
@@ -1195,7 +1195,7 @@
       { "languageCode": "en", "text": "Thai (language)" },
       { "languageCode": "bn", "text": "থাই (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/thai-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/thai-language.png"
   },
   {
     "level": "a1",
@@ -1215,7 +1215,7 @@
       { "languageCode": "en", "text": "Pakistan" },
       { "languageCode": "bn", "text": "পাকিস্তান" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/pakistan.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/pakistan.png"
   },
   {
     "level": "a1",
@@ -1234,7 +1234,7 @@
       { "languageCode": "en", "text": "Pakistani" },
       { "languageCode": "bn", "text": "পাকিস্তানি" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/pakistani.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/pakistani.png"
   },
   {
     "level": "a1",
@@ -1254,7 +1254,7 @@
       { "languageCode": "en", "text": "Urdu (language)" },
       { "languageCode": "bn", "text": "উর্দু (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/urdu-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/urdu-language.png"
   },
   {
     "level": "a1",
@@ -1274,7 +1274,7 @@
       { "languageCode": "en", "text": "Vietnam" },
       { "languageCode": "bn", "text": "ভিয়েতনাম" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/vietnam.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/vietnam.png"
   },
   {
     "level": "a1",
@@ -1293,7 +1293,7 @@
       { "languageCode": "en", "text": "Vietnamese" },
       { "languageCode": "bn", "text": "ভিয়েতনামি" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/vietnamese.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/vietnamese.png"
   },
   {
     "level": "a1",
@@ -1313,6 +1313,6 @@
       { "languageCode": "en", "text": "Vietnamese (language)" },
       { "languageCode": "bn", "text": "ভিয়েতনামি (ভাষা)" }
     ],
-    "image": "data/vocabulary/images/countries-and-languages/vietnamese-language.png"
+    "image": "private/data/vocabulary/images/countries-and-languages/vietnamese-language.png"
   }
 ]
