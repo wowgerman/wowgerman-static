@@ -1,593 +1,6 @@
 [
   {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "verb",
-    "word": "abfahren",
-    "infinitive": "abfahren",
-    "third_person_singular_present": "er fährt ab",
-    "simple_past": "fuhr ab",
-    "past_participle": "ist abgefahren",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": "ab",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Zug fährt um 8 Uhr ab." },
-      { "languageCode": "en", "text": "The train departs at 8 o'clock." },
-      { "languageCode": "bn", "text": "ট্রেনটা সকাল ৮টায় ছাড়ে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to depart" },
-      { "languageCode": "bn", "text": "ছাড়া/প্রস্থান করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Abfahrt",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Abfahrten",
-    "genitive_singular": "der Abfahrt",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Abfahrt ist um 9 Uhr." },
-      { "languageCode": "en", "text": "The departure is at 9 o'clock." },
-      { "languageCode": "bn", "text": "প্রস্থানের সময় সকাল ৯টা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "departure" },
-      { "languageCode": "bn", "text": "প্রস্থান" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Ankunft",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Ankünfte",
-    "genitive_singular": "der Ankunft",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Ankunft ist um 15 Uhr." },
-      { "languageCode": "en", "text": "The arrival is at 3 PM." },
-      { "languageCode": "bn", "text": "আগমনের সময় বিকেল ৩টা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "arrival" },
-      { "languageCode": "bn", "text": "আগমন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Auto",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Autos",
-    "genitive_singular": "des Autos",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Auto ist schnell." },
-      { "languageCode": "en", "text": "The car is fast." },
-      { "languageCode": "bn", "text": "গাড়িটা দ্রুতগামী।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "car" },
-      { "languageCode": "bn", "text": "গাড়ি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Autobahn",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Autobahnen",
-    "genitive_singular": "der Autobahn",
-    "sentences": [
-      { "languageCode": "de", "text": "Wir fahren auf der Autobahn." },
-      { "languageCode": "en", "text": "We drive on the highway." },
-      { "languageCode": "bn", "text": "আমরা মহাসড়কে গাড়ি চালাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "highway" },
-      { "languageCode": "bn", "text": "মহাসড়ক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Badeurlaub",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Badeurlaube",
-    "genitive_singular": "des Badeurlaubs",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich mache Badeurlaub am Meer." },
-      { "languageCode": "en", "text": "I go on a beach holiday by the sea." },
-      { "languageCode": "bn", "text": "আমি সমুদ্রের ধারে সমুদ্র সৈকত ছুটি কাটাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "beach holiday" },
-      { "languageCode": "bn", "text": "সমুদ্র সৈকত ছুটি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Bergtour",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Bergtouren",
-    "genitive_singular": "der Bergtour",
-    "sentences": [
-      { "languageCode": "de", "text": "Wir machen eine Bergtour." },
-      { "languageCode": "en", "text": "We go on a mountain tour." },
-      { "languageCode": "bn", "text": "আমরা একটা পর্বত ভ্রমণে যাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "mountain tour" },
-      { "languageCode": "bn", "text": "পর্বত ভ্রমণ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "verb",
-    "word": "besichtigen",
-    "infinitive": "besichtigen",
-    "third_person_singular_present": "er besichtigt",
-    "simple_past": "besichtigte",
-    "past_participle": "hat besichtigt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Wir besichtigen das Museum." },
-      { "languageCode": "en", "text": "We visit the museum." },
-      { "languageCode": "bn", "text": "আমরা জাদুঘরটা পরিদর্শন করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to visit/sightsee" },
-      { "languageCode": "bn", "text": "দেখা/পরিদর্শন করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Bus",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Busse",
-    "genitive_singular": "des Busses",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Bus kommt um 8 Uhr." },
-      { "languageCode": "en", "text": "The bus comes at 8 o'clock." },
-      { "languageCode": "bn", "text": "বাসটা সকাল ৮টায় আসে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "bus" },
-      { "languageCode": "bn", "text": "বাস" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Campingurlaub",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Campingurlaube",
-    "genitive_singular": "des Campingurlaubs",
-    "sentences": [
-      { "languageCode": "de", "text": "Wir machen Campingurlaub." },
-      { "languageCode": "en", "text": "We go on a camping holiday." },
-      { "languageCode": "bn", "text": "আমরা ক্যাম্পিং ছুটি কাটাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "camping holiday" },
-      { "languageCode": "bn", "text": "ক্যাম্পিং ছুটি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "verb",
-    "word": "einsteigen",
-    "infinitive": "einsteigen",
-    "third_person_singular_present": "er steigt ein",
-    "simple_past": "stieg ein",
-    "past_participle": "ist eingestiegen",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": "ein",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich steige in den Zug ein." },
-      { "languageCode": "en", "text": "I get on the train." },
-      { "languageCode": "bn", "text": "আমি ট্রেনে উঠছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to get on/board" },
-      { "languageCode": "bn", "text": "উঠা/চড়া" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "verb",
-    "word": "fahren",
-    "infinitive": "fahren",
-    "third_person_singular_present": "er fährt",
-    "simple_past": "fuhr",
-    "past_participle": "ist gefahren",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich fahre mit dem Bus." },
-      { "languageCode": "en", "text": "I travel by bus." },
-      { "languageCode": "bn", "text": "আমি বাসে করে যাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to drive/travel" },
-      { "languageCode": "bn", "text": "চালানো/ভ্রমণ করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Fahrkarte",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Fahrkarten",
-    "genitive_singular": "der Fahrkarte",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich kaufe eine Fahrkarte." },
-      { "languageCode": "en", "text": "I buy a ticket." },
-      { "languageCode": "bn", "text": "আমি একটা টিকেট কিনছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "ticket" },
-      { "languageCode": "bn", "text": "টিকেট" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Fahrrad",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Fahrräder",
-    "genitive_singular": "des Fahrrads",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich fahre mit dem Fahrrad zur Arbeit." },
-      { "languageCode": "en", "text": "I go to work by bicycle." },
-      { "languageCode": "bn", "text": "আমি সাইকেলে করে কাজে যাই।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "bicycle" },
-      { "languageCode": "bn", "text": "সাইকেল" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Fahrradtour",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Fahrradtouren",
-    "genitive_singular": "der Fahrradtour",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Fahrradtour macht Spaß." },
-      { "languageCode": "en", "text": "The bicycle tour is fun." },
-      { "languageCode": "bn", "text": "সাইকেল ভ্রমণটা মজার।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "bicycle tour" },
-      { "languageCode": "bn", "text": "সাইকেল ভ্রমণ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Gepäck",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "-",
-    "genitive_singular": "des Gepäcks",
-    "sentences": [
-      { "languageCode": "de", "text": "Mein Gepäck ist schwer." },
-      { "languageCode": "en", "text": "My luggage is heavy." },
-      { "languageCode": "bn", "text": "আমার লাগেজ ভারী।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "luggage" },
-      { "languageCode": "bn", "text": "লাগেজ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Haltestelle",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Haltestellen",
-    "genitive_singular": "der Haltestelle",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich warte an der Haltestelle." },
-      { "languageCode": "en", "text": "I wait at the bus stop." },
-      { "languageCode": "bn", "text": "আমি বাস স্টপে অপেক্ষা করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "bus stop" },
-      { "languageCode": "bn", "text": "বাস স্টপ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Handy-Akku",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Handy-Akkus",
-    "genitive_singular": "des Handy-Akkus",
-    "sentences": [
-      { "languageCode": "de", "text": "Mein Handy-Akku ist leer." },
-      { "languageCode": "en", "text": "My phone battery is empty." },
-      { "languageCode": "bn", "text": "আমার ফোনের ব্যাটারি শেষ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "phone battery" },
-      { "languageCode": "bn", "text": "ফোনের ব্যাটারি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Jugendherberge",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Jugendherbergen",
-    "genitive_singular": "der Jugendherberge",
-    "sentences": [
-      { "languageCode": "de", "text": "Wir übernachten in der Jugendherberge." },
-      { "languageCode": "en", "text": "We stay overnight in the youth hostel." },
-      { "languageCode": "bn", "text": "আমরা যুব হোস্টেলে রাত কাটাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "youth hostel" },
-      { "languageCode": "bn", "text": "যুব হোস্টেল" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Karte",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Karten",
-    "genitive_singular": "der Karte",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich brauche eine Karte von der Stadt." },
-      { "languageCode": "en", "text": "I need a map of the city." },
-      { "languageCode": "bn", "text": "আমার শহরের একটা মানচিত্র দরকার।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "map" },
-      { "languageCode": "bn", "text": "মানচিত্র" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Koffer",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Koffer",
-    "genitive_singular": "des Koffers",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Koffer ist schwer." },
-      { "languageCode": "en", "text": "The suitcase is heavy." },
-      { "languageCode": "bn", "text": "স্যুটকেসটা ভারী।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "suitcase" },
-      { "languageCode": "bn", "text": "স্যুটকেস" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "verb",
-    "word": "losfahren",
-    "infinitive": "losfahren",
-    "third_person_singular_present": "er fährt los",
-    "simple_past": "fuhr los",
-    "past_participle": "ist losgefahren",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": "los",
-    "sentences": [
-      { "languageCode": "de", "text": "Wir fahren morgen früh los." },
-      { "languageCode": "en", "text": "We start driving early tomorrow." },
-      { "languageCode": "bn", "text": "আমরা আগামীকাল সকালে রওনা দেব।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to start driving/leave" },
-      { "languageCode": "bn", "text": "চলে যাওয়া/শুরু করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Motorrad",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Motorräder",
-    "genitive_singular": "des Motorrads",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Motorrad ist sehr schnell." },
-      { "languageCode": "en", "text": "The motorcycle is very fast." },
-      { "languageCode": "bn", "text": "মোটরসাইকেলটা খুব দ্রুতগামী।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "motorcycle" },
-      { "languageCode": "bn", "text": "মোটরসাইকেল" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "verb",
-    "word": "packen",
-    "infinitive": "packen",
-    "third_person_singular_present": "er packt",
-    "simple_past": "packte",
-    "past_participle": "hat gepackt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich packe meinen Koffer." },
-      { "languageCode": "en", "text": "I pack my suitcase." },
-      { "languageCode": "bn", "text": "আমি আমার স্যুটকেস গোছাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to pack" },
-      { "languageCode": "bn", "text": "প্যাক করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Pension",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Pensionen",
-    "genitive_singular": "der Pension",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Pension ist sehr günstig." },
-      { "languageCode": "en", "text": "The guesthouse is very cheap." },
-      { "languageCode": "bn", "text": "গেস্ট হাউসটা খুব সস্তা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "guesthouse" },
-      { "languageCode": "bn", "text": "গেস্ট হাউস" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Picknick",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Picknicks",
-    "genitive_singular": "des Picknicks",
-    "sentences": [
-      { "languageCode": "de", "text": "Wir machen ein Picknick im Park." },
-      { "languageCode": "en", "text": "We are having a picnic in the park." },
-      { "languageCode": "bn", "text": "আমরা পার্কে একটা পিকনিক করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "picnic" },
-      { "languageCode": "bn", "text": "পিকনিক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Platz",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Plätze",
-    "genitive_singular": "des Platzes",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Platz ist sehr groß." },
-      { "languageCode": "en", "text": "The square is very big." },
-      { "languageCode": "bn", "text": "চত্বরটা খুব বড়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "square" },
-      { "languageCode": "bn", "text": "চত্বর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Reisebericht",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Reiseberichte",
-    "genitive_singular": "des Reiseberichts",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich schreibe einen Reisebericht." },
-      { "languageCode": "en", "text": "I write a travel report." },
-      { "languageCode": "bn", "text": "আমি একটা ভ্রমণের রিপোর্ট লিখছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "travel report" },
-      { "languageCode": "bn", "text": "ভ্রমণের রিপোর্ট" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Reiseführer",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Reiseführer",
-    "genitive_singular": "des Reiseführers",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Reiseführer zeigt uns die Stadt." },
-      { "languageCode": "en", "text": "The tour guide shows us the city." },
-      { "languageCode": "bn", "text": "ট্যুর গাইড আমাদের শহরটা দেখাচ্ছেন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "tour guide" },
-      { "languageCode": "bn", "text": "ট্যুর গাইড" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Reiseführerin",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Reiseführerinnen",
-    "genitive_singular": "der Reiseführerin",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Reiseführerin ist sehr nett." },
-      { "languageCode": "en", "text": "The female tour guide is very nice." },
-      { "languageCode": "bn", "text": "মহিলা ট্যুর গাইডটি খুব ভালো মানুষ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "female tour guide" },
-      { "languageCode": "bn", "text": "মহিলা ট্যুর গাইড" }
-    ]
-  },
-  {
+    "id": "u07nih5t",
     "level": "a1",
     "topic": "transportation-and-travel",
     "part_of_speech": "verb",
@@ -610,25 +23,7 @@
     ]
   },
   {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Reisetasche",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Reisetaschen",
-    "genitive_singular": "der Reisetasche",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich packe die Reisetasche." },
-      { "languageCode": "en", "text": "I pack the travel bag." },
-      { "languageCode": "bn", "text": "আমি ভ্রমণের ব্যাগটা গোছাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "travel bag" },
-      { "languageCode": "bn", "text": "ভ্রমণের ব্যাগ" }
-    ]
-  },
-  {
+    "id": "4jya44uk",
     "level": "a1",
     "topic": "transportation-and-travel",
     "part_of_speech": "noun",
@@ -648,199 +43,27 @@
     ]
   },
   {
+    "id": "kpejvune",
     "level": "a1",
     "topic": "transportation-and-travel",
     "part_of_speech": "noun",
-    "word": "Route",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Routen",
-    "genitive_singular": "der Route",
-    "sentences": [
-      { "languageCode": "de", "text": "Wir planen unsere Route." },
-      { "languageCode": "en", "text": "We plan our route." },
-      { "languageCode": "bn", "text": "আমরা আমাদের পথ পরিকল্পনা করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "route" },
-      { "languageCode": "bn", "text": "পথ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Schlafsack",
+    "word": "Reisebericht",
     "article": "der",
     "gender": "masculine",
-    "plural": "Schlafsäcke",
-    "genitive_singular": "des Schlafsacks",
+    "plural": "Reiseberichte",
+    "genitive_singular": "des Reiseberichts",
     "sentences": [
-      { "languageCode": "de", "text": "Ich nehme einen Schlafsack mit." },
-      { "languageCode": "en", "text": "I take a sleeping bag with me." },
-      { "languageCode": "bn", "text": "আমি আমার সাথে একটা স্লিপিং ব্যাগ নিচ্ছি।" }
+      { "languageCode": "de", "text": "Ich schreibe einen Reisebericht." },
+      { "languageCode": "en", "text": "I write a travel report." },
+      { "languageCode": "bn", "text": "আমি একটা ভ্রমণের রিপোর্ট লিখছি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "sleeping bag" },
-      { "languageCode": "bn", "text": "স্লিপিং ব্যাগ" }
+      { "languageCode": "en", "text": "travel report" },
+      { "languageCode": "bn", "text": "ভ্রমণের রিপোর্ট" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Ski-Urlaub",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Ski-Urlaube",
-    "genitive_singular": "des Ski-Urlaubs",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich fahre in den Ski-Urlaub." },
-      { "languageCode": "en", "text": "I go on a ski holiday." },
-      { "languageCode": "bn", "text": "আমি স্কি ছুটিতে যাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "ski holiday" },
-      { "languageCode": "bn", "text": "স্কি ছুটি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Snowboard-Urlaub",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Snowboard-Urlaube",
-    "genitive_singular": "des Snowboard-Urlaubs",
-    "sentences": [
-      { "languageCode": "de", "text": "Mein Snowboard-Urlaub war toll." },
-      { "languageCode": "en", "text": "My snowboard holiday was great." },
-      { "languageCode": "bn", "text": "আমার স্নোবোর্ড ছুটিটা দারুণ ছিল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "snowboard holiday" },
-      { "languageCode": "bn", "text": "স্নোবোর্ড ছুটি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Sonnencreme",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Sonnencremes",
-    "genitive_singular": "der Sonnencreme",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Sonnencreme ist wichtig." },
-      { "languageCode": "en", "text": "The sunscreen is important." },
-      { "languageCode": "bn", "text": "সানস্ক্রিনটা গুরুত্বপূর্ণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "sunscreen" },
-      { "languageCode": "bn", "text": "সানস্ক্রিন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "verb",
-    "word": "spazieren gehen",
-    "infinitive": "spazieren gehen",
-    "third_person_singular_present": "er geht spazieren",
-    "simple_past": "ging spazieren",
-    "past_participle": "ist spazieren gegangen",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich gehe im Park spazieren." },
-      { "languageCode": "en", "text": "I go for a walk in the park." },
-      { "languageCode": "bn", "text": "আমি পার্কে হাঁটতে যাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to go for a walk" },
-      { "languageCode": "bn", "text": "হাঁটতে যাওয়া" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Spaziergang",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Spaziergänge",
-    "genitive_singular": "des Spaziergangs",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Spaziergang ist sehr schön." },
-      { "languageCode": "en", "text": "The walk is very beautiful." },
-      { "languageCode": "bn", "text": "এই হাঁটাটা খুব চমৎকার ছিল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "walk" },
-      { "languageCode": "bn", "text": "হাঁটা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Stadturlaub",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Stadturlaube",
-    "genitive_singular": "des Stadturlaubs",
-    "sentences": [
-      { "languageCode": "de", "text": "Wir machen Stadturlaub in Berlin." },
-      { "languageCode": "en", "text": "We go on a city holiday in Berlin." },
-      { "languageCode": "bn", "text": "আমরা বার্লিনে শহর ছুটি কাটাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "city holiday" },
-      { "languageCode": "bn", "text": "শহর ছুটি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Straße",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Straßen",
-    "genitive_singular": "der Straße",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Straße ist sehr lang." },
-      { "languageCode": "en", "text": "The street is very long." },
-      { "languageCode": "bn", "text": "রাস্তাটা খুব লম্বা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "street" },
-      { "languageCode": "bn", "text": "রাস্তা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "noun",
-    "word": "Straßenbahn",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Straßenbahnen",
-    "genitive_singular": "der Straßenbahn",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Straßenbahn fährt durch die Stadt." },
-      { "languageCode": "en", "text": "The tram drives through the city." },
-      { "languageCode": "bn", "text": "ট্রামটা শহরের মধ্য দিয়ে চলে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "tram" },
-      { "languageCode": "bn", "text": "ট্রাম" }
-    ]
-  },
-  {
+    "id": "ad5y1dcd",
     "level": "a1",
     "topic": "transportation-and-travel",
     "part_of_speech": "noun",
@@ -860,44 +83,479 @@
     ]
   },
   {
+    "id": "wl7lapcm",
     "level": "a1",
     "topic": "transportation-and-travel",
     "part_of_speech": "noun",
-    "word": "Tram",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Trams",
-    "genitive_singular": "der Tram",
+    "word": "Reiseführer",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Reiseführer",
+    "genitive_singular": "des Reiseführers",
     "sentences": [
-      { "languageCode": "de", "text": "Die Tram ist pünktlich." },
-      { "languageCode": "en", "text": "The tram is on time." },
-      { "languageCode": "bn", "text": "ট্রামটা সময়মতো আসে।" }
+      { "languageCode": "de", "text": "Der Reiseführer zeigt uns die Stadt." },
+      { "languageCode": "en", "text": "The tour guide shows us the city." },
+      { "languageCode": "bn", "text": "ট্যুর গাইড আমাদের শহরটা দেখাচ্ছেন।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "tram" },
-      { "languageCode": "bn", "text": "ট্রাম" }
+      { "languageCode": "en", "text": "tour guide" },
+      { "languageCode": "bn", "text": "ট্যুর গাইড" }
     ]
   },
   {
+    "id": "ujajkiiz",
     "level": "a1",
     "topic": "transportation-and-travel",
     "part_of_speech": "noun",
-    "word": "U-Bahn",
+    "word": "Reiseführerin",
     "article": "die",
     "gender": "feminine",
-    "plural": "U-Bahnen",
-    "genitive_singular": "der U-Bahn",
+    "plural": "Reiseführerinnen",
+    "genitive_singular": "der Reiseführerin",
     "sentences": [
-      { "languageCode": "de", "text": "Die U-Bahn ist sehr schnell." },
-      { "languageCode": "en", "text": "The subway is very fast." },
-      { "languageCode": "bn", "text": "পাতাল রেলটা খুব দ্রুতগামী।" }
+      { "languageCode": "de", "text": "Die Reiseführerin ist sehr nett." },
+      { "languageCode": "en", "text": "The female tour guide is very nice." },
+      { "languageCode": "bn", "text": "মহিলা ট্যুর গাইডটি খুব ভালো মানুষ।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "subway" },
-      { "languageCode": "bn", "text": "পাতাল রেল" }
+      { "languageCode": "en", "text": "female tour guide" },
+      { "languageCode": "bn", "text": "মহিলা ট্যুর গাইড" }
     ]
   },
   {
+    "id": "eh3vdknv",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "verb",
+    "word": "besichtigen",
+    "infinitive": "besichtigen",
+    "third_person_singular_present": "er besichtigt",
+    "simple_past": "besichtigte",
+    "past_participle": "hat besichtigt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Wir besichtigen das Museum." },
+      { "languageCode": "en", "text": "We visit the museum." },
+      { "languageCode": "bn", "text": "আমরা জাদুঘরটা পরিদর্শন করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to visit/sightsee" },
+      { "languageCode": "bn", "text": "দেখা/পরিদর্শন করা" }
+    ]
+  },
+  {
+    "id": "blyrvejh",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Badeurlaub",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Badeurlaube",
+    "genitive_singular": "des Badeurlaubs",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich mache Badeurlaub am Meer." },
+      { "languageCode": "en", "text": "I go on a beach holiday by the sea." },
+      { "languageCode": "bn", "text": "আমি সমুদ্রের ধারে সমুদ্র সৈকত ছুটি কাটাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "beach holiday" },
+      { "languageCode": "bn", "text": "সমুদ্র সৈকত ছুটি" }
+    ]
+  },
+  {
+    "id": "m07spdnn",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Bergtour",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Bergtouren",
+    "genitive_singular": "der Bergtour",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir machen eine Bergtour." },
+      { "languageCode": "en", "text": "We go on a mountain tour." },
+      { "languageCode": "bn", "text": "আমরা একটা পর্বত ভ্রমণে যাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "mountain tour" },
+      { "languageCode": "bn", "text": "পর্বত ভ্রমণ" }
+    ]
+  },
+  {
+    "id": "ycm3tccx",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Campingurlaub",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Campingurlaube",
+    "genitive_singular": "des Campingurlaubs",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir machen Campingurlaub." },
+      { "languageCode": "en", "text": "We go on a camping holiday." },
+      { "languageCode": "bn", "text": "আমরা ক্যাম্পিং ছুটি কাটাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "camping holiday" },
+      { "languageCode": "bn", "text": "ক্যাম্পিং ছুটি" }
+    ]
+  },
+  {
+    "id": "u6migm1s",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Stadturlaub",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Stadturlaube",
+    "genitive_singular": "des Stadturlaubs",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir machen Stadturlaub in Berlin." },
+      { "languageCode": "en", "text": "We go on a city holiday in Berlin." },
+      { "languageCode": "bn", "text": "আমরা বার্লিনে শহর ছুটি কাটাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "city holiday" },
+      { "languageCode": "bn", "text": "শহর ছুটি" }
+    ]
+  },
+  {
+    "id": "89tg67ly",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Ski-Urlaub",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Ski-Urlaube",
+    "genitive_singular": "des Ski-Urlaubs",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich fahre in den Ski-Urlaub." },
+      { "languageCode": "en", "text": "I go on a ski holiday." },
+      { "languageCode": "bn", "text": "আমি স্কি ছুটিতে যাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ski holiday" },
+      { "languageCode": "bn", "text": "স্কি ছুটি" }
+    ]
+  },
+  {
+    "id": "29rze4x6",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Snowboard-Urlaub",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Snowboard-Urlaube",
+    "genitive_singular": "des Snowboard-Urlaubs",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Snowboard-Urlaub war toll." },
+      { "languageCode": "en", "text": "My snowboard holiday was great." },
+      { "languageCode": "bn", "text": "আমার স্নোবোর্ড ছুটিটা দারুণ ছিল।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "snowboard holiday" },
+      { "languageCode": "bn", "text": "স্নোবোর্ড ছুটি" }
+    ]
+  },
+  {
+    "id": "1zs8pu2p",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Fahrradtour",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Fahrradtouren",
+    "genitive_singular": "der Fahrradtour",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Fahrradtour macht Spaß." },
+      { "languageCode": "en", "text": "The bicycle tour is fun." },
+      { "languageCode": "bn", "text": "সাইকেল ভ্রমণটা মজার।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bicycle tour" },
+      { "languageCode": "bn", "text": "সাইকেল ভ্রমণ" }
+    ]
+  },
+  {
+    "id": "00xv8q0q",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "verb",
+    "word": "packen",
+    "infinitive": "packen",
+    "third_person_singular_present": "er packt",
+    "simple_past": "packte",
+    "past_participle": "hat gepackt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich packe meinen Koffer." },
+      { "languageCode": "en", "text": "I pack my suitcase." },
+      { "languageCode": "bn", "text": "আমি আমার স্যুটকেস গোছাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to pack" },
+      { "languageCode": "bn", "text": "প্যাক করা" }
+    ]
+  },
+  {
+    "id": "7x69uzmf",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Gepäck",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "-",
+    "genitive_singular": "des Gepäcks",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Gepäck ist schwer." },
+      { "languageCode": "en", "text": "My luggage is heavy." },
+      { "languageCode": "bn", "text": "আমার লাগেজ ভারী।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "luggage" },
+      { "languageCode": "bn", "text": "লাগেজ" }
+    ]
+  },
+  {
+    "id": "ak876722",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Koffer",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Koffer",
+    "genitive_singular": "des Koffers",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Koffer ist schwer." },
+      { "languageCode": "en", "text": "The suitcase is heavy." },
+      { "languageCode": "bn", "text": "স্যুটকেসটা ভারী।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "suitcase" },
+      { "languageCode": "bn", "text": "স্যুটকেস" }
+    ]
+  },
+  {
+    "id": "tqfgem4j",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Reisetasche",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Reisetaschen",
+    "genitive_singular": "der Reisetasche",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich packe die Reisetasche." },
+      { "languageCode": "en", "text": "I pack the travel bag." },
+      { "languageCode": "bn", "text": "আমি ভ্রমণের ব্যাগটা গোছাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "travel bag" },
+      { "languageCode": "bn", "text": "ভ্রমণের ব্যাগ" }
+    ]
+  },
+  {
+    "id": "1eljdw0d",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Schlafsack",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Schlafsäcke",
+    "genitive_singular": "des Schlafsacks",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich nehme einen Schlafsack mit." },
+      { "languageCode": "en", "text": "I take a sleeping bag with me." },
+      { "languageCode": "bn", "text": "আমি আমার সাথে একটা স্লিপিং ব্যাগ নিচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sleeping bag" },
+      { "languageCode": "bn", "text": "স্লিপিং ব্যাগ" }
+    ]
+  },
+  {
+    "id": "z9ppy2av",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Sonnencreme",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Sonnencremes",
+    "genitive_singular": "der Sonnencreme",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Sonnencreme ist wichtig." },
+      { "languageCode": "en", "text": "The sunscreen is important." },
+      { "languageCode": "bn", "text": "সানস্ক্রিনটা গুরুত্বপূর্ণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sunscreen" },
+      { "languageCode": "bn", "text": "সানস্ক্রিন" }
+    ]
+  },
+  {
+    "id": "g9n73suq",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Handy-Akku",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Handy-Akkus",
+    "genitive_singular": "des Handy-Akkus",
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Handy-Akku ist leer." },
+      { "languageCode": "en", "text": "My phone battery is empty." },
+      { "languageCode": "bn", "text": "আমার ফোনের ব্যাটারি শেষ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "phone battery" },
+      { "languageCode": "bn", "text": "ফোনের ব্যাটারি" }
+    ]
+  },
+  {
+    "id": "zo0b5m04",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Karte",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Karten",
+    "genitive_singular": "der Karte",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich brauche eine Karte von der Stadt." },
+      { "languageCode": "en", "text": "I need a map of the city." },
+      { "languageCode": "bn", "text": "আমার শহরের একটা মানচিত্র দরকার।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "map" },
+      { "languageCode": "bn", "text": "মানচিত্র" }
+    ]
+  },
+  {
+    "id": "3jme02fj",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Fahrkarte",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Fahrkarten",
+    "genitive_singular": "der Fahrkarte",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich kaufe eine Fahrkarte." },
+      { "languageCode": "en", "text": "I buy a ticket." },
+      { "languageCode": "bn", "text": "আমি একটা টিকেট কিনছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ticket" },
+      { "languageCode": "bn", "text": "টিকেট" }
+    ]
+  },
+  {
+    "id": "0nrtd35c",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "verb",
+    "word": "abfahren",
+    "infinitive": "abfahren",
+    "third_person_singular_present": "er fährt ab",
+    "simple_past": "fuhr ab",
+    "past_participle": "ist abgefahren",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": "ab",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Zug fährt um 8 Uhr ab." },
+      { "languageCode": "en", "text": "The train departs at 8 o'clock." },
+      { "languageCode": "bn", "text": "ট্রেনটা সকাল ৮টায় ছাড়ে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to depart" },
+      { "languageCode": "bn", "text": "ছাড়া/প্রস্থান করা" }
+    ]
+  },
+  {
+    "id": "jkx0leiz",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Abfahrt",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Abfahrten",
+    "genitive_singular": "der Abfahrt",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Abfahrt ist um 9 Uhr." },
+      { "languageCode": "en", "text": "The departure is at 9 o'clock." },
+      { "languageCode": "bn", "text": "প্রস্থানের সময় সকাল ৯টা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "departure" },
+      { "languageCode": "bn", "text": "প্রস্থান" }
+    ]
+  },
+  {
+    "id": "dvv8lf28",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "verb",
+    "word": "losfahren",
+    "infinitive": "losfahren",
+    "third_person_singular_present": "er fährt los",
+    "simple_past": "fuhr los",
+    "past_participle": "ist losgefahren",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": "los",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir fahren morgen früh los." },
+      { "languageCode": "en", "text": "We start driving early tomorrow." },
+      { "languageCode": "bn", "text": "আমরা আগামীকাল সকালে রওনা দেব।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to start driving/leave" },
+      { "languageCode": "bn", "text": "চলে যাওয়া/শুরু করা" }
+    ]
+  },
+  {
+    "id": "vmi89m4g",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Ankunft",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Ankünfte",
+    "genitive_singular": "der Ankunft",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Ankunft ist um 15 Uhr." },
+      { "languageCode": "en", "text": "The arrival is at 3 PM." },
+      { "languageCode": "bn", "text": "আগমনের সময় বিকেল ৩টা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "arrival" },
+      { "languageCode": "bn", "text": "আগমন" }
+    ]
+  },
+  {
+    "id": "sz94qu2x",
     "level": "a1",
     "topic": "transportation-and-travel",
     "part_of_speech": "verb",
@@ -920,28 +578,47 @@
     ]
   },
   {
+    "id": "a2s6dkhg",
     "level": "a1",
     "topic": "transportation-and-travel",
-    "part_of_speech": "verb",
-    "word": "umsteigen",
-    "infinitive": "umsteigen",
-    "third_person_singular_present": "er steigt um",
-    "simple_past": "stieg um",
-    "past_participle": "ist umgestiegen",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": "um",
+    "part_of_speech": "noun",
+    "word": "Jugendherberge",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Jugendherbergen",
+    "genitive_singular": "der Jugendherberge",
     "sentences": [
-      { "languageCode": "de", "text": "Ich muss am Bahnhof umsteigen." },
-      { "languageCode": "en", "text": "I have to change trains at the station." },
-      { "languageCode": "bn", "text": "আমাকে স্টেশনে ট্রেন পরিবর্তন করতে হবে।" }
+      { "languageCode": "de", "text": "Wir übernachten in der Jugendherberge." },
+      { "languageCode": "en", "text": "We stay overnight in the youth hostel." },
+      { "languageCode": "bn", "text": "আমরা যুব হোস্টেলে রাত কাটাচ্ছি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to change/transfer" },
-      { "languageCode": "bn", "text": "পরিবর্তন করা" }
+      { "languageCode": "en", "text": "youth hostel" },
+      { "languageCode": "bn", "text": "যুব হোস্টেল" }
     ]
   },
   {
+    "id": "ozw66qkj",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Pension",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Pensionen",
+    "genitive_singular": "der Pension",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Pension ist sehr günstig." },
+      { "languageCode": "en", "text": "The guesthouse is very cheap." },
+      { "languageCode": "bn", "text": "গেস্ট হাউসটা খুব সস্তা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "guesthouse" },
+      { "languageCode": "bn", "text": "গেস্ট হাউস" }
+    ]
+  },
+  {
+    "id": "21wvx9pl",
     "level": "a1",
     "topic": "transportation-and-travel",
     "part_of_speech": "verb",
@@ -964,47 +641,50 @@
     ]
   },
   {
-    "level": "a1",
-    "topic": "transportation-and-travel",
-    "part_of_speech": "verb",
-    "word": "verpassen",
-    "infinitive": "verpassen",
-    "third_person_singular_present": "er verpasst",
-    "simple_past": "verpasste",
-    "past_participle": "hat verpasst",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich verpasse den Bus." },
-      { "languageCode": "en", "text": "I miss the bus." },
-      { "languageCode": "bn", "text": "আমার বাসটা মিস হয়ে যাচ্ছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to miss" },
-      { "languageCode": "bn", "text": "মিস করা" }
-    ]
-  },
-  {
+    "id": "0rm5qa3d",
     "level": "a1",
     "topic": "transportation-and-travel",
     "part_of_speech": "noun",
-    "word": "Wegbeschreibung",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Wegbeschreibungen",
-    "genitive_singular": "der Wegbeschreibung",
+    "word": "Auto",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Autos",
+    "genitive_singular": "des Autos",
     "sentences": [
-      { "languageCode": "de", "text": "Ich brauche eine Wegbeschreibung." },
-      { "languageCode": "en", "text": "I need directions." },
-      { "languageCode": "bn", "text": "আমার দিকনির্দেশনা দরকার।" }
+      { "languageCode": "de", "text": "Das Auto ist schnell." },
+      { "languageCode": "en", "text": "The car is fast." },
+      { "languageCode": "bn", "text": "গাড়িটা দ্রুতগামী।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "directions" },
-      { "languageCode": "bn", "text": "দিকনির্দেশনা" }
+      { "languageCode": "en", "text": "car" },
+      { "languageCode": "bn", "text": "গাড়ি" }
     ]
   },
   {
+    "id": "05mggv5h",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "verb",
+    "word": "fahren",
+    "infinitive": "fahren",
+    "third_person_singular_present": "er fährt",
+    "simple_past": "fuhr",
+    "past_participle": "ist gefahren",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich fahre mit dem Bus." },
+      { "languageCode": "en", "text": "I travel by bus." },
+      { "languageCode": "bn", "text": "আমি বাসে করে যাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to drive/travel" },
+      { "languageCode": "bn", "text": "চালানো/ভ্রমণ করা" }
+    ]
+  },
+  {
+    "id": "638wqtyd",
     "level": "a1",
     "topic": "transportation-and-travel",
     "part_of_speech": "verb",
@@ -1027,6 +707,316 @@
     ]
   },
   {
+    "id": "nofpca5z",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Autobahn",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Autobahnen",
+    "genitive_singular": "der Autobahn",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir fahren auf der Autobahn." },
+      { "languageCode": "en", "text": "We drive on the highway." },
+      { "languageCode": "bn", "text": "আমরা মহাসড়কে গাড়ি চালাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "highway" },
+      { "languageCode": "bn", "text": "মহাসড়ক" }
+    ]
+  },
+  {
+    "id": "14r1vz86",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Motorrad",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Motorräder",
+    "genitive_singular": "des Motorrads",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Motorrad ist sehr schnell." },
+      { "languageCode": "en", "text": "The motorcycle is very fast." },
+      { "languageCode": "bn", "text": "মোটরসাইকেলটা খুব দ্রুতগামী।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "motorcycle" },
+      { "languageCode": "bn", "text": "মোটরসাইকেল" }
+    ]
+  },
+  {
+    "id": "m6tmwvp4",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Fahrrad",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Fahrräder",
+    "genitive_singular": "des Fahrrads",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich fahre mit dem Fahrrad zur Arbeit." },
+      { "languageCode": "en", "text": "I go to work by bicycle." },
+      { "languageCode": "bn", "text": "আমি সাইকেলে করে কাজে যাই।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bicycle" },
+      { "languageCode": "bn", "text": "সাইকেল" }
+    ]
+  },
+  {
+    "id": "i9q5749p",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Bus",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Busse",
+    "genitive_singular": "des Busses",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Bus kommt um 8 Uhr." },
+      { "languageCode": "en", "text": "The bus comes at 8 o'clock." },
+      { "languageCode": "bn", "text": "বাসটা সকাল ৮টায় আসে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bus" },
+      { "languageCode": "bn", "text": "বাস" }
+    ]
+  },
+  {
+    "id": "3gepzekr",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Haltestelle",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Haltestellen",
+    "genitive_singular": "der Haltestelle",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich warte an der Haltestelle." },
+      { "languageCode": "en", "text": "I wait at the bus stop." },
+      { "languageCode": "bn", "text": "আমি বাস স্টপে অপেক্ষা করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bus stop" },
+      { "languageCode": "bn", "text": "বাস স্টপ" }
+    ]
+  },
+  {
+    "id": "umbci76d",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Straßenbahn",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Straßenbahnen",
+    "genitive_singular": "der Straßenbahn",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Straßenbahn fährt durch die Stadt." },
+      { "languageCode": "en", "text": "The tram drives through the city." },
+      { "languageCode": "bn", "text": "ট্রামটা শহরের মধ্য দিয়ে চলে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tram" },
+      { "languageCode": "bn", "text": "ট্রাম" }
+    ]
+  },
+  {
+    "id": "qysw5d4y",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Tram",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Trams",
+    "genitive_singular": "der Tram",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Tram ist pünktlich." },
+      { "languageCode": "en", "text": "The tram is on time." },
+      { "languageCode": "bn", "text": "ট্রামটা সময়মতো আসে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tram" },
+      { "languageCode": "bn", "text": "ট্রাম" }
+    ]
+  },
+  {
+    "id": "2i672plo",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "U-Bahn",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "U-Bahnen",
+    "genitive_singular": "der U-Bahn",
+    "sentences": [
+      { "languageCode": "de", "text": "Die U-Bahn ist sehr schnell." },
+      { "languageCode": "en", "text": "The subway is very fast." },
+      { "languageCode": "bn", "text": "পাতাল রেলটা খুব দ্রুতগামী।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "subway" },
+      { "languageCode": "bn", "text": "পাতাল রেল" }
+    ]
+  },
+  {
+    "id": "xlhg60xq",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "verb",
+    "word": "einsteigen",
+    "infinitive": "einsteigen",
+    "third_person_singular_present": "er steigt ein",
+    "simple_past": "stieg ein",
+    "past_participle": "ist eingestiegen",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": "ein",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich steige in den Zug ein." },
+      { "languageCode": "en", "text": "I get on the train." },
+      { "languageCode": "bn", "text": "আমি ট্রেনে উঠছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to get on/board" },
+      { "languageCode": "bn", "text": "উঠা/চড়া" }
+    ]
+  },
+  {
+    "id": "ngi7yvjy",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "verb",
+    "word": "umsteigen",
+    "infinitive": "umsteigen",
+    "third_person_singular_present": "er steigt um",
+    "simple_past": "stieg um",
+    "past_participle": "ist umgestiegen",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": "um",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich muss am Bahnhof umsteigen." },
+      { "languageCode": "en", "text": "I have to change trains at the station." },
+      { "languageCode": "bn", "text": "আমাকে স্টেশনে ট্রেন পরিবর্তন করতে হবে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to change/transfer" },
+      { "languageCode": "bn", "text": "পরিবর্তন করা" }
+    ]
+  },
+  {
+    "id": "sw0nnulh",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "verb",
+    "word": "verpassen",
+    "infinitive": "verpassen",
+    "third_person_singular_present": "er verpasst",
+    "simple_past": "verpasste",
+    "past_participle": "hat verpasst",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich verpasse den Bus." },
+      { "languageCode": "en", "text": "I miss the bus." },
+      { "languageCode": "bn", "text": "আমার বাসটা মিস হয়ে যাচ্ছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to miss" },
+      { "languageCode": "bn", "text": "মিস করা" }
+    ]
+  },
+  {
+    "id": "pq185j63",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Straße",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Straßen",
+    "genitive_singular": "der Straße",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Straße ist sehr lang." },
+      { "languageCode": "en", "text": "The street is very long." },
+      { "languageCode": "bn", "text": "রাস্তাটা খুব লম্বা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "street" },
+      { "languageCode": "bn", "text": "রাস্তা" }
+    ]
+  },
+  {
+    "id": "2y2yjf57",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Platz",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Plätze",
+    "genitive_singular": "des Platzes",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Platz ist sehr groß." },
+      { "languageCode": "en", "text": "The square is very big." },
+      { "languageCode": "bn", "text": "চত্বরটা খুব বড়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "square" },
+      { "languageCode": "bn", "text": "চত্বর" }
+    ]
+  },
+  {
+    "id": "sbxmp4ye",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Route",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Routen",
+    "genitive_singular": "der Route",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir planen unsere Route." },
+      { "languageCode": "en", "text": "We plan our route." },
+      { "languageCode": "bn", "text": "আমরা আমাদের পথ পরিকল্পনা করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "route" },
+      { "languageCode": "bn", "text": "পথ" }
+    ]
+  },
+  {
+    "id": "ace14tcu",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Wegbeschreibung",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Wegbeschreibungen",
+    "genitive_singular": "der Wegbeschreibung",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich brauche eine Wegbeschreibung." },
+      { "languageCode": "en", "text": "I need directions." },
+      { "languageCode": "bn", "text": "আমার দিকনির্দেশনা দরকার।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "directions" },
+      { "languageCode": "bn", "text": "দিকনির্দেশনা" }
+    ]
+  },
+  {
+    "id": "89mvznae",
     "level": "a1",
     "topic": "transportation-and-travel",
     "part_of_speech": "verb",
@@ -1046,6 +1036,69 @@
     "translations": [
       { "languageCode": "en", "text": "to find one's way back" },
       { "languageCode": "bn", "text": "ফিরে যাওয়ার পথ খুঁজে পাওয়া" }
+    ]
+  },
+  {
+    "id": "jatfl1cq",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "verb",
+    "word": "spazieren gehen",
+    "infinitive": "spazieren gehen",
+    "third_person_singular_present": "er geht spazieren",
+    "simple_past": "ging spazieren",
+    "past_participle": "ist spazieren gegangen",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gehe im Park spazieren." },
+      { "languageCode": "en", "text": "I go for a walk in the park." },
+      { "languageCode": "bn", "text": "আমি পার্কে হাঁটতে যাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to go for a walk" },
+      { "languageCode": "bn", "text": "হাঁটতে যাওয়া" }
+    ]
+  },
+  {
+    "id": "p72os7y5",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Spaziergang",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Spaziergänge",
+    "genitive_singular": "des Spaziergangs",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Spaziergang ist sehr schön." },
+      { "languageCode": "en", "text": "The walk is very beautiful." },
+      { "languageCode": "bn", "text": "এই হাঁটাটা খুব চমৎকার ছিল।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "walk" },
+      { "languageCode": "bn", "text": "হাঁটা" }
+    ]
+  },
+  {
+    "id": "qv086035",
+    "level": "a1",
+    "topic": "transportation-and-travel",
+    "part_of_speech": "noun",
+    "word": "Picknick",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Picknicks",
+    "genitive_singular": "des Picknicks",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir machen ein Picknick im Park." },
+      { "languageCode": "en", "text": "We are having a picnic in the park." },
+      { "languageCode": "bn", "text": "আমরা পার্কে একটা পিকনিক করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "picnic" },
+      { "languageCode": "bn", "text": "পিকনিক" }
     ]
   }
 ]

@@ -1,707 +1,6 @@
 [
   {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "alt",
-    "comparative": "älter",
-    "superlative": "am ältesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Mann ist alt." },
-      { "languageCode": "en", "text": "The man is old." },
-      { "languageCode": "bn", "text": "লোকটি বুড়ো।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "old" },
-      { "languageCode": "bn", "text": "বুড়ো" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "braun",
-    "comparative": "brauner",
-    "superlative": "am braunsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Pferd ist braun." },
-      { "languageCode": "en", "text": "The horse is brown." },
-      { "languageCode": "bn", "text": "ঘোড়াটি বাদামী।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "brown" },
-      { "languageCode": "bn", "text": "বাদামী" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "direkt",
-    "comparative": "direkter",
-    "superlative": "am direktesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Weg ist direkt." },
-      { "languageCode": "en", "text": "The way is direct." },
-      { "languageCode": "bn", "text": "রাস্তাটি সরাসরি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "direct" },
-      { "languageCode": "bn", "text": "সরাসরি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "egal",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist mir egal." },
-      { "languageCode": "en", "text": "That doesn't matter to me." },
-      { "languageCode": "bn", "text": "এতে আমার কিছু যায় আসে না।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "doesn't matter" },
-      { "languageCode": "bn", "text": "কিছু যায় আসে না" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "einfach",
-    "comparative": "einfacher",
-    "superlative": "am einfachsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Die Aufgabe ist einfach." },
-      { "languageCode": "en", "text": "The task is simple." },
-      { "languageCode": "bn", "text": "কাজটি সহজ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "simple" },
-      { "languageCode": "bn", "text": "সহজ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "falsch",
-    "comparative": "falscher",
-    "superlative": "am falschesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist falsch." },
-      { "languageCode": "en", "text": "That is wrong." },
-      { "languageCode": "bn", "text": "এটা ভুল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "wrong" },
-      { "languageCode": "bn", "text": "ভুল" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "faul",
-    "comparative": "fauler",
-    "superlative": "am faulsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Er ist faul." },
-      { "languageCode": "en", "text": "He is lazy." },
-      { "languageCode": "bn", "text": "সে অলস।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "lazy" },
-      { "languageCode": "bn", "text": "অলস" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "fröhlich",
-    "comparative": "fröhlicher",
-    "superlative": "am fröhlichsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Kind ist fröhlich." },
-      { "languageCode": "en", "text": "The child is happy." },
-      { "languageCode": "bn", "text": "শিশুটি খুশি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "happy" },
-      { "languageCode": "bn", "text": "খুশি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "gelb",
-    "comparative": "gelber",
-    "superlative": "am gelbsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Die Sonne ist gelb." },
-      { "languageCode": "en", "text": "The sun is yellow." },
-      { "languageCode": "bn", "text": "সূর্যটি হলুদ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "yellow" },
-      { "languageCode": "bn", "text": "হলুদ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "genau",
-    "comparative": "genauer",
-    "superlative": "am genauesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Die Uhr ist genau." },
-      { "languageCode": "en", "text": "The clock is exact." },
-      { "languageCode": "bn", "text": "ঘড়িটি নিখুঁত।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "exact" },
-      { "languageCode": "bn", "text": "নিখুঁত" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "grau",
-    "comparative": "grauer",
-    "superlative": "am grausten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Himmel ist grau." },
-      { "languageCode": "en", "text": "The sky is gray." },
-      { "languageCode": "bn", "text": "আকাশ ধূসর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "gray" },
-      { "languageCode": "bn", "text": "ধূসর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "groß",
-    "comparative": "größer",
-    "superlative": "am größten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Haus ist groß." },
-      { "languageCode": "en", "text": "The house is big." },
-      { "languageCode": "bn", "text": "বাড়িটি বড়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "big" },
-      { "languageCode": "bn", "text": "বড়" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "gut",
-    "comparative": "besser",
-    "superlative": "am besten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Essen ist gut." },
-      { "languageCode": "en", "text": "The food is good." },
-      { "languageCode": "bn", "text": "খাবারটি ভালো।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "good" },
-      { "languageCode": "bn", "text": "ভালো" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "hässlich",
-    "comparative": "hässlicher",
-    "superlative": "am hässlichsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Bild ist hässlich." },
-      { "languageCode": "en", "text": "The picture is ugly." },
-      { "languageCode": "bn", "text": "ছবিটি কুৎসিত।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "ugly" },
-      { "languageCode": "bn", "text": "কুৎসিত" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "hoch",
-    "comparative": "höher",
-    "superlative": "am höchsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Berg ist hoch." },
-      { "languageCode": "en", "text": "The mountain is high." },
-      { "languageCode": "bn", "text": "পাহাড়টি উঁচু।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "high" },
-      { "languageCode": "bn", "text": "উঁচু" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "ideal",
-    "comparative": "idealer",
-    "superlative": "am idealsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist ideal." },
-      { "languageCode": "en", "text": "That is ideal." },
-      { "languageCode": "bn", "text": "এটা আদর্শ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "ideal" },
-      { "languageCode": "bn", "text": "আদর্শ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "jung",
-    "comparative": "jünger",
-    "superlative": "am jüngsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Mädchen ist jung." },
-      { "languageCode": "en", "text": "The girl is young." },
-      { "languageCode": "bn", "text": "মেয়েটি তরুণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "young" },
-      { "languageCode": "bn", "text": "তরুণ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "klein",
-    "comparative": "kleiner",
-    "superlative": "am kleinsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Baby ist klein." },
-      { "languageCode": "en", "text": "The baby is small." },
-      { "languageCode": "bn", "text": "শিশুটি ছোট।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "small" },
-      { "languageCode": "bn", "text": "ছোট" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "kurz",
-    "comparative": "kürzer",
-    "superlative": "am kürzesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Kleid ist kurz." },
-      { "languageCode": "en", "text": "The dress is short." },
-      { "languageCode": "bn", "text": "পোশাকটি ছোট।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "short" },
-      { "languageCode": "bn", "text": "ছোট" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "lang",
-    "comparative": "länger",
-    "superlative": "am längsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Zug ist lang." },
-      { "languageCode": "en", "text": "The train is long." },
-      { "languageCode": "bn", "text": "ট্রেনটি লম্বা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "long" },
-      { "languageCode": "bn", "text": "লম্বা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "lebendig",
-    "comparative": "lebendiger",
-    "superlative": "am lebendigsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Vogel ist lebendig." },
-      { "languageCode": "en", "text": "The bird is alive." },
-      { "languageCode": "bn", "text": "পাখিটি জীবিত।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "alive" },
-      { "languageCode": "bn", "text": "জীবিত" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "leicht",
-    "comparative": "leichter",
-    "superlative": "am leichtesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Koffer ist leicht." },
-      { "languageCode": "en", "text": "The suitcase is light." },
-      { "languageCode": "bn", "text": "স্যুটকেসটি হালকা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "light" },
-      { "languageCode": "bn", "text": "হালকা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "lila",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Die Blume ist lila." },
-      { "languageCode": "en", "text": "The flower is purple." },
-      { "languageCode": "bn", "text": "ফুলটি বেগুনি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "purple" },
-      { "languageCode": "bn", "text": "বেগুনি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "negativ",
-    "comparative": "negativer",
-    "superlative": "am negativsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist negativ." },
-      { "languageCode": "en", "text": "That is negative." },
-      { "languageCode": "bn", "text": "এটা নেতিবাচক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "negative" },
-      { "languageCode": "bn", "text": "নেতিবাচক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "neu",
-    "comparative": "neuer",
-    "superlative": "am neuesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Mein Auto ist neu." },
-      { "languageCode": "en", "text": "My car is new." },
-      { "languageCode": "bn", "text": "আমার গাড়িটি নতুন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "new" },
-      { "languageCode": "bn", "text": "নতুন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "normal",
-    "comparative": "normaler",
-    "superlative": "am normalsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist normal." },
-      { "languageCode": "en", "text": "That is normal." },
-      { "languageCode": "bn", "text": "এটা স্বাভাবিক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "normal" },
-      { "languageCode": "bn", "text": "স্বাভাবিক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "orange",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Die Orange ist orange." },
-      { "languageCode": "en", "text": "The orange is orange." },
-      { "languageCode": "bn", "text": "কমলাটি কমলা রঙের।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "orange" },
-      { "languageCode": "bn", "text": "কমলা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "perfekt",
-    "comparative": "perfekter",
-    "superlative": "am perfektesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist perfekt." },
-      { "languageCode": "en", "text": "That is perfect." },
-      { "languageCode": "bn", "text": "এটা নিখুঁত।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "perfect" },
-      { "languageCode": "bn", "text": "নিখুঁত" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "positiv",
-    "comparative": "positiver",
-    "superlative": "am positivsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich bin positiv." },
-      { "languageCode": "en", "text": "I am positive." },
-      { "languageCode": "bn", "text": "আমি ইতিবাচক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "positive" },
-      { "languageCode": "bn", "text": "ইতিবাচক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "richtig",
-    "comparative": "richtiger",
-    "superlative": "am richtigsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Die Antwort ist richtig." },
-      { "languageCode": "en", "text": "The answer is correct." },
-      { "languageCode": "bn", "text": "উত্তরটি সঠিক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "correct" },
-      { "languageCode": "bn", "text": "সঠিক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "rund",
-    "comparative": "runder",
-    "superlative": "am rundesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Ball ist rund." },
-      { "languageCode": "en", "text": "The ball is round." },
-      { "languageCode": "bn", "text": "বলটি গোল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "round" },
-      { "languageCode": "bn", "text": "গোল" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "sauber",
-    "comparative": "sauberer",
-    "superlative": "am saubersten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Zimmer ist sauber." },
-      { "languageCode": "en", "text": "The room is clean." },
-      { "languageCode": "bn", "text": "ঘরটি পরিষ্কার।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "clean" },
-      { "languageCode": "bn", "text": "পরিষ্কার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "schlecht",
-    "comparative": "schlechter",
-    "superlative": "am schlechtesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Wetter ist schlecht." },
-      { "languageCode": "en", "text": "The weather is bad." },
-      { "languageCode": "bn", "text": "আবহাওয়া খারাপ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "bad" },
-      { "languageCode": "bn", "text": "খারাপ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "schön",
-    "comparative": "schöner",
-    "superlative": "am schönsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Wetter ist schön." },
-      { "languageCode": "en", "text": "The weather is beautiful." },
-      { "languageCode": "bn", "text": "আবহাওয়া সুন্দর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "beautiful" },
-      { "languageCode": "bn", "text": "সুন্দর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "schwarz",
-    "comparative": "schwärzer",
-    "superlative": "am schwärzesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Die Katze ist schwarz." },
-      { "languageCode": "en", "text": "The cat is black." },
-      { "languageCode": "bn", "text": "বিড়ালটি কালো।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "black" },
-      { "languageCode": "bn", "text": "কালো" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "schwer",
-    "comparative": "schwerer",
-    "superlative": "am schwersten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Stein ist schwer." },
-      { "languageCode": "en", "text": "The stone is heavy." },
-      { "languageCode": "bn", "text": "পাথরটি ভারী।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "heavy" },
-      { "languageCode": "bn", "text": "ভারী" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adverb",
-    "word": "tatsächlich",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist tatsächlich richtig." },
-      { "languageCode": "en", "text": "That is actually correct." },
-      { "languageCode": "bn", "text": "এটা আসলেই সঠিক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "actually" },
-      { "languageCode": "bn", "text": "আসলে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "top",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist top!" },
-      { "languageCode": "en", "text": "That is great!" },
-      { "languageCode": "bn", "text": "এটা দারুণ!" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "great" },
-      { "languageCode": "bn", "text": "দারুণ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "colors-and-descriptions",
-    "part_of_speech": "adjective",
-    "word": "total",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist total schön." },
-      { "languageCode": "en", "text": "That is totally beautiful." },
-      { "languageCode": "bn", "text": "এটা সম্পূর্ণভাবে সুন্দর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "totally" },
-      { "languageCode": "bn", "text": "সম্পূর্ণভাবে" }
-    ]
-  },
-  {
+    "id": "j5yox27h",
     "level": "a1",
     "topic": "colors-and-descriptions",
     "part_of_speech": "adjective",
@@ -717,27 +16,551 @@
     "translations": [
       { "languageCode": "en", "text": "white" },
       { "languageCode": "bn", "text": "সাদা" }
-    ]
+    ],
+    "image_search_query": "white snow landscape flat vector"
   },
   {
+    "id": "nbo8wr7u",
     "level": "a1",
     "topic": "colors-and-descriptions",
-    "part_of_speech": "adverb",
-    "word": "wirklich",
+    "part_of_speech": "adjective",
+    "word": "schwarz",
+    "comparative": "schwärzer",
+    "superlative": "am schwärzesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Katze ist schwarz." },
+      { "languageCode": "en", "text": "The cat is black." },
+      { "languageCode": "bn", "text": "বিড়ালটি কালো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "black" },
+      { "languageCode": "bn", "text": "কালো" }
+    ],
+    "image_search_query": "black cat flat vector"
+  },
+  {
+    "id": "ig0diywh",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "grau",
+    "comparative": "grauer",
+    "superlative": "am grausten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Der Himmel ist grau." },
+      { "languageCode": "en", "text": "The sky is gray." },
+      { "languageCode": "bn", "text": "আকাশ ধূসর।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "gray" },
+      { "languageCode": "bn", "text": "ধূসর" }
+    ],
+    "image_search_query": "gray cloudy sky flat vector"
+  },
+  {
+    "id": "pwpcmakh",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "braun",
+    "comparative": "brauner",
+    "superlative": "am braunsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Pferd ist braun." },
+      { "languageCode": "en", "text": "The horse is brown." },
+      { "languageCode": "bn", "text": "ঘোড়াটি বাদামী।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "brown" },
+      { "languageCode": "bn", "text": "বাদামী" }
+    ],
+    "image_search_query": "brown horse flat vector"
+  },
+  {
+    "id": "jljn1g2n",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "gelb",
+    "comparative": "gelber",
+    "superlative": "am gelbsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Sonne ist gelb." },
+      { "languageCode": "en", "text": "The sun is yellow." },
+      { "languageCode": "bn", "text": "সূর্যটি হলুদ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "yellow" },
+      { "languageCode": "bn", "text": "হলুদ" }
+    ],
+    "image_search_query": "yellow sun flat vector"
+  },
+  {
+    "id": "kukjbgg5",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "orange",
     "comparative": null,
     "superlative": null,
     "gradable": false,
     "sentences": [
-      { "languageCode": "de", "text": "Das ist wirklich gut." },
-      { "languageCode": "en", "text": "That is really good." },
-      { "languageCode": "bn", "text": "এটা সত্যিই ভালো।" }
+      { "languageCode": "de", "text": "Die Orange ist orange." },
+      { "languageCode": "en", "text": "The orange is orange." },
+      { "languageCode": "bn", "text": "কমলাটি কমলা রঙের।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "really" },
-      { "languageCode": "bn", "text": "সত্যিই" }
-    ]
+      { "languageCode": "en", "text": "orange" },
+      { "languageCode": "bn", "text": "কমলা" }
+    ],
+    "image_search_query": "orange fruit flat vector"
   },
   {
+    "id": "xo992cn3",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "lila",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Blume ist lila." },
+      { "languageCode": "en", "text": "The flower is purple." },
+      { "languageCode": "bn", "text": "ফুলটি বেগুনি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "purple" },
+      { "languageCode": "bn", "text": "বেগুনি" }
+    ],
+    "image_search_query": "purple flower flat vector"
+  },
+  {
+    "id": "1iq1184a",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "groß",
+    "comparative": "größer",
+    "superlative": "am größten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Haus ist groß." },
+      { "languageCode": "en", "text": "The house is big." },
+      { "languageCode": "bn", "text": "বাড়িটি বড়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "big" },
+      { "languageCode": "bn", "text": "বড়" }
+    ],
+    "image_search_query": "big house flat vector"
+  },
+  {
+    "id": "96b7visc",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "klein",
+    "comparative": "kleiner",
+    "superlative": "am kleinsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Baby ist klein." },
+      { "languageCode": "en", "text": "The baby is small." },
+      { "languageCode": "bn", "text": "শিশুটি ছোট।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "small" },
+      { "languageCode": "bn", "text": "ছোট" }
+    ],
+    "image_search_query": "small baby flat vector"
+  },
+  {
+    "id": "jz1k5d41",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "lang",
+    "comparative": "länger",
+    "superlative": "am längsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Der Zug ist lang." },
+      { "languageCode": "en", "text": "The train is long." },
+      { "languageCode": "bn", "text": "ট্রেনটি লম্বা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "long" },
+      { "languageCode": "bn", "text": "লম্বা" }
+    ],
+    "image_search_query": "long train flat vector"
+  },
+  {
+    "id": "1u8kz2pq",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "kurz",
+    "comparative": "kürzer",
+    "superlative": "am kürzesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kleid ist kurz." },
+      { "languageCode": "en", "text": "The dress is short." },
+      { "languageCode": "bn", "text": "পোশাকটি ছোট।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "short" },
+      { "languageCode": "bn", "text": "ছোট" }
+    ],
+    "image_search_query": "kid wearing short dress flat vector"
+  },
+  {
+    "id": "i9xlszhr",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "hoch",
+    "comparative": "höher",
+    "superlative": "am höchsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Der Berg ist hoch." },
+      { "languageCode": "en", "text": "The mountain is high." },
+      { "languageCode": "bn", "text": "পাহাড়টি উঁচু।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "high" },
+      { "languageCode": "bn", "text": "উঁচু" }
+    ],
+    "image_search_query": "high mountain flat vector"
+  },
+  {
+    "id": "kg3ir0c0",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "rund",
+    "comparative": "runder",
+    "superlative": "am rundesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Der Ball ist rund." },
+      { "languageCode": "en", "text": "The ball is round." },
+      { "languageCode": "bn", "text": "বলটি গোল।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "round" },
+      { "languageCode": "bn", "text": "গোল" }
+    ],
+    "image_search_query": "round ball flat vector"
+  },
+  {
+    "id": "jtbdf0sw",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "schwer",
+    "comparative": "schwerer",
+    "superlative": "am schwersten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Der Stein ist schwer." },
+      { "languageCode": "en", "text": "The stone is heavy." },
+      { "languageCode": "bn", "text": "পাথরটি ভারী।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "heavy" },
+      { "languageCode": "bn", "text": "ভারী" }
+    ],
+    "image_search_query": "man lifting heavy stone flat vector"
+  },
+  {
+    "id": "ihuse2cr",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "leicht",
+    "comparative": "leichter",
+    "superlative": "am leichtesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Der Koffer ist leicht." },
+      { "languageCode": "en", "text": "The suitcase is light." },
+      { "languageCode": "bn", "text": "স্যুটকেসটি হালকা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "light" },
+      { "languageCode": "bn", "text": "হালকা" }
+    ],
+    "image_search_query": "man carrying light suitcase flat vector"
+  },
+  {
+    "id": "r3ynhxwx",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "alt",
+    "comparative": "älter",
+    "superlative": "am ältesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Der Mann ist alt." },
+      { "languageCode": "en", "text": "The man is old." },
+      { "languageCode": "bn", "text": "লোকটি বুড়ো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "old" },
+      { "languageCode": "bn", "text": "বুড়ো" }
+    ],
+    "image_search_query": "old man flat vector"
+  },
+  {
+    "id": "1xvz1m0i",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "neu",
+    "comparative": "neuer",
+    "superlative": "am neuesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Auto ist neu." },
+      { "languageCode": "en", "text": "My car is new." },
+      { "languageCode": "bn", "text": "আমার গাড়িটি নতুন।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "new" },
+      { "languageCode": "bn", "text": "নতুন" }
+    ],
+    "image_search_query": "shiny new car flat vector"
+  },
+  {
+    "id": "ynyjwttc",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "jung",
+    "comparative": "jünger",
+    "superlative": "am jüngsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Mädchen ist jung." },
+      { "languageCode": "en", "text": "The girl is young." },
+      { "languageCode": "bn", "text": "মেয়েটি তরুণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "young" },
+      { "languageCode": "bn", "text": "তরুণ" }
+    ],
+    "image_search_query": "young girl flat vector"
+  },
+  {
+    "id": "ik2cwvm4",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "lebendig",
+    "comparative": "lebendiger",
+    "superlative": "am lebendigsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Der Vogel ist lebendig." },
+      { "languageCode": "en", "text": "The bird is alive." },
+      { "languageCode": "bn", "text": "পাখিটি জীবিত।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "alive" },
+      { "languageCode": "bn", "text": "জীবিত" }
+    ],
+    "image_search_query": "bird flying alive flat vector"
+  },
+  {
+    "id": "xm8j07t3",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "sauber",
+    "comparative": "sauberer",
+    "superlative": "am saubersten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Zimmer ist sauber." },
+      { "languageCode": "en", "text": "The room is clean." },
+      { "languageCode": "bn", "text": "ঘরটি পরিষ্কার।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "clean" },
+      { "languageCode": "bn", "text": "পরিষ্কার" }
+    ],
+    "image_search_query": "clean tidy room flat vector"
+  },
+  {
+    "id": "vrr6oyww",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "gut",
+    "comparative": "besser",
+    "superlative": "am besten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Essen ist gut." },
+      { "languageCode": "en", "text": "The food is good." },
+      { "languageCode": "bn", "text": "খাবারটি ভালো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "good" },
+      { "languageCode": "bn", "text": "ভালো" }
+    ],
+    "image_search_query": "tasty food plate flat vector"
+  },
+  {
+    "id": "4gtwu1r5",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "schlecht",
+    "comparative": "schlechter",
+    "superlative": "am schlechtesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Wetter ist schlecht." },
+      { "languageCode": "en", "text": "The weather is bad." },
+      { "languageCode": "bn", "text": "আবহাওয়া খারাপ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bad" },
+      { "languageCode": "bn", "text": "খারাপ" }
+    ],
+    "image_search_query": "bad weather storm rain flat vector"
+  },
+  {
+    "id": "zdj148oc",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "top",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist top!" },
+      { "languageCode": "en", "text": "That is great!" },
+      { "languageCode": "bn", "text": "এটা দারুণ!" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "great" },
+      { "languageCode": "bn", "text": "দারুণ" }
+    ],
+    "image_search_query": "kid thumbs up great flat vector"
+  },
+  {
+    "id": "q0y51cug",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "perfekt",
+    "comparative": "perfekter",
+    "superlative": "am perfektesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist perfekt." },
+      { "languageCode": "en", "text": "That is perfect." },
+      { "languageCode": "bn", "text": "এটা নিখুঁত।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "perfect" },
+      { "languageCode": "bn", "text": "নিখুঁত" }
+    ],
+    "image_search_query": "perfect check mark flat vector"
+  },
+  {
+    "id": "r0eunshj",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "ideal",
+    "comparative": "idealer",
+    "superlative": "am idealsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist ideal." },
+      { "languageCode": "en", "text": "That is ideal." },
+      { "languageCode": "bn", "text": "এটা আদর্শ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ideal" },
+      { "languageCode": "bn", "text": "আদর্শ" }
+    ],
+    "image_search_query": "ideal target bullseye flat vector"
+  },
+  {
+    "id": "lln5k5sa",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "schön",
+    "comparative": "schöner",
+    "superlative": "am schönsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Wetter ist schön." },
+      { "languageCode": "en", "text": "The weather is beautiful." },
+      { "languageCode": "bn", "text": "আবহাওয়া সুন্দর।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "beautiful" },
+      { "languageCode": "bn", "text": "সুন্দর" }
+    ],
+    "image_search_query": "beautiful sunny weather flat vector"
+  },
+  {
+    "id": "abpab3sv",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "hässlich",
+    "comparative": "hässlicher",
+    "superlative": "am hässlichsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Bild ist hässlich." },
+      { "languageCode": "en", "text": "The picture is ugly." },
+      { "languageCode": "bn", "text": "ছবিটি কুৎসিত।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ugly" },
+      { "languageCode": "bn", "text": "কুৎসিত" }
+    ],
+    "image_search_query": "ugly picture frame flat vector"
+  },
+  {
+    "id": "ea0lujb9",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "fröhlich",
+    "comparative": "fröhlicher",
+    "superlative": "am fröhlichsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kind ist fröhlich." },
+      { "languageCode": "en", "text": "The child is happy." },
+      { "languageCode": "bn", "text": "শিশুটি খুশি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "happy" },
+      { "languageCode": "bn", "text": "খুশি" }
+    ],
+    "image_search_query": "happy kid flat vector"
+  },
+  {
+    "id": "j6v8szb1",
     "level": "a1",
     "topic": "colors-and-descriptions",
     "part_of_speech": "adjective",
@@ -753,6 +576,267 @@
     "translations": [
       { "languageCode": "en", "text": "satisfied" },
       { "languageCode": "bn", "text": "সন্তুষ্ট" }
-    ]
+    ],
+    "image_search_query": "satisfied person smiling flat vector"
+  },
+  {
+    "id": "hn1nuc6d",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "faul",
+    "comparative": "fauler",
+    "superlative": "am faulsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Er ist faul." },
+      { "languageCode": "en", "text": "He is lazy." },
+      { "languageCode": "bn", "text": "সে অলস।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lazy" },
+      { "languageCode": "bn", "text": "অলস" }
+    ],
+    "image_search_query": "lazy man on couch flat vector"
+  },
+  {
+    "id": "jp0doa5f",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "positiv",
+    "comparative": "positiver",
+    "superlative": "am positivsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin positiv." },
+      { "languageCode": "en", "text": "I am positive." },
+      { "languageCode": "bn", "text": "আমি ইতিবাচক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "positive" },
+      { "languageCode": "bn", "text": "ইতিবাচক" }
+    ],
+    "image_search_query": "positive person thumbs up flat vector"
+  },
+  {
+    "id": "3nfbw51e",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "negativ",
+    "comparative": "negativer",
+    "superlative": "am negativsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist negativ." },
+      { "languageCode": "en", "text": "That is negative." },
+      { "languageCode": "bn", "text": "এটা নেতিবাচক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "negative" },
+      { "languageCode": "bn", "text": "নেতিবাচক" }
+    ],
+    "image_search_query": "negative thumbs down flat vector"
+  },
+  {
+    "id": "z5wiwu3t",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "normal",
+    "comparative": "normaler",
+    "superlative": "am normalsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist normal." },
+      { "languageCode": "en", "text": "That is normal." },
+      { "languageCode": "bn", "text": "এটা স্বাভাবিক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "normal" },
+      { "languageCode": "bn", "text": "স্বাভাবিক" }
+    ],
+    "image_search_query": "normal person everyday flat vector"
+  },
+  {
+    "id": "2psudsig",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "einfach",
+    "comparative": "einfacher",
+    "superlative": "am einfachsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Aufgabe ist einfach." },
+      { "languageCode": "en", "text": "The task is simple." },
+      { "languageCode": "bn", "text": "কাজটি সহজ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "simple" },
+      { "languageCode": "bn", "text": "সহজ" }
+    ],
+    "image_search_query": "simple easy task checklist flat vector"
+  },
+  {
+    "id": "1ug9gjvj",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "richtig",
+    "comparative": "richtiger",
+    "superlative": "am richtigsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Antwort ist richtig." },
+      { "languageCode": "en", "text": "The answer is correct." },
+      { "languageCode": "bn", "text": "উত্তরটি সঠিক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "correct" },
+      { "languageCode": "bn", "text": "সঠিক" }
+    ],
+    "image_search_query": "correct answer check mark flat vector"
+  },
+  {
+    "id": "k0ufktg7",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "falsch",
+    "comparative": "falscher",
+    "superlative": "am falschesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist falsch." },
+      { "languageCode": "en", "text": "That is wrong." },
+      { "languageCode": "bn", "text": "এটা ভুল।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "wrong" },
+      { "languageCode": "bn", "text": "ভুল" }
+    ],
+    "image_search_query": "wrong answer cross mark flat vector"
+  },
+  {
+    "id": "1ru7w9no",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "genau",
+    "comparative": "genauer",
+    "superlative": "am genauesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Uhr ist genau." },
+      { "languageCode": "en", "text": "The clock is exact." },
+      { "languageCode": "bn", "text": "ঘড়িটি নিখুঁত।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "exact" },
+      { "languageCode": "bn", "text": "নিখুঁত" }
+    ],
+    "image_search_query": "exact clock time flat vector"
+  },
+  {
+    "id": "okpl3fl2",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "direkt",
+    "comparative": "direkter",
+    "superlative": "am direktesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Der Weg ist direkt." },
+      { "languageCode": "en", "text": "The way is direct." },
+      { "languageCode": "bn", "text": "রাস্তাটি সরাসরি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "direct" },
+      { "languageCode": "bn", "text": "সরাসরি" }
+    ],
+    "image_search_query": "direct path arrow flat vector"
+  },
+  {
+    "id": "fv0pwn7z",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "egal",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist mir egal." },
+      { "languageCode": "en", "text": "That doesn't matter to me." },
+      { "languageCode": "bn", "text": "এতে আমার কিছু যায় আসে না।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "doesn't matter" },
+      { "languageCode": "bn", "text": "কিছু যায় আসে না" }
+    ],
+    "image_search_query": "person shrugging indifferent flat vector"
+  },
+  {
+    "id": "hbx88aqk",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adverb",
+    "word": "tatsächlich",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist tatsächlich richtig." },
+      { "languageCode": "en", "text": "That is actually correct." },
+      { "languageCode": "bn", "text": "এটা আসলেই সঠিক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "actually" },
+      { "languageCode": "bn", "text": "আসলে" }
+    ],
+    "image_search_query": "surprised person realizing flat vector"
+  },
+  {
+    "id": "9svsnk61",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adverb",
+    "word": "wirklich",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist wirklich gut." },
+      { "languageCode": "en", "text": "That is really good." },
+      { "languageCode": "bn", "text": "এটা সত্যিই ভালো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "really" },
+      { "languageCode": "bn", "text": "সত্যিই" }
+    ],
+    "image_search_query": "really good thumbs up flat vector"
+  },
+  {
+    "id": "bt21upl4",
+    "level": "a1",
+    "topic": "colors-and-descriptions",
+    "part_of_speech": "adjective",
+    "word": "total",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist total schön." },
+      { "languageCode": "en", "text": "That is totally beautiful." },
+      { "languageCode": "bn", "text": "এটা সম্পূর্ণভাবে সুন্দর।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "totally" },
+      { "languageCode": "bn", "text": "সম্পূর্ণভাবে" }
+    ],
+    "image_search_query": "totally beautiful view flat vector"
   }
 ]

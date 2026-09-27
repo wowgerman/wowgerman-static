@@ -1,5 +1,6 @@
 [
   {
+    "id": "25cahezb",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -20,6 +21,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/sick-person.png"
   },
   {
+    "id": "kaq80hgv",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -40,6 +42,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/male-patient.png"
   },
   {
+    "id": "5eky7rlu",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -60,6 +63,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/female-patient.png"
   },
   {
+    "id": "o6x3eeto",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -80,6 +84,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/male-doctor.png"
   },
   {
+    "id": "yeibxbc2",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -100,6 +105,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/female-doctor.png"
   },
   {
+    "id": "k8u7aqma",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -120,6 +126,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/doctors-visit.png"
   },
   {
+    "id": "k0h98s4c",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -140,6 +147,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/laboratory.png"
   },
   {
+    "id": "rvbncx4i",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "verb",
@@ -163,6 +171,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/to-examine.png"
   },
   {
+    "id": "ugqx5f20",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -183,6 +192,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/result.png"
   },
   {
+    "id": "3artr3rm",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -203,6 +213,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/fever.png"
   },
   {
+    "id": "bx03ttro",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -222,6 +233,7 @@
     ]
   },
   {
+    "id": "72c76sel",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "adjective",
@@ -241,6 +253,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/having-a-cold.png"
   },
   {
+    "id": "6gc92qx8",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -261,6 +274,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/cough-syrup.png"
   },
   {
+    "id": "reu0z3oq",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -281,6 +295,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/injection.png"
   },
   {
+    "id": "ie1z2spc",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -301,6 +316,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/blood.png"
   },
   {
+    "id": "u6sxcmi8",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -321,6 +337,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/wound.png"
   },
   {
+    "id": "rqofjlti",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -341,6 +358,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/pain.png"
   },
   {
+    "id": "t6n61mlb",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -361,6 +379,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/stomach-pain.png"
   },
   {
+    "id": "97axic6m",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -381,6 +400,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/medicine.png"
   },
   {
+    "id": "uq95ux1n",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -401,6 +421,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/male-physiotherapist.png"
   },
   {
+    "id": "ue3xuypw",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -421,6 +442,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/female-physiotherapist.png"
   },
   {
+    "id": "o0mlnjid",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -441,6 +463,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/physiotherapy.png"
   },
   {
+    "id": "iybdvof1",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -461,6 +484,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/exercise.png"
   },
   {
+    "id": "au2dckzb",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -481,6 +505,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/instruction.png"
   },
   {
+    "id": "3qfja1kz",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -501,6 +526,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/strategy.png"
   },
   {
+    "id": "vuug31dd",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -521,6 +547,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/tip.png"
   },
   {
+    "id": "k9fypzcy",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "adjective",
@@ -540,6 +567,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/fit.png"
   },
   {
+    "id": "kyfegeun",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -560,6 +588,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/tiredness.png"
   },
   {
+    "id": "ih9hu58t",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "adjective",
@@ -579,6 +608,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/tired.png"
   },
   {
+    "id": "7rhpfdo8",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -599,6 +629,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/exhaustion.png"
   },
   {
+    "id": "g60rnlov",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "adjective",
@@ -618,6 +649,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/exhausted.png"
   },
   {
+    "id": "9do9wnaj",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -638,6 +670,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/sleeping-pill.png"
   },
   {
+    "id": "w829qujx",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -658,6 +691,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/hunger.png"
   },
   {
+    "id": "hy4f75zc",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "adjective",
@@ -677,6 +711,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/hungry.png"
   },
   {
+    "id": "jo0kxdp6",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "verb",
@@ -700,6 +735,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/to-smoke.png"
   },
   {
+    "id": "wd9g3j0v",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "verb",
@@ -723,6 +759,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/to-be-allowed.png"
   },
   {
+    "id": "gn2730fl",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "verb",
@@ -746,6 +783,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/should.png"
   },
   {
+    "id": "jelg8az2",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "verb",
@@ -769,6 +807,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/to-take.png"
   },
   {
+    "id": "an57kzdk",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "verb",
@@ -792,6 +831,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/to-hurt.png"
   },
   {
+    "id": "bqwuzgcq",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "verb",
@@ -815,6 +855,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/to-try.png"
   },
   {
+    "id": "ygmueghj",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "noun",
@@ -835,6 +876,7 @@
     "image": "private/data/vocabulary/images/health-and-medicine/bathroom.png"
   },
   {
+    "id": "otik75p1",
     "level": "a1",
     "topic": "health-and-medicine",
     "part_of_speech": "verb",

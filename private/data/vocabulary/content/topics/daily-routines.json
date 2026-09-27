@@ -1,24 +1,6 @@
 [
   {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "noun",
-    "word": "Abendessen",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Abendessen",
-    "genitive_singular": "des Abendessens",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Abendessen ist um 18 Uhr." },
-      { "languageCode": "en", "text": "Dinner is at 6 o'clock." },
-      { "languageCode": "bn", "text": "রাতের খাবার সন্ধ্যা ৬টায়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "dinner" },
-      { "languageCode": "bn", "text": "রাতের খাবার" }
-    ]
-  },
-  {
+    "id": "y4ik7tdt",
     "level": "a1",
     "topic": "daily-routines",
     "part_of_speech": "noun",
@@ -28,615 +10,19 @@
     "plural": "Alltage",
     "genitive_singular": "des Alltags",
     "sentences": [
-      { "languageCode": "de", "text": "Der Alltag ist manchmal stressig." },
-      { "languageCode": "en", "text": "Daily life is sometimes stressful." },
-      { "languageCode": "bn", "text": "দৈনন্দিন জীবন মাঝে মাঝে চাপযুক্ত।" }
+      { "languageCode": "de", "text": "Mein Alltag ist gut organisiert." },
+      { "languageCode": "en", "text": "My daily life is well organized." },
+      { "languageCode": "bn", "text": "আমার দৈনন্দিন জীবন বেশ গোছানো।" }
     ],
     "translations": [
       { "languageCode": "en", "text": "daily life" },
       { "languageCode": "bn", "text": "দৈনন্দিন জীবন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "noun",
-    "word": "Arbeit",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Arbeiten",
-    "genitive_singular": "der Arbeit",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Arbeit beginnt um 9 Uhr." },
-      { "languageCode": "en", "text": "Work starts at 9 o'clock." },
-      { "languageCode": "bn", "text": "কাজ সকাল ৯টায় শুরু হয়।" }
     ],
-    "translations": [
-      { "languageCode": "en", "text": "work" },
-      { "languageCode": "bn", "text": "কাজ" }
-    ]
+    "image": "private/data/vocabulary/images/daily-routines/daily-life.png",
+    "image_search_query": "man daily routine icons flat"
   },
   {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "arbeiten",
-    "infinitive": "arbeiten",
-    "third_person_singular_present": "er arbeitet",
-    "simple_past": "arbeitete",
-    "past_participle": "hat gearbeitet",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich arbeite im Büro." },
-      { "languageCode": "en", "text": "I work in the office." },
-      { "languageCode": "bn", "text": "আমি অফিসে কাজ করি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to work" },
-      { "languageCode": "bn", "text": "কাজ করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "aufstehen",
-    "infinitive": "aufstehen",
-    "third_person_singular_present": "er steht auf",
-    "simple_past": "stand auf",
-    "past_participle": "ist aufgestanden",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": "auf",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich stehe um 7 Uhr auf." },
-      { "languageCode": "en", "text": "I get up at 7 o'clock." },
-      { "languageCode": "bn", "text": "আমি সকাল ৭টায় উঠি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to get up" },
-      { "languageCode": "bn", "text": "ওঠা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "baden",
-    "infinitive": "baden",
-    "third_person_singular_present": "er badet",
-    "simple_past": "badete",
-    "past_participle": "hat gebadet",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Kind badet in der Badewanne." },
-      { "languageCode": "en", "text": "The child is bathing in the bathtub." },
-      { "languageCode": "bn", "text": "শিশুটি বাথটাবে স্নান করছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to bathe" },
-      { "languageCode": "bn", "text": "স্নান করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "noun",
-    "word": "Bett",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Betten",
-    "genitive_singular": "des Bettes",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich gehe ins Bett." },
-      { "languageCode": "en", "text": "I am going to bed." },
-      { "languageCode": "bn", "text": "আমি বিছানায় যাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "bed" },
-      { "languageCode": "bn", "text": "বিছানা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "bringen",
-    "infinitive": "bringen",
-    "third_person_singular_present": "er bringt",
-    "simple_past": "brachte",
-    "past_participle": "hat gebracht",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich bringe das Buch." },
-      { "languageCode": "en", "text": "I bring the book." },
-      { "languageCode": "bn", "text": "আমি বইটা নিয়ে আসছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to bring" },
-      { "languageCode": "bn", "text": "আনা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "essen",
-    "infinitive": "essen",
-    "third_person_singular_present": "er isst",
-    "simple_past": "aß",
-    "past_participle": "hat gegessen",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Wir essen Pizza." },
-      { "languageCode": "en", "text": "We are eating pizza." },
-      { "languageCode": "bn", "text": "আমরা পিৎজা খাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to eat" },
-      { "languageCode": "bn", "text": "খাওয়া" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "noun",
-    "word": "Freizeit",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "-",
-    "genitive_singular": "der Freizeit",
-    "sentences": [
-      { "languageCode": "de", "text": "In der Freizeit lese ich gern." },
-      { "languageCode": "en", "text": "In my free time I like to read." },
-      { "languageCode": "bn", "text": "অবসর সময়ে আমি পড়তে পছন্দ করি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "free time" },
-      { "languageCode": "bn", "text": "অবসর সময়" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "adverb",
-    "word": "früh",
-    "comparative": "früher",
-    "superlative": "am frühesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich stehe früh auf." },
-      { "languageCode": "en", "text": "I get up early." },
-      { "languageCode": "bn", "text": "আমি তাড়াতাড়ি উঠি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "early" },
-      { "languageCode": "bn", "text": "তাড়াতাড়ি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "noun",
-    "word": "Frühstück",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Frühstücke",
-    "genitive_singular": "des Frühstücks",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Frühstück ist die wichtigste Mahlzeit." },
-      { "languageCode": "en", "text": "Breakfast is the most important meal." },
-      { "languageCode": "bn", "text": "সকালের নাস্তা সবচেয়ে গুরুত্বপূর্ণ খাবার।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "breakfast" },
-      { "languageCode": "bn", "text": "সকালের নাস্তা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "geben",
-    "infinitive": "geben",
-    "third_person_singular_present": "er gibt",
-    "simple_past": "gab",
-    "past_participle": "hat gegeben",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich gebe dir das Buch." },
-      { "languageCode": "en", "text": "I give you the book." },
-      { "languageCode": "bn", "text": "আমি তোমাকে বইটা দিচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to give" },
-      { "languageCode": "bn", "text": "দেওয়া" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "gehen",
-    "infinitive": "gehen",
-    "third_person_singular_present": "er geht",
-    "simple_past": "ging",
-    "past_participle": "ist gegangen",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich gehe in die Schule." },
-      { "languageCode": "en", "text": "I go to school." },
-      { "languageCode": "bn", "text": "আমি স্কুলে যাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to go" },
-      { "languageCode": "bn", "text": "যাওয়া" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "noun",
-    "word": "Hausaufgabe",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Hausaufgaben",
-    "genitive_singular": "der Hausaufgabe",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Hausaufgabe ist schwer." },
-      { "languageCode": "en", "text": "The homework is difficult." },
-      { "languageCode": "bn", "text": "বাড়ির কাজটা কঠিন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "homework" },
-      { "languageCode": "bn", "text": "বাড়ির কাজ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "kochen",
-    "infinitive": "kochen",
-    "third_person_singular_present": "er kocht",
-    "simple_past": "kochte",
-    "past_participle": "hat gekocht",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Meine Mutter kocht das Essen." },
-      { "languageCode": "en", "text": "My mother cooks the food." },
-      { "languageCode": "bn", "text": "আমার মা খাবার রান্না করেন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to cook" },
-      { "languageCode": "bn", "text": "রান্না করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "kommen",
-    "infinitive": "kommen",
-    "third_person_singular_present": "er kommt",
-    "simple_past": "kam",
-    "past_participle": "ist gekommen",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Er kommt morgen." },
-      { "languageCode": "en", "text": "He comes tomorrow." },
-      { "languageCode": "bn", "text": "সে আগামীকাল আসবে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to come" },
-      { "languageCode": "bn", "text": "আসা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "losgehen",
-    "infinitive": "losgehen",
-    "third_person_singular_present": "er geht los",
-    "simple_past": "ging los",
-    "past_participle": "ist losgegangen",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": "los",
-    "sentences": [
-      { "languageCode": "de", "text": "Wir gehen um 8 Uhr los." },
-      { "languageCode": "en", "text": "We leave at 8 o'clock." },
-      { "languageCode": "bn", "text": "আমরা সকাল ৮টায় রওনা দেব।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to leave" },
-      { "languageCode": "bn", "text": "যাত্রা করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "machen",
-    "infinitive": "machen",
-    "third_person_singular_present": "er macht",
-    "simple_past": "machte",
-    "past_participle": "hat gemacht",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich mache Hausaufgaben." },
-      { "languageCode": "en", "text": "I do homework." },
-      { "languageCode": "bn", "text": "আমি বাড়ির কাজ করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to do/make" },
-      { "languageCode": "bn", "text": "করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "noun",
-    "word": "Mahlzeit",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Mahlzeiten",
-    "genitive_singular": "der Mahlzeit",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich esse drei Mahlzeiten am Tag." },
-      { "languageCode": "en", "text": "I eat three meals a day." },
-      { "languageCode": "bn", "text": "আমি দিনে তিনবার খাবার খাই।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "meal" },
-      { "languageCode": "bn", "text": "খাবার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "mischen",
-    "infinitive": "mischen",
-    "third_person_singular_present": "er mischt",
-    "simple_past": "mischte",
-    "past_participle": "hat gemischt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich mische die Karten." },
-      { "languageCode": "en", "text": "I mix the cards." },
-      { "languageCode": "bn", "text": "আমি তাসগুলো মেশাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to mix" },
-      { "languageCode": "bn", "text": "মেশানো" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "noun",
-    "word": "Mittagessen",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Mittagessen",
-    "genitive_singular": "des Mittagessens",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Mittagessen ist um 12 Uhr." },
-      { "languageCode": "en", "text": "Lunch is at 12 o'clock." },
-      { "languageCode": "bn", "text": "দুপুরের খাবার দুপুর ১২টায়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "lunch" },
-      { "languageCode": "bn", "text": "দুপুরের খাবার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "noun",
-    "word": "Pause",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Pausen",
-    "genitive_singular": "der Pause",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich mache eine Pause." },
-      { "languageCode": "en", "text": "I am taking a break." },
-      { "languageCode": "bn", "text": "আমি একটা বিরতি নিচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "break" },
-      { "languageCode": "bn", "text": "বিরতি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "adverb",
-    "word": "regelmäßig",
-    "comparative": "regelmäßiger",
-    "superlative": "am regelmäßigsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich esse regelmäßig." },
-      { "languageCode": "en", "text": "I eat regularly." },
-      { "languageCode": "bn", "text": "আমি নিয়মিত খাই।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "regularly" },
-      { "languageCode": "bn", "text": "নিয়মিত" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "säubern",
-    "infinitive": "säubern",
-    "third_person_singular_present": "er säubert",
-    "simple_past": "säuberte",
-    "past_participle": "hat gesäubert",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich säubere das Zimmer." },
-      { "languageCode": "en", "text": "I clean the room." },
-      { "languageCode": "bn", "text": "আমি ঘরটা পরিষ্কার করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to clean" },
-      { "languageCode": "bn", "text": "পরিষ্কার করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "schenken",
-    "infinitive": "schenken",
-    "third_person_singular_present": "er schenkt",
-    "simple_past": "schenkte",
-    "past_participle": "hat geschenkt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich schenke dir ein Buch." },
-      { "languageCode": "en", "text": "I give you a book as a gift." },
-      { "languageCode": "bn", "text": "আমি তোমাকে একটা বই উপহার দিচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to give as a gift" },
-      { "languageCode": "bn", "text": "উপহার দেওয়া" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "noun",
-    "word": "Schlaf",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "-",
-    "genitive_singular": "des Schlafs",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Schlaf ist wichtig für die Gesundheit." },
-      { "languageCode": "en", "text": "Sleep is important for health." },
-      { "languageCode": "bn", "text": "স্বাস্থ্যের জন্য ঘুম গুরুত্বপূর্ণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "sleep" },
-      { "languageCode": "bn", "text": "ঘুম" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "schlafen",
-    "infinitive": "schlafen",
-    "third_person_singular_present": "er schläft",
-    "simple_past": "schlief",
-    "past_participle": "hat geschlafen",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Baby schläft." },
-      { "languageCode": "en", "text": "The baby is sleeping." },
-      { "languageCode": "bn", "text": "শিশুটি ঘুমাচ্ছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to sleep" },
-      { "languageCode": "bn", "text": "ঘুমানো" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "schließen",
-    "infinitive": "schließen",
-    "third_person_singular_present": "er schließt",
-    "simple_past": "schloss",
-    "past_participle": "hat geschlossen",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich schließe die Tür." },
-      { "languageCode": "en", "text": "I close the door." },
-      { "languageCode": "bn", "text": "আমি দরজা বন্ধ করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to close" },
-      { "languageCode": "bn", "text": "বন্ধ করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "adverb",
-    "word": "spät",
-    "comparative": "später",
-    "superlative": "am spätesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Er kommt spät nach Hause." },
-      { "languageCode": "en", "text": "He comes home late." },
-      { "languageCode": "bn", "text": "সে বাড়িতে দেরি করে ফেরে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "late" },
-      { "languageCode": "bn", "text": "দেরি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "stehen",
-    "infinitive": "stehen",
-    "third_person_singular_present": "er steht",
-    "simple_past": "stand",
-    "past_participle": "hat gestanden",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich stehe vor der Tür." },
-      { "languageCode": "en", "text": "I stand in front of the door." },
-      { "languageCode": "bn", "text": "আমি দরজার সামনে দাঁড়িয়ে আছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to stand" },
-      { "languageCode": "bn", "text": "দাঁড়ানো" }
-    ]
-  },
-  {
+    "id": "jdxu8o08",
     "level": "a1",
     "topic": "daily-routines",
     "part_of_speech": "adverb",
@@ -652,119 +38,54 @@
     "translations": [
       { "languageCode": "en", "text": "daily" },
       { "languageCode": "bn", "text": "প্রতিদিন" }
-    ]
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/daily.png",
+    "image_search_query": "person taking shower daily routine flat"
   },
   {
+    "id": "g103eegy",
     "level": "a1",
     "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "trinken",
-    "infinitive": "trinken",
-    "third_person_singular_present": "er trinkt",
-    "simple_past": "trank",
-    "past_participle": "hat getrunken",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
+    "part_of_speech": "adverb",
+    "word": "regelmäßig",
+    "comparative": "regelmäßiger",
+    "superlative": "am regelmäßigsten",
+    "gradable": true,
     "sentences": [
-      { "languageCode": "de", "text": "Ich trinke Wasser." },
-      { "languageCode": "en", "text": "I drink water." },
-      { "languageCode": "bn", "text": "আমি পানি পান করি।" }
+      { "languageCode": "de", "text": "Ich esse regelmäßig Gemüse." },
+      { "languageCode": "en", "text": "I eat vegetables regularly." },
+      { "languageCode": "bn", "text": "আমি নিয়মিত সবজি খাই।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to drink" },
-      { "languageCode": "bn", "text": "পান করা" }
-    ]
+      { "languageCode": "en", "text": "regularly" },
+      { "languageCode": "bn", "text": "নিয়মিত" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/regularly.png",
+    "image_search_query": "kid eating vegetables flat"
   },
   {
+    "id": "62ddrp0w",
     "level": "a1",
     "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "um tauschen",
-    "infinitive": "um tauschen",
-    "third_person_singular_present": "er tauscht um",
-    "simple_past": "tauschte um",
-    "past_participle": "hat um getauscht",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": "um",
+    "part_of_speech": "adverb",
+    "word": "früh",
+    "comparative": "früher",
+    "superlative": "am frühesten",
+    "gradable": true,
     "sentences": [
-      { "languageCode": "de", "text": "Ich tausche die Karten um." },
-      { "languageCode": "en", "text": "I exchange the cards." },
-      { "languageCode": "bn", "text": "আমি তাসগুলো বিনিময় করছি।" }
+      { "languageCode": "de", "text": "Ich stehe früh auf." },
+      { "languageCode": "en", "text": "I get up early." },
+      { "languageCode": "bn", "text": "আমি তাড়াতাড়ি উঠি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to exchange" },
-      { "languageCode": "bn", "text": "বিনিময় করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "vergessen",
-    "infinitive": "vergessen",
-    "third_person_singular_present": "er vergisst",
-    "simple_past": "vergaß",
-    "past_participle": "hat vergessen",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich vergesse oft meinen Schlüssel." },
-      { "languageCode": "en", "text": "I often forget my key." },
-      { "languageCode": "bn", "text": "আমি প্রায়ই আমার চাবি ভুলে যাই।" }
+      { "languageCode": "en", "text": "early" },
+      { "languageCode": "bn", "text": "তাড়াতাড়ি" }
     ],
-    "translations": [
-      { "languageCode": "en", "text": "to forget" },
-      { "languageCode": "bn", "text": "ভুলে যাওয়া" }
-    ]
+    "image": "private/data/vocabulary/images/daily-routines/early.png",
+    "image_search_query": "early morning sunrise waking up stretching flat"
   },
   {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "vermissen",
-    "infinitive": "vermissen",
-    "third_person_singular_present": "er vermisst",
-    "simple_past": "vermisste",
-    "past_participle": "hat vermisst",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich vermisse meine Familie." },
-      { "languageCode": "en", "text": "I miss my family." },
-      { "languageCode": "bn", "text": "আমি আমার পরিবারকে মিস করি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to miss" },
-      { "languageCode": "bn", "text": "মিস করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "daily-routines",
-    "part_of_speech": "verb",
-    "word": "waschen",
-    "infinitive": "waschen",
-    "third_person_singular_present": "er wäscht",
-    "simple_past": "wusch",
-    "past_participle": "hat gewaschen",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich wasche meine Hände." },
-      { "languageCode": "en", "text": "I wash my hands." },
-      { "languageCode": "bn", "text": "আমি হাত ধুচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to wash" },
-      { "languageCode": "bn", "text": "ধোয়া" }
-    ]
-  },
-  {
+    "id": "ric6e2kk",
     "level": "a1",
     "topic": "daily-routines",
     "part_of_speech": "verb",
@@ -784,31 +105,328 @@
     "translations": [
       { "languageCode": "en", "text": "to wake up" },
       { "languageCode": "bn", "text": "জাগানো" }
-    ]
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-wake-up.png",
+    "image_search_query": "alarm clock waking person up flat"
   },
   {
+    "id": "l6ixdq82",
     "level": "a1",
     "topic": "daily-routines",
     "part_of_speech": "verb",
-    "word": "wegräumen",
-    "infinitive": "wegräumen",
-    "third_person_singular_present": "er räumt weg",
-    "simple_past": "räumte weg",
-    "past_participle": "hat weggeräumt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": "weg",
+    "word": "aufstehen",
+    "infinitive": "aufstehen",
+    "third_person_singular_present": "er steht auf",
+    "simple_past": "stand auf",
+    "past_participle": "ist aufgestanden",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": "auf",
     "sentences": [
-      { "languageCode": "de", "text": "Ich räume die Bücher weg." },
-      { "languageCode": "en", "text": "I put away the books." },
-      { "languageCode": "bn", "text": "আমি বইগুলো সরিয়ে রাখছি।" }
+      { "languageCode": "de", "text": "Ich stehe um 7 Uhr auf." },
+      { "languageCode": "en", "text": "I get up at 7 o'clock." },
+      { "languageCode": "bn", "text": "আমি সকাল ৭টায় উঠি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to put away" },
-      { "languageCode": "bn", "text": "সরিয়ে রাখা" }
-    ]
+      { "languageCode": "en", "text": "to get up" },
+      { "languageCode": "bn", "text": "ওঠা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-get-up.png",
+    "image_search_query": "waking up morning alarm clock bed"
   },
   {
+    "id": "3tvczx2a",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "waschen",
+    "infinitive": "waschen",
+    "third_person_singular_present": "er wäscht",
+    "simple_past": "wusch",
+    "past_participle": "hat gewaschen",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich wasche meine Hände." },
+      { "languageCode": "en", "text": "I wash my hands." },
+      { "languageCode": "bn", "text": "আমি হাত ধুচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to wash" },
+      { "languageCode": "bn", "text": "ধোয়া" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-wash.png",
+    "image_search_query": "washing hands with soap flat"
+  },
+  {
+    "id": "xh4r0mg7",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "baden",
+    "infinitive": "baden",
+    "third_person_singular_present": "er badet",
+    "simple_past": "badete",
+    "past_participle": "hat gebadet",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kind badet in der Badewanne." },
+      { "languageCode": "en", "text": "The child is bathing in the bathtub." },
+      { "languageCode": "bn", "text": "শিশুটি বাথটাবে স্নান করছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to bathe" },
+      { "languageCode": "bn", "text": "স্নান করা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-bathe.png",
+    "image_search_query": "child bathing in bathtub bubbles"
+  },
+  {
+    "id": "06pjkrxt",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "noun",
+    "word": "Frühstück",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Frühstücke",
+    "genitive_singular": "des Frühstücks",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Frühstück ist die wichtigste Mahlzeit." },
+      { "languageCode": "en", "text": "Breakfast is the most important meal." },
+      { "languageCode": "bn", "text": "সকালের নাস্তা সবচেয়ে গুরুত্বপূর্ণ খাবার।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "breakfast" },
+      { "languageCode": "bn", "text": "সকালের নাস্তা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/breakfast.png",
+    "image_search_query": "kid eating breakfast cereal flat illustration"
+  },
+  {
+    "id": "grtvxpd7",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "trinken",
+    "infinitive": "trinken",
+    "third_person_singular_present": "er trinkt",
+    "simple_past": "trank",
+    "past_participle": "hat getrunken",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich trinke Wasser." },
+      { "languageCode": "en", "text": "I drink water." },
+      { "languageCode": "bn", "text": "আমি পানি পান করি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to drink" },
+      { "languageCode": "bn", "text": "পান করা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-drink.png",
+    "image_search_query": "person drinking glass of water flat"
+  },
+  {
+    "id": "w2om7kh2",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "essen",
+    "infinitive": "essen",
+    "third_person_singular_present": "er isst",
+    "simple_past": "aß",
+    "past_participle": "hat gegessen",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Wir essen Pizza." },
+      { "languageCode": "en", "text": "We are eating pizza." },
+      { "languageCode": "bn", "text": "আমরা পিৎজা খাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to eat" },
+      { "languageCode": "bn", "text": "খাওয়া" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-eat.png",
+    "image_search_query": "friends eating pizza together"
+  },
+  {
+    "id": "yqdhjf8l",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "noun",
+    "word": "Mahlzeit",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Mahlzeiten",
+    "genitive_singular": "der Mahlzeit",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich esse drei Mahlzeiten am Tag." },
+      { "languageCode": "en", "text": "I eat three meals a day." },
+      { "languageCode": "bn", "text": "আমি দিনে তিনবার খাবার খাই।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "meal" },
+      { "languageCode": "bn", "text": "খাবার" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/meal.png",
+    "image_search_query": "woman eating meal at table flat vector"
+  },
+  {
+    "id": "cj88pk2m",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "losgehen",
+    "infinitive": "losgehen",
+    "third_person_singular_present": "er geht los",
+    "simple_past": "ging los",
+    "past_participle": "ist losgegangen",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": "los",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir gehen um 8 Uhr los." },
+      { "languageCode": "en", "text": "We leave at 8 o'clock." },
+      { "languageCode": "bn", "text": "আমরা সকাল ৮টায় রওনা দেব।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to leave" },
+      { "languageCode": "bn", "text": "যাত্রা করা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-leave.png",
+    "image_search_query": "friends walking together setting off"
+  },
+  {
+    "id": "by2efapg",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "gehen",
+    "infinitive": "gehen",
+    "third_person_singular_present": "er geht",
+    "simple_past": "ging",
+    "past_participle": "ist gegangen",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gehe in die Schule." },
+      { "languageCode": "en", "text": "I go to school." },
+      { "languageCode": "bn", "text": "আমি স্কুলে যাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to go" },
+      { "languageCode": "bn", "text": "যাওয়া" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-go.png",
+    "image_search_query": "child walking to school backpack flat"
+  },
+  {
+    "id": "74wurjex",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "noun",
+    "word": "Arbeit",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Arbeiten",
+    "genitive_singular": "der Arbeit",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Arbeit beginnt um 9 Uhr." },
+      { "languageCode": "en", "text": "Work starts at 9 o'clock." },
+      { "languageCode": "bn", "text": "কাজ সকাল ৯টায় শুরু হয়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "work" },
+      { "languageCode": "bn", "text": "কাজ" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/work.png",
+    "image_search_query": "woman arriving at work office clock"
+  },
+  {
+    "id": "uzmi88ge",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "arbeiten",
+    "infinitive": "arbeiten",
+    "third_person_singular_present": "er arbeitet",
+    "simple_past": "arbeitete",
+    "past_participle": "hat gearbeitet",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich arbeite im Büro." },
+      { "languageCode": "en", "text": "I work in the office." },
+      { "languageCode": "bn", "text": "আমি অফিসে কাজ করি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to work" },
+      { "languageCode": "bn", "text": "কাজ করা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-work.png",
+    "image_search_query": "person working in office desk"
+  },
+  {
+    "id": "mv85ljbc",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "bringen",
+    "infinitive": "bringen",
+    "third_person_singular_present": "er bringt",
+    "simple_past": "brachte",
+    "past_participle": "hat gebracht",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bringe das Buch." },
+      { "languageCode": "en", "text": "I bring the book." },
+      { "languageCode": "bn", "text": "আমি বইটা নিয়ে আসছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to bring" },
+      { "languageCode": "bn", "text": "আনা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-bring.png",
+    "image_search_query": "person carrying book walking"
+  },
+  {
+    "id": "656fqidt",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "geben",
+    "infinitive": "geben",
+    "third_person_singular_present": "er gibt",
+    "simple_past": "gab",
+    "past_participle": "hat gegeben",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gebe dir das Buch." },
+      { "languageCode": "en", "text": "I give you the book." },
+      { "languageCode": "bn", "text": "আমি তোমাকে বইটা দিচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to give" },
+      { "languageCode": "bn", "text": "দেওয়া" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-give.png",
+    "image_search_query": "person giving book to friend flat"
+  },
+  {
+    "id": "osumzjwi",
     "level": "a1",
     "topic": "daily-routines",
     "part_of_speech": "verb",
@@ -828,6 +446,508 @@
     "translations": [
       { "languageCode": "en", "text": "to show" },
       { "languageCode": "bn", "text": "দেখানো" }
-    ]
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-show.png",
+    "image_search_query": "person showing picture to friend flat"
+  },
+  {
+    "id": "r6cdo5xn",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "um tauschen",
+    "infinitive": "um tauschen",
+    "third_person_singular_present": "er tauscht um",
+    "simple_past": "tauschte um",
+    "past_participle": "hat um getauscht",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": "um",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir tauschen die Bücher um." },
+      { "languageCode": "en", "text": "We exchange the books." },
+      { "languageCode": "bn", "text": "আমরা বইগুলো বিনিময় করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to exchange" },
+      { "languageCode": "bn", "text": "বিনিময় করা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-exchange.png",
+    "image_search_query": "two people exchanging books flat"
+  },
+  {
+    "id": "b5gfl333",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "mischen",
+    "infinitive": "mischen",
+    "third_person_singular_present": "er mischt",
+    "simple_past": "mischte",
+    "past_participle": "hat gemischt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich mische die Karten." },
+      { "languageCode": "en", "text": "I mix the cards." },
+      { "languageCode": "bn", "text": "আমি তাসগুলো মেশাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to mix" },
+      { "languageCode": "bn", "text": "মেশানো" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-mix.png",
+    "image_search_query": "hands shuffling playing cards"
+  },
+  {
+    "id": "39srvit3",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "noun",
+    "word": "Mittagessen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Mittagessen",
+    "genitive_singular": "des Mittagessens",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Mittagessen ist um 12 Uhr." },
+      { "languageCode": "en", "text": "Lunch is at 12 o'clock." },
+      { "languageCode": "bn", "text": "দুপুরের খাবার দুপুর ১২টায়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lunch" },
+      { "languageCode": "bn", "text": "দুপুরের খাবার" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/lunch.png",
+    "image_search_query": "kid eating lunch at school lunch box"
+  },
+  {
+    "id": "v5wxazlr",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "noun",
+    "word": "Pause",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Pausen",
+    "genitive_singular": "der Pause",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich mache eine Pause." },
+      { "languageCode": "en", "text": "I am taking a break." },
+      { "languageCode": "bn", "text": "আমি একটা বিরতি নিচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "break" },
+      { "languageCode": "bn", "text": "বিরতি" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/break.png",
+    "image_search_query": "woman taking coffee break relaxing work"
+  },
+  {
+    "id": "9qkhtdc3",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "machen",
+    "infinitive": "machen",
+    "third_person_singular_present": "er macht",
+    "simple_past": "machte",
+    "past_participle": "hat gemacht",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich mache Hausaufgaben." },
+      { "languageCode": "en", "text": "I do homework." },
+      { "languageCode": "bn", "text": "আমি বাড়ির কাজ করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to do/make" },
+      { "languageCode": "bn", "text": "করা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-do.png",
+    "image_search_query": "student writing homework at desk flat vector"
+  },
+  {
+    "id": "1qj1qref",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "noun",
+    "word": "Hausaufgabe",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Hausaufgaben",
+    "genitive_singular": "der Hausaufgabe",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Hausaufgabe ist leicht." },
+      { "languageCode": "en", "text": "The homework is easy." },
+      { "languageCode": "bn", "text": "বাড়ির কাজটা সহজ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "homework" },
+      { "languageCode": "bn", "text": "বাড়ির কাজ" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/homework.png",
+    "image_search_query": "girl doing homework at desk flat"
+  },
+  {
+    "id": "k1bpzlfc",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "kommen",
+    "infinitive": "kommen",
+    "third_person_singular_present": "er kommt",
+    "simple_past": "kam",
+    "past_participle": "ist gekommen",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Er kommt morgen." },
+      { "languageCode": "en", "text": "He comes tomorrow." },
+      { "languageCode": "bn", "text": "সে আগামীকাল আসবে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to come" },
+      { "languageCode": "bn", "text": "আসা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-come.png",
+    "image_search_query": "man arriving with luggage"
+  },
+  {
+    "id": "yp1h9kfs",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "adverb",
+    "word": "spät",
+    "comparative": "später",
+    "superlative": "am spätesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Sie kommt spät nach Hause." },
+      { "languageCode": "en", "text": "She comes home late." },
+      { "languageCode": "bn", "text": "সে বাড়িতে দেরি করে ফেরে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "late" },
+      { "languageCode": "bn", "text": "দেরি" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/late.png",
+    "image_search_query": "woman coming home late with dog flat"
+  },
+  {
+    "id": "6egf5zt7",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "stehen",
+    "infinitive": "stehen",
+    "third_person_singular_present": "er steht",
+    "simple_past": "stand",
+    "past_participle": "hat gestanden",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich stehe vor der Tür." },
+      { "languageCode": "en", "text": "I stand in front of the door." },
+      { "languageCode": "bn", "text": "আমি দরজার সামনে দাঁড়িয়ে আছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to stand" },
+      { "languageCode": "bn", "text": "দাঁড়ানো" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-stand.png",
+    "image_search_query": "person standing in front of door flat"
+  },
+  {
+    "id": "pb10rdu1",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "schließen",
+    "infinitive": "schließen",
+    "third_person_singular_present": "er schließt",
+    "simple_past": "schloss",
+    "past_participle": "hat geschlossen",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich schließe die Tür." },
+      { "languageCode": "en", "text": "I close the door." },
+      { "languageCode": "bn", "text": "আমি দরজা বন্ধ করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to close" },
+      { "languageCode": "bn", "text": "বন্ধ করা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-close.png",
+    "image_search_query": "person closing door flat"
+  },
+  {
+    "id": "wqqsefa6",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "säubern",
+    "infinitive": "säubern",
+    "third_person_singular_present": "er säubert",
+    "simple_past": "säuberte",
+    "past_participle": "hat gesäubert",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich säubere das Zimmer." },
+      { "languageCode": "en", "text": "I clean the room." },
+      { "languageCode": "bn", "text": "আমি ঘরটা পরিষ্কার করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to clean" },
+      { "languageCode": "bn", "text": "পরিষ্কার করা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-clean.png",
+    "image_search_query": "person cleaning room vacuum flat vector"
+  },
+  {
+    "id": "325dwol3",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "wegräumen",
+    "infinitive": "wegräumen",
+    "third_person_singular_present": "er räumt weg",
+    "simple_past": "räumte weg",
+    "past_participle": "hat weggeräumt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": "weg",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich räume die Bücher weg." },
+      { "languageCode": "en", "text": "I put away the books." },
+      { "languageCode": "bn", "text": "আমি বইগুলো সরিয়ে রাখছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to put away" },
+      { "languageCode": "bn", "text": "সরিয়ে রাখা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-put-away.png",
+    "image_search_query": "person putting books away on shelf flat"
+  },
+  {
+    "id": "40k350n2",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "noun",
+    "word": "Freizeit",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "-",
+    "genitive_singular": "der Freizeit",
+    "sentences": [
+      { "languageCode": "de", "text": "In der Freizeit lese ich gern." },
+      { "languageCode": "en", "text": "In my free time I like to read." },
+      { "languageCode": "bn", "text": "অবসর সময়ে আমি পড়তে পছন্দ করি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "free time" },
+      { "languageCode": "bn", "text": "অবসর সময়" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/free-time.png",
+    "image_search_query": "woman relaxing reading book sofa"
+  },
+  {
+    "id": "t6jny3im",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "kochen",
+    "infinitive": "kochen",
+    "third_person_singular_present": "er kocht",
+    "simple_past": "kochte",
+    "past_participle": "hat gekocht",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Meine Mutter kocht das Essen." },
+      { "languageCode": "en", "text": "My mother cooks the food." },
+      { "languageCode": "bn", "text": "আমার মা খাবার রান্না করেন।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to cook" },
+      { "languageCode": "bn", "text": "রান্না করা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-cook.png",
+    "image_search_query": "mother cooking in kitchen flat illustration"
+  },
+  {
+    "id": "22ne8hdi",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "noun",
+    "word": "Abendessen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Abendessen",
+    "genitive_singular": "des Abendessens",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Abendessen ist um 18 Uhr." },
+      { "languageCode": "en", "text": "Dinner is at 6 o'clock." },
+      { "languageCode": "bn", "text": "রাতের খাবার সন্ধ্যা ৬টায়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "dinner" },
+      { "languageCode": "bn", "text": "রাতের খাবার" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/dinner.png",
+    "image_search_query": "kid eating dinner"
+  },
+  {
+    "id": "68rsxhif",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "schenken",
+    "infinitive": "schenken",
+    "third_person_singular_present": "er schenkt",
+    "simple_past": "schenkte",
+    "past_participle": "hat geschenkt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich schenke dir etwas." },
+      { "languageCode": "en", "text": "I give you a gift." },
+      { "languageCode": "bn", "text": "আমি তোমাকে একটা উপহার দিচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to give as a gift" },
+      { "languageCode": "bn", "text": "উপহার দেওয়া" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-give-as-a-gift.png",
+    "image_search_query": "person giving wrapped gift to friend flat"
+  },
+  {
+    "id": "0kethtn1",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "vermissen",
+    "infinitive": "vermissen",
+    "third_person_singular_present": "er vermisst",
+    "simple_past": "vermisste",
+    "past_participle": "hat vermisst",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich vermisse meine Familie." },
+      { "languageCode": "en", "text": "I miss my family." },
+      { "languageCode": "bn", "text": "আমি আমার পরিবারকে মিস করি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to miss" },
+      { "languageCode": "bn", "text": "মিস করা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-miss.png",
+    "image_search_query": "person missing family looking at photo flat"
+  },
+  {
+    "id": "k2gb4y96",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "vergessen",
+    "infinitive": "vergessen",
+    "third_person_singular_present": "er vergisst",
+    "simple_past": "vergaß",
+    "past_participle": "hat vergessen",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich vergesse oft, dich anzurufen." },
+      { "languageCode": "en", "text": "I often forget to call you." },
+      { "languageCode": "bn", "text": "আমি প্রায়ই তোমাকে ফোন করতে ভুলে যাই।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to forget" },
+      { "languageCode": "bn", "text": "ভুলে যাওয়া" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-forget.png",
+    "image_search_query": "person forgot to call phone confused flat"
+  },
+  {
+    "id": "ovwvh3ks",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "noun",
+    "word": "Bett",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Betten",
+    "genitive_singular": "des Bettes",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gehe ins Bett." },
+      { "languageCode": "en", "text": "I am going to bed." },
+      { "languageCode": "bn", "text": "আমি বিছানায় যাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bed" },
+      { "languageCode": "bn", "text": "বিছানা" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/bed.png",
+    "image_search_query": "kid going to bed night"
+  },
+  {
+    "id": "qyyq8qrf",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "verb",
+    "word": "schlafen",
+    "infinitive": "schlafen",
+    "third_person_singular_present": "er schläft",
+    "simple_past": "schlief",
+    "past_participle": "hat geschlafen",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Baby schläft." },
+      { "languageCode": "en", "text": "The baby is sleeping." },
+      { "languageCode": "bn", "text": "শিশুটি ঘুমাচ্ছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to sleep" },
+      { "languageCode": "bn", "text": "ঘুমানো" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/to-sleep.png",
+    "image_search_query": "baby sleeping in crib flat"
+  },
+  {
+    "id": "v1rmhamo",
+    "level": "a1",
+    "topic": "daily-routines",
+    "part_of_speech": "noun",
+    "word": "Schlaf",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "-",
+    "genitive_singular": "des Schlafs",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Schlaf ist wichtig für die Gesundheit." },
+      { "languageCode": "en", "text": "Sleep is important for health." },
+      { "languageCode": "bn", "text": "স্বাস্থ্যের জন্য ঘুম গুরুত্বপূর্ণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sleep" },
+      { "languageCode": "bn", "text": "ঘুম" }
+    ],
+    "image": "private/data/vocabulary/images/daily-routines/sleep.png",
+    "image_search_query": "man sleeping peacefully in bed flat"
   }
 ]

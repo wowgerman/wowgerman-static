@@ -1,43 +1,6 @@
 [
   {
-    "level": "a1",
-    "topic": "weather-and-seasons",
-    "part_of_speech": "noun",
-    "word": "Frühling",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Frühlinge",
-    "genitive_singular": "des Frühlings",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Frühling ist schön." },
-      { "languageCode": "en", "text": "Spring is beautiful." },
-      { "languageCode": "bn", "text": "বসন্তকাল সুন্দর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "spring" },
-      { "languageCode": "bn", "text": "বসন্ত" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "weather-and-seasons",
-    "part_of_speech": "noun",
-    "word": "Herbst",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Herbste",
-    "genitive_singular": "des Herbsts",
-    "sentences": [
-      { "languageCode": "de", "text": "Im Herbst fallen die Blätter." },
-      { "languageCode": "en", "text": "In autumn, the leaves fall." },
-      { "languageCode": "bn", "text": "শরৎকালে পাতা ঝরে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "autumn" },
-      { "languageCode": "bn", "text": "শরৎ" }
-    ]
-  },
-  {
+    "id": "bkvtb8q5",
     "level": "a1",
     "topic": "weather-and-seasons",
     "part_of_speech": "noun",
@@ -57,83 +20,27 @@
     ]
   },
   {
-    "level": "a1",
-    "topic": "weather-and-seasons",
-    "part_of_speech": "adjective",
-    "word": "kalt",
-    "comparative": "kälter",
-    "superlative": "am kältesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Wasser ist kalt." },
-      { "languageCode": "en", "text": "The water is cold." },
-      { "languageCode": "bn", "text": "পানি ঠান্ডা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "cold" },
-      { "languageCode": "bn", "text": "ঠান্ডা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "weather-and-seasons",
-    "part_of_speech": "adjective",
-    "word": "regnerisch",
-    "comparative": "regnerischer",
-    "superlative": "am regnerischsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Es ist ein regnerischer Tag." },
-      { "languageCode": "en", "text": "It's a rainy day." },
-      { "languageCode": "bn", "text": "আজ একটি বৃষ্টিযুক্ত দিন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "rainy" },
-      { "languageCode": "bn", "text": "বৃষ্টিযুক্ত" }
-    ]
-  },
-  {
+    "id": "9jcgeieg",
     "level": "a1",
     "topic": "weather-and-seasons",
     "part_of_speech": "noun",
-    "word": "Schnee",
+    "word": "Frühling",
     "article": "der",
     "gender": "masculine",
-    "plural": "-",
-    "genitive_singular": "des Schnees",
+    "plural": "Frühlinge",
+    "genitive_singular": "des Frühlings",
     "sentences": [
-      { "languageCode": "de", "text": "Der Schnee ist weiß." },
-      { "languageCode": "en", "text": "The snow is white." },
-      { "languageCode": "bn", "text": "তুষার সাদা।" }
+      { "languageCode": "de", "text": "Der Frühling ist schön." },
+      { "languageCode": "en", "text": "Spring is beautiful." },
+      { "languageCode": "bn", "text": "বসন্তকাল সুন্দর।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "snow" },
-      { "languageCode": "bn", "text": "তুষার" }
+      { "languageCode": "en", "text": "spring" },
+      { "languageCode": "bn", "text": "বসন্ত" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "weather-and-seasons",
-    "part_of_speech": "verb",
-    "word": "schneien",
-    "infinitive": "schneien",
-    "third_person_singular_present": "es schneit",
-    "simple_past": "schneite",
-    "past_participle": "hat geschneit",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Es schneit heute." },
-      { "languageCode": "en", "text": "It's snowing today." },
-      { "languageCode": "bn", "text": "আজ তুষারপাত হচ্ছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to snow" },
-      { "languageCode": "bn", "text": "তুষারপাত হওয়া" }
-    ]
-  },
-  {
+    "id": "ceeagyym",
     "level": "a1",
     "topic": "weather-and-seasons",
     "part_of_speech": "noun",
@@ -153,117 +60,27 @@
     ]
   },
   {
+    "id": "34mkk499",
     "level": "a1",
     "topic": "weather-and-seasons",
     "part_of_speech": "noun",
-    "word": "Sonne",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Sonnen",
-    "genitive_singular": "der Sonne",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Sonne scheint heute." },
-      { "languageCode": "en", "text": "The sun is shining today." },
-      { "languageCode": "bn", "text": "আজ সূর্য ঝলমল করছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "sun" },
-      { "languageCode": "bn", "text": "সূর্য" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "weather-and-seasons",
-    "part_of_speech": "adjective",
-    "word": "sonnig",
-    "comparative": "sonniger",
-    "superlative": "am sonnigsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Heute ist ein sonniger Tag." },
-      { "languageCode": "en", "text": "Today is a sunny day." },
-      { "languageCode": "bn", "text": "আজ একটি রৌদ্রজ্জ্বল দিন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "sunny" },
-      { "languageCode": "bn", "text": "রৌদ্রজ্জ্বল" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "weather-and-seasons",
-    "part_of_speech": "adjective",
-    "word": "warm",
-    "comparative": "wärmer",
-    "superlative": "am wärmsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Wetter ist warm." },
-      { "languageCode": "en", "text": "The weather is warm." },
-      { "languageCode": "bn", "text": "আবহাওয়া গরম।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "warm" },
-      { "languageCode": "bn", "text": "গরম" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "weather-and-seasons",
-    "part_of_speech": "noun",
-    "word": "Wetterbericht",
+    "word": "Herbst",
     "article": "der",
     "gender": "masculine",
-    "plural": "Wetterberichte",
-    "genitive_singular": "des Wetterberichts",
+    "plural": "Herbste",
+    "genitive_singular": "des Herbsts",
     "sentences": [
-      { "languageCode": "de", "text": "Der Wetterbericht sagt Regen voraus." },
-      { "languageCode": "en", "text": "The weather report predicts rain." },
-      { "languageCode": "bn", "text": "আবহাওয়ার প্রতিবেদনে বৃষ্টির পূর্বাভাস দেওয়া হয়েছে।" }
+      { "languageCode": "de", "text": "Im Herbst fallen die Blätter." },
+      { "languageCode": "en", "text": "In autumn, the leaves fall." },
+      { "languageCode": "bn", "text": "শরৎকালে পাতা ঝরে।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "weather report" },
-      { "languageCode": "bn", "text": "আবহাওয়া প্রতিবেদন" }
+      { "languageCode": "en", "text": "autumn" },
+      { "languageCode": "bn", "text": "শরৎ" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "weather-and-seasons",
-    "part_of_speech": "noun",
-    "word": "Wind",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Winde",
-    "genitive_singular": "des Windes",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Wind ist sehr stark." },
-      { "languageCode": "en", "text": "The wind is very strong." },
-      { "languageCode": "bn", "text": "বাতাস খুব জোরে বইছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "wind" },
-      { "languageCode": "bn", "text": "বাতাস" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "weather-and-seasons",
-    "part_of_speech": "adjective",
-    "word": "windig",
-    "comparative": "windiger",
-    "superlative": "am windigsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Es ist sehr windig draußen." },
-      { "languageCode": "en", "text": "It's very windy outside." },
-      { "languageCode": "bn", "text": "বাইরে খুব বাতাস বইছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "windy" },
-      { "languageCode": "bn", "text": "বাতাসযুক্ত" }
-    ]
-  },
-  {
+    "id": "za549vyp",
     "level": "a1",
     "topic": "weather-and-seasons",
     "part_of_speech": "noun",
@@ -283,6 +100,85 @@
     ]
   },
   {
+    "id": "nxr8qqrk",
+    "level": "a1",
+    "topic": "weather-and-seasons",
+    "part_of_speech": "noun",
+    "word": "Wetterbericht",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Wetterberichte",
+    "genitive_singular": "des Wetterberichts",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Wetterbericht sagt Regen voraus." },
+      { "languageCode": "en", "text": "The weather report predicts rain." },
+      { "languageCode": "bn", "text": "আবহাওয়ার প্রতিবেদনে বৃষ্টির পূর্বাভাস দেওয়া হয়েছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "weather report" },
+      { "languageCode": "bn", "text": "আবহাওয়া প্রতিবেদন" }
+    ]
+  },
+  {
+    "id": "unmsa4gn",
+    "level": "a1",
+    "topic": "weather-and-seasons",
+    "part_of_speech": "noun",
+    "word": "Sonne",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Sonnen",
+    "genitive_singular": "der Sonne",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Sonne scheint heute." },
+      { "languageCode": "en", "text": "The sun is shining today." },
+      { "languageCode": "bn", "text": "আজ সূর্য ঝলমল করছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sun" },
+      { "languageCode": "bn", "text": "সূর্য" }
+    ]
+  },
+  {
+    "id": "8uijy5jf",
+    "level": "a1",
+    "topic": "weather-and-seasons",
+    "part_of_speech": "adjective",
+    "word": "sonnig",
+    "comparative": "sonniger",
+    "superlative": "am sonnigsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Heute ist ein sonniger Tag." },
+      { "languageCode": "en", "text": "Today is a sunny day." },
+      { "languageCode": "bn", "text": "আজ একটি রৌদ্রজ্জ্বল দিন।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sunny" },
+      { "languageCode": "bn", "text": "রৌদ্রজ্জ্বল" }
+    ]
+  },
+  {
+    "id": "y5ufjsrl",
+    "level": "a1",
+    "topic": "weather-and-seasons",
+    "part_of_speech": "adjective",
+    "word": "warm",
+    "comparative": "wärmer",
+    "superlative": "am wärmsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Wetter ist warm." },
+      { "languageCode": "en", "text": "The weather is warm." },
+      { "languageCode": "bn", "text": "আবহাওয়া গরম।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "warm" },
+      { "languageCode": "bn", "text": "গরম" }
+    ]
+  },
+  {
+    "id": "k2b52eji",
     "level": "a1",
     "topic": "weather-and-seasons",
     "part_of_speech": "noun",
@@ -299,6 +195,126 @@
     "translations": [
       { "languageCode": "en", "text": "cloud" },
       { "languageCode": "bn", "text": "মেঘ" }
+    ]
+  },
+  {
+    "id": "c1c4s5r2",
+    "level": "a1",
+    "topic": "weather-and-seasons",
+    "part_of_speech": "noun",
+    "word": "Wind",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Winde",
+    "genitive_singular": "des Windes",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Wind ist sehr stark." },
+      { "languageCode": "en", "text": "The wind is very strong." },
+      { "languageCode": "bn", "text": "বাতাস খুব জোরে বইছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "wind" },
+      { "languageCode": "bn", "text": "বাতাস" }
+    ]
+  },
+  {
+    "id": "r23cpmx1",
+    "level": "a1",
+    "topic": "weather-and-seasons",
+    "part_of_speech": "adjective",
+    "word": "windig",
+    "comparative": "windiger",
+    "superlative": "am windigsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Es ist sehr windig draußen." },
+      { "languageCode": "en", "text": "It's very windy outside." },
+      { "languageCode": "bn", "text": "বাইরে খুব বাতাস বইছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "windy" },
+      { "languageCode": "bn", "text": "বাতাসযুক্ত" }
+    ]
+  },
+  {
+    "id": "61hqvhrv",
+    "level": "a1",
+    "topic": "weather-and-seasons",
+    "part_of_speech": "adjective",
+    "word": "regnerisch",
+    "comparative": "regnerischer",
+    "superlative": "am regnerischsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Es ist ein regnerischer Tag." },
+      { "languageCode": "en", "text": "It's a rainy day." },
+      { "languageCode": "bn", "text": "আজ একটি বৃষ্টিযুক্ত দিন।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "rainy" },
+      { "languageCode": "bn", "text": "বৃষ্টিযুক্ত" }
+    ]
+  },
+  {
+    "id": "wnrui9g6",
+    "level": "a1",
+    "topic": "weather-and-seasons",
+    "part_of_speech": "adjective",
+    "word": "kalt",
+    "comparative": "kälter",
+    "superlative": "am kältesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Wasser ist kalt." },
+      { "languageCode": "en", "text": "The water is cold." },
+      { "languageCode": "bn", "text": "পানি ঠান্ডা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cold" },
+      { "languageCode": "bn", "text": "ঠান্ডা" }
+    ]
+  },
+  {
+    "id": "9wjcxl6a",
+    "level": "a1",
+    "topic": "weather-and-seasons",
+    "part_of_speech": "noun",
+    "word": "Schnee",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "-",
+    "genitive_singular": "des Schnees",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Schnee ist weiß." },
+      { "languageCode": "en", "text": "The snow is white." },
+      { "languageCode": "bn", "text": "তুষার সাদা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "snow" },
+      { "languageCode": "bn", "text": "তুষার" }
+    ]
+  },
+  {
+    "id": "y887jmx9",
+    "level": "a1",
+    "topic": "weather-and-seasons",
+    "part_of_speech": "verb",
+    "word": "schneien",
+    "infinitive": "schneien",
+    "third_person_singular_present": "es schneit",
+    "simple_past": "schneite",
+    "past_participle": "hat geschneit",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Es schneit heute." },
+      { "languageCode": "en", "text": "It's snowing today." },
+      { "languageCode": "bn", "text": "আজ তুষারপাত হচ্ছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to snow" },
+      { "languageCode": "bn", "text": "তুষারপাত হওয়া" }
     ]
   }
 ]

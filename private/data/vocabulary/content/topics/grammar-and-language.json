@@ -1,24 +1,66 @@
 [
   {
+    "id": "2i9rbdjx",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
-    "word": "Abschnitt",
+    "word": "Satz",
     "article": "der",
     "gender": "masculine",
-    "plural": "Abschnitte",
-    "genitive_singular": "des Abschnitts",
+    "plural": "Sätze",
+    "genitive_singular": "des Satzes",
     "sentences": [
-      { "languageCode": "de", "text": "Der Abschnitt ist kurz." },
-      { "languageCode": "en", "text": "The section is short." },
-      { "languageCode": "bn", "text": "অংশটা সংক্ষিপ্ত।" }
+      { "languageCode": "de", "text": "Der Satz ist lang." },
+      { "languageCode": "en", "text": "The sentence is long." },
+      { "languageCode": "bn", "text": "বাক্যটা লম্বা।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "section" },
-      { "languageCode": "bn", "text": "অংশ" }
+      { "languageCode": "en", "text": "sentence" },
+      { "languageCode": "bn", "text": "বাক্য" }
     ]
   },
   {
+    "id": "wtr622fd",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Wortgruppe",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Wortgruppen",
+    "genitive_singular": "der Wortgruppe",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Wortgruppe ist wichtig." },
+      { "languageCode": "en", "text": "The word group is important." },
+      { "languageCode": "bn", "text": "শব্দ গোষ্ঠীটা গুরুত্বপূর্ণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "word group" },
+      { "languageCode": "bn", "text": "শব্দ গোষ্ঠী" }
+    ]
+  },
+  {
+    "id": "eozx14nl",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Verb",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Verben",
+    "genitive_singular": "des Verbs",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Verb ist wichtig." },
+      { "languageCode": "en", "text": "The verb is important." },
+      { "languageCode": "bn", "text": "ক্রিয়াপদটা গুরুত্বপূর্ণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "verb" },
+      { "languageCode": "bn", "text": "ক্রিয়া" }
+    ]
+  },
+  {
+    "id": "3xxyeon9",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
@@ -38,66 +80,7 @@
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Akkusativ",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Akkusative",
-    "genitive_singular": "des Akkusativs",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Akkusativ ist 'den Mann'." },
-      { "languageCode": "en", "text": "The accusative is 'the man'." },
-      { "languageCode": "bn", "text": "কর্মকারকটি হলো 'লোকটিকে'।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "accusative" },
-      { "languageCode": "bn", "text": "কর্মকারক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Antwort",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Antworten",
-    "genitive_singular": "der Antwort",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Antwort ist richtig." },
-      { "languageCode": "en", "text": "The answer is correct." },
-      { "languageCode": "bn", "text": "উত্তরটা সঠিক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "answer" },
-      { "languageCode": "bn", "text": "উত্তর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "antworten",
-    "infinitive": "antworten",
-    "third_person_singular_present": "er antwortet",
-    "simple_past": "antwortete",
-    "past_participle": "hat geantwortet",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich antworte auf die Frage." },
-      { "languageCode": "en", "text": "I answer the question." },
-      { "languageCode": "bn", "text": "আমি প্রশ্নের উত্তর দিচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to answer" },
-      { "languageCode": "bn", "text": "উত্তর দেওয়া" }
-    ]
-  },
-  {
+    "id": "6m2x78io",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
@@ -117,613 +100,67 @@
     ]
   },
   {
+    "id": "bvjmywve",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
-    "word": "Assoziation",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Assoziationen",
-    "genitive_singular": "der Assoziation",
+    "word": "Plural",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Plurale",
+    "genitive_singular": "des Plurals",
     "sentences": [
-      { "languageCode": "de", "text": "Die Assoziation hilft beim Lernen." },
-      { "languageCode": "en", "text": "The association helps with learning." },
-      { "languageCode": "bn", "text": "সংযোগ শেখার ক্ষেত্রে সাহায্য করে।" }
+      { "languageCode": "de", "text": "Der Plural von 'Buch' ist 'Bücher'." },
+      { "languageCode": "en", "text": "The plural of 'book' is 'books'." },
+      { "languageCode": "bn", "text": "'বই' শব্দের বহুবচন হলো 'বইগুলো'।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "association" },
-      { "languageCode": "bn", "text": "সংযোগ" }
+      { "languageCode": "en", "text": "plural" },
+      { "languageCode": "bn", "text": "বহুবচন" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "ausfüllen",
-    "infinitive": "ausfüllen",
-    "third_person_singular_present": "er füllt aus",
-    "simple_past": "füllte aus",
-    "past_participle": "hat ausgefüllt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": "aus",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich fülle das Formular aus." },
-      { "languageCode": "en", "text": "I fill out the form." },
-      { "languageCode": "bn", "text": "আমি ফর্মটা পূরণ করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to fill out" },
-      { "languageCode": "bn", "text": "পূরণ করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "beschreiben",
-    "infinitive": "beschreiben",
-    "third_person_singular_present": "er beschreibt",
-    "simple_past": "beschrieb",
-    "past_participle": "hat beschrieben",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Er beschreibt das Bild." },
-      { "languageCode": "en", "text": "He describes the picture." },
-      { "languageCode": "bn", "text": "সে ছবিটা বর্ণনা করছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to describe" },
-      { "languageCode": "bn", "text": "বর্ণনা করা" }
-    ]
-  },
-  {
+    "id": "p7ha2cpo",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
-    "word": "Betonung",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Betonungen",
-    "genitive_singular": "der Betonung",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Betonung ist wichtig." },
-      { "languageCode": "en", "text": "The stress is important." },
-      { "languageCode": "bn", "text": "জোর দেওয়াটা গুরুত্বপূর্ণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "stress" },
-      { "languageCode": "bn", "text": "জোর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "dazu gehören",
-    "infinitive": "dazu gehören",
-    "third_person_singular_present": "er gehört dazu",
-    "simple_past": "gehörte dazu",
-    "past_participle": "hat dazu gehört",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": "dazu",
-    "sentences": [
-      { "languageCode": "de", "text": "Das gehört dazu." },
-      { "languageCode": "en", "text": "That belongs to it." },
-      { "languageCode": "bn", "text": "এটা এর অন্তর্ভুক্ত।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to belong to" },
-      { "languageCode": "bn", "text": "অন্তর্ভুক্ত হওয়া" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "dein",
-    "pronoun_type": "possessive",
-    "cases": {"nominative": "dein", "accusative": "deinen", "dative": "deinem", "genitive": "deines"},
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist dein Buch." },
-      { "languageCode": "en", "text": "That is your book." },
-      { "languageCode": "bn", "text": "এটা তোমার বই।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "your" },
-      { "languageCode": "bn", "text": "তোমার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "deine",
-    "pronoun_type": "possessive",
-    "cases": {"nominative": "deine", "accusative": "deine", "dative": "deiner", "genitive": "deiner"},
-    "sentences": [
-      { "languageCode": "de", "text": "Deine Schwester ist nett." },
-      { "languageCode": "en", "text": "Your sister is nice." },
-      { "languageCode": "bn", "text": "তোমার বোন খুব ভালো মানুষ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "your (feminine)" },
-      { "languageCode": "bn", "text": "তোমার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "conjunction",
-    "word": "denn",
-    "conjunction_type": "coordinating",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich gehe nach Hause, denn es ist spät." },
-      { "languageCode": "en", "text": "I'm going home, because it's late." },
-      { "languageCode": "bn", "text": "আমি বাড়ি যাচ্ছি, কারণ দেরি হয়ে গেছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "because" },
-      { "languageCode": "bn", "text": "কারণ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "dich",
-    "pronoun_type": "personal",
-    "nominative": "du",
-    "accusative": "dich",
-    "dative": "dir",
-    "genitive": "deiner",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich sehe dich." },
-      { "languageCode": "en", "text": "I see you." },
-      { "languageCode": "bn", "text": "আমি তোমাকে দেখছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "you (accusative)" },
-      { "languageCode": "bn", "text": "তোমাকে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "determiner",
-    "word": "diese",
-    "determiner_type": "demonstrative",
-    "sentences": [
-      { "languageCode": "de", "text": "Diese Blume ist schön." },
-      { "languageCode": "en", "text": "This flower is beautiful." },
-      { "languageCode": "bn", "text": "এই ফুলটা সুন্দর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "this (feminine)" },
-      { "languageCode": "bn", "text": "এই" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "determiner",
-    "word": "dieser",
-    "determiner_type": "demonstrative",
-    "sentences": [
-      { "languageCode": "de", "text": "Dieser Mann ist mein Lehrer." },
-      { "languageCode": "en", "text": "This man is my teacher." },
-      { "languageCode": "bn", "text": "এই লোকটা আমার শিক্ষক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "this (masculine)" },
-      { "languageCode": "bn", "text": "এই" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "erklären",
-    "infinitive": "erklären",
-    "third_person_singular_present": "er erklärt",
-    "simple_past": "erklärte",
-    "past_participle": "hat erklärt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Lehrer erklärt die Regel." },
-      { "languageCode": "en", "text": "The teacher explains the rule." },
-      { "languageCode": "bn", "text": "শিক্ষক নিয়মটা ব্যাখ্যা করছেন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to explain" },
-      { "languageCode": "bn", "text": "ব্যাখ্যা করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "ersetzen",
-    "infinitive": "ersetzen",
-    "third_person_singular_present": "er ersetzt",
-    "simple_past": "ersetzte",
-    "past_participle": "hat ersetzt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich ersetze das Wort." },
-      { "languageCode": "en", "text": "I replace the word." },
-      { "languageCode": "bn", "text": "আমি শব্দটা প্রতিস্থাপন করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to replace" },
-      { "languageCode": "bn", "text": "প্রতিস্থাপন করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "erzählen",
-    "infinitive": "erzählen",
-    "third_person_singular_present": "er erzählt",
-    "simple_past": "erzählte",
-    "past_participle": "hat erzählt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Sie erzählt eine Geschichte." },
-      { "languageCode": "en", "text": "She tells a story." },
-      { "languageCode": "bn", "text": "সে একটা গল্প বলছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to tell" },
-      { "languageCode": "bn", "text": "বলা/গল্প বলা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "euch",
-    "pronoun_type": "personal",
-    "nominative": "ihr",
-    "accusative": "euch",
-    "dative": "euch",
-    "genitive": "euer",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich besuche euch morgen." },
-      { "languageCode": "en", "text": "I will visit you tomorrow." },
-      { "languageCode": "bn", "text": "আমি আগামীকাল তোমাদের সাথে দেখা করতে আসব।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "you (plural, accusative/dative)" },
-      { "languageCode": "bn", "text": "তোমাদের" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "euer",
-    "pronoun_type": "possessive",
-    "cases": {"nominative": "euer", "accusative": "euren", "dative": "eurem", "genitive": "eures"},
-    "sentences": [
-      { "languageCode": "de", "text": "Euer Haus ist groß." },
-      { "languageCode": "en", "text": "Your house is big." },
-      { "languageCode": "bn", "text": "তোমাদের বাড়িটা বড়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "your (plural, masculine)" },
-      { "languageCode": "bn", "text": "তোমাদের" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "eure",
-    "pronoun_type": "possessive",
-    "cases": {"nominative": "eure", "accusative": "eure", "dative": "eurer", "genitive": "eurer"},
-    "sentences": [
-      { "languageCode": "de", "text": "Eure Katze ist süß." },
-      { "languageCode": "en", "text": "Your cat is cute." },
-      { "languageCode": "bn", "text": "তোমাদের বিড়ালটা মিষ্টি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "your (plural, feminine)" },
-      { "languageCode": "bn", "text": "তোমাদের" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "adjective",
-    "word": "formell",
-    "comparative": "formeller",
-    "superlative": "am formellsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist eine formelle Sprache." },
-      { "languageCode": "en", "text": "That is formal language." },
-      { "languageCode": "bn", "text": "এটা একটা আনুষ্ঠানিক ভাষা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "formal" },
-      { "languageCode": "bn", "text": "আনুষ্ঠানিক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "fragen",
-    "infinitive": "fragen",
-    "third_person_singular_present": "er fragt",
-    "simple_past": "fragte",
-    "past_participle": "hat gefragt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich frage den Lehrer." },
-      { "languageCode": "en", "text": "I ask the teacher." },
-      { "languageCode": "bn", "text": "আমি শিক্ষককে জিজ্ঞাসা করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to ask" },
-      { "languageCode": "bn", "text": "জিজ্ঞাসা করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Fragewort",
+    "word": "Präfix",
     "article": "das",
     "gender": "neuter",
-    "plural": "Fragewörter",
-    "genitive_singular": "des Frageworts",
+    "plural": "Präfixe",
+    "genitive_singular": "des Präfixes",
     "sentences": [
-      { "languageCode": "de", "text": "Das Fragewort ist 'was'." },
-      { "languageCode": "en", "text": "The question word is 'what'." },
-      { "languageCode": "bn", "text": "প্রশ্নবোধক শব্দটি হলো 'কী'।" }
+      { "languageCode": "de", "text": "Das Präfix ist 'un-'." },
+      { "languageCode": "en", "text": "The prefix is 'un-'." },
+      { "languageCode": "bn", "text": "উপসর্গটি হলো 'un-'।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "question word" },
-      { "languageCode": "bn", "text": "প্রশ্নবোধক শব্দ" }
+      { "languageCode": "en", "text": "prefix" },
+      { "languageCode": "bn", "text": "উপসর্গ" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "führen",
-    "infinitive": "führen",
-    "third_person_singular_present": "er führt",
-    "simple_past": "führte",
-    "past_participle": "hat geführt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Er führt das Gespräch." },
-      { "languageCode": "en", "text": "He leads the conversation." },
-      { "languageCode": "bn", "text": "সে কথোপকথন পরিচালনা করছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to lead" },
-      { "languageCode": "bn", "text": "পরিচালনা করা" }
-    ]
-  },
-  {
+    "id": "4pgwiz1p",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
-    "word": "Grund",
+    "word": "Vokal",
     "article": "der",
     "gender": "masculine",
-    "plural": "Gründe",
-    "genitive_singular": "des Grundes",
+    "plural": "Vokale",
+    "genitive_singular": "des Vokals",
     "sentences": [
-      { "languageCode": "de", "text": "Der Grund ist wichtig." },
-      { "languageCode": "en", "text": "The reason is important." },
-      { "languageCode": "bn", "text": "কারণটা গুরুত্বপূর্ণ।" }
+      { "languageCode": "de", "text": "Der Vokal 'A' ist wichtig." },
+      { "languageCode": "en", "text": "The vowel 'A' is important." },
+      { "languageCode": "bn", "text": "স্বরবর্ণ 'A' গুরুত্বপূর্ণ।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "reason" },
-      { "languageCode": "bn", "text": "কারণ" }
+      { "languageCode": "en", "text": "vowel" },
+      { "languageCode": "bn", "text": "স্বরবর্ণ" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "her",
-    "pronoun_type": "personal",
-    "nominative": "-",
-    "accusative": "-",
-    "dative": "-",
-    "genitive": "-",
-    "sentences": [
-      { "languageCode": "de", "text": "Komm her!" },
-      { "languageCode": "en", "text": "Come here!" },
-      { "languageCode": "bn", "text": "এখানে এসো!" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "here (direction)" },
-      { "languageCode": "bn", "text": "এখানে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "adjective",
-    "word": "höflich",
-    "comparative": "höflicher",
-    "superlative": "am höflichsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Er ist sehr höflich." },
-      { "languageCode": "en", "text": "He is very polite." },
-      { "languageCode": "bn", "text": "সে খুব ভদ্র।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "polite" },
-      { "languageCode": "bn", "text": "ভদ্র" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "hören",
-    "infinitive": "hören",
-    "third_person_singular_present": "er hört",
-    "simple_past": "hörte",
-    "past_participle": "hat gehört",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich höre Musik." },
-      { "languageCode": "en", "text": "I listen to music." },
-      { "languageCode": "bn", "text": "আমি গান শুনছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to listen" },
-      { "languageCode": "bn", "text": "শোনা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "ihn",
-    "pronoun_type": "personal",
-    "nominative": "er",
-    "accusative": "ihn",
-    "dative": "ihm",
-    "genitive": "seiner",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich kenne ihn." },
-      { "languageCode": "en", "text": "I know him." },
-      { "languageCode": "bn", "text": "আমি তাকে চিনি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "him" },
-      { "languageCode": "bn", "text": "তাকে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Imperativ",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Imperative",
-    "genitive_singular": "des Imperativs",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Imperativ ist 'Komm!'." },
-      { "languageCode": "en", "text": "The imperative is 'Come!'." },
-      { "languageCode": "bn", "text": "আদেশসূচক রূপটি হলো 'এসো!'।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "imperative" },
-      { "languageCode": "bn", "text": "আদেশসূচক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "adjective",
-    "word": "informell",
-    "comparative": "informeller",
-    "superlative": "am informellsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Wir sprechen informell." },
-      { "languageCode": "en", "text": "We speak informally." },
-      { "languageCode": "bn", "text": "আমরা অনানুষ্ঠানিকভাবে কথা বলি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "informal" },
-      { "languageCode": "bn", "text": "অনানুষ্ঠানিক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "jemand",
-    "pronoun_type": "indefinite",
-    "nominative": "jemand",
-    "accusative": "jemanden",
-    "dative": "jemandem",
-    "genitive": "jemandes",
-    "sentences": [
-      { "languageCode": "de", "text": "Jemand ist an der Tür." },
-      { "languageCode": "en", "text": "Someone is at the door." },
-      { "languageCode": "bn", "text": "দরজায় কেউ আছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "someone" },
-      { "languageCode": "bn", "text": "কেউ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "klingen",
-    "infinitive": "klingen",
-    "third_person_singular_present": "er klingt",
-    "simple_past": "klang",
-    "past_participle": "hat geklungen",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Das klingt gut." },
-      { "languageCode": "en", "text": "That sounds good." },
-      { "languageCode": "bn", "text": "এটা শুনতে ভালো লাগছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to sound" },
-      { "languageCode": "bn", "text": "শোনানো" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "können",
-    "infinitive": "können",
-    "third_person_singular_present": "er kann",
-    "simple_past": "konnte",
-    "past_participle": "hat gekonnt",
-    "auxiliary_verb": "haben",
-    "verb_type": "modal",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich kann Deutsch sprechen." },
-      { "languageCode": "en", "text": "I can speak German." },
-      { "languageCode": "bn", "text": "আমি জার্মান বলতে পারি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "can" },
-      { "languageCode": "bn", "text": "পারা" }
-    ]
-  },
-  {
+    "id": "xsipueje",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
@@ -743,50 +180,27 @@
     ]
   },
   {
+    "id": "wb0o6ymq",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "korrigieren",
-    "infinitive": "korrigieren",
-    "third_person_singular_present": "er korrigiert",
-    "simple_past": "korrigierte",
-    "past_participle": "hat korrigiert",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
+    "part_of_speech": "noun",
+    "word": "Umlaut",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Umlaute",
+    "genitive_singular": "des Umlauts",
     "sentences": [
-      { "languageCode": "de", "text": "Sie korrigiert den Fehler." },
-      { "languageCode": "en", "text": "She corrects the mistake." },
-      { "languageCode": "bn", "text": "সে ভুলটা সংশোধন করছে।" }
+      { "languageCode": "de", "text": "Der Umlaut ist 'ä'." },
+      { "languageCode": "en", "text": "The umlaut is 'ä'." },
+      { "languageCode": "bn", "text": "উমলাউতটি হলো 'ä'।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to correct" },
-      { "languageCode": "bn", "text": "সংশোধন করা" }
+      { "languageCode": "en", "text": "umlaut" },
+      { "languageCode": "bn", "text": "উমলাউত" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "kriegen",
-    "infinitive": "kriegen",
-    "third_person_singular_present": "er kriegt",
-    "simple_past": "kriegte",
-    "past_participle": "hat gekriegt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich kriege ein Geschenk." },
-      { "languageCode": "en", "text": "I get a gift." },
-      { "languageCode": "bn", "text": "আমি একটা উপহার পাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to get" },
-      { "languageCode": "bn", "text": "পাওয়া" }
-    ]
-  },
-  {
+    "id": "b8ettqsm",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
@@ -806,81 +220,345 @@
     ]
   },
   {
+    "id": "25xq62mz",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Präteritum",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Präterita",
+    "genitive_singular": "des Präteritums",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Präteritum ist 'ich ging'." },
+      { "languageCode": "en", "text": "The preterite is 'I went'." },
+      { "languageCode": "bn", "text": "অতীত কালের রূপটি হলো 'আমি গিয়েছিলাম'।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "preterite" },
+      { "languageCode": "bn", "text": "অতীত কাল" }
+    ]
+  },
+  {
+    "id": "wm9mzp1f",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Imperativ",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Imperative",
+    "genitive_singular": "des Imperativs",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Imperativ ist 'Komm!'." },
+      { "languageCode": "en", "text": "The imperative is 'Come!'." },
+      { "languageCode": "bn", "text": "আদেশসূচক রূপটি হলো 'এসো!'।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "imperative" },
+      { "languageCode": "bn", "text": "আদেশসূচক" }
+    ]
+  },
+  {
+    "id": "9msfpedl",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Nominativ",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Nominative",
+    "genitive_singular": "des Nominativs",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Nominativ ist 'der Mann'." },
+      { "languageCode": "en", "text": "The nominative is 'the man'." },
+      { "languageCode": "bn", "text": "কর্তৃকারকটি হলো 'লোকটি'।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "nominative" },
+      { "languageCode": "bn", "text": "কর্তৃকারক" }
+    ]
+  },
+  {
+    "id": "aswse2h3",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Akkusativ",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Akkusative",
+    "genitive_singular": "des Akkusativs",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Akkusativ ist 'den Mann'." },
+      { "languageCode": "en", "text": "The accusative is 'the man'." },
+      { "languageCode": "bn", "text": "কর্মকারকটি হলো 'লোকটিকে'।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "accusative" },
+      { "languageCode": "bn", "text": "কর্মকারক" }
+    ]
+  },
+  {
+    "id": "3lu2u9rh",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Wechselpräposition",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Wechselpräpositionen",
+    "genitive_singular": "der Wechselpräposition",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Wechselpräposition ist 'in'." },
+      { "languageCode": "en", "text": "The two-way preposition is 'in'." },
+      { "languageCode": "bn", "text": "দ্বিমুখী অব্যয়টি হলো 'in'।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "two-way preposition" },
+      { "languageCode": "bn", "text": "দ্বিমুখী অব্যয়" }
+    ]
+  },
+  {
+    "id": "4m6nism4",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Personalpronomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Personalpronomen",
+    "genitive_singular": "des Personalpronomens",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Personalpronomen ist 'ich'." },
+      { "languageCode": "en", "text": "The personal pronoun is 'I'." },
+      { "languageCode": "bn", "text": "ব্যক্তিবাচক সর্বনামটি হলো 'আমি'।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "personal pronoun" },
+      { "languageCode": "bn", "text": "ব্যক্তিবাচক সর্বনাম" }
+    ]
+  },
+  {
+    "id": "57foedqz",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "adjective",
-    "word": "laut",
-    "comparative": "lauter",
-    "superlative": "am lautesten",
+    "word": "unbestimmt",
+    "comparative": "unbestimmter",
+    "superlative": "am unbestimmtesten",
     "gradable": true,
     "sentences": [
-      { "languageCode": "de", "text": "Die Musik ist laut." },
-      { "languageCode": "en", "text": "The music is loud." },
-      { "languageCode": "bn", "text": "গানটা জোরে বাজছে।" }
+      { "languageCode": "de", "text": "Das ist ein unbestimmter Artikel." },
+      { "languageCode": "en", "text": "That is an indefinite article." },
+      { "languageCode": "bn", "text": "এটা একটা অনির্দিষ্ট আর্টিকেল।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "loud" },
-      { "languageCode": "bn", "text": "জোরে" }
+      { "languageCode": "en", "text": "indefinite" },
+      { "languageCode": "bn", "text": "অনির্দিষ্ট" }
     ]
   },
   {
+    "id": "8j3231ue",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Regel",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Regeln",
+    "genitive_singular": "der Regel",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Regel ist einfach." },
+      { "languageCode": "en", "text": "The rule is simple." },
+      { "languageCode": "bn", "text": "নিয়মটা সহজ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "rule" },
+      { "languageCode": "bn", "text": "নিয়ম" }
+    ]
+  },
+  {
+    "id": "5i1fl900",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Betonung",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Betonungen",
+    "genitive_singular": "der Betonung",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Betonung ist wichtig." },
+      { "languageCode": "en", "text": "The stress is important." },
+      { "languageCode": "bn", "text": "জোর দেওয়াটা গুরুত্বপূর্ণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "stress" },
+      { "languageCode": "bn", "text": "জোর" }
+    ]
+  },
+  {
+    "id": "b6ows2kf",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Position",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Positionen",
+    "genitive_singular": "der Position",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Position ist am Anfang." },
+      { "languageCode": "en", "text": "The position is at the beginning." },
+      { "languageCode": "bn", "text": "অবস্থানটা শুরুতে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "position" },
+      { "languageCode": "bn", "text": "অবস্থান" }
+    ]
+  },
+  {
+    "id": "9g5q1e0r",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Punkt",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Punkte",
+    "genitive_singular": "des Punkts",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Punkt ist am Ende." },
+      { "languageCode": "en", "text": "The period is at the end." },
+      { "languageCode": "bn", "text": "দাঁড়িটি বাক্যের শেষে বসে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "period/point" },
+      { "languageCode": "bn", "text": "দাঁড়ি" }
+    ]
+  },
+  {
+    "id": "qh5gkr2p",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Tabelle",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Tabellen",
+    "genitive_singular": "der Tabelle",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Tabelle ist sehr hilfreich." },
+      { "languageCode": "en", "text": "The table is very helpful." },
+      { "languageCode": "bn", "text": "টেবিলটা খুবই সহায়ক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "table" },
+      { "languageCode": "bn", "text": "টেবিল" }
+    ]
+  },
+  {
+    "id": "a1j49dfk",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Textbaustein",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Textbausteine",
+    "genitive_singular": "des Textbausteins",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Textbaustein ist wichtig." },
+      { "languageCode": "en", "text": "The text block is important." },
+      { "languageCode": "bn", "text": "টেক্সট ব্লকটি গুরুত্বপূর্ণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "text block" },
+      { "languageCode": "bn", "text": "টেক্সট ব্লক" }
+    ]
+  },
+  {
+    "id": "pku6h9mx",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Textbaustein",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Textbausteine",
+    "genitive_singular": "des Textbausteins",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Textbaustein ist hilfreich." },
+      { "languageCode": "en", "text": "The text building block is helpful." },
+      { "languageCode": "bn", "text": "টেক্সট বিল্ডিং ব্লকটি সহায়ক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "text building block" },
+      { "languageCode": "bn", "text": "টেক্সট বিল্ডিং ব্লক" }
+    ]
+  },
+  {
+    "id": "sdt71lmk",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Thema",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Themen",
+    "genitive_singular": "des Themas",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Thema ist interessant." },
+      { "languageCode": "en", "text": "The topic is interesting." },
+      { "languageCode": "bn", "text": "বিষয়টা আকর্ষণীয়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "topic" },
+      { "languageCode": "bn", "text": "বিষয়" }
+    ]
+  },
+  {
+    "id": "6omb0hom",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "adjective",
-    "word": "leise",
-    "comparative": "leiser",
-    "superlative": "am leisesten",
+    "word": "thematisch",
+    "comparative": "thematischer",
+    "superlative": "am thematischsten",
     "gradable": true,
     "sentences": [
-      { "languageCode": "de", "text": "Bitte sprechen Sie leise." },
-      { "languageCode": "en", "text": "Please speak quietly." },
-      { "languageCode": "bn", "text": "দয়া করে আস্তে কথা বলুন।" }
+      { "languageCode": "de", "text": "Das ist ein thematisches Wort." },
+      { "languageCode": "en", "text": "That is a thematic word." },
+      { "languageCode": "bn", "text": "এটা একটা বিষয়ভিত্তিক শব্দ।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "quiet/soft" },
-      { "languageCode": "bn", "text": "আস্তে" }
+      { "languageCode": "en", "text": "thematic" },
+      { "languageCode": "bn", "text": "বিষয়ভিত্তিক" }
     ]
   },
   {
+    "id": "laxly08e",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "lesen",
-    "infinitive": "lesen",
-    "third_person_singular_present": "er liest",
-    "simple_past": "las",
-    "past_participle": "hat gelesen",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
+    "part_of_speech": "noun",
+    "word": "Mindmap",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Mindmaps",
+    "genitive_singular": "der Mindmap",
     "sentences": [
-      { "languageCode": "de", "text": "Ich lese ein Buch." },
-      { "languageCode": "en", "text": "I read a book." },
-      { "languageCode": "bn", "text": "আমি একটা বই পড়ছি।" }
+      { "languageCode": "de", "text": "Die Mindmap ist nützlich." },
+      { "languageCode": "en", "text": "The mind map is useful." },
+      { "languageCode": "bn", "text": "মাইন্ড ম্যাপটা কার্যকর।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to read" },
-      { "languageCode": "bn", "text": "পড়া" }
+      { "languageCode": "en", "text": "mind map" },
+      { "languageCode": "bn", "text": "মাইন্ড ম্যাপ" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "mein",
-    "pronoun_type": "possessive",
-    "cases": {"nominative": "mein", "accusative": "meinen", "dative": "meinem", "genitive": "meines"},
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist mein Buch." },
-      { "languageCode": "en", "text": "That is my book." },
-      { "languageCode": "bn", "text": "এটা আমার বই।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "my" },
-      { "languageCode": "bn", "text": "আমার" }
-    ]
-  },
-  {
+    "id": "nlk1ee3f",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
@@ -900,6 +578,44 @@
     ]
   },
   {
+    "id": "9jlixj4w",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Abschnitt",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Abschnitte",
+    "genitive_singular": "des Abschnitts",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Abschnitt ist kurz." },
+      { "languageCode": "en", "text": "The section is short." },
+      { "languageCode": "bn", "text": "অংশটা সংক্ষিপ্ত।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "section" },
+      { "languageCode": "bn", "text": "অংশ" }
+    ]
+  },
+  {
+    "id": "nkrvfcnv",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "conjunction",
+    "word": "zum Beispiel",
+    "conjunction_type": "coordinating",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich esse gerne Obst, zum Beispiel Äpfel." },
+      { "languageCode": "en", "text": "I like to eat fruit, for example apples." },
+      { "languageCode": "bn", "text": "আমি ফল খেতে পছন্দ করি, উদাহরণস্বরূপ আপেল।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "for example" },
+      { "languageCode": "bn", "text": "উদাহরণস্বরূপ" }
+    ]
+  },
+  {
+    "id": "iglcwkuc",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "pronoun",
@@ -920,91 +636,551 @@
     ]
   },
   {
+    "id": "p1b0nmll",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "mein",
+    "pronoun_type": "possessive",
+    "cases": {
+      "nominative": "mein",
+      "accusative": "meinen",
+      "dative": "meinem",
+      "genitive": "meines"
+    },
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist mein Buch." },
+      { "languageCode": "en", "text": "That is my book." },
+      { "languageCode": "bn", "text": "এটা আমার বই।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "my" },
+      { "languageCode": "bn", "text": "আমার" }
+    ]
+  },
+  {
+    "id": "ybt81mp8",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "dich",
+    "pronoun_type": "personal",
+    "nominative": "du",
+    "accusative": "dich",
+    "dative": "dir",
+    "genitive": "deiner",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich sehe dich." },
+      { "languageCode": "en", "text": "I see you." },
+      { "languageCode": "bn", "text": "আমি তোমাকে দেখছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "you (accusative)" },
+      { "languageCode": "bn", "text": "তোমাকে" }
+    ]
+  },
+  {
+    "id": "5tl9qv0t",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "dein",
+    "pronoun_type": "possessive",
+    "cases": {
+      "nominative": "dein",
+      "accusative": "deinen",
+      "dative": "deinem",
+      "genitive": "deines"
+    },
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist dein Buch." },
+      { "languageCode": "en", "text": "That is your book." },
+      { "languageCode": "bn", "text": "এটা তোমার বই।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "your" },
+      { "languageCode": "bn", "text": "তোমার" }
+    ]
+  },
+  {
+    "id": "61ywxu5u",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "deine",
+    "pronoun_type": "possessive",
+    "cases": {
+      "nominative": "deine",
+      "accusative": "deine",
+      "dative": "deiner",
+      "genitive": "deiner"
+    },
+    "sentences": [
+      { "languageCode": "de", "text": "Deine Schwester ist nett." },
+      { "languageCode": "en", "text": "Your sister is nice." },
+      { "languageCode": "bn", "text": "তোমার বোন খুব ভালো মানুষ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "your (feminine)" },
+      { "languageCode": "bn", "text": "তোমার" }
+    ]
+  },
+  {
+    "id": "3u76wkz9",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "euch",
+    "pronoun_type": "personal",
+    "nominative": "ihr",
+    "accusative": "euch",
+    "dative": "euch",
+    "genitive": "euer",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich besuche euch morgen." },
+      { "languageCode": "en", "text": "I will visit you tomorrow." },
+      { "languageCode": "bn", "text": "আমি আগামীকাল তোমাদের সাথে দেখা করতে আসব।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "you (plural, accusative/dative)" },
+      { "languageCode": "bn", "text": "তোমাদের" }
+    ]
+  },
+  {
+    "id": "du9i8w0v",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "euer",
+    "pronoun_type": "possessive",
+    "cases": {
+      "nominative": "euer",
+      "accusative": "euren",
+      "dative": "eurem",
+      "genitive": "eures"
+    },
+    "sentences": [
+      { "languageCode": "de", "text": "Euer Haus ist groß." },
+      { "languageCode": "en", "text": "Your house is big." },
+      { "languageCode": "bn", "text": "তোমাদের বাড়িটা বড়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "your (plural, masculine)" },
+      { "languageCode": "bn", "text": "তোমাদের" }
+    ]
+  },
+  {
+    "id": "2qg96qvl",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "eure",
+    "pronoun_type": "possessive",
+    "cases": { "nominative": "eure", "accusative": "eure", "dative": "eurer", "genitive": "eurer" },
+    "sentences": [
+      { "languageCode": "de", "text": "Eure Katze ist süß." },
+      { "languageCode": "en", "text": "Your cat is cute." },
+      { "languageCode": "bn", "text": "তোমাদের বিড়ালটা মিষ্টি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "your (plural, feminine)" },
+      { "languageCode": "bn", "text": "তোমাদের" }
+    ]
+  },
+  {
+    "id": "wdx94jr2",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "ihn",
+    "pronoun_type": "personal",
+    "nominative": "er",
+    "accusative": "ihn",
+    "dative": "ihm",
+    "genitive": "seiner",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich kenne ihn." },
+      { "languageCode": "en", "text": "I know him." },
+      { "languageCode": "bn", "text": "আমি তাকে চিনি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "him" },
+      { "languageCode": "bn", "text": "তাকে" }
+    ]
+  },
+  {
+    "id": "awqz49l0",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "sie",
+    "pronoun_type": "personal",
+    "nominative": "sie",
+    "accusative": "sie",
+    "dative": "ihr",
+    "genitive": "ihrer",
+    "sentences": [
+      { "languageCode": "de", "text": "Sie ist meine Freundin." },
+      { "languageCode": "en", "text": "She is my friend." },
+      { "languageCode": "bn", "text": "সে আমার বান্ধবী।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "she/they" },
+      { "languageCode": "bn", "text": "সে/তারা" }
+    ]
+  },
+  {
+    "id": "bhrb8qib",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "unser",
+    "pronoun_type": "possessive",
+    "cases": {
+      "nominative": "unser",
+      "accusative": "unseren",
+      "dative": "unserem",
+      "genitive": "unseres"
+    },
+    "sentences": [
+      { "languageCode": "de", "text": "Unser Haus ist klein." },
+      { "languageCode": "en", "text": "Our house is small." },
+      { "languageCode": "bn", "text": "আমাদের বাড়িটা ছোট।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "our (masculine)" },
+      { "languageCode": "bn", "text": "আমাদের" }
+    ]
+  },
+  {
+    "id": "6qebno1e",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "unsere",
+    "pronoun_type": "possessive",
+    "cases": {
+      "nominative": "unsere",
+      "accusative": "unsere",
+      "dative": "unserer",
+      "genitive": "unserer"
+    },
+    "sentences": [
+      { "languageCode": "de", "text": "Unsere Tochter ist fünf Jahre alt." },
+      { "languageCode": "en", "text": "Our daughter is five years old." },
+      { "languageCode": "bn", "text": "আমাদের মেয়ের বয়স পাঁচ বছর।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "our (feminine)" },
+      { "languageCode": "bn", "text": "আমাদের" }
+    ]
+  },
+  {
+    "id": "s1c2gpzq",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "jemand",
+    "pronoun_type": "indefinite",
+    "nominative": "jemand",
+    "accusative": "jemanden",
+    "dative": "jemandem",
+    "genitive": "jemandes",
+    "sentences": [
+      { "languageCode": "de", "text": "Jemand ist an der Tür." },
+      { "languageCode": "en", "text": "Someone is at the door." },
+      { "languageCode": "bn", "text": "দরজায় কেউ আছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "someone" },
+      { "languageCode": "bn", "text": "কেউ" }
+    ]
+  },
+  {
+    "id": "0cvff9qo",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "determiner",
+    "word": "dieser",
+    "determiner_type": "demonstrative",
+    "sentences": [
+      { "languageCode": "de", "text": "Dieser Mann ist mein Lehrer." },
+      { "languageCode": "en", "text": "This man is my teacher." },
+      { "languageCode": "bn", "text": "এই লোকটা আমার শিক্ষক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "this (masculine)" },
+      { "languageCode": "bn", "text": "এই" }
+    ]
+  },
+  {
+    "id": "eswnb0nz",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "determiner",
+    "word": "diese",
+    "determiner_type": "demonstrative",
+    "sentences": [
+      { "languageCode": "de", "text": "Diese Blume ist schön." },
+      { "languageCode": "en", "text": "This flower is beautiful." },
+      { "languageCode": "bn", "text": "এই ফুলটা সুন্দর।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "this (feminine)" },
+      { "languageCode": "bn", "text": "এই" }
+    ]
+  },
+  {
+    "id": "39y6mco7",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "welcher",
+    "pronoun_type": "interrogative",
+    "nominative": "welcher",
+    "accusative": "welchen",
+    "dative": "welchem",
+    "genitive": "welches",
+    "sentences": [
+      { "languageCode": "de", "text": "Welcher Tag ist heute?" },
+      { "languageCode": "en", "text": "Which day is today?" },
+      { "languageCode": "bn", "text": "আজ কোন দিন?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "which (masculine)" },
+      { "languageCode": "bn", "text": "কোনটি" }
+    ]
+  },
+  {
+    "id": "m0zchvlg",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "welche",
+    "pronoun_type": "interrogative",
+    "nominative": "welche",
+    "accusative": "welche",
+    "dative": "welcher",
+    "genitive": "welcher",
+    "sentences": [
+      { "languageCode": "de", "text": "Welche Farbe magst du?" },
+      { "languageCode": "en", "text": "Which color do you like?" },
+      { "languageCode": "bn", "text": "তুমি কোন রঙ পছন্দ করো?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "which (feminine)" },
+      { "languageCode": "bn", "text": "কোনটি" }
+    ]
+  },
+  {
+    "id": "n5jmtp4e",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
-    "word": "Mindmap",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Mindmaps",
-    "genitive_singular": "der Mindmap",
+    "word": "Fragewort",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Fragewörter",
+    "genitive_singular": "des Frageworts",
     "sentences": [
-      { "languageCode": "de", "text": "Die Mindmap ist nützlich." },
-      { "languageCode": "en", "text": "The mind map is useful." },
-      { "languageCode": "bn", "text": "মাইন্ড ম্যাপটা কার্যকর।" }
+      { "languageCode": "de", "text": "Das Fragewort ist 'was'." },
+      { "languageCode": "en", "text": "The question word is 'what'." },
+      { "languageCode": "bn", "text": "প্রশ্নবোধক শব্দটি হলো 'কী'।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "mind map" },
-      { "languageCode": "bn", "text": "মাইন্ড ম্যাপ" }
+      { "languageCode": "en", "text": "question word" },
+      { "languageCode": "bn", "text": "প্রশ্নবোধক শব্দ" }
     ]
   },
   {
+    "id": "tywsyoo9",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "mit sprechen",
-    "infinitive": "mit sprechen",
-    "third_person_singular_present": "er spricht mit",
-    "simple_past": "sprach mit",
-    "past_participle": "hat mit gesprochen",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": "mit",
+    "part_of_speech": "pronoun",
+    "word": "was",
+    "pronoun_type": "interrogative",
+    "nominative": "was",
+    "accusative": "was",
+    "dative": "-",
+    "genitive": "-",
     "sentences": [
-      { "languageCode": "de", "text": "Ich spreche mit meinem Freund mit." },
-      { "languageCode": "en", "text": "I speak along with my friend." },
-      { "languageCode": "bn", "text": "আমি আমার বন্ধুর সাথে কথা বলছি।" }
+      { "languageCode": "de", "text": "Was ist das?" },
+      { "languageCode": "en", "text": "What is that?" },
+      { "languageCode": "bn", "text": "এটা কী?" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to speak along" },
-      { "languageCode": "bn", "text": "সাথে কথা বলা" }
+      { "languageCode": "en", "text": "what" },
+      { "languageCode": "bn", "text": "কী" }
     ]
   },
   {
+    "id": "bz4b6pxe",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "nach fragen",
-    "infinitive": "nach fragen",
-    "third_person_singular_present": "er fragt nach",
-    "simple_past": "fragte nach",
-    "past_participle": "hat nach gefragt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": "nach",
+    "part_of_speech": "adverb",
+    "word": "wann",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
     "sentences": [
-      { "languageCode": "de", "text": "Ich frage nach dem Weg." },
-      { "languageCode": "en", "text": "I ask for directions." },
-      { "languageCode": "bn", "text": "আমি পথ সম্পর্কে জিজ্ঞাসা করছি।" }
+      { "languageCode": "de", "text": "Wann kommst du?" },
+      { "languageCode": "en", "text": "When are you coming?" },
+      { "languageCode": "bn", "text": "তুমি কখন আসবে?" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to ask for" },
-      { "languageCode": "bn", "text": "জিজ্ঞাসা করা" }
+      { "languageCode": "en", "text": "when" },
+      { "languageCode": "bn", "text": "কখন" }
     ]
   },
   {
+    "id": "iyhl3rb4",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "nennen",
-    "infinitive": "nennen",
-    "third_person_singular_present": "er nennt",
-    "simple_past": "nannte",
-    "past_participle": "hat genannt",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
+    "part_of_speech": "adverb",
+    "word": "wo",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
     "sentences": [
-      { "languageCode": "de", "text": "Sie nennt ihren Namen." },
-      { "languageCode": "en", "text": "She says her name." },
-      { "languageCode": "bn", "text": "সে তার নাম বলছে।" }
+      { "languageCode": "de", "text": "Wo ist mein Buch?" },
+      { "languageCode": "en", "text": "Where is my book?" },
+      { "languageCode": "bn", "text": "আমার বইটা কোথায়?" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to name/call" },
-      { "languageCode": "bn", "text": "নাম বলা" }
+      { "languageCode": "en", "text": "where" },
+      { "languageCode": "bn", "text": "কোথায়" }
     ]
   },
   {
+    "id": "2enqjrfm",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "adverb",
+    "word": "woher",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Woher kommst du?" },
+      { "languageCode": "en", "text": "Where are you from?" },
+      { "languageCode": "bn", "text": "তুমি কোথা থেকে এসেছ?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "where from" },
+      { "languageCode": "bn", "text": "কোথা থেকে" }
+    ]
+  },
+  {
+    "id": "vvcnbdxc",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "adverb",
+    "word": "wie",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Wie heißt du?" },
+      { "languageCode": "en", "text": "What is your name?" },
+      { "languageCode": "bn", "text": "তোমার নাম কী?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "how" },
+      { "languageCode": "bn", "text": "কীভাবে" }
+    ]
+  },
+  {
+    "id": "5ofga8mr",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "adverb",
+    "word": "wie lange",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Wie lange bleibst du?" },
+      { "languageCode": "en", "text": "How long are you staying?" },
+      { "languageCode": "bn", "text": "তুমি কত দিন থাকবে?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "how long" },
+      { "languageCode": "bn", "text": "কত দিন" }
+    ]
+  },
+  {
+    "id": "cp8ejczj",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Grund",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Gründe",
+    "genitive_singular": "des Grundes",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Grund ist wichtig." },
+      { "languageCode": "en", "text": "The reason is important." },
+      { "languageCode": "bn", "text": "কারণটা গুরুত্বপূর্ণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "reason" },
+      { "languageCode": "bn", "text": "কারণ" }
+    ]
+  },
+  {
+    "id": "g9fc5o8x",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "conjunction",
+    "word": "denn",
+    "conjunction_type": "coordinating",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gehe nach Hause, denn es ist spät." },
+      { "languageCode": "en", "text": "I'm going home, because it's late." },
+      { "languageCode": "bn", "text": "আমি বাড়ি যাচ্ছি, কারণ দেরি হয়ে গেছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "because" },
+      { "languageCode": "bn", "text": "কারণ" }
+    ]
+  },
+  {
+    "id": "n3bq26q2",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "conjunction",
+    "word": "und",
+    "conjunction_type": "coordinating",
+    "sentences": [
+      { "languageCode": "de", "text": "Er liest und schreibt." },
+      { "languageCode": "en", "text": "He reads and writes." },
+      { "languageCode": "bn", "text": "সে পড়ে এবং লেখে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "and" },
+      { "languageCode": "bn", "text": "এবং" }
+    ]
+  },
+  {
+    "id": "yzv2xvrn",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "conjunction",
+    "word": "oder",
+    "conjunction_type": "coordinating",
+    "sentences": [
+      { "languageCode": "de", "text": "Kaffee oder Tee?" },
+      { "languageCode": "en", "text": "Coffee or tea?" },
+      { "languageCode": "bn", "text": "কফি নাকি চা?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "or" },
+      { "languageCode": "bn", "text": "অথবা" }
+    ]
+  },
+  {
+    "id": "s9ismeiy",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "adverb",
@@ -1023,6 +1199,7 @@
     ]
   },
   {
+    "id": "9n869fva",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "adverb",
@@ -1041,6 +1218,7 @@
     ]
   },
   {
+    "id": "jq35s1da",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "adverb",
@@ -1059,41 +1237,198 @@
     ]
   },
   {
+    "id": "f7kmnvl2",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "pronoun",
+    "word": "her",
+    "pronoun_type": "personal",
+    "nominative": "-",
+    "accusative": "-",
+    "dative": "-",
+    "genitive": "-",
+    "sentences": [
+      { "languageCode": "de", "text": "Komm her!" },
+      { "languageCode": "en", "text": "Come here!" },
+      { "languageCode": "bn", "text": "এখানে এসো!" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "here (direction)" },
+      { "languageCode": "bn", "text": "এখানে" }
+    ]
+  },
+  {
+    "id": "g3dw6g9w",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
-    "word": "Nominativ",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Nominative",
-    "genitive_singular": "des Nominativs",
+    "word": "Weise",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Weisen",
+    "genitive_singular": "der Weise",
     "sentences": [
-      { "languageCode": "de", "text": "Der Nominativ ist 'der Mann'." },
-      { "languageCode": "en", "text": "The nominative is 'the man'." },
-      { "languageCode": "bn", "text": "কর্তৃকারকটি হলো 'লোকটি'।" }
+      { "languageCode": "de", "text": "Die Weise ist sehr gut." },
+      { "languageCode": "en", "text": "The way is very good." },
+      { "languageCode": "bn", "text": "উপায়টা খুবই ভালো।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "nominative" },
-      { "languageCode": "bn", "text": "কর্তৃকারক" }
+      { "languageCode": "en", "text": "way" },
+      { "languageCode": "bn", "text": "উপায়" }
     ]
   },
   {
+    "id": "fl1hqlzj",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "conjunction",
-    "word": "oder",
-    "conjunction_type": "coordinating",
+    "part_of_speech": "adjective",
+    "word": "formell",
+    "comparative": "formeller",
+    "superlative": "am formellsten",
+    "gradable": true,
     "sentences": [
-      { "languageCode": "de", "text": "Kaffee oder Tee?" },
-      { "languageCode": "en", "text": "Coffee or tea?" },
-      { "languageCode": "bn", "text": "কফি নাকি চা?" }
+      { "languageCode": "de", "text": "Das ist eine formelle Sprache." },
+      { "languageCode": "en", "text": "That is formal language." },
+      { "languageCode": "bn", "text": "এটা একটা আনুষ্ঠানিক ভাষা।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "or" },
-      { "languageCode": "bn", "text": "অথবা" }
+      { "languageCode": "en", "text": "formal" },
+      { "languageCode": "bn", "text": "আনুষ্ঠানিক" }
     ]
   },
   {
+    "id": "8fs02owr",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "adjective",
+    "word": "informell",
+    "comparative": "informeller",
+    "superlative": "am informellsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Wir sprechen informell." },
+      { "languageCode": "en", "text": "We speak informally." },
+      { "languageCode": "bn", "text": "আমরা অনানুষ্ঠানিকভাবে কথা বলি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "informal" },
+      { "languageCode": "bn", "text": "অনানুষ্ঠানিক" }
+    ]
+  },
+  {
+    "id": "wcrmzqhq",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "adjective",
+    "word": "höflich",
+    "comparative": "höflicher",
+    "superlative": "am höflichsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Er ist sehr höflich." },
+      { "languageCode": "en", "text": "He is very polite." },
+      { "languageCode": "bn", "text": "সে খুব ভদ্র।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "polite" },
+      { "languageCode": "bn", "text": "ভদ্র" }
+    ]
+  },
+  {
+    "id": "r8mrh67a",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "adjective",
+    "word": "unhöflich",
+    "comparative": "unhöflicher",
+    "superlative": "am unhöflichsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist unhöflich." },
+      { "languageCode": "en", "text": "That is impolite." },
+      { "languageCode": "bn", "text": "এটা অভদ্র আচরণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "impolite/rude" },
+      { "languageCode": "bn", "text": "অভদ্র" }
+    ]
+  },
+  {
+    "id": "5u0vbjcg",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "interjection",
+    "word": "wie bitte",
+    "interjection_function": "clarification",
+    "sentences": [
+      { "languageCode": "de", "text": "Wie bitte? Können Sie das wiederholen?" },
+      { "languageCode": "en", "text": "Excuse me? Can you repeat that?" },
+      { "languageCode": "bn", "text": "মাফ করবেন? আপনি কি এটা আবার বলতে পারবেন?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "excuse me/pardon" },
+      { "languageCode": "bn", "text": "মাফ করবেন" }
+    ]
+  },
+  {
+    "id": "ng5sdtjw",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "adjective",
+    "word": "laut",
+    "comparative": "lauter",
+    "superlative": "am lautesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Musik ist laut." },
+      { "languageCode": "en", "text": "The music is loud." },
+      { "languageCode": "bn", "text": "গানটা জোরে বাজছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "loud" },
+      { "languageCode": "bn", "text": "জোরে" }
+    ]
+  },
+  {
+    "id": "1iifir91",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "adjective",
+    "word": "leise",
+    "comparative": "leiser",
+    "superlative": "am leisesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Bitte sprechen Sie leise." },
+      { "languageCode": "en", "text": "Please speak quietly." },
+      { "languageCode": "bn", "text": "দয়া করে আস্তে কথা বলুন।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "quiet/soft" },
+      { "languageCode": "bn", "text": "আস্তে" }
+    ]
+  },
+  {
+    "id": "tgm2klo0",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "adjective",
+    "word": "wichtig",
+    "comparative": "wichtiger",
+    "superlative": "am wichtigsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist ein wichtiges Wort." },
+      { "languageCode": "en", "text": "That is an important word." },
+      { "languageCode": "bn", "text": "এটা একটা গুরুত্বপূর্ণ শব্দ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "important" },
+      { "languageCode": "bn", "text": "গুরুত্বপূর্ণ" }
+    ]
+  },
+  {
+    "id": "hfh4659e",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "adjective",
@@ -1112,202 +1447,7 @@
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Personalpronomen",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Personalpronomen",
-    "genitive_singular": "des Personalpronomens",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Personalpronomen ist 'ich'." },
-      { "languageCode": "en", "text": "The personal pronoun is 'I'." },
-      { "languageCode": "bn", "text": "ব্যক্তিবাচক সর্বনামটি হলো 'আমি'।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "personal pronoun" },
-      { "languageCode": "bn", "text": "ব্যক্তিবাচক সর্বনাম" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Plural",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Plurale",
-    "genitive_singular": "des Plurals",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Plural von 'Buch' ist 'Bücher'." },
-      { "languageCode": "en", "text": "The plural of 'book' is 'books'." },
-      { "languageCode": "bn", "text": "'বই' শব্দের বহুবচন হলো 'বইগুলো'।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "plural" },
-      { "languageCode": "bn", "text": "বহুবচন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Position",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Positionen",
-    "genitive_singular": "der Position",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Position ist am Anfang." },
-      { "languageCode": "en", "text": "The position is at the beginning." },
-      { "languageCode": "bn", "text": "অবস্থানটা শুরুতে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "position" },
-      { "languageCode": "bn", "text": "অবস্থান" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Präfix",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Präfixe",
-    "genitive_singular": "des Präfixes",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Präfix ist 'un-'." },
-      { "languageCode": "en", "text": "The prefix is 'un-'." },
-      { "languageCode": "bn", "text": "উপসর্গটি হলো 'un-'।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "prefix" },
-      { "languageCode": "bn", "text": "উপসর্গ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Präteritum",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Präterita",
-    "genitive_singular": "des Präteritums",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Präteritum ist 'ich ging'." },
-      { "languageCode": "en", "text": "The preterite is 'I went'." },
-      { "languageCode": "bn", "text": "অতীত কালের রূপটি হলো 'আমি গিয়েছিলাম'।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "preterite" },
-      { "languageCode": "bn", "text": "অতীত কাল" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Punkt",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Punkte",
-    "genitive_singular": "des Punkts",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Punkt ist am Ende." },
-      { "languageCode": "en", "text": "The period is at the end." },
-      { "languageCode": "bn", "text": "দাঁড়িটি বাক্যের শেষে বসে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "period/point" },
-      { "languageCode": "bn", "text": "দাঁড়ি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Regel",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Regeln",
-    "genitive_singular": "der Regel",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Regel ist einfach." },
-      { "languageCode": "en", "text": "The rule is simple." },
-      { "languageCode": "bn", "text": "নিয়মটা সহজ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "rule" },
-      { "languageCode": "bn", "text": "নিয়ম" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "sagen",
-    "infinitive": "sagen",
-    "third_person_singular_present": "er sagt",
-    "simple_past": "sagte",
-    "past_participle": "hat gesagt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Er sagt die Wahrheit." },
-      { "languageCode": "en", "text": "He says the truth." },
-      { "languageCode": "bn", "text": "সে সত্যি কথা বলছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to say" },
-      { "languageCode": "bn", "text": "বলা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Satz",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Sätze",
-    "genitive_singular": "des Satzes",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Satz ist lang." },
-      { "languageCode": "en", "text": "The sentence is long." },
-      { "languageCode": "bn", "text": "বাক্যটা লম্বা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "sentence" },
-      { "languageCode": "bn", "text": "বাক্য" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "verb",
-    "word": "schreiben",
-    "infinitive": "schreiben",
-    "third_person_singular_present": "er schreibt",
-    "simple_past": "schrieb",
-    "past_participle": "hat geschrieben",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich schreibe einen Brief." },
-      { "languageCode": "en", "text": "I write a letter." },
-      { "languageCode": "bn", "text": "আমি একটা চিঠি লিখছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to write" },
-      { "languageCode": "bn", "text": "লেখা" }
-    ]
-  },
-  {
+    "id": "3z5wrkyh",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "verb",
@@ -1330,26 +1470,30 @@
     ]
   },
   {
+    "id": "70xqwg4t",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "sie",
-    "pronoun_type": "personal",
-    "nominative": "sie",
-    "accusative": "sie",
-    "dative": "ihr",
-    "genitive": "ihrer",
+    "part_of_speech": "verb",
+    "word": "können",
+    "infinitive": "können",
+    "third_person_singular_present": "er kann",
+    "simple_past": "konnte",
+    "past_participle": "hat gekonnt",
+    "auxiliary_verb": "haben",
+    "verb_type": "modal",
+    "separable_prefix": null,
     "sentences": [
-      { "languageCode": "de", "text": "Sie ist meine Freundin." },
-      { "languageCode": "en", "text": "She is my friend." },
-      { "languageCode": "bn", "text": "সে আমার বান্ধবী।" }
+      { "languageCode": "de", "text": "Ich kann Deutsch sprechen." },
+      { "languageCode": "en", "text": "I can speak German." },
+      { "languageCode": "bn", "text": "আমি জার্মান বলতে পারি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "she/they" },
-      { "languageCode": "bn", "text": "সে/তারা" }
+      { "languageCode": "en", "text": "can" },
+      { "languageCode": "bn", "text": "পারা" }
     ]
   },
   {
+    "id": "aoclyost",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "verb",
@@ -1372,287 +1516,145 @@
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Tabelle",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Tabellen",
-    "genitive_singular": "der Tabelle",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Tabelle ist sehr hilfreich." },
-      { "languageCode": "en", "text": "The table is very helpful." },
-      { "languageCode": "bn", "text": "টেবিলটা খুবই সহায়ক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "table" },
-      { "languageCode": "bn", "text": "টেবিল" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Textbaustein",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Textbausteine",
-    "genitive_singular": "des Textbausteins",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Textbaustein ist hilfreich." },
-      { "languageCode": "en", "text": "The text building block is helpful." },
-      { "languageCode": "bn", "text": "টেক্সট বিল্ডিং ব্লকটি সহায়ক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "text building block" },
-      { "languageCode": "bn", "text": "টেক্সট বিল্ডিং ব্লক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Textbaustein",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Textbausteine",
-    "genitive_singular": "des Textbausteins",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Textbaustein ist wichtig." },
-      { "languageCode": "en", "text": "The text block is important." },
-      { "languageCode": "bn", "text": "টেক্সট ব্লকটি গুরুত্বপূর্ণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "text block" },
-      { "languageCode": "bn", "text": "টেক্সট ব্লক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Thema",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Themen",
-    "genitive_singular": "des Themas",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Thema ist interessant." },
-      { "languageCode": "en", "text": "The topic is interesting." },
-      { "languageCode": "bn", "text": "বিষয়টা আকর্ষণীয়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "topic" },
-      { "languageCode": "bn", "text": "বিষয়" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "adjective",
-    "word": "thematisch",
-    "comparative": "thematischer",
-    "superlative": "am thematischsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist ein thematisches Wort." },
-      { "languageCode": "en", "text": "That is a thematic word." },
-      { "languageCode": "bn", "text": "এটা একটা বিষয়ভিত্তিক শব্দ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "thematic" },
-      { "languageCode": "bn", "text": "বিষয়ভিত্তিক" }
-    ]
-  },
-  {
+    "id": "spwguz3b",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "verb",
-    "word": "treffen",
-    "infinitive": "treffen",
-    "third_person_singular_present": "er trifft",
-    "simple_past": "traf",
-    "past_participle": "hat getroffen",
+    "word": "mit sprechen",
+    "infinitive": "mit sprechen",
+    "third_person_singular_present": "er spricht mit",
+    "simple_past": "sprach mit",
+    "past_participle": "hat mit gesprochen",
     "auxiliary_verb": "haben",
     "verb_type": "irregular",
-    "separable_prefix": null,
+    "separable_prefix": "mit",
     "sentences": [
-      { "languageCode": "de", "text": "Ich treffe meinen Freund." },
-      { "languageCode": "en", "text": "I meet my friend." },
-      { "languageCode": "bn", "text": "আমি আমার বন্ধুর সাথে দেখা করছি।" }
+      { "languageCode": "de", "text": "Ich spreche mit meinem Freund mit." },
+      { "languageCode": "en", "text": "I speak along with my friend." },
+      { "languageCode": "bn", "text": "আমি আমার বন্ধুর সাথে কথা বলছি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to meet" },
-      { "languageCode": "bn", "text": "দেখা করা" }
+      { "languageCode": "en", "text": "to speak along" },
+      { "languageCode": "bn", "text": "সাথে কথা বলা" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Umlaut",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Umlaute",
-    "genitive_singular": "des Umlauts",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Umlaut ist 'ä'." },
-      { "languageCode": "en", "text": "The umlaut is 'ä'." },
-      { "languageCode": "bn", "text": "উমলাউতটি হলো 'ä'।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "umlaut" },
-      { "languageCode": "bn", "text": "উমলাউত" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "adjective",
-    "word": "unbestimmt",
-    "comparative": "unbestimmter",
-    "superlative": "am unbestimmtesten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist ein unbestimmter Artikel." },
-      { "languageCode": "en", "text": "That is an indefinite article." },
-      { "languageCode": "bn", "text": "এটা একটা অনির্দিষ্ট আর্টিকেল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "indefinite" },
-      { "languageCode": "bn", "text": "অনির্দিষ্ট" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "conjunction",
-    "word": "und",
-    "conjunction_type": "coordinating",
-    "sentences": [
-      { "languageCode": "de", "text": "Er liest und schreibt." },
-      { "languageCode": "en", "text": "He reads and writes." },
-      { "languageCode": "bn", "text": "সে পড়ে এবং লেখে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "and" },
-      { "languageCode": "bn", "text": "এবং" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "adjective",
-    "word": "unhöflich",
-    "comparative": "unhöflicher",
-    "superlative": "am unhöflichsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist unhöflich." },
-      { "languageCode": "en", "text": "That is impolite." },
-      { "languageCode": "bn", "text": "এটা অভদ্র আচরণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "impolite/rude" },
-      { "languageCode": "bn", "text": "অভদ্র" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "unser",
-    "pronoun_type": "possessive",
-    "cases": {"nominative": "unser", "accusative": "unseren", "dative": "unserem", "genitive": "unseres"},
-    "sentences": [
-      { "languageCode": "de", "text": "Unser Haus ist klein." },
-      { "languageCode": "en", "text": "Our house is small." },
-      { "languageCode": "bn", "text": "আমাদের বাড়িটা ছোট।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "our (masculine)" },
-      { "languageCode": "bn", "text": "আমাদের" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "unsere",
-    "pronoun_type": "possessive",
-    "cases": {"nominative": "unsere", "accusative": "unsere", "dative": "unserer", "genitive": "unserer"},
-    "sentences": [
-      { "languageCode": "de", "text": "Unsere Tochter ist fünf Jahre alt." },
-      { "languageCode": "en", "text": "Our daughter is five years old." },
-      { "languageCode": "bn", "text": "আমাদের মেয়ের বয়স পাঁচ বছর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "our (feminine)" },
-      { "languageCode": "bn", "text": "আমাদের" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Verb",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Verben",
-    "genitive_singular": "des Verbs",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Verb ist wichtig." },
-      { "languageCode": "en", "text": "The verb is important." },
-      { "languageCode": "bn", "text": "ক্রিয়াপদটা গুরুত্বপূর্ণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "verb" },
-      { "languageCode": "bn", "text": "ক্রিয়া" }
-    ]
-  },
-  {
+    "id": "teg54hqf",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "verb",
-    "word": "verwenden",
-    "infinitive": "verwenden",
-    "third_person_singular_present": "er verwendet",
-    "simple_past": "verwendete",
-    "past_participle": "hat verwendet",
+    "word": "sagen",
+    "infinitive": "sagen",
+    "third_person_singular_present": "er sagt",
+    "simple_past": "sagte",
+    "past_participle": "hat gesagt",
     "auxiliary_verb": "haben",
     "verb_type": "regular",
     "separable_prefix": null,
     "sentences": [
-      { "languageCode": "de", "text": "Ich verwende einen Bleistift." },
-      { "languageCode": "en", "text": "I use a pencil." },
-      { "languageCode": "bn", "text": "আমি একটা পেন্সিল ব্যবহার করছি।" }
+      { "languageCode": "de", "text": "Er sagt die Wahrheit." },
+      { "languageCode": "en", "text": "He says the truth." },
+      { "languageCode": "bn", "text": "সে সত্যি কথা বলছে।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to use" },
-      { "languageCode": "bn", "text": "ব্যবহার করা" }
+      { "languageCode": "en", "text": "to say" },
+      { "languageCode": "bn", "text": "বলা" }
     ]
   },
   {
+    "id": "ybaoz9xv",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Vokal",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Vokale",
-    "genitive_singular": "des Vokals",
+    "part_of_speech": "verb",
+    "word": "erzählen",
+    "infinitive": "erzählen",
+    "third_person_singular_present": "er erzählt",
+    "simple_past": "erzählte",
+    "past_participle": "hat erzählt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
     "sentences": [
-      { "languageCode": "de", "text": "Der Vokal 'A' ist wichtig." },
-      { "languageCode": "en", "text": "The vowel 'A' is important." },
-      { "languageCode": "bn", "text": "স্বরবর্ণ 'A' গুরুত্বপূর্ণ।" }
+      { "languageCode": "de", "text": "Sie erzählt eine Geschichte." },
+      { "languageCode": "en", "text": "She tells a story." },
+      { "languageCode": "bn", "text": "সে একটা গল্প বলছে।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "vowel" },
-      { "languageCode": "bn", "text": "স্বরবর্ণ" }
+      { "languageCode": "en", "text": "to tell" },
+      { "languageCode": "bn", "text": "বলা/গল্প বলা" }
     ]
   },
   {
+    "id": "krw1egcs",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "hören",
+    "infinitive": "hören",
+    "third_person_singular_present": "er hört",
+    "simple_past": "hörte",
+    "past_participle": "hat gehört",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich höre Musik." },
+      { "languageCode": "en", "text": "I listen to music." },
+      { "languageCode": "bn", "text": "আমি গান শুনছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to listen" },
+      { "languageCode": "bn", "text": "শোনা" }
+    ]
+  },
+  {
+    "id": "ijvawzul",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "klingen",
+    "infinitive": "klingen",
+    "third_person_singular_present": "er klingt",
+    "simple_past": "klang",
+    "past_participle": "hat geklungen",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Das klingt gut." },
+      { "languageCode": "en", "text": "That sounds good." },
+      { "languageCode": "bn", "text": "এটা শুনতে ভালো লাগছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to sound" },
+      { "languageCode": "bn", "text": "শোনানো" }
+    ]
+  },
+  {
+    "id": "3yitosv8",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "lesen",
+    "infinitive": "lesen",
+    "third_person_singular_present": "er liest",
+    "simple_past": "las",
+    "past_participle": "hat gelesen",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich lese ein Buch." },
+      { "languageCode": "en", "text": "I read a book." },
+      { "languageCode": "bn", "text": "আমি একটা বই পড়ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to read" },
+      { "languageCode": "bn", "text": "পড়া" }
+    ]
+  },
+  {
+    "id": "87kq9gwy",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "verb",
@@ -1675,214 +1677,188 @@
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "adverb",
-    "word": "wann",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Wann kommst du?" },
-      { "languageCode": "en", "text": "When are you coming?" },
-      { "languageCode": "bn", "text": "তুমি কখন আসবে?" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "when" },
-      { "languageCode": "bn", "text": "কখন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "was",
-    "pronoun_type": "interrogative",
-    "nominative": "was",
-    "accusative": "was",
-    "dative": "-",
-    "genitive": "-",
-    "sentences": [
-      { "languageCode": "de", "text": "Was ist das?" },
-      { "languageCode": "en", "text": "What is that?" },
-      { "languageCode": "bn", "text": "এটা কী?" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "what" },
-      { "languageCode": "bn", "text": "কী" }
-    ]
-  },
-  {
+    "id": "orfxnixe",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "verb",
-    "word": "waschen",
-    "infinitive": "waschen",
-    "third_person_singular_present": "er wäscht",
-    "simple_past": "wusch",
-    "past_participle": "hat gewaschen",
+    "word": "schreiben",
+    "infinitive": "schreiben",
+    "third_person_singular_present": "er schreibt",
+    "simple_past": "schrieb",
+    "past_participle": "hat geschrieben",
     "auxiliary_verb": "haben",
     "verb_type": "irregular",
     "separable_prefix": null,
     "sentences": [
-      { "languageCode": "de", "text": "Ich wasche meine Hände." },
-      { "languageCode": "en", "text": "I wash my hands." },
-      { "languageCode": "bn", "text": "আমি হাত ধুচ্ছি।" }
+      { "languageCode": "de", "text": "Ich schreibe einen Brief." },
+      { "languageCode": "en", "text": "I write a letter." },
+      { "languageCode": "bn", "text": "আমি একটা চিঠি লিখছি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to wash" },
-      { "languageCode": "bn", "text": "ধোয়া" }
+      { "languageCode": "en", "text": "to write" },
+      { "languageCode": "bn", "text": "লেখা" }
     ]
   },
   {
+    "id": "b8far7d6",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "ausfüllen",
+    "infinitive": "ausfüllen",
+    "third_person_singular_present": "er füllt aus",
+    "simple_past": "füllte aus",
+    "past_participle": "hat ausgefüllt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": "aus",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich fülle das Formular aus." },
+      { "languageCode": "en", "text": "I fill out the form." },
+      { "languageCode": "bn", "text": "আমি ফর্মটা পূরণ করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to fill out" },
+      { "languageCode": "bn", "text": "পূরণ করা" }
+    ]
+  },
+  {
+    "id": "850qyunt",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "fragen",
+    "infinitive": "fragen",
+    "third_person_singular_present": "er fragt",
+    "simple_past": "fragte",
+    "past_participle": "hat gefragt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich frage den Lehrer." },
+      { "languageCode": "en", "text": "I ask the teacher." },
+      { "languageCode": "bn", "text": "আমি শিক্ষককে জিজ্ঞাসা করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to ask" },
+      { "languageCode": "bn", "text": "জিজ্ঞাসা করা" }
+    ]
+  },
+  {
+    "id": "2yyjr53s",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "nach fragen",
+    "infinitive": "nach fragen",
+    "third_person_singular_present": "er fragt nach",
+    "simple_past": "fragte nach",
+    "past_participle": "hat nach gefragt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": "nach",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich frage nach dem Weg." },
+      { "languageCode": "en", "text": "I ask for directions." },
+      { "languageCode": "bn", "text": "আমি পথ সম্পর্কে জিজ্ঞাসা করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to ask for" },
+      { "languageCode": "bn", "text": "জিজ্ঞাসা করা" }
+    ]
+  },
+  {
+    "id": "zzepyn5i",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "antworten",
+    "infinitive": "antworten",
+    "third_person_singular_present": "er antwortet",
+    "simple_past": "antwortete",
+    "past_participle": "hat geantwortet",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich antworte auf die Frage." },
+      { "languageCode": "en", "text": "I answer the question." },
+      { "languageCode": "bn", "text": "আমি প্রশ্নের উত্তর দিচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to answer" },
+      { "languageCode": "bn", "text": "উত্তর দেওয়া" }
+    ]
+  },
+  {
+    "id": "i5ajm07u",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "noun",
-    "word": "Wechselpräposition",
+    "word": "Antwort",
     "article": "die",
     "gender": "feminine",
-    "plural": "Wechselpräpositionen",
-    "genitive_singular": "der Wechselpräposition",
+    "plural": "Antworten",
+    "genitive_singular": "der Antwort",
     "sentences": [
-      { "languageCode": "de", "text": "Die Wechselpräposition ist 'in'." },
-      { "languageCode": "en", "text": "The two-way preposition is 'in'." },
-      { "languageCode": "bn", "text": "দ্বিমুখী অব্যয়টি হলো 'in'।" }
+      { "languageCode": "de", "text": "Die Antwort ist richtig." },
+      { "languageCode": "en", "text": "The answer is correct." },
+      { "languageCode": "bn", "text": "উত্তরটা সঠিক।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "two-way preposition" },
-      { "languageCode": "bn", "text": "দ্বিমুখী অব্যয়" }
+      { "languageCode": "en", "text": "answer" },
+      { "languageCode": "bn", "text": "উত্তর" }
     ]
   },
   {
+    "id": "tt3x2fqm",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Weise",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Weisen",
-    "genitive_singular": "der Weise",
+    "part_of_speech": "verb",
+    "word": "erklären",
+    "infinitive": "erklären",
+    "third_person_singular_present": "er erklärt",
+    "simple_past": "erklärte",
+    "past_participle": "hat erklärt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
     "sentences": [
-      { "languageCode": "de", "text": "Die Weise ist sehr gut." },
-      { "languageCode": "en", "text": "The way is very good." },
-      { "languageCode": "bn", "text": "উপায়টা খুবই ভালো।" }
+      { "languageCode": "de", "text": "Der Lehrer erklärt die Regel." },
+      { "languageCode": "en", "text": "The teacher explains the rule." },
+      { "languageCode": "bn", "text": "শিক্ষক নিয়মটা ব্যাখ্যা করছেন।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "way" },
-      { "languageCode": "bn", "text": "উপায়" }
+      { "languageCode": "en", "text": "to explain" },
+      { "languageCode": "bn", "text": "ব্যাখ্যা করা" }
     ]
   },
   {
+    "id": "lg3qgq9q",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "welche",
-    "pronoun_type": "interrogative",
-    "nominative": "welche",
-    "accusative": "welche",
-    "dative": "welcher",
-    "genitive": "welcher",
+    "part_of_speech": "verb",
+    "word": "beschreiben",
+    "infinitive": "beschreiben",
+    "third_person_singular_present": "er beschreibt",
+    "simple_past": "beschrieb",
+    "past_participle": "hat beschrieben",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
     "sentences": [
-      { "languageCode": "de", "text": "Welche Farbe magst du?" },
-      { "languageCode": "en", "text": "Which color do you like?" },
-      { "languageCode": "bn", "text": "তুমি কোন রঙ পছন্দ করো?" }
+      { "languageCode": "de", "text": "Er beschreibt das Bild." },
+      { "languageCode": "en", "text": "He describes the picture." },
+      { "languageCode": "bn", "text": "সে ছবিটা বর্ণনা করছে।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "which (feminine)" },
-      { "languageCode": "bn", "text": "কোনটি" }
+      { "languageCode": "en", "text": "to describe" },
+      { "languageCode": "bn", "text": "বর্ণনা করা" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "pronoun",
-    "word": "welcher",
-    "pronoun_type": "interrogative",
-    "nominative": "welcher",
-    "accusative": "welchen",
-    "dative": "welchem",
-    "genitive": "welches",
-    "sentences": [
-      { "languageCode": "de", "text": "Welcher Tag ist heute?" },
-      { "languageCode": "en", "text": "Which day is today?" },
-      { "languageCode": "bn", "text": "আজ কোন দিন?" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "which (masculine)" },
-      { "languageCode": "bn", "text": "কোনটি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "adjective",
-    "word": "wichtig",
-    "comparative": "wichtiger",
-    "superlative": "am wichtigsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist ein wichtiges Wort." },
-      { "languageCode": "en", "text": "That is an important word." },
-      { "languageCode": "bn", "text": "এটা একটা গুরুত্বপূর্ণ শব্দ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "important" },
-      { "languageCode": "bn", "text": "গুরুত্বপূর্ণ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "adverb",
-    "word": "wie",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Wie heißt du?" },
-      { "languageCode": "en", "text": "What is your name?" },
-      { "languageCode": "bn", "text": "তোমার নাম কী?" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "how" },
-      { "languageCode": "bn", "text": "কীভাবে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "interjection",
-    "word": "wie bitte",
-    "interjection_function": "clarification",
-    "sentences": [
-      { "languageCode": "de", "text": "Wie bitte? Können Sie das wiederholen?" },
-      { "languageCode": "en", "text": "Excuse me? Can you repeat that?" },
-      { "languageCode": "bn", "text": "মাফ করবেন? আপনি কি এটা আবার বলতে পারবেন?" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "excuse me/pardon" },
-      { "languageCode": "bn", "text": "মাফ করবেন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "adverb",
-    "word": "wie lange",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Wie lange bleibst du?" },
-      { "languageCode": "en", "text": "How long are you staying?" },
-      { "languageCode": "bn", "text": "তুমি কত দিন থাকবে?" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "how long" },
-      { "languageCode": "bn", "text": "কত দিন" }
-    ]
-  },
-  {
+    "id": "jos79rps",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "verb",
@@ -1905,6 +1881,53 @@
     ]
   },
   {
+    "id": "1ksys7nu",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "korrigieren",
+    "infinitive": "korrigieren",
+    "third_person_singular_present": "er korrigiert",
+    "simple_past": "korrigierte",
+    "past_participle": "hat korrigiert",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Sie korrigiert den Fehler." },
+      { "languageCode": "en", "text": "She corrects the mistake." },
+      { "languageCode": "bn", "text": "সে ভুলটা সংশোধন করছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to correct" },
+      { "languageCode": "bn", "text": "সংশোধন করা" }
+    ]
+  },
+  {
+    "id": "c2stme8v",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "nennen",
+    "infinitive": "nennen",
+    "third_person_singular_present": "er nennt",
+    "simple_past": "nannte",
+    "past_participle": "hat genannt",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Sie nennt ihren Namen." },
+      { "languageCode": "en", "text": "She says her name." },
+      { "languageCode": "bn", "text": "সে তার নাম বলছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to name/call" },
+      { "languageCode": "bn", "text": "নাম বলা" }
+    ]
+  },
+  {
+    "id": "13c5lke5",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "verb",
@@ -1927,77 +1950,76 @@
     ]
   },
   {
+    "id": "z8ck06z6",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "adverb",
-    "word": "wo",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
+    "part_of_speech": "verb",
+    "word": "verwenden",
+    "infinitive": "verwenden",
+    "third_person_singular_present": "er verwendet",
+    "simple_past": "verwendete",
+    "past_participle": "hat verwendet",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
     "sentences": [
-      { "languageCode": "de", "text": "Wo ist mein Buch?" },
-      { "languageCode": "en", "text": "Where is my book?" },
-      { "languageCode": "bn", "text": "আমার বইটা কোথায়?" }
+      { "languageCode": "de", "text": "Ich verwende einen Bleistift." },
+      { "languageCode": "en", "text": "I use a pencil." },
+      { "languageCode": "bn", "text": "আমি একটা পেন্সিল ব্যবহার করছি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "where" },
-      { "languageCode": "bn", "text": "কোথায়" }
+      { "languageCode": "en", "text": "to use" },
+      { "languageCode": "bn", "text": "ব্যবহার করা" }
     ]
   },
   {
+    "id": "tg6d70wl",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "adverb",
-    "word": "woher",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
+    "part_of_speech": "verb",
+    "word": "kriegen",
+    "infinitive": "kriegen",
+    "third_person_singular_present": "er kriegt",
+    "simple_past": "kriegte",
+    "past_participle": "hat gekriegt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
     "sentences": [
-      { "languageCode": "de", "text": "Woher kommst du?" },
-      { "languageCode": "en", "text": "Where are you from?" },
-      { "languageCode": "bn", "text": "তুমি কোথা থেকে এসেছ?" }
+      { "languageCode": "de", "text": "Ich kriege ein Geschenk." },
+      { "languageCode": "en", "text": "I get a gift." },
+      { "languageCode": "bn", "text": "আমি একটা উপহার পাচ্ছি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "where from" },
-      { "languageCode": "bn", "text": "কোথা থেকে" }
+      { "languageCode": "en", "text": "to get" },
+      { "languageCode": "bn", "text": "পাওয়া" }
     ]
   },
   {
+    "id": "7opu2j0l",
     "level": "a1",
     "topic": "grammar-and-language",
-    "part_of_speech": "noun",
-    "word": "Wortgruppe",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Wortgruppen",
-    "genitive_singular": "der Wortgruppe",
+    "part_of_speech": "verb",
+    "word": "ersetzen",
+    "infinitive": "ersetzen",
+    "third_person_singular_present": "er ersetzt",
+    "simple_past": "ersetzte",
+    "past_participle": "hat ersetzt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
     "sentences": [
-      { "languageCode": "de", "text": "Die Wortgruppe ist wichtig." },
-      { "languageCode": "en", "text": "The word group is important." },
-      { "languageCode": "bn", "text": "শব্দ গোষ্ঠীটা গুরুত্বপূর্ণ।" }
+      { "languageCode": "de", "text": "Ich ersetze das Wort." },
+      { "languageCode": "en", "text": "I replace the word." },
+      { "languageCode": "bn", "text": "আমি শব্দটা প্রতিস্থাপন করছি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "word group" },
-      { "languageCode": "bn", "text": "শব্দ গোষ্ঠী" }
+      { "languageCode": "en", "text": "to replace" },
+      { "languageCode": "bn", "text": "প্রতিস্থাপন করা" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "grammar-and-language",
-    "part_of_speech": "conjunction",
-    "word": "zum Beispiel",
-    "conjunction_type": "coordinating",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich esse gerne Obst, zum Beispiel Äpfel." },
-      { "languageCode": "en", "text": "I like to eat fruit, for example apples." },
-      { "languageCode": "bn", "text": "আমি ফল খেতে পছন্দ করি, উদাহরণস্বরূপ আপেল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "for example" },
-      { "languageCode": "bn", "text": "উদাহরণস্বরূপ" }
-    ]
-  },
-  {
+    "id": "bix06vss",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "verb",
@@ -2020,28 +2042,30 @@
     ]
   },
   {
+    "id": "4rtzhvfe",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "verb",
-    "word": "zurückschicken",
-    "infinitive": "zurückschicken",
-    "third_person_singular_present": "er schickt zurück",
-    "simple_past": "schickte zurück",
-    "past_participle": "hat zurückgeschickt",
+    "word": "dazu gehören",
+    "infinitive": "dazu gehören",
+    "third_person_singular_present": "er gehört dazu",
+    "simple_past": "gehörte dazu",
+    "past_participle": "hat dazu gehört",
     "auxiliary_verb": "haben",
     "verb_type": "regular",
-    "separable_prefix": "zurück",
+    "separable_prefix": "dazu",
     "sentences": [
-      { "languageCode": "de", "text": "Ich schicke das Paket zurück." },
-      { "languageCode": "en", "text": "I send the package back." },
-      { "languageCode": "bn", "text": "আমি প্যাকেটটা ফেরত পাঠাচ্ছি।" }
+      { "languageCode": "de", "text": "Das gehört dazu." },
+      { "languageCode": "en", "text": "That belongs to it." },
+      { "languageCode": "bn", "text": "এটা এর অন্তর্ভুক্ত।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to send back" },
-      { "languageCode": "bn", "text": "ফেরত পাঠানো" }
+      { "languageCode": "en", "text": "to belong to" },
+      { "languageCode": "bn", "text": "অন্তর্ভুক্ত হওয়া" }
     ]
   },
   {
+    "id": "nmxrwei1",
     "level": "a1",
     "topic": "grammar-and-language",
     "part_of_speech": "verb",
@@ -2061,6 +2085,118 @@
     "translations": [
       { "languageCode": "en", "text": "to belong together" },
       { "languageCode": "bn", "text": "একসাথে থাকা" }
+    ]
+  },
+  {
+    "id": "nzzn9dos",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "noun",
+    "word": "Assoziation",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Assoziationen",
+    "genitive_singular": "der Assoziation",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Assoziation hilft beim Lernen." },
+      { "languageCode": "en", "text": "The association helps with learning." },
+      { "languageCode": "bn", "text": "সংযোগ শেখার ক্ষেত্রে সাহায্য করে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "association" },
+      { "languageCode": "bn", "text": "সংযোগ" }
+    ]
+  },
+  {
+    "id": "gbr5eog9",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "führen",
+    "infinitive": "führen",
+    "third_person_singular_present": "er führt",
+    "simple_past": "führte",
+    "past_participle": "hat geführt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Er führt das Gespräch." },
+      { "languageCode": "en", "text": "He leads the conversation." },
+      { "languageCode": "bn", "text": "সে কথোপকথন পরিচালনা করছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to lead" },
+      { "languageCode": "bn", "text": "পরিচালনা করা" }
+    ]
+  },
+  {
+    "id": "2jupkzxb",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "treffen",
+    "infinitive": "treffen",
+    "third_person_singular_present": "er trifft",
+    "simple_past": "traf",
+    "past_participle": "hat getroffen",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich treffe meinen Freund." },
+      { "languageCode": "en", "text": "I meet my friend." },
+      { "languageCode": "bn", "text": "আমি আমার বন্ধুর সাথে দেখা করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to meet" },
+      { "languageCode": "bn", "text": "দেখা করা" }
+    ]
+  },
+  {
+    "id": "ukrgugnf",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "waschen",
+    "infinitive": "waschen",
+    "third_person_singular_present": "er wäscht",
+    "simple_past": "wusch",
+    "past_participle": "hat gewaschen",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich wasche meine Hände." },
+      { "languageCode": "en", "text": "I wash my hands." },
+      { "languageCode": "bn", "text": "আমি হাত ধুচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to wash" },
+      { "languageCode": "bn", "text": "ধোয়া" }
+    ]
+  },
+  {
+    "id": "0iyopcfo",
+    "level": "a1",
+    "topic": "grammar-and-language",
+    "part_of_speech": "verb",
+    "word": "zurückschicken",
+    "infinitive": "zurückschicken",
+    "third_person_singular_present": "er schickt zurück",
+    "simple_past": "schickte zurück",
+    "past_participle": "hat zurückgeschickt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": "zurück",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich schicke das Paket zurück." },
+      { "languageCode": "en", "text": "I send the package back." },
+      { "languageCode": "bn", "text": "আমি প্যাকেটটা ফেরত পাঠাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to send back" },
+      { "languageCode": "bn", "text": "ফেরত পাঠানো" }
     ]
   }
 ]
