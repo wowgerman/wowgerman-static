@@ -1,955 +1,6 @@
 [
   {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Altbauwohnung",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Altbauwohnungen",
-    "genitive_singular": "der Altbauwohnung",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Altbauwohnung hat hohe Decken." },
-      { "languageCode": "en", "text": "The old apartment has high ceilings." },
-      { "languageCode": "bn", "text": "পুরানো অ্যাপার্টমেন্টটার ছাদ উঁচু।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "old apartment" },
-      { "languageCode": "bn", "text": "পুরানো অ্যাপার্টমেন্ট" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Arbeitszimmer",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Arbeitszimmer",
-    "genitive_singular": "des Arbeitszimmers",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Arbeitszimmer ist ruhig." },
-      { "languageCode": "en", "text": "The office is quiet." },
-      { "languageCode": "bn", "text": "অফিস ঘরটা শান্ত।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "office/study room" },
-      { "languageCode": "bn", "text": "অফিস/পড়ার ঘর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Bad",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Bäder",
-    "genitive_singular": "des Bades",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Bad ist klein." },
-      { "languageCode": "en", "text": "The bathroom is small." },
-      { "languageCode": "bn", "text": "বাথরুমটা ছোট।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "bathroom" },
-      { "languageCode": "bn", "text": "বাথরুম" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Balkon",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Balkone",
-    "genitive_singular": "des Balkons",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Balkon ist sonnig." },
-      { "languageCode": "en", "text": "The balcony is sunny." },
-      { "languageCode": "bn", "text": "ব্যালকনিটা রৌদ্রোজ্জ্বল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "balcony" },
-      { "languageCode": "bn", "text": "ব্যালকনি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "verb",
-    "word": "bleiben",
-    "infinitive": "bleiben",
-    "third_person_singular_present": "er bleibt",
-    "simple_past": "blieb",
-    "past_participle": "ist geblieben",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich bleibe zu Hause." },
-      { "languageCode": "en", "text": "I stay at home." },
-      { "languageCode": "bn", "text": "আমি বাড়িতে থাকছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to stay" },
-      { "languageCode": "bn", "text": "থাকা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Decke",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Decken",
-    "genitive_singular": "der Decke",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Decke ist weiß." },
-      { "languageCode": "en", "text": "The ceiling is white." },
-      { "languageCode": "bn", "text": "ছাদটা সাদা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "ceiling" },
-      { "languageCode": "bn", "text": "ছাদ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Deckel",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Deckel",
-    "genitive_singular": "des Deckels",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Deckel ist zu." },
-      { "languageCode": "en", "text": "The lid is closed." },
-      { "languageCode": "bn", "text": "ঢাকনাটা বন্ধ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "lid" },
-      { "languageCode": "bn", "text": "ঢাকনা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "adjective",
-    "word": "dunkel",
-    "comparative": "dunkler",
-    "superlative": "am dunkelsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Zimmer ist dunkel." },
-      { "languageCode": "en", "text": "The room is dark." },
-      { "languageCode": "bn", "text": "ঘরটা অন্ধকার।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "dark" },
-      { "languageCode": "bn", "text": "অন্ধকার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Dusche",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Duschen",
-    "genitive_singular": "der Dusche",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Dusche ist warm." },
-      { "languageCode": "en", "text": "The shower is warm." },
-      { "languageCode": "bn", "text": "শাওয়ারটা গরম।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "shower" },
-      { "languageCode": "bn", "text": "শাওয়ার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Fachwerkhaus",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Fachwerkhäuser",
-    "genitive_singular": "des Fachwerkhauses",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Fachwerkhaus ist alt." },
-      { "languageCode": "en", "text": "The half-timbered house is old." },
-      { "languageCode": "bn", "text": "কাঠের বাড়িটা পুরনো।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "half-timbered house" },
-      { "languageCode": "bn", "text": "কাঠের বাড়ি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Fernseher",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Fernseher",
-    "genitive_singular": "des Fernsehers",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Fernseher ist im Wohnzimmer." },
-      { "languageCode": "en", "text": "The television is in the living room." },
-      { "languageCode": "bn", "text": "টেলিভিশনটা বসার ঘরে আছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "television" },
-      { "languageCode": "bn", "text": "টেলিভিশন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Flasche",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Flaschen",
-    "genitive_singular": "der Flasche",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Flasche ist leer." },
-      { "languageCode": "en", "text": "The bottle is empty." },
-      { "languageCode": "bn", "text": "বোতলটা খালি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "bottle" },
-      { "languageCode": "bn", "text": "বোতল" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Flur",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Flure",
-    "genitive_singular": "des Flurs",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Flur ist lang." },
-      { "languageCode": "en", "text": "The hallway is long." },
-      { "languageCode": "bn", "text": "করিডোরটা লম্বা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "hallway" },
-      { "languageCode": "bn", "text": "করিডোর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Garten",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Gärten",
-    "genitive_singular": "des Gartens",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Garten ist schön." },
-      { "languageCode": "en", "text": "The garden is beautiful." },
-      { "languageCode": "bn", "text": "বাগানটা সুন্দর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "garden" },
-      { "languageCode": "bn", "text": "বাগান" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "adjective",
-    "word": "gemütlich",
-    "comparative": "gemütlicher",
-    "superlative": "am gemütlichsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Zimmer ist gemütlich." },
-      { "languageCode": "en", "text": "The room is cozy." },
-      { "languageCode": "bn", "text": "ঘরটা আরামদায়ক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "cozy" },
-      { "languageCode": "bn", "text": "আরামদায়ক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Gerät",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Geräte",
-    "genitive_singular": "des Geräts",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Gerät ist neu." },
-      { "languageCode": "en", "text": "The device is new." },
-      { "languageCode": "bn", "text": "যন্ত্রটা নতুন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "device/appliance" },
-      { "languageCode": "bn", "text": "যন্ত্র/যন্ত্রপাতি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Haus",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Häuser",
-    "genitive_singular": "des Hauses",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Haus ist groß." },
-      { "languageCode": "en", "text": "The house is big." },
-      { "languageCode": "bn", "text": "বাড়িটা বড়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "house" },
-      { "languageCode": "bn", "text": "বাড়ি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Herd",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Herde",
-    "genitive_singular": "des Herds",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Herd ist in der Küche." },
-      { "languageCode": "en", "text": "The stove is in the kitchen." },
-      { "languageCode": "bn", "text": "চুলাটা রান্নাঘরে আছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "stove" },
-      { "languageCode": "bn", "text": "চুলা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Hochhaus",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Hochhäuser",
-    "genitive_singular": "des Hochhauses",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Hochhaus ist hoch." },
-      { "languageCode": "en", "text": "The high-rise is tall." },
-      { "languageCode": "bn", "text": "উঁচু বিল্ডিংটা অনেক লম্বা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "high-rise building" },
-      { "languageCode": "bn", "text": "উঁচু বিল্ডিং" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Holz",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Hölzer",
-    "genitive_singular": "des Holzes",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Holz ist braun." },
-      { "languageCode": "en", "text": "The wood is brown." },
-      { "languageCode": "bn", "text": "কাঠটা বাদামী।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "wood" },
-      { "languageCode": "bn", "text": "কাঠ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Kaffeemaschine",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Kaffeemaschinen",
-    "genitive_singular": "der Kaffeemaschine",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Kaffeemaschine macht guten Kaffee." },
-      { "languageCode": "en", "text": "The coffee machine makes good coffee." },
-      { "languageCode": "bn", "text": "কফি মেশিনটা ভালো কফি তৈরি করে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "coffee machine" },
-      { "languageCode": "bn", "text": "কফি মেশিন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Kinderzimmer",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Kinderzimmer",
-    "genitive_singular": "des Kinderzimmers",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Kinderzimmer ist bunt." },
-      { "languageCode": "en", "text": "The children's room is colorful." },
-      { "languageCode": "bn", "text": "শিশুদের ঘরটা রঙিন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "children's room" },
-      { "languageCode": "bn", "text": "শিশুদের ঘর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Kiste",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Kisten",
-    "genitive_singular": "der Kiste",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Kiste ist schwer." },
-      { "languageCode": "en", "text": "The box is heavy." },
-      { "languageCode": "bn", "text": "বাক্সটা ভারী।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "box" },
-      { "languageCode": "bn", "text": "বাক্স" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Küche",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Küchen",
-    "genitive_singular": "der Küche",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Küche ist modern." },
-      { "languageCode": "en", "text": "The kitchen is modern." },
-      { "languageCode": "bn", "text": "রান্নাঘরটা আধুনিক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "kitchen" },
-      { "languageCode": "bn", "text": "রান্নাঘর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Kühlschrank",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Kühlschränke",
-    "genitive_singular": "des Kühlschranks",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Kühlschrank ist voll." },
-      { "languageCode": "en", "text": "The refrigerator is full." },
-      { "languageCode": "bn", "text": "রেফ্রিজারেটরটা পূর্ণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "refrigerator" },
-      { "languageCode": "bn", "text": "রেফ্রিজারেটর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Lampe",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Lampen",
-    "genitive_singular": "der Lampe",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Lampe gibt helles Licht." },
-      { "languageCode": "en", "text": "The lamp gives bright light." },
-      { "languageCode": "bn", "text": "বাতিটা উজ্জ্বল আলো দেয়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "lamp" },
-      { "languageCode": "bn", "text": "বাতি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Licht",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Lichter",
-    "genitive_singular": "des Lichts",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Licht ist hell." },
-      { "languageCode": "en", "text": "The light is bright." },
-      { "languageCode": "bn", "text": "আলোটা উজ্জ্বল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "light" },
-      { "languageCode": "bn", "text": "আলো" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Loft",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Lofts",
-    "genitive_singular": "des Lofts",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Loft ist modern." },
-      { "languageCode": "en", "text": "The loft is modern." },
-      { "languageCode": "bn", "text": "লফটটা আধুনিক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "loft" },
-      { "languageCode": "bn", "text": "লফট" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Möbel",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Möbel",
-    "genitive_singular": "des Möbels",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Möbel ist schön." },
-      { "languageCode": "en", "text": "The furniture is beautiful." },
-      { "languageCode": "bn", "text": "আসবাবপত্রটা সুন্দর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "furniture" },
-      { "languageCode": "bn", "text": "আসবাবপত্র" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Nähe",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Nähen",
-    "genitive_singular": "der Nähe",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Haus ist in der Nähe." },
-      { "languageCode": "en", "text": "The house is nearby." },
-      { "languageCode": "bn", "text": "বাড়িটা কাছাকাছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "proximity/vicinity" },
-      { "languageCode": "bn", "text": "কাছাকাছি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Pflanze",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Pflanzen",
-    "genitive_singular": "der Pflanze",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Pflanze ist grün." },
-      { "languageCode": "en", "text": "The plant is green." },
-      { "languageCode": "bn", "text": "গাছটা সবুজ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "plant" },
-      { "languageCode": "bn", "text": "গাছ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Raum",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Räume",
-    "genitive_singular": "des Raums",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Raum ist hell." },
-      { "languageCode": "en", "text": "The room is bright." },
-      { "languageCode": "bn", "text": "ঘরটা উজ্জ্বল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "room" },
-      { "languageCode": "bn", "text": "ঘর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Regal",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Regale",
-    "genitive_singular": "des Regals",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Regal steht an der Wand." },
-      { "languageCode": "en", "text": "The shelf stands against the wall." },
-      { "languageCode": "bn", "text": "তাকটা দেয়ালের সাথে লাগানো আছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "shelf" },
-      { "languageCode": "bn", "text": "তাক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "adjective",
-    "word": "renoviert",
-    "comparative": "renovierter",
-    "superlative": "am renoviertesten",
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Die Wohnung ist renoviert." },
-      { "languageCode": "en", "text": "The apartment is renovated." },
-      { "languageCode": "bn", "text": "অ্যাপার্টমেন্টটা সংস্কার করা হয়েছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "renovated" },
-      { "languageCode": "bn", "text": "সংস্কার করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Schlafzimmer",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Schlafzimmer",
-    "genitive_singular": "des Schlafzimmers",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Schlafzimmer ist dunkel." },
-      { "languageCode": "en", "text": "The bedroom is dark." },
-      { "languageCode": "bn", "text": "শোবার ঘরটা অন্ধকার।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "bedroom" },
-      { "languageCode": "bn", "text": "শোবার ঘর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Schlüssel",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Schlüssel",
-    "genitive_singular": "des Schlüssels",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Schlüssel ist klein." },
-      { "languageCode": "en", "text": "The key is small." },
-      { "languageCode": "bn", "text": "চাবিটা ছোট।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "key" },
-      { "languageCode": "bn", "text": "চাবি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Schrank",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Schränke",
-    "genitive_singular": "des Schranks",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Schrank ist groß." },
-      { "languageCode": "en", "text": "The closet is big." },
-      { "languageCode": "bn", "text": "আলমারিটা বড়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "closet/wardrobe" },
-      { "languageCode": "bn", "text": "আলমারি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Schreibtisch",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Schreibtische",
-    "genitive_singular": "des Schreibtischs",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Schreibtisch ist ordentlich." },
-      { "languageCode": "en", "text": "The desk is tidy." },
-      { "languageCode": "bn", "text": "ডেস্কটা গোছানো।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "desk" },
-      { "languageCode": "bn", "text": "ডেস্ক" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Seife",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Seifen",
-    "genitive_singular": "der Seife",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Seife riecht gut." },
-      { "languageCode": "en", "text": "The soap smells good." },
-      { "languageCode": "bn", "text": "সাবানটার গন্ধ ভালো।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "soap" },
-      { "languageCode": "bn", "text": "সাবান" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Sessel",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Sessel",
-    "genitive_singular": "des Sessels",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Sessel ist bequem." },
-      { "languageCode": "en", "text": "The armchair is comfortable." },
-      { "languageCode": "bn", "text": "চেয়ারটা আরামদায়ক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "armchair" },
-      { "languageCode": "bn", "text": "চেয়ার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Sofa",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Sofas",
-    "genitive_singular": "des Sofas",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Sofa ist weich." },
-      { "languageCode": "en", "text": "The sofa is soft." },
-      { "languageCode": "bn", "text": "সোফাটা নরম।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "sofa" },
-      { "languageCode": "bn", "text": "সোফা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Spülmaschine",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Spülmaschinen",
-    "genitive_singular": "der Spülmaschine",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Spülmaschine ist kaputt." },
-      { "languageCode": "en", "text": "The dishwasher is broken." },
-      { "languageCode": "bn", "text": "ডিশওয়াশারটা নষ্ট।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "dishwasher" },
-      { "languageCode": "bn", "text": "ডিশওয়াশার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Stock",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Stockwerke",
-    "genitive_singular": "des Stocks",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich wohne im zweiten Stock." },
-      { "languageCode": "en", "text": "I live on the second floor." },
-      { "languageCode": "bn", "text": "আমি দ্বিতীয় তলায় থাকি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "floor/story" },
-      { "languageCode": "bn", "text": "তলা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Stuhl",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Stühle",
-    "genitive_singular": "des Stuhls",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Stuhl ist hart." },
-      { "languageCode": "en", "text": "The chair is hard." },
-      { "languageCode": "bn", "text": "চেয়ারটা শক্ত।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "chair" },
-      { "languageCode": "bn", "text": "চেয়ার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Teppich",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Teppiche",
-    "genitive_singular": "des Teppichs",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Teppich ist rot." },
-      { "languageCode": "en", "text": "The carpet is red." },
-      { "languageCode": "bn", "text": "কার্পেটটা লাল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "carpet" },
-      { "languageCode": "bn", "text": "কার্পেট" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Toilette",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Toiletten",
-    "genitive_singular": "der Toilette",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Toilette ist sauber." },
-      { "languageCode": "en", "text": "The toilet is clean." },
-      { "languageCode": "bn", "text": "টয়লেটটা পরিষ্কার।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "toilet" },
-      { "languageCode": "bn", "text": "টয়লেট" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Tür",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Türen",
-    "genitive_singular": "der Tür",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Tür ist geschlossen." },
-      { "languageCode": "en", "text": "The door is closed." },
-      { "languageCode": "bn", "text": "দরজাটা বন্ধ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "door" },
-      { "languageCode": "bn", "text": "দরজা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Waschmaschine",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Waschmaschinen",
-    "genitive_singular": "der Waschmaschine",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Waschmaschine wäscht die Kleidung." },
-      { "languageCode": "en", "text": "The washing machine washes the clothes." },
-      { "languageCode": "bn", "text": "ওয়াশিং মেশিনটা কাপড় ধোয়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "washing machine" },
-      { "languageCode": "bn", "text": "ওয়াশিং মেশিন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "WG",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "WGs",
-    "genitive_singular": "der WG",
-    "sentences": [
-      { "languageCode": "de", "text": "Die WG ist günstig." },
-      { "languageCode": "en", "text": "The shared apartment is cheap." },
-      { "languageCode": "bn", "text": "শেয়ার অ্যাপার্টমেন্টটা সাশ্রয়ী।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "shared apartment" },
-      { "languageCode": "bn", "text": "শেয়ার অ্যাপার্টমেন্ট" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "housing-and-living",
-    "part_of_speech": "noun",
-    "word": "Wohn-Situation",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Wohn-Situationen",
-    "genitive_singular": "der Wohn-Situation",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Wohn-Situation ist gut." },
-      { "languageCode": "en", "text": "The living situation is good." },
-      { "languageCode": "bn", "text": "বাসস্থানের পরিস্থিতি ভালো।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "living situation" },
-      { "languageCode": "bn", "text": "বাসস্থানের পরিস্থিতি" }
-    ]
-  },
-  {
+    "id": "7qi4hwks",
     "level": "a1",
     "topic": "housing-and-living",
     "part_of_speech": "verb",
@@ -972,6 +23,27 @@
     ]
   },
   {
+    "id": "oeeuao5s",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Wohn-Situation",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Wohn-Situationen",
+    "genitive_singular": "der Wohn-Situation",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Wohn-Situation ist gut." },
+      { "languageCode": "en", "text": "The living situation is good." },
+      { "languageCode": "bn", "text": "বাসস্থানের পরিস্থিতি ভালো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "living situation" },
+      { "languageCode": "bn", "text": "বাসস্থানের পরিস্থিতি" }
+    ]
+  },
+  {
+    "id": "puwd0j4q",
     "level": "a1",
     "topic": "housing-and-living",
     "part_of_speech": "noun",
@@ -991,6 +63,27 @@
     ]
   },
   {
+    "id": "8s6yv4nk",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Haus",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Häuser",
+    "genitive_singular": "des Hauses",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Haus ist groß." },
+      { "languageCode": "en", "text": "The house is big." },
+      { "languageCode": "bn", "text": "বাড়িটা বড়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "house" },
+      { "languageCode": "bn", "text": "বাড়ি" }
+    ]
+  },
+  {
+    "id": "88oku5xm",
     "level": "a1",
     "topic": "housing-and-living",
     "part_of_speech": "noun",
@@ -1010,6 +103,47 @@
     ]
   },
   {
+    "id": "i1w4pbhl",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Altbauwohnung",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Altbauwohnungen",
+    "genitive_singular": "der Altbauwohnung",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Altbauwohnung hat hohe Decken." },
+      { "languageCode": "en", "text": "The old apartment has high ceilings." },
+      { "languageCode": "bn", "text": "পুরানো অ্যাপার্টমেন্টটার ছাদ উঁচু।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "old apartment" },
+      { "languageCode": "bn", "text": "পুরানো অ্যাপার্টমেন্ট" }
+    ]
+  },
+  {
+    "id": "t7e4pq1b",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "WG",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "WGs",
+    "genitive_singular": "der WG",
+    "sentences": [
+      { "languageCode": "de", "text": "Die WG ist günstig." },
+      { "languageCode": "en", "text": "The shared apartment is cheap." },
+      { "languageCode": "bn", "text": "শেয়ার অ্যাপার্টমেন্টটা সাশ্রয়ী।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "shared apartment" },
+      { "languageCode": "bn", "text": "শেয়ার অ্যাপার্টমেন্ট" }
+    ]
+  },
+  {
+    "id": "15ac2j6f",
     "level": "a1",
     "topic": "housing-and-living",
     "part_of_speech": "noun",
@@ -1029,6 +163,205 @@
     ]
   },
   {
+    "id": "uqh3pjsg",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Loft",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Lofts",
+    "genitive_singular": "des Lofts",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Loft ist modern." },
+      { "languageCode": "en", "text": "The loft is modern." },
+      { "languageCode": "bn", "text": "লফটটা আধুনিক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "loft" },
+      { "languageCode": "bn", "text": "লফট" }
+    ]
+  },
+  {
+    "id": "2sqy0xnk",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Fachwerkhaus",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Fachwerkhäuser",
+    "genitive_singular": "des Fachwerkhauses",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Fachwerkhaus ist alt." },
+      { "languageCode": "en", "text": "The half-timbered house is old." },
+      { "languageCode": "bn", "text": "কাঠের বাড়িটা পুরনো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "half-timbered house" },
+      { "languageCode": "bn", "text": "কাঠের বাড়ি" }
+    ]
+  },
+  {
+    "id": "xxroyg9b",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Hochhaus",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Hochhäuser",
+    "genitive_singular": "des Hochhauses",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Hochhaus ist hoch." },
+      { "languageCode": "en", "text": "The high-rise is tall." },
+      { "languageCode": "bn", "text": "উঁচু বিল্ডিংটা অনেক লম্বা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "high-rise building" },
+      { "languageCode": "bn", "text": "উঁচু বিল্ডিং" }
+    ]
+  },
+  {
+    "id": "gpourocb",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "adjective",
+    "word": "renoviert",
+    "comparative": "renovierter",
+    "superlative": "am renoviertesten",
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Wohnung ist renoviert." },
+      { "languageCode": "en", "text": "The apartment is renovated." },
+      { "languageCode": "bn", "text": "অ্যাপার্টমেন্টটা সংস্কার করা হয়েছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "renovated" },
+      { "languageCode": "bn", "text": "সংস্কার করা" }
+    ]
+  },
+  {
+    "id": "iasq86ox",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "adjective",
+    "word": "zentral",
+    "comparative": "zentraler",
+    "superlative": "am zentralsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Wohnung ist zentral." },
+      { "languageCode": "en", "text": "The apartment is central." },
+      { "languageCode": "bn", "text": "অ্যাপার্টমেন্টটা কেন্দ্রীয়ভাবে অবস্থিত।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "central" },
+      { "languageCode": "bn", "text": "কেন্দ্রীয়" }
+    ]
+  },
+  {
+    "id": "say04oi0",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Nähe",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Nähen",
+    "genitive_singular": "der Nähe",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Haus ist in der Nähe." },
+      { "languageCode": "en", "text": "The house is nearby." },
+      { "languageCode": "bn", "text": "বাড়িটা কাছাকাছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "proximity/vicinity" },
+      { "languageCode": "bn", "text": "কাছাকাছি" }
+    ]
+  },
+  {
+    "id": "x8bivrpw",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Schlüssel",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Schlüssel",
+    "genitive_singular": "des Schlüssels",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Schlüssel ist klein." },
+      { "languageCode": "en", "text": "The key is small." },
+      { "languageCode": "bn", "text": "চাবিটা ছোট।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "key" },
+      { "languageCode": "bn", "text": "চাবি" }
+    ]
+  },
+  {
+    "id": "pr9uvn6i",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Tür",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Türen",
+    "genitive_singular": "der Tür",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Tür ist geschlossen." },
+      { "languageCode": "en", "text": "The door is closed." },
+      { "languageCode": "bn", "text": "দরজাটা বন্ধ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "door" },
+      { "languageCode": "bn", "text": "দরজা" }
+    ]
+  },
+  {
+    "id": "vawkah79",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Stock",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Stockwerke",
+    "genitive_singular": "des Stocks",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich wohne im zweiten Stock." },
+      { "languageCode": "en", "text": "I live on the second floor." },
+      { "languageCode": "bn", "text": "আমি দ্বিতীয় তলায় থাকি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "floor/story" },
+      { "languageCode": "bn", "text": "তলা" }
+    ]
+  },
+  {
+    "id": "sm8mtwfj",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Raum",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Räume",
+    "genitive_singular": "des Raums",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Raum ist hell." },
+      { "languageCode": "en", "text": "The room is bright." },
+      { "languageCode": "bn", "text": "ঘরটা উজ্জ্বল।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "room" },
+      { "languageCode": "bn", "text": "ঘর" }
+    ]
+  },
+  {
+    "id": "yb3w7z01",
     "level": "a1",
     "topic": "housing-and-living",
     "part_of_speech": "noun",
@@ -1048,21 +381,744 @@
     ]
   },
   {
+    "id": "7dfutmov",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Schlafzimmer",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Schlafzimmer",
+    "genitive_singular": "des Schlafzimmers",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Schlafzimmer ist dunkel." },
+      { "languageCode": "en", "text": "The bedroom is dark." },
+      { "languageCode": "bn", "text": "শোবার ঘরটা অন্ধকার।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bedroom" },
+      { "languageCode": "bn", "text": "শোবার ঘর" }
+    ]
+  },
+  {
+    "id": "svbsaac7",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Kinderzimmer",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Kinderzimmer",
+    "genitive_singular": "des Kinderzimmers",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kinderzimmer ist bunt." },
+      { "languageCode": "en", "text": "The children's room is colorful." },
+      { "languageCode": "bn", "text": "শিশুদের ঘরটা রঙিন।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "children's room" },
+      { "languageCode": "bn", "text": "শিশুদের ঘর" }
+    ]
+  },
+  {
+    "id": "n3mt4nto",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Arbeitszimmer",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Arbeitszimmer",
+    "genitive_singular": "des Arbeitszimmers",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Arbeitszimmer ist ruhig." },
+      { "languageCode": "en", "text": "The office is quiet." },
+      { "languageCode": "bn", "text": "অফিস ঘরটা শান্ত।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "office/study room" },
+      { "languageCode": "bn", "text": "অফিস/পড়ার ঘর" }
+    ]
+  },
+  {
+    "id": "q0dt8nhv",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Küche",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Küchen",
+    "genitive_singular": "der Küche",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Küche ist modern." },
+      { "languageCode": "en", "text": "The kitchen is modern." },
+      { "languageCode": "bn", "text": "রান্নাঘরটা আধুনিক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "kitchen" },
+      { "languageCode": "bn", "text": "রান্নাঘর" }
+    ]
+  },
+  {
+    "id": "a69fr3zk",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Bad",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Bäder",
+    "genitive_singular": "des Bades",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Bad ist klein." },
+      { "languageCode": "en", "text": "The bathroom is small." },
+      { "languageCode": "bn", "text": "বাথরুমটা ছোট।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bathroom" },
+      { "languageCode": "bn", "text": "বাথরুম" }
+    ]
+  },
+  {
+    "id": "yflav92z",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Toilette",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Toiletten",
+    "genitive_singular": "der Toilette",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Toilette ist sauber." },
+      { "languageCode": "en", "text": "The toilet is clean." },
+      { "languageCode": "bn", "text": "টয়লেটটা পরিষ্কার।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "toilet" },
+      { "languageCode": "bn", "text": "টয়লেট" }
+    ]
+  },
+  {
+    "id": "a53969ij",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Flur",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Flure",
+    "genitive_singular": "des Flurs",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Flur ist lang." },
+      { "languageCode": "en", "text": "The hallway is long." },
+      { "languageCode": "bn", "text": "করিডোরটা লম্বা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "hallway" },
+      { "languageCode": "bn", "text": "করিডোর" }
+    ]
+  },
+  {
+    "id": "uq6rht1w",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Balkon",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Balkone",
+    "genitive_singular": "des Balkons",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Balkon ist sonnig." },
+      { "languageCode": "en", "text": "The balcony is sunny." },
+      { "languageCode": "bn", "text": "ব্যালকনিটা রৌদ্রোজ্জ্বল।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "balcony" },
+      { "languageCode": "bn", "text": "ব্যালকনি" }
+    ]
+  },
+  {
+    "id": "etxwjabk",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Garten",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Gärten",
+    "genitive_singular": "des Gartens",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Garten ist schön." },
+      { "languageCode": "en", "text": "The garden is beautiful." },
+      { "languageCode": "bn", "text": "বাগানটা সুন্দর।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "garden" },
+      { "languageCode": "bn", "text": "বাগান" }
+    ]
+  },
+  {
+    "id": "5xxldd1i",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Decke",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Decken",
+    "genitive_singular": "der Decke",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Decke ist weiß." },
+      { "languageCode": "en", "text": "The ceiling is white." },
+      { "languageCode": "bn", "text": "ছাদটা সাদা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "ceiling" },
+      { "languageCode": "bn", "text": "ছাদ" }
+    ]
+  },
+  {
+    "id": "25a33ka3",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Möbel",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Möbel",
+    "genitive_singular": "des Möbels",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Möbel ist schön." },
+      { "languageCode": "en", "text": "The furniture is beautiful." },
+      { "languageCode": "bn", "text": "আসবাবপত্রটা সুন্দর।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "furniture" },
+      { "languageCode": "bn", "text": "আসবাবপত্র" }
+    ]
+  },
+  {
+    "id": "0z2o8n85",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Sofa",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Sofas",
+    "genitive_singular": "des Sofas",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Sofa ist weich." },
+      { "languageCode": "en", "text": "The sofa is soft." },
+      { "languageCode": "bn", "text": "সোফাটা নরম।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "sofa" },
+      { "languageCode": "bn", "text": "সোফা" }
+    ]
+  },
+  {
+    "id": "ny7fm4ir",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Sessel",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Sessel",
+    "genitive_singular": "des Sessels",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Sessel ist bequem." },
+      { "languageCode": "en", "text": "The armchair is comfortable." },
+      { "languageCode": "bn", "text": "চেয়ারটা আরামদায়ক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "armchair" },
+      { "languageCode": "bn", "text": "চেয়ার" }
+    ]
+  },
+  {
+    "id": "ajjon1bw",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Stuhl",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Stühle",
+    "genitive_singular": "des Stuhls",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Stuhl ist hart." },
+      { "languageCode": "en", "text": "The chair is hard." },
+      { "languageCode": "bn", "text": "চেয়ারটা শক্ত।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "chair" },
+      { "languageCode": "bn", "text": "চেয়ার" }
+    ]
+  },
+  {
+    "id": "5a5own0f",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Schreibtisch",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Schreibtische",
+    "genitive_singular": "des Schreibtischs",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Schreibtisch ist ordentlich." },
+      { "languageCode": "en", "text": "The desk is tidy." },
+      { "languageCode": "bn", "text": "ডেস্কটা গোছানো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "desk" },
+      { "languageCode": "bn", "text": "ডেস্ক" }
+    ]
+  },
+  {
+    "id": "j5vtkejw",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Regal",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Regale",
+    "genitive_singular": "des Regals",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Regal steht an der Wand." },
+      { "languageCode": "en", "text": "The shelf stands against the wall." },
+      { "languageCode": "bn", "text": "তাকটা দেয়ালের সাথে লাগানো আছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "shelf" },
+      { "languageCode": "bn", "text": "তাক" }
+    ]
+  },
+  {
+    "id": "10vvtu3d",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Schrank",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Schränke",
+    "genitive_singular": "des Schranks",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Schrank ist groß." },
+      { "languageCode": "en", "text": "The closet is big." },
+      { "languageCode": "bn", "text": "আলমারিটা বড়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "closet/wardrobe" },
+      { "languageCode": "bn", "text": "আলমারি" }
+    ]
+  },
+  {
+    "id": "vw287nnr",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Teppich",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Teppiche",
+    "genitive_singular": "des Teppichs",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Teppich ist rot." },
+      { "languageCode": "en", "text": "The carpet is red." },
+      { "languageCode": "bn", "text": "কার্পেটটা লাল।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "carpet" },
+      { "languageCode": "bn", "text": "কার্পেট" }
+    ]
+  },
+  {
+    "id": "mbupunfj",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Lampe",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Lampen",
+    "genitive_singular": "der Lampe",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Lampe gibt helles Licht." },
+      { "languageCode": "en", "text": "The lamp gives bright light." },
+      { "languageCode": "bn", "text": "বাতিটা উজ্জ্বল আলো দেয়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lamp" },
+      { "languageCode": "bn", "text": "বাতি" }
+    ]
+  },
+  {
+    "id": "iyo72ddk",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Licht",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Lichter",
+    "genitive_singular": "des Lichts",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Licht ist hell." },
+      { "languageCode": "en", "text": "The light is bright." },
+      { "languageCode": "bn", "text": "আলোটা উজ্জ্বল।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "light" },
+      { "languageCode": "bn", "text": "আলো" }
+    ]
+  },
+  {
+    "id": "5t748n0a",
     "level": "a1",
     "topic": "housing-and-living",
     "part_of_speech": "adjective",
-    "word": "zentral",
-    "comparative": "zentraler",
-    "superlative": "am zentralsten",
+    "word": "dunkel",
+    "comparative": "dunkler",
+    "superlative": "am dunkelsten",
     "gradable": true,
     "sentences": [
-      { "languageCode": "de", "text": "Die Wohnung ist zentral." },
-      { "languageCode": "en", "text": "The apartment is central." },
-      { "languageCode": "bn", "text": "অ্যাপার্টমেন্টটা কেন্দ্রীয়ভাবে অবস্থিত।" }
+      { "languageCode": "de", "text": "Das Zimmer ist dunkel." },
+      { "languageCode": "en", "text": "The room is dark." },
+      { "languageCode": "bn", "text": "ঘরটা অন্ধকার।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "central" },
-      { "languageCode": "bn", "text": "কেন্দ্রীয়" }
+      { "languageCode": "en", "text": "dark" },
+      { "languageCode": "bn", "text": "অন্ধকার" }
+    ]
+  },
+  {
+    "id": "spmu0tmw",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "adjective",
+    "word": "gemütlich",
+    "comparative": "gemütlicher",
+    "superlative": "am gemütlichsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Zimmer ist gemütlich." },
+      { "languageCode": "en", "text": "The room is cozy." },
+      { "languageCode": "bn", "text": "ঘরটা আরামদায়ক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cozy" },
+      { "languageCode": "bn", "text": "আরামদায়ক" }
+    ]
+  },
+  {
+    "id": "49k3iw5n",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Pflanze",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Pflanzen",
+    "genitive_singular": "der Pflanze",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Pflanze ist grün." },
+      { "languageCode": "en", "text": "The plant is green." },
+      { "languageCode": "bn", "text": "গাছটা সবুজ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "plant" },
+      { "languageCode": "bn", "text": "গাছ" }
+    ]
+  },
+  {
+    "id": "je9qunnu",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Holz",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Hölzer",
+    "genitive_singular": "des Holzes",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Holz ist braun." },
+      { "languageCode": "en", "text": "The wood is brown." },
+      { "languageCode": "bn", "text": "কাঠটা বাদামী।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "wood" },
+      { "languageCode": "bn", "text": "কাঠ" }
+    ]
+  },
+  {
+    "id": "2ajys2lm",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Gerät",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Geräte",
+    "genitive_singular": "des Geräts",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Gerät ist neu." },
+      { "languageCode": "en", "text": "The device is new." },
+      { "languageCode": "bn", "text": "যন্ত্রটা নতুন।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "device/appliance" },
+      { "languageCode": "bn", "text": "যন্ত্র/যন্ত্রপাতি" }
+    ]
+  },
+  {
+    "id": "714aav9n",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Fernseher",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Fernseher",
+    "genitive_singular": "des Fernsehers",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Fernseher ist im Wohnzimmer." },
+      { "languageCode": "en", "text": "The television is in the living room." },
+      { "languageCode": "bn", "text": "টেলিভিশনটা বসার ঘরে আছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "television" },
+      { "languageCode": "bn", "text": "টেলিভিশন" }
+    ]
+  },
+  {
+    "id": "ksoqwro2",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Kühlschrank",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Kühlschränke",
+    "genitive_singular": "des Kühlschranks",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Kühlschrank ist voll." },
+      { "languageCode": "en", "text": "The refrigerator is full." },
+      { "languageCode": "bn", "text": "রেফ্রিজারেটরটা পূর্ণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "refrigerator" },
+      { "languageCode": "bn", "text": "রেফ্রিজারেটর" }
+    ]
+  },
+  {
+    "id": "irwkfikn",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Herd",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Herde",
+    "genitive_singular": "des Herds",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Herd ist in der Küche." },
+      { "languageCode": "en", "text": "The stove is in the kitchen." },
+      { "languageCode": "bn", "text": "চুলাটা রান্নাঘরে আছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "stove" },
+      { "languageCode": "bn", "text": "চুলা" }
+    ]
+  },
+  {
+    "id": "v0m7k7ai",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Kaffeemaschine",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Kaffeemaschinen",
+    "genitive_singular": "der Kaffeemaschine",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kaffeemaschine macht guten Kaffee." },
+      { "languageCode": "en", "text": "The coffee machine makes good coffee." },
+      { "languageCode": "bn", "text": "কফি মেশিনটা ভালো কফি তৈরি করে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "coffee machine" },
+      { "languageCode": "bn", "text": "কফি মেশিন" }
+    ]
+  },
+  {
+    "id": "8kdqdkk0",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Spülmaschine",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Spülmaschinen",
+    "genitive_singular": "der Spülmaschine",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Spülmaschine ist kaputt." },
+      { "languageCode": "en", "text": "The dishwasher is broken." },
+      { "languageCode": "bn", "text": "ডিশওয়াশারটা নষ্ট।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "dishwasher" },
+      { "languageCode": "bn", "text": "ডিশওয়াশার" }
+    ]
+  },
+  {
+    "id": "roxltaug",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Waschmaschine",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Waschmaschinen",
+    "genitive_singular": "der Waschmaschine",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Waschmaschine wäscht die Kleidung." },
+      { "languageCode": "en", "text": "The washing machine washes the clothes." },
+      { "languageCode": "bn", "text": "ওয়াশিং মেশিনটা কাপড় ধোয়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "washing machine" },
+      { "languageCode": "bn", "text": "ওয়াশিং মেশিন" }
+    ]
+  },
+  {
+    "id": "xoauhr2t",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Dusche",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Duschen",
+    "genitive_singular": "der Dusche",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Dusche ist warm." },
+      { "languageCode": "en", "text": "The shower is warm." },
+      { "languageCode": "bn", "text": "শাওয়ারটা গরম।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "shower" },
+      { "languageCode": "bn", "text": "শাওয়ার" }
+    ]
+  },
+  {
+    "id": "niv7gdbc",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Seife",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Seifen",
+    "genitive_singular": "der Seife",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Seife riecht gut." },
+      { "languageCode": "en", "text": "The soap smells good." },
+      { "languageCode": "bn", "text": "সাবানটার গন্ধ ভালো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "soap" },
+      { "languageCode": "bn", "text": "সাবান" }
+    ]
+  },
+  {
+    "id": "159h3s2v",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Kiste",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Kisten",
+    "genitive_singular": "der Kiste",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kiste ist schwer." },
+      { "languageCode": "en", "text": "The box is heavy." },
+      { "languageCode": "bn", "text": "বাক্সটা ভারী।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "box" },
+      { "languageCode": "bn", "text": "বাক্স" }
+    ]
+  },
+  {
+    "id": "j1zgn1sx",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Flasche",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Flaschen",
+    "genitive_singular": "der Flasche",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Flasche ist leer." },
+      { "languageCode": "en", "text": "The bottle is empty." },
+      { "languageCode": "bn", "text": "বোতলটা খালি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bottle" },
+      { "languageCode": "bn", "text": "বোতল" }
+    ]
+  },
+  {
+    "id": "uvv8ipuy",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "noun",
+    "word": "Deckel",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Deckel",
+    "genitive_singular": "des Deckels",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Deckel ist zu." },
+      { "languageCode": "en", "text": "The lid is closed." },
+      { "languageCode": "bn", "text": "ঢাকনাটা বন্ধ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lid" },
+      { "languageCode": "bn", "text": "ঢাকনা" }
+    ]
+  },
+  {
+    "id": "1tjk807n",
+    "level": "a1",
+    "topic": "housing-and-living",
+    "part_of_speech": "verb",
+    "word": "bleiben",
+    "infinitive": "bleiben",
+    "third_person_singular_present": "er bleibt",
+    "simple_past": "blieb",
+    "past_participle": "ist geblieben",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bleibe zu Hause." },
+      { "languageCode": "en", "text": "I stay at home." },
+      { "languageCode": "bn", "text": "আমি বাড়িতে থাকছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to stay" },
+      { "languageCode": "bn", "text": "থাকা" }
     ]
   }
 ]

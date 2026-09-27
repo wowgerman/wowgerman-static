@@ -1,620 +1,6 @@
 [
   {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "an",
-    "preposition_cases": ["accusative", "dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Das Bild hängt an der Wand." },
-      { "languageCode": "en", "text": "The picture hangs on the wall." },
-      { "languageCode": "bn", "text": "ছবিটা দেয়ালে ঝুলছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "on/at" },
-      { "languageCode": "bn", "text": "এ/তে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "verb",
-    "word": "ankommen",
-    "infinitive": "ankommen",
-    "third_person_singular_present": "er kommt an",
-    "simple_past": "kam an",
-    "past_participle": "ist angekommen",
-    "auxiliary_verb": "sein",
-    "verb_type": "irregular",
-    "separable_prefix": "an",
-    "sentences": [
-      { "languageCode": "de", "text": "Wir kommen um 8 Uhr an." },
-      { "languageCode": "en", "text": "We arrive at 8 o'clock." },
-      { "languageCode": "bn", "text": "আমরা সকাল ৮টায় পৌঁছাব।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to arrive" },
-      { "languageCode": "bn", "text": "পৌঁছানো" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "auf",
-    "preposition_cases": ["accusative", "dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Das Buch liegt auf dem Tisch." },
-      { "languageCode": "en", "text": "The book is on the table." },
-      { "languageCode": "bn", "text": "বইটা টেবিলের উপর আছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "on" },
-      { "languageCode": "bn", "text": "উপর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "aus",
-    "preposition_cases": ["dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Er kommt aus Deutschland." },
-      { "languageCode": "en", "text": "He comes from Germany." },
-      { "languageCode": "bn", "text": "সে জার্মানি থেকে এসেছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "from/out of" },
-      { "languageCode": "bn", "text": "থেকে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Bahnhof",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Bahnhöfe",
-    "genitive_singular": "des Bahnhofs",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Bahnhof ist groß." },
-      { "languageCode": "en", "text": "The train station is big." },
-      { "languageCode": "bn", "text": "রেলস্টেশনটা বড়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "train station" },
-      { "languageCode": "bn", "text": "রেলস্টেশন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "bei",
-    "preposition_cases": ["dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Ich bin bei meiner Mutter." },
-      { "languageCode": "en", "text": "I am at my mother's place." },
-      { "languageCode": "bn", "text": "আমি আমার মায়ের কাছে আছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "at/near" },
-      { "languageCode": "bn", "text": "কাছে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Brücke",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Brücken",
-    "genitive_singular": "der Brücke",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Brücke ist alt." },
-      { "languageCode": "en", "text": "The bridge is old." },
-      { "languageCode": "bn", "text": "সেতুটা পুরনো।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "bridge" },
-      { "languageCode": "bn", "text": "সেতু" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adverb",
-    "word": "da",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Auto ist da." },
-      { "languageCode": "en", "text": "The car is there." },
-      { "languageCode": "bn", "text": "গাড়িটা সেখানে আছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "there" },
-      { "languageCode": "bn", "text": "সেখানে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adverb",
-    "word": "dort",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Mein Freund wohnt dort." },
-      { "languageCode": "en", "text": "My friend lives there." },
-      { "languageCode": "bn", "text": "আমার বন্ধু ওখানে থাকে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "there" },
-      { "languageCode": "bn", "text": "ওখানে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Ecke",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Ecken",
-    "genitive_singular": "der Ecke",
-    "sentences": [
-      { "languageCode": "de", "text": "An der Ecke ist ein Café." },
-      { "languageCode": "en", "text": "There is a café at the corner." },
-      { "languageCode": "bn", "text": "কোণায় একটা ক্যাফে আছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "corner" },
-      { "languageCode": "bn", "text": "কোণ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Entfernung",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Entfernungen",
-    "genitive_singular": "der Entfernung",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Entfernung ist groß." },
-      { "languageCode": "en", "text": "The distance is great." },
-      { "languageCode": "bn", "text": "দূরত্বটা অনেক বেশি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "distance" },
-      { "languageCode": "bn", "text": "দূরত্ব" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adjective",
-    "word": "fern",
-    "comparative": "ferner",
-    "superlative": "am fernsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Land ist fern." },
-      { "languageCode": "en", "text": "The country is distant." },
-      { "languageCode": "bn", "text": "দেশটা অনেক দূরে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "distant/far" },
-      { "languageCode": "bn", "text": "দূরে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Flughafen",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Flughäfen",
-    "genitive_singular": "des Flughafens",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Flughafen ist weit." },
-      { "languageCode": "en", "text": "The airport is far." },
-      { "languageCode": "bn", "text": "বিমানবন্দরটা অনেক দূরে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "airport" },
-      { "languageCode": "bn", "text": "বিমানবন্দর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "verb",
-    "word": "führen",
-    "infinitive": "führen",
-    "third_person_singular_present": "er führt",
-    "simple_past": "führte",
-    "past_participle": "hat geführt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Weg führt zum Park." },
-      { "languageCode": "en", "text": "The path leads to the park." },
-      { "languageCode": "bn", "text": "পথটা পার্কের দিকে নিয়ে যায়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to lead" },
-      { "languageCode": "bn", "text": "নিয়ে যাওয়া" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adverb",
-    "word": "geradeaus",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Gehen Sie geradeaus." },
-      { "languageCode": "en", "text": "Go straight ahead." },
-      { "languageCode": "bn", "text": "সোজা যান।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "straight ahead" },
-      { "languageCode": "bn", "text": "সোজা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Haltestelle",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Haltestellen",
-    "genitive_singular": "der Haltestelle",
-    "sentences": [
-      { "languageCode": "de", "text": "Wo ist die Haltestelle?" },
-      { "languageCode": "en", "text": "Where is the bus stop?" },
-      { "languageCode": "bn", "text": "বাস স্টপটা কোথায়?" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "bus stop" },
-      { "languageCode": "bn", "text": "বাস স্টপ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adverb",
-    "word": "hier",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich wohne hier." },
-      { "languageCode": "en", "text": "I live here." },
-      { "languageCode": "bn", "text": "আমি এখানে থাকি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "here" },
-      { "languageCode": "bn", "text": "এখানে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adverb",
-    "word": "hinten",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Das Kind sitzt hinten." },
-      { "languageCode": "en", "text": "The child sits in the back." },
-      { "languageCode": "bn", "text": "শিশুটি পিছনে বসে আছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "behind/in the back" },
-      { "languageCode": "bn", "text": "পিছনে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "hinter",
-    "preposition_cases": ["accusative", "dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Das Auto steht hinter dem Baum." },
-      { "languageCode": "en", "text": "The car is behind the tree." },
-      { "languageCode": "bn", "text": "গাড়িটা গাছের পিছনে দাঁড়িয়ে আছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "behind" },
-      { "languageCode": "bn", "text": "পিছনে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "in",
-    "preposition_cases": ["accusative", "dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Ich bin in der Stadt." },
-      { "languageCode": "en", "text": "I am in the city." },
-      { "languageCode": "bn", "text": "আমি শহরে আছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "in" },
-      { "languageCode": "bn", "text": "ভিতরে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Kreuzung",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Kreuzungen",
-    "genitive_singular": "der Kreuzung",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Kreuzung ist gefährlich." },
-      { "languageCode": "en", "text": "The intersection is dangerous." },
-      { "languageCode": "bn", "text": "মোড়টা বিপজ্জনক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "intersection" },
-      { "languageCode": "bn", "text": "মোড়" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adverb",
-    "word": "links",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Gehen Sie links." },
-      { "languageCode": "en", "text": "Go left." },
-      { "languageCode": "bn", "text": "বামে যান।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "left" },
-      { "languageCode": "bn", "text": "বাম" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Meter",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Meter",
-    "genitive_singular": "des Meters",
-    "sentences": [
-      { "languageCode": "de", "text": "Es sind hundert Meter." },
-      { "languageCode": "en", "text": "It is one hundred meters." },
-      { "languageCode": "bn", "text": "এটা একশো মিটার।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "meter" },
-      { "languageCode": "bn", "text": "মিটার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "mit",
-    "preposition_cases": ["dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Ich fahre mit dem Bus." },
-      { "languageCode": "en", "text": "I travel by bus." },
-      { "languageCode": "bn", "text": "আমি বাসে করে যাই।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "with/by" },
-      { "languageCode": "bn", "text": "সাথে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Mitte",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Mitten",
-    "genitive_singular": "der Mitte",
-    "sentences": [
-      { "languageCode": "de", "text": "In der Mitte ist ein Brunnen." },
-      { "languageCode": "en", "text": "In the middle is a fountain." },
-      { "languageCode": "bn", "text": "মাঝখানে একটা ফোয়ারা আছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "middle" },
-      { "languageCode": "bn", "text": "মাঝখানে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "nach",
-    "preposition_cases": ["dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Wir fahren nach Berlin." },
-      { "languageCode": "en", "text": "We drive to Berlin." },
-      { "languageCode": "bn", "text": "আমরা বার্লিনের দিকে যাচ্ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to" },
-      { "languageCode": "bn", "text": "দিকে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adjective",
-    "word": "nah",
-    "comparative": "näher",
-    "superlative": "am nächsten",
-    "gradable": true,
-    "sentences": [
-      { "languageCode": "de", "text": "Die Schule ist nah." },
-      { "languageCode": "en", "text": "The school is close." },
-      { "languageCode": "bn", "text": "স্কুলটা কাছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "close/near" },
-      { "languageCode": "bn", "text": "কাছে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Nähe",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Nähen",
-    "genitive_singular": "der Nähe",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich wohne in der Nähe." },
-      { "languageCode": "en", "text": "I live nearby." },
-      { "languageCode": "bn", "text": "আমি কাছাকাছি থাকি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "proximity/vicinity" },
-      { "languageCode": "bn", "text": "কাছাকাছি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "neben",
-    "preposition_cases": ["dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Die Bank ist neben dem Café." },
-      { "languageCode": "en", "text": "The bank is next to the café." },
-      { "languageCode": "bn", "text": "ব্যাংকটা ক্যাফের পাশে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "next to" },
-      { "languageCode": "bn", "text": "পাশে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adverb",
-    "word": "oben",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Mein Zimmer ist oben." },
-      { "languageCode": "en", "text": "My room is upstairs." },
-      { "languageCode": "bn", "text": "আমার ঘরটা উপরে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "above/upstairs" },
-      { "languageCode": "bn", "text": "উপরে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Ortsangabe",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Ortsangaben",
-    "genitive_singular": "der Ortsangabe",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Ortsangabe ist richtig." },
-      { "languageCode": "en", "text": "The location information is correct." },
-      { "languageCode": "bn", "text": "স্থানের তথ্যটা সঠিক।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "location information" },
-      { "languageCode": "bn", "text": "স্থানের তথ্য" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Platz",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Plätze",
-    "genitive_singular": "des Platzes",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Platz ist sehr schön." },
-      { "languageCode": "en", "text": "The square is very beautiful." },
-      { "languageCode": "bn", "text": "চত্বরটা খুব সুন্দর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "square/place" },
-      { "languageCode": "bn", "text": "চত্বর" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Position",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Positionen",
-    "genitive_singular": "der Position",
-    "sentences": [
-      { "languageCode": "de", "text": "Meine Position ist gut." },
-      { "languageCode": "en", "text": "My position is good." },
-      { "languageCode": "bn", "text": "আমার অবস্থান ভালো।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "position" },
-      { "languageCode": "bn", "text": "অবস্থান" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adverb",
-    "word": "rechts",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Die Post ist rechts." },
-      { "languageCode": "en", "text": "The post office is on the right." },
-      { "languageCode": "bn", "text": "পোস্ট অফিসটা ডানে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "right" },
-      { "languageCode": "bn", "text": "ডান" }
-    ]
-  },
-  {
+    "id": "jb2ukv70",
     "level": "a1",
     "topic": "directions-and-locations",
     "part_of_speech": "noun",
@@ -634,201 +20,7 @@
     ]
   },
   {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Route",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Routen",
-    "genitive_singular": "der Route",
-    "sentences": [
-      { "languageCode": "de", "text": "Diese Route ist schneller." },
-      { "languageCode": "en", "text": "This route is faster." },
-      { "languageCode": "bn", "text": "এই রুটটা দ্রুততর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "route" },
-      { "languageCode": "bn", "text": "রুট" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Start",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Starts",
-    "genitive_singular": "des Starts",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Start ist hier." },
-      { "languageCode": "en", "text": "The start is here." },
-      { "languageCode": "bn", "text": "শুরুটা এখানে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "start" },
-      { "languageCode": "bn", "text": "শুরু" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Straße",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Straßen",
-    "genitive_singular": "der Straße",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich wohne in dieser Straße." },
-      { "languageCode": "en", "text": "I live on this street." },
-      { "languageCode": "bn", "text": "আমি এই রাস্তায় থাকি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "street" },
-      { "languageCode": "bn", "text": "রাস্তা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Tür",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Türen",
-    "genitive_singular": "der Tür",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Tür ist offen." },
-      { "languageCode": "en", "text": "The door is open." },
-      { "languageCode": "bn", "text": "দরজাটা খোলা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "door" },
-      { "languageCode": "bn", "text": "দরজা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "über",
-    "preposition_cases": ["accusative", "dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Die Brücke ist über dem Fluss." },
-      { "languageCode": "en", "text": "The bridge is over the river." },
-      { "languageCode": "bn", "text": "সেতুটা নদীর উপরে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "over/above" },
-      { "languageCode": "bn", "text": "উপরে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adverb",
-    "word": "unten",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Die Küche ist unten." },
-      { "languageCode": "en", "text": "The kitchen is downstairs." },
-      { "languageCode": "bn", "text": "রান্নাঘরটা নিচে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "below/downstairs" },
-      { "languageCode": "bn", "text": "নিচে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "unter",
-    "preposition_cases": ["accusative", "dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Der Hund ist unter dem Tisch." },
-      { "languageCode": "en", "text": "The dog is under the table." },
-      { "languageCode": "bn", "text": "কুকুরটা টেবিলের নিচে আছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "under" },
-      { "languageCode": "bn", "text": "নিচে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "von",
-    "preposition_cases": ["dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Ich komme von der Arbeit." },
-      { "languageCode": "en", "text": "I come from work." },
-      { "languageCode": "bn", "text": "আমি কাজ থেকে আসছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "from" },
-      { "languageCode": "bn", "text": "থেকে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "vor",
-    "preposition_cases": ["accusative", "dative"],
-    "sentences": [
-      { "languageCode": "de", "text": "Ich warte vor dem Haus." },
-      { "languageCode": "en", "text": "I wait in front of the house." },
-      { "languageCode": "bn", "text": "আমি বাড়ির সামনে অপেক্ষা করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "in front of" },
-      { "languageCode": "bn", "text": "সামনে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "adverb",
-    "word": "vorne",
-    "comparative": null,
-    "superlative": null,
-    "gradable": false,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich sitze vorne." },
-      { "languageCode": "en", "text": "I sit in the front." },
-      { "languageCode": "bn", "text": "আমি সামনে বসি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "in front" },
-      { "languageCode": "bn", "text": "সামনে" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "directions-and-locations",
-    "part_of_speech": "noun",
-    "word": "Weg",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Wege",
-    "genitive_singular": "des Weges",
-    "sentences": [
-      { "languageCode": "de", "text": "Kennen Sie den Weg?" },
-      { "languageCode": "en", "text": "Do you know the way?" },
-      { "languageCode": "bn", "text": "আপনি কি পথটা জানেন?" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "way/path" },
-      { "languageCode": "bn", "text": "পথ" }
-    ]
-  },
-  {
+    "id": "j5ta6hwk",
     "level": "a1",
     "topic": "directions-and-locations",
     "part_of_speech": "noun",
@@ -848,24 +40,107 @@
     ]
   },
   {
+    "id": "gfzhg3ts",
     "level": "a1",
     "topic": "directions-and-locations",
-    "part_of_speech": "adjective",
-    "word": "weit",
-    "comparative": "weiter",
-    "superlative": "am weitesten",
-    "gradable": true,
+    "part_of_speech": "noun",
+    "word": "Position",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Positionen",
+    "genitive_singular": "der Position",
     "sentences": [
-      { "languageCode": "de", "text": "Der Weg ist weit." },
-      { "languageCode": "en", "text": "The way is far." },
-      { "languageCode": "bn", "text": "পথটা অনেক দূরে।" }
+      { "languageCode": "de", "text": "Meine Position ist gut." },
+      { "languageCode": "en", "text": "My position is good." },
+      { "languageCode": "bn", "text": "আমার অবস্থান ভালো।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "far" },
-      { "languageCode": "bn", "text": "দূর" }
+      { "languageCode": "en", "text": "position" },
+      { "languageCode": "bn", "text": "অবস্থান" }
     ]
   },
   {
+    "id": "23gk9sx8",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Ortsangabe",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Ortsangaben",
+    "genitive_singular": "der Ortsangabe",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Ortsangabe ist richtig." },
+      { "languageCode": "en", "text": "The location information is correct." },
+      { "languageCode": "bn", "text": "স্থানের তথ্যটা সঠিক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "location information" },
+      { "languageCode": "bn", "text": "স্থানের তথ্য" }
+    ]
+  },
+  {
+    "id": "9si6vvdn",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Route",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Routen",
+    "genitive_singular": "der Route",
+    "sentences": [
+      { "languageCode": "de", "text": "Diese Route ist schneller." },
+      { "languageCode": "en", "text": "This route is faster." },
+      { "languageCode": "bn", "text": "এই রুটটা দ্রুততর।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "route" },
+      { "languageCode": "bn", "text": "রুট" }
+    ]
+  },
+  {
+    "id": "8ropyn1a",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Weg",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Wege",
+    "genitive_singular": "des Weges",
+    "sentences": [
+      { "languageCode": "de", "text": "Kennen Sie den Weg?" },
+      { "languageCode": "en", "text": "Do you know the way?" },
+      { "languageCode": "bn", "text": "আপনি কি পথটা জানেন?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "way/path" },
+      { "languageCode": "bn", "text": "পথ" }
+    ]
+  },
+  {
+    "id": "b19jd9zw",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Straße",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Straßen",
+    "genitive_singular": "der Straße",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich wohne in dieser Straße." },
+      { "languageCode": "en", "text": "I live on this street." },
+      { "languageCode": "bn", "text": "আমি এই রাস্তায় থাকি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "street" },
+      { "languageCode": "bn", "text": "রাস্তা" }
+    ]
+  },
+  {
+    "id": "vozz6x7m",
     "level": "a1",
     "topic": "directions-and-locations",
     "part_of_speech": "verb",
@@ -888,43 +163,50 @@
     ]
   },
   {
+    "id": "qt4auuxw",
     "level": "a1",
     "topic": "directions-and-locations",
-    "part_of_speech": "adjective",
-    "word": "zentral",
-    "comparative": "zentraler",
-    "superlative": "am zentralsten",
-    "gradable": true,
+    "part_of_speech": "verb",
+    "word": "führen",
+    "infinitive": "führen",
+    "third_person_singular_present": "er führt",
+    "simple_past": "führte",
+    "past_participle": "hat geführt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
     "sentences": [
-      { "languageCode": "de", "text": "Das Hotel ist zentral gelegen." },
-      { "languageCode": "en", "text": "The hotel is centrally located." },
-      { "languageCode": "bn", "text": "হোটেলটা কেন্দ্রীয়ভাবে অবস্থিত।" }
+      { "languageCode": "de", "text": "Der Weg führt zum Park." },
+      { "languageCode": "en", "text": "The path leads to the park." },
+      { "languageCode": "bn", "text": "পথটা পার্কের দিকে নিয়ে যায়।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "central" },
-      { "languageCode": "bn", "text": "কেন্দ্রীয়" }
+      { "languageCode": "en", "text": "to lead" },
+      { "languageCode": "bn", "text": "নিয়ে যাওয়া" }
     ]
   },
   {
+    "id": "afy9e11t",
     "level": "a1",
     "topic": "directions-and-locations",
     "part_of_speech": "noun",
-    "word": "Zentrum",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Zentren",
-    "genitive_singular": "des Zentrums",
+    "word": "Start",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Starts",
+    "genitive_singular": "des Starts",
     "sentences": [
-      { "languageCode": "de", "text": "Das Zentrum ist belebter." },
-      { "languageCode": "en", "text": "The center is more lively." },
-      { "languageCode": "bn", "text": "কেন্দ্রটা বেশি প্রাণবন্ত।" }
+      { "languageCode": "de", "text": "Der Start ist hier." },
+      { "languageCode": "en", "text": "The start is here." },
+      { "languageCode": "bn", "text": "শুরুটা এখানে।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "center" },
-      { "languageCode": "bn", "text": "কেন্দ্র" }
+      { "languageCode": "en", "text": "start" },
+      { "languageCode": "bn", "text": "শুরু" }
     ]
   },
   {
+    "id": "4l8fo3x3",
     "level": "a1",
     "topic": "directions-and-locations",
     "part_of_speech": "noun",
@@ -944,22 +226,30 @@
     ]
   },
   {
+    "id": "6w5jyl5n",
     "level": "a1",
     "topic": "directions-and-locations",
-    "part_of_speech": "preposition",
-    "word": "zu",
-    "preposition_cases": ["dative"],
+    "part_of_speech": "verb",
+    "word": "ankommen",
+    "infinitive": "ankommen",
+    "third_person_singular_present": "er kommt an",
+    "simple_past": "kam an",
+    "past_participle": "ist angekommen",
+    "auxiliary_verb": "sein",
+    "verb_type": "irregular",
+    "separable_prefix": "an",
     "sentences": [
-      { "languageCode": "de", "text": "Ich gehe zu meinem Freund." },
-      { "languageCode": "en", "text": "I go to my friend." },
-      { "languageCode": "bn", "text": "আমি আমার বন্ধুর কাছে যাচ্ছি।" }
+      { "languageCode": "de", "text": "Wir kommen um 8 Uhr an." },
+      { "languageCode": "en", "text": "We arrive at 8 o'clock." },
+      { "languageCode": "bn", "text": "আমরা সকাল ৮টায় পৌঁছাব।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "to" },
-      { "languageCode": "bn", "text": "কাছে" }
+      { "languageCode": "en", "text": "to arrive" },
+      { "languageCode": "bn", "text": "পৌঁছানো" }
     ]
   },
   {
+    "id": "x18ehu8n",
     "level": "a1",
     "topic": "directions-and-locations",
     "part_of_speech": "verb",
@@ -982,6 +272,417 @@
     ]
   },
   {
+    "id": "1blrudlq",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adverb",
+    "word": "links",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Gehen Sie links." },
+      { "languageCode": "en", "text": "Go left." },
+      { "languageCode": "bn", "text": "বামে যান।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "left" },
+      { "languageCode": "bn", "text": "বাম" }
+    ]
+  },
+  {
+    "id": "jkqvjw3v",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adverb",
+    "word": "rechts",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Post ist rechts." },
+      { "languageCode": "en", "text": "The post office is on the right." },
+      { "languageCode": "bn", "text": "পোস্ট অফিসটা ডানে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "right" },
+      { "languageCode": "bn", "text": "ডান" }
+    ]
+  },
+  {
+    "id": "zpoe9xaf",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adverb",
+    "word": "geradeaus",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Gehen Sie geradeaus." },
+      { "languageCode": "en", "text": "Go straight ahead." },
+      { "languageCode": "bn", "text": "সোজা যান।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "straight ahead" },
+      { "languageCode": "bn", "text": "সোজা" }
+    ]
+  },
+  {
+    "id": "r3z4uixo",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adverb",
+    "word": "hier",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich wohne hier." },
+      { "languageCode": "en", "text": "I live here." },
+      { "languageCode": "bn", "text": "আমি এখানে থাকি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "here" },
+      { "languageCode": "bn", "text": "এখানে" }
+    ]
+  },
+  {
+    "id": "ak3wcbc9",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adverb",
+    "word": "da",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Auto ist da." },
+      { "languageCode": "en", "text": "The car is there." },
+      { "languageCode": "bn", "text": "গাড়িটা সেখানে আছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "there" },
+      { "languageCode": "bn", "text": "সেখানে" }
+    ]
+  },
+  {
+    "id": "icdknpv6",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adverb",
+    "word": "dort",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Freund wohnt dort." },
+      { "languageCode": "en", "text": "My friend lives there." },
+      { "languageCode": "bn", "text": "আমার বন্ধু ওখানে থাকে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "there" },
+      { "languageCode": "bn", "text": "ওখানে" }
+    ]
+  },
+  {
+    "id": "8x1v1cvl",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adjective",
+    "word": "nah",
+    "comparative": "näher",
+    "superlative": "am nächsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Schule ist nah." },
+      { "languageCode": "en", "text": "The school is close." },
+      { "languageCode": "bn", "text": "স্কুলটা কাছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "close/near" },
+      { "languageCode": "bn", "text": "কাছে" }
+    ]
+  },
+  {
+    "id": "6xbp1vt1",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Nähe",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Nähen",
+    "genitive_singular": "der Nähe",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich wohne in der Nähe." },
+      { "languageCode": "en", "text": "I live nearby." },
+      { "languageCode": "bn", "text": "আমি কাছাকাছি থাকি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "proximity/vicinity" },
+      { "languageCode": "bn", "text": "কাছাকাছি" }
+    ]
+  },
+  {
+    "id": "i9z5yvjs",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "bei",
+    "preposition_cases": ["dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin bei meiner Mutter." },
+      { "languageCode": "en", "text": "I am at my mother's place." },
+      { "languageCode": "bn", "text": "আমি আমার মায়ের কাছে আছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "at/near" },
+      { "languageCode": "bn", "text": "কাছে" }
+    ]
+  },
+  {
+    "id": "i6qrz0ry",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Entfernung",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Entfernungen",
+    "genitive_singular": "der Entfernung",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Entfernung ist groß." },
+      { "languageCode": "en", "text": "The distance is great." },
+      { "languageCode": "bn", "text": "দূরত্বটা অনেক বেশি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "distance" },
+      { "languageCode": "bn", "text": "দূরত্ব" }
+    ]
+  },
+  {
+    "id": "cb9aueki",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adjective",
+    "word": "fern",
+    "comparative": "ferner",
+    "superlative": "am fernsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Land ist fern." },
+      { "languageCode": "en", "text": "The country is distant." },
+      { "languageCode": "bn", "text": "দেশটা অনেক দূরে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "distant/far" },
+      { "languageCode": "bn", "text": "দূরে" }
+    ]
+  },
+  {
+    "id": "h5g76lt2",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adjective",
+    "word": "weit",
+    "comparative": "weiter",
+    "superlative": "am weitesten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Der Weg ist weit." },
+      { "languageCode": "en", "text": "The way is far." },
+      { "languageCode": "bn", "text": "পথটা অনেক দূরে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "far" },
+      { "languageCode": "bn", "text": "দূর" }
+    ]
+  },
+  {
+    "id": "ph2355xc",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adjective",
+    "word": "zentral",
+    "comparative": "zentraler",
+    "superlative": "am zentralsten",
+    "gradable": true,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Hotel ist zentral gelegen." },
+      { "languageCode": "en", "text": "The hotel is centrally located." },
+      { "languageCode": "bn", "text": "হোটেলটা কেন্দ্রীয়ভাবে অবস্থিত।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "central" },
+      { "languageCode": "bn", "text": "কেন্দ্রীয়" }
+    ]
+  },
+  {
+    "id": "gzou6jsb",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Zentrum",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Zentren",
+    "genitive_singular": "des Zentrums",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Zentrum ist belebter." },
+      { "languageCode": "en", "text": "The center is more lively." },
+      { "languageCode": "bn", "text": "কেন্দ্রটা বেশি প্রাণবন্ত।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "center" },
+      { "languageCode": "bn", "text": "কেন্দ্র" }
+    ]
+  },
+  {
+    "id": "wxic2ff8",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Mitte",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Mitten",
+    "genitive_singular": "der Mitte",
+    "sentences": [
+      { "languageCode": "de", "text": "In der Mitte ist ein Brunnen." },
+      { "languageCode": "en", "text": "In the middle is a fountain." },
+      { "languageCode": "bn", "text": "মাঝখানে একটা ফোয়ারা আছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "middle" },
+      { "languageCode": "bn", "text": "মাঝখানে" }
+    ]
+  },
+  {
+    "id": "sqbbvgnh",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "in",
+    "preposition_cases": ["accusative", "dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Ich bin in der Stadt." },
+      { "languageCode": "en", "text": "I am in the city." },
+      { "languageCode": "bn", "text": "আমি শহরে আছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "in" },
+      { "languageCode": "bn", "text": "ভিতরে" }
+    ]
+  },
+  {
+    "id": "ur4ljjkl",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "auf",
+    "preposition_cases": ["accusative", "dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Das Buch liegt auf dem Tisch." },
+      { "languageCode": "en", "text": "The book is on the table." },
+      { "languageCode": "bn", "text": "বইটা টেবিলের উপর আছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "on" },
+      { "languageCode": "bn", "text": "উপর" }
+    ]
+  },
+  {
+    "id": "nfyt620y",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "an",
+    "preposition_cases": ["accusative", "dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Das Bild hängt an der Wand." },
+      { "languageCode": "en", "text": "The picture hangs on the wall." },
+      { "languageCode": "bn", "text": "ছবিটা দেয়ালে ঝুলছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "on/at" },
+      { "languageCode": "bn", "text": "এ/তে" }
+    ]
+  },
+  {
+    "id": "wzkx0hbp",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "unter",
+    "preposition_cases": ["accusative", "dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Der Hund ist unter dem Tisch." },
+      { "languageCode": "en", "text": "The dog is under the table." },
+      { "languageCode": "bn", "text": "কুকুরটা টেবিলের নিচে আছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "under" },
+      { "languageCode": "bn", "text": "নিচে" }
+    ]
+  },
+  {
+    "id": "4lnf7adg",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "über",
+    "preposition_cases": ["accusative", "dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Die Brücke ist über dem Fluss." },
+      { "languageCode": "en", "text": "The bridge is over the river." },
+      { "languageCode": "bn", "text": "সেতুটা নদীর উপরে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "over/above" },
+      { "languageCode": "bn", "text": "উপরে" }
+    ]
+  },
+  {
+    "id": "nh2vie9d",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adverb",
+    "word": "oben",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Mein Zimmer ist oben." },
+      { "languageCode": "en", "text": "My room is upstairs." },
+      { "languageCode": "bn", "text": "আমার ঘরটা উপরে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "above/upstairs" },
+      { "languageCode": "bn", "text": "উপরে" }
+    ]
+  },
+  {
+    "id": "lrohbml4",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adverb",
+    "word": "unten",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Die Küche ist unten." },
+      { "languageCode": "en", "text": "The kitchen is downstairs." },
+      { "languageCode": "bn", "text": "রান্নাঘরটা নিচে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "below/downstairs" },
+      { "languageCode": "bn", "text": "নিচে" }
+    ]
+  },
+  {
+    "id": "qgh1butm",
     "level": "a1",
     "topic": "directions-and-locations",
     "part_of_speech": "preposition",
@@ -995,6 +696,360 @@
     "translations": [
       { "languageCode": "en", "text": "between" },
       { "languageCode": "bn", "text": "মধ্যে" }
+    ]
+  },
+  {
+    "id": "l9t4q5rw",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "neben",
+    "preposition_cases": ["dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Die Bank ist neben dem Café." },
+      { "languageCode": "en", "text": "The bank is next to the café." },
+      { "languageCode": "bn", "text": "ব্যাংকটা ক্যাফের পাশে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "next to" },
+      { "languageCode": "bn", "text": "পাশে" }
+    ]
+  },
+  {
+    "id": "cjqobwyw",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "hinter",
+    "preposition_cases": ["accusative", "dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Das Auto steht hinter dem Baum." },
+      { "languageCode": "en", "text": "The car is behind the tree." },
+      { "languageCode": "bn", "text": "গাড়িটা গাছের পিছনে দাঁড়িয়ে আছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "behind" },
+      { "languageCode": "bn", "text": "পিছনে" }
+    ]
+  },
+  {
+    "id": "lpygyk3k",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adverb",
+    "word": "hinten",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Das Kind sitzt hinten." },
+      { "languageCode": "en", "text": "The child sits in the back." },
+      { "languageCode": "bn", "text": "শিশুটি পিছনে বসে আছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "behind/in the back" },
+      { "languageCode": "bn", "text": "পিছনে" }
+    ]
+  },
+  {
+    "id": "xlr3e1eu",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "vor",
+    "preposition_cases": ["accusative", "dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Ich warte vor dem Haus." },
+      { "languageCode": "en", "text": "I wait in front of the house." },
+      { "languageCode": "bn", "text": "আমি বাড়ির সামনে অপেক্ষা করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "in front of" },
+      { "languageCode": "bn", "text": "সামনে" }
+    ]
+  },
+  {
+    "id": "8g47rp43",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "adverb",
+    "word": "vorne",
+    "comparative": null,
+    "superlative": null,
+    "gradable": false,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich sitze vorne." },
+      { "languageCode": "en", "text": "I sit in the front." },
+      { "languageCode": "bn", "text": "আমি সামনে বসি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "in front" },
+      { "languageCode": "bn", "text": "সামনে" }
+    ]
+  },
+  {
+    "id": "y2cjctok",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "mit",
+    "preposition_cases": ["dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Ich fahre mit dem Bus." },
+      { "languageCode": "en", "text": "I travel by bus." },
+      { "languageCode": "bn", "text": "আমি বাসে করে যাই।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "with/by" },
+      { "languageCode": "bn", "text": "সাথে" }
+    ]
+  },
+  {
+    "id": "hthna3db",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "von",
+    "preposition_cases": ["dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Ich komme von der Arbeit." },
+      { "languageCode": "en", "text": "I come from work." },
+      { "languageCode": "bn", "text": "আমি কাজ থেকে আসছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "from" },
+      { "languageCode": "bn", "text": "থেকে" }
+    ]
+  },
+  {
+    "id": "1xirbs6v",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "aus",
+    "preposition_cases": ["dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Er kommt aus Deutschland." },
+      { "languageCode": "en", "text": "He comes from Germany." },
+      { "languageCode": "bn", "text": "সে জার্মানি থেকে এসেছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "from/out of" },
+      { "languageCode": "bn", "text": "থেকে" }
+    ]
+  },
+  {
+    "id": "qw4xrgom",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "nach",
+    "preposition_cases": ["dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Wir fahren nach Berlin." },
+      { "languageCode": "en", "text": "We drive to Berlin." },
+      { "languageCode": "bn", "text": "আমরা বার্লিনের দিকে যাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to" },
+      { "languageCode": "bn", "text": "দিকে" }
+    ]
+  },
+  {
+    "id": "7izgi6rl",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "preposition",
+    "word": "zu",
+    "preposition_cases": ["dative"],
+    "sentences": [
+      { "languageCode": "de", "text": "Ich gehe zu meinem Freund." },
+      { "languageCode": "en", "text": "I go to my friend." },
+      { "languageCode": "bn", "text": "আমি আমার বন্ধুর কাছে যাচ্ছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to" },
+      { "languageCode": "bn", "text": "কাছে" }
+    ]
+  },
+  {
+    "id": "8g0fcny0",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Tür",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Türen",
+    "genitive_singular": "der Tür",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Tür ist offen." },
+      { "languageCode": "en", "text": "The door is open." },
+      { "languageCode": "bn", "text": "দরজাটা খোলা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "door" },
+      { "languageCode": "bn", "text": "দরজা" }
+    ]
+  },
+  {
+    "id": "sejn9bpm",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Ecke",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Ecken",
+    "genitive_singular": "der Ecke",
+    "sentences": [
+      { "languageCode": "de", "text": "An der Ecke ist ein Café." },
+      { "languageCode": "en", "text": "There is a café at the corner." },
+      { "languageCode": "bn", "text": "কোণায় একটা ক্যাফে আছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "corner" },
+      { "languageCode": "bn", "text": "কোণ" }
+    ]
+  },
+  {
+    "id": "c02nxsue",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Kreuzung",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Kreuzungen",
+    "genitive_singular": "der Kreuzung",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Kreuzung ist gefährlich." },
+      { "languageCode": "en", "text": "The intersection is dangerous." },
+      { "languageCode": "bn", "text": "মোড়টা বিপজ্জনক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "intersection" },
+      { "languageCode": "bn", "text": "মোড়" }
+    ]
+  },
+  {
+    "id": "cnpiued0",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Platz",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Plätze",
+    "genitive_singular": "des Platzes",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Platz ist sehr schön." },
+      { "languageCode": "en", "text": "The square is very beautiful." },
+      { "languageCode": "bn", "text": "চত্বরটা খুব সুন্দর।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "square/place" },
+      { "languageCode": "bn", "text": "চত্বর" }
+    ]
+  },
+  {
+    "id": "rynmerjr",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Brücke",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Brücken",
+    "genitive_singular": "der Brücke",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Brücke ist alt." },
+      { "languageCode": "en", "text": "The bridge is old." },
+      { "languageCode": "bn", "text": "সেতুটা পুরনো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bridge" },
+      { "languageCode": "bn", "text": "সেতু" }
+    ]
+  },
+  {
+    "id": "5b14cjzc",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Haltestelle",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Haltestellen",
+    "genitive_singular": "der Haltestelle",
+    "sentences": [
+      { "languageCode": "de", "text": "Wo ist die Haltestelle?" },
+      { "languageCode": "en", "text": "Where is the bus stop?" },
+      { "languageCode": "bn", "text": "বাস স্টপটা কোথায়?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "bus stop" },
+      { "languageCode": "bn", "text": "বাস স্টপ" }
+    ]
+  },
+  {
+    "id": "qzb9v923",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Bahnhof",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Bahnhöfe",
+    "genitive_singular": "des Bahnhofs",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Bahnhof ist groß." },
+      { "languageCode": "en", "text": "The train station is big." },
+      { "languageCode": "bn", "text": "রেলস্টেশনটা বড়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "train station" },
+      { "languageCode": "bn", "text": "রেলস্টেশন" }
+    ]
+  },
+  {
+    "id": "glcvgzpp",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Flughafen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Flughäfen",
+    "genitive_singular": "des Flughafens",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Flughafen ist weit." },
+      { "languageCode": "en", "text": "The airport is far." },
+      { "languageCode": "bn", "text": "বিমানবন্দরটা অনেক দূরে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "airport" },
+      { "languageCode": "bn", "text": "বিমানবন্দর" }
+    ]
+  },
+  {
+    "id": "m2dzne7g",
+    "level": "a1",
+    "topic": "directions-and-locations",
+    "part_of_speech": "noun",
+    "word": "Meter",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Meter",
+    "genitive_singular": "des Meters",
+    "sentences": [
+      { "languageCode": "de", "text": "Es sind hundert Meter." },
+      { "languageCode": "en", "text": "It is one hundred meters." },
+      { "languageCode": "bn", "text": "এটা একশো মিটার।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "meter" },
+      { "languageCode": "bn", "text": "মিটার" }
     ]
   }
 ]

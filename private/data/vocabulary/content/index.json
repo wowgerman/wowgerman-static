@@ -2,6 +2,7 @@
   "levels": ["a1", "a2", "b1", "b2", "c1", "c2"],
   "topics": [
     {
+      "id": "rbc0t1we",
       "level": "a1",
       "slug": "greetings-and-expressions",
       "title": "Greetings & Expressions",
@@ -9,6 +10,7 @@
       "image": "private/data/vocabulary/images/greetings-and-expressions/index.png"
     },
     {
+      "id": "1ufh41sc",
       "level": "a1",
       "slug": "communication-and-personal-information",
       "title": "Communication & Personal Information",
@@ -16,6 +18,7 @@
       "image": "private/data/vocabulary/images/communication-and-personal-information/index.png"
     },
     {
+      "id": "b0jzuclp",
       "level": "a1",
       "slug": "countries-and-languages",
       "title": "Countries & Languages",
@@ -23,6 +26,7 @@
       "image": "private/data/vocabulary/images/countries-and-languages/index.png"
     },
     {
+      "id": "ovsavcx6",
       "level": "a1",
       "slug": "numbers-and-quantities",
       "title": "Numbers & Quantities",
@@ -30,6 +34,7 @@
       "image": "private/data/vocabulary/images/numbers-and-quantities/index.png"
     },
     {
+      "id": "zx8nudrm",
       "level": "a1",
       "slug": "time-and-dates",
       "title": "Time & Dates",
@@ -37,6 +42,7 @@
       "image": "private/data/vocabulary/images/time-and-dates/index.png"
     },
     {
+      "id": "40b0qaug",
       "level": "a1",
       "slug": "family-and-relationships",
       "title": "Family & Relationships",
@@ -44,6 +50,7 @@
       "image": "private/data/vocabulary/images/family-and-relationships/index.png"
     },
     {
+      "id": "hdq5b5ez",
       "level": "a1",
       "slug": "body-parts",
       "title": "Body Parts",
@@ -51,6 +58,7 @@
       "image": "private/data/vocabulary/images/body-parts/index.png"
     },
     {
+      "id": "ltdwdvt4",
       "level": "a1",
       "slug": "health-and-medicine",
       "title": "Health & Medicine",
@@ -58,6 +66,7 @@
       "image": "private/data/vocabulary/images/health-and-medicine/index.png"
     },
     {
+      "id": "4n03phhj",
       "level": "a1",
       "slug": "emotions-and-feelings",
       "title": "Emotions & Feelings",
@@ -65,6 +74,7 @@
       "image": "private/data/vocabulary/images/emotions-and-feelings/index.png"
     },
     {
+      "id": "gvtj66up",
       "level": "a1",
       "slug": "daily-routines",
       "title": "Daily Routines",
@@ -72,6 +82,7 @@
       "image": "private/data/vocabulary/images/daily-routines/index.png"
     },
     {
+      "id": "9ejg5z2m",
       "level": "a1",
       "slug": "food-and-drinks",
       "title": "Food & Drinks",
@@ -79,6 +90,7 @@
       "image": "private/data/vocabulary/images/food-and-drinks/index.png"
     },
     {
+      "id": "k1bbhz2e",
       "level": "a1",
       "slug": "clothing-and-fashion",
       "title": "Clothing & Fashion",
@@ -86,6 +98,7 @@
       "image": "private/data/vocabulary/images/clothing-and-fashion/index.png"
     },
     {
+      "id": "qysfrqz3",
       "level": "a1",
       "slug": "colors-and-descriptions",
       "title": "Colors & Descriptions",
@@ -93,6 +106,7 @@
       "image": "private/data/vocabulary/images/colors-and-descriptions/index.png"
     },
     {
+      "id": "ibbvbmx8",
       "level": "a1",
       "slug": "housing-and-living",
       "title": "Housing & Living",
@@ -100,6 +114,7 @@
       "image": "private/data/vocabulary/images/housing-and-living/index.png"
     },
     {
+      "id": "1xq7g99l",
       "level": "a1",
       "slug": "directions-and-locations",
       "title": "Directions & Locations",
@@ -107,6 +122,7 @@
       "image": "private/data/vocabulary/images/directions-and-locations/index.png"
     },
     {
+      "id": "uen8k3kp",
       "level": "a1",
       "slug": "transportation-and-travel",
       "title": "Transportation & Travel",
@@ -114,6 +130,7 @@
       "image": "private/data/vocabulary/images/transportation-and-travel/index.png"
     },
     {
+      "id": "8ng5ghnv",
       "level": "a1",
       "slug": "geography-and-places",
       "title": "Geography & Places",
@@ -121,6 +138,7 @@
       "image": "private/data/vocabulary/images/geography-and-places/index.png"
     },
     {
+      "id": "ehofrdw8",
       "level": "a1",
       "slug": "shopping-and-commerce",
       "title": "Shopping & Commerce",
@@ -128,6 +146,7 @@
       "image": "private/data/vocabulary/images/shopping-and-commerce/index.png"
     },
     {
+      "id": "j3193mvb",
       "level": "a1",
       "slug": "education-and-learning",
       "title": "Education & Learning",
@@ -135,6 +154,7 @@
       "image": "private/data/vocabulary/images/education-and-learning/index.png"
     },
     {
+      "id": "t9l5nx0k",
       "level": "a1",
       "slug": "professions-and-work",
       "title": "Professions & Work",
@@ -142,6 +162,7 @@
       "image": "private/data/vocabulary/images/professions-and-work/index.png"
     },
     {
+      "id": "hj9czwuy",
       "level": "a1",
       "slug": "sports-and-hobbies",
       "title": "Sports & Hobbies",
@@ -149,6 +170,7 @@
       "image": "private/data/vocabulary/images/sports-and-hobbies/index.png"
     },
     {
+      "id": "wyimaw7r",
       "level": "a1",
       "slug": "entertainment-and-culture",
       "title": "Entertainment & Culture",
@@ -156,6 +178,7 @@
       "image": "private/data/vocabulary/images/entertainment-and-culture/index.png"
     },
     {
+      "id": "wt20erwc",
       "level": "a1",
       "slug": "technology-and-communication",
       "title": "Technology & Communication",
@@ -163,6 +186,7 @@
       "image": "private/data/vocabulary/images/technology-and-communication/index.png"
     },
     {
+      "id": "57y8sqo9",
       "level": "a1",
       "slug": "weather-and-seasons",
       "title": "Weather & Seasons",
@@ -170,6 +194,7 @@
       "image": "private/data/vocabulary/images/weather-and-seasons/index.png"
     },
     {
+      "id": "x0gqgnz8",
       "level": "a1",
       "slug": "grammar-and-language",
       "title": "Grammar & Language",
@@ -177,6 +202,7 @@
       "image": "private/data/vocabulary/images/grammar-and-language/index.png"
     },
     {
+      "id": "4bklbh0n",
       "level": "a1",
       "slug": "other",
       "title": "Other",

@@ -1,403 +1,6 @@
 [
   {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Abschnitt",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Abschnitte",
-    "genitive_singular": "des Abschnitts",
-    "sentences": [
-      { "languageCode": "de", "text": "Lesen Sie den ersten Abschnitt." },
-      { "languageCode": "en", "text": "Read the first section." },
-      { "languageCode": "bn", "text": "প্রথম অংশটি পড়ুন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "section" },
-      { "languageCode": "bn", "text": "অংশ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "verb",
-    "word": "auswendig lernen",
-    "infinitive": "auswendig lernen",
-    "third_person_singular_present": "er lernt auswendig",
-    "simple_past": "lernte auswendig",
-    "past_participle": "hat auswendig gelernt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Sie lernt das Gedicht auswendig." },
-      { "languageCode": "en", "text": "She learns the poem by heart." },
-      { "languageCode": "bn", "text": "সে কবিতাটি মুখস্থ করছে।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to learn by heart" },
-      { "languageCode": "bn", "text": "মুখস্থ করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Bibliothek",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Bibliotheken",
-    "genitive_singular": "der Bibliothek",
-    "sentences": [
-      { "languageCode": "de", "text": "In der Bibliothek ist es ruhig." },
-      { "languageCode": "en", "text": "It is quiet in the library." },
-      { "languageCode": "bn", "text": "গ্রন্থাগারে খুব শান্ত পরিবেশ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "library" },
-      { "languageCode": "bn", "text": "গ্রন্থাগার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Ergebnis",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Ergebnisse",
-    "genitive_singular": "des Ergebnisses",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Ergebnis ist gut." },
-      { "languageCode": "en", "text": "The result is good." },
-      { "languageCode": "bn", "text": "ফলাফলটি ভালো।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "result" },
-      { "languageCode": "bn", "text": "ফলাফল" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "verb",
-    "word": "erklären",
-    "infinitive": "erklären",
-    "third_person_singular_present": "er erklärt",
-    "simple_past": "erklärte",
-    "past_participle": "hat erklärt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Können Sie das bitte erklären?" },
-      { "languageCode": "en", "text": "Can you please explain that?" },
-      { "languageCode": "bn", "text": "আপনি কি দয়া করে এটা ব্যাখ্যা করতে পারবেন?" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to explain" },
-      { "languageCode": "bn", "text": "ব্যাখ্যা করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Hausaufgabe",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Hausaufgaben",
-    "genitive_singular": "der Hausaufgabe",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich mache meine Hausaufgaben." },
-      { "languageCode": "en", "text": "I do my homework." },
-      { "languageCode": "bn", "text": "আমি আমার বাড়ির কাজ করছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "homework" },
-      { "languageCode": "bn", "text": "বাড়ির কাজ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Heft",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Hefte",
-    "genitive_singular": "des Hefts",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Heft ist neu." },
-      { "languageCode": "en", "text": "The notebook is new." },
-      { "languageCode": "bn", "text": "খাতাটি নতুন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "notebook" },
-      { "languageCode": "bn", "text": "খাতা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Kindergarten",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Kindergärten",
-    "genitive_singular": "des Kindergartens",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Kindergarten ist groß." },
-      { "languageCode": "en", "text": "The kindergarten is big." },
-      { "languageCode": "bn", "text": "কিন্ডারগার্টেনটি বড়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "kindergarten" },
-      { "languageCode": "bn", "text": "কিন্ডারগার্টেন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "verb",
-    "word": "korrigieren",
-    "infinitive": "korrigieren",
-    "third_person_singular_present": "er korrigiert",
-    "simple_past": "korrigierte",
-    "past_participle": "hat korrigiert",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Der Lehrer korrigiert die Tests." },
-      { "languageCode": "en", "text": "The teacher corrects the tests." },
-      { "languageCode": "bn", "text": "শিক্ষক পরীক্ষার খাতা সংশোধন করছেন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to correct" },
-      { "languageCode": "bn", "text": "সংশোধন করা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "verb",
-    "word": "lehren",
-    "infinitive": "lehren",
-    "third_person_singular_present": "er lehrt",
-    "simple_past": "lehrte",
-    "past_participle": "hat gelehrt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Sie lehrt Mathematik." },
-      { "languageCode": "en", "text": "She teaches mathematics." },
-      { "languageCode": "bn", "text": "সে গণিত শেখায়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to teach" },
-      { "languageCode": "bn", "text": "শেখানো" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "verb",
-    "word": "lernen",
-    "infinitive": "lernen",
-    "third_person_singular_present": "er lernt",
-    "simple_past": "lernte",
-    "past_participle": "hat gelernt",
-    "auxiliary_verb": "haben",
-    "verb_type": "regular",
-    "separable_prefix": null,
-    "sentences": [
-      { "languageCode": "de", "text": "Ich lerne Deutsch." },
-      { "languageCode": "en", "text": "I learn German." },
-      { "languageCode": "bn", "text": "আমি জার্মান শিখছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to learn" },
-      { "languageCode": "bn", "text": "শেখা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Mathetest",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Mathetests",
-    "genitive_singular": "des Mathetests",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Mathetest ist morgen." },
-      { "languageCode": "en", "text": "The math test is tomorrow." },
-      { "languageCode": "bn", "text": "গণিত পরীক্ষা আগামীকাল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "math test" },
-      { "languageCode": "bn", "text": "গণিত পরীক্ষা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Mensa",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Mensen",
-    "genitive_singular": "der Mensa",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Essen in der Mensa ist günstig." },
-      { "languageCode": "en", "text": "The food in the cafeteria is cheap." },
-      { "languageCode": "bn", "text": "ক্যাফেটেরিয়ার খাবার সস্তা।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "cafeteria" },
-      { "languageCode": "bn", "text": "ক্যাফেটেরিয়া" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Methode",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Methoden",
-    "genitive_singular": "der Methode",
-    "sentences": [
-      { "languageCode": "de", "text": "Das ist eine gute Methode." },
-      { "languageCode": "en", "text": "That is a good method." },
-      { "languageCode": "bn", "text": "এটা একটা ভালো পদ্ধতি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "method" },
-      { "languageCode": "bn", "text": "পদ্ধতি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "verb",
-    "word": "mit lesen",
-    "infinitive": "mit lesen",
-    "third_person_singular_present": "er liest mit",
-    "simple_past": "las mit",
-    "past_participle": "hat mit gelesen",
-    "auxiliary_verb": "haben",
-    "verb_type": "irregular",
-    "separable_prefix": "mit",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich lese mit der Klasse mit." },
-      { "languageCode": "en", "text": "I read along with the class." },
-      { "languageCode": "bn", "text": "আমি ক্লাসের সাথে সাথে পড়ছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "to read along" },
-      { "languageCode": "bn", "text": "সাথে পড়া" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Musikschule",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Musikschulen",
-    "genitive_singular": "der Musikschule",
-    "sentences": [
-      { "languageCode": "de", "text": "Meine Tochter geht zur Musikschule." },
-      { "languageCode": "en", "text": "My daughter goes to music school." },
-      { "languageCode": "bn", "text": "আমার মেয়ে সঙ্গীত স্কুলে যায়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "music school" },
-      { "languageCode": "bn", "text": "সঙ্গীত স্কুল" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Praxis",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Praxen",
-    "genitive_singular": "der Praxis",
-    "sentences": [
-      { "languageCode": "de", "text": "Theorie und Praxis sind wichtig." },
-      { "languageCode": "en", "text": "Theory and practice are important." },
-      { "languageCode": "bn", "text": "তত্ত্ব এবং অনুশীলন দুটোই গুরুত্বপূর্ণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "practice" },
-      { "languageCode": "bn", "text": "অনুশীলন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Projekt",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Projekte",
-    "genitive_singular": "des Projekts",
-    "sentences": [
-      { "languageCode": "de", "text": "Unser Projekt ist sehr interessant." },
-      { "languageCode": "en", "text": "Our project is very interesting." },
-      { "languageCode": "bn", "text": "আমাদের প্রকল্পটি খুব আকর্ষণীয়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "project" },
-      { "languageCode": "bn", "text": "প্রকল্প" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Prüfung",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Prüfungen",
-    "genitive_singular": "der Prüfung",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Prüfung ist schwer." },
-      { "languageCode": "en", "text": "The exam is difficult." },
-      { "languageCode": "bn", "text": "পরীক্ষাটি কঠিন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "exam" },
-      { "languageCode": "bn", "text": "পরীক্ষা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Rollenkarte",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Rollenkarten",
-    "genitive_singular": "der Rollenkarte",
-    "sentences": [
-      { "languageCode": "de", "text": "Jeder bekommt eine Rollenkarte." },
-      { "languageCode": "en", "text": "Everyone gets a role card." },
-      { "languageCode": "bn", "text": "সবাই একটা ভূমিকার কার্ড পায়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "role card" },
-      { "languageCode": "bn", "text": "ভূমিকার কার্ড" }
-    ]
-  },
-  {
+    "id": "3vh4dnx9",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
@@ -417,63 +20,27 @@
     ]
   },
   {
+    "id": "529kp5c0",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
-    "word": "Semester",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Semester",
-    "genitive_singular": "des Semesters",
+    "word": "Kindergarten",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Kindergärten",
+    "genitive_singular": "des Kindergartens",
     "sentences": [
-      { "languageCode": "de", "text": "Das Semester endet im Juli." },
-      { "languageCode": "en", "text": "The semester ends in July." },
-      { "languageCode": "bn", "text": "সেমিস্টারটি জুলাইতে শেষ হয়।" }
+      { "languageCode": "de", "text": "Der Kindergarten ist groß." },
+      { "languageCode": "en", "text": "The kindergarten is big." },
+      { "languageCode": "bn", "text": "কিন্ডারগার্টেনটি বড়।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "semester" },
-      { "languageCode": "bn", "text": "সেমিস্টার" }
+      { "languageCode": "en", "text": "kindergarten" },
+      { "languageCode": "bn", "text": "কিন্ডারগার্টেন" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Seminar",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Seminare",
-    "genitive_singular": "des Seminars",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Seminar findet montags statt." },
-      { "languageCode": "en", "text": "The seminar takes place on Mondays." },
-      { "languageCode": "bn", "text": "সেমিনারটি সোমবার অনুষ্ঠিত হয়।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "seminar" },
-      { "languageCode": "bn", "text": "সেমিনার" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Sprachnachricht",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Sprachnachrichten",
-    "genitive_singular": "der Sprachnachricht",
-    "sentences": [
-      { "languageCode": "de", "text": "Ich höre die Sprachnachricht." },
-      { "languageCode": "en", "text": "I listen to the voice message." },
-      { "languageCode": "bn", "text": "আমি ভয়েস মেসেজটি শুনছি।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "voice message" },
-      { "languageCode": "bn", "text": "ভয়েস মেসেজ" }
-    ]
-  },
-  {
+    "id": "4ffalung",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
@@ -493,82 +60,87 @@
     ]
   },
   {
+    "id": "8beo3y55",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
-    "word": "Statistik",
+    "word": "Musikschule",
     "article": "die",
     "gender": "feminine",
-    "plural": "Statistiken",
-    "genitive_singular": "der Statistik",
+    "plural": "Musikschulen",
+    "genitive_singular": "der Musikschule",
     "sentences": [
-      { "languageCode": "de", "text": "Die Statistik zeigt interessante Zahlen." },
-      { "languageCode": "en", "text": "The statistics show interesting numbers." },
-      { "languageCode": "bn", "text": "পরিসংখ্যানে আকর্ষণীয় সংখ্যা দেখা যায়।" }
+      { "languageCode": "de", "text": "Meine Tochter geht zur Musikschule." },
+      { "languageCode": "en", "text": "My daughter goes to music school." },
+      { "languageCode": "bn", "text": "আমার মেয়ে সঙ্গীত স্কুলে যায়।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "statistics" },
-      { "languageCode": "bn", "text": "পরিসংখ্যান" }
+      { "languageCode": "en", "text": "music school" },
+      { "languageCode": "bn", "text": "সঙ্গীত স্কুল" }
     ]
   },
   {
+    "id": "ll4wwkf7",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
-    "word": "Stift",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Stifte",
-    "genitive_singular": "des Stifts",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Stift ist blau." },
-      { "languageCode": "en", "text": "The pen is blue." },
-      { "languageCode": "bn", "text": "কলমটি নীল।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "pen" },
-      { "languageCode": "bn", "text": "কলম" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Strategie",
+    "word": "Universität",
     "article": "die",
     "gender": "feminine",
-    "plural": "Strategien",
-    "genitive_singular": "der Strategie",
+    "plural": "Universitäten",
+    "genitive_singular": "der Universität",
     "sentences": [
-      { "languageCode": "de", "text": "Wir brauchen eine Strategie." },
-      { "languageCode": "en", "text": "We need a strategy." },
-      { "languageCode": "bn", "text": "আমাদের একটা কৌশল দরকার।" }
+      { "languageCode": "de", "text": "Er studiert an der Universität." },
+      { "languageCode": "en", "text": "He studies at the university." },
+      { "languageCode": "bn", "text": "সে বিশ্ববিদ্যালয়ে অধ্যয়ন করে।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "strategy" },
-      { "languageCode": "bn", "text": "কৌশল" }
+      { "languageCode": "en", "text": "university" },
+      { "languageCode": "bn", "text": "বিশ্ববিদ্যালয়" }
     ]
   },
   {
+    "id": "9dscibq3",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
-    "word": "Student",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Studenten",
-    "genitive_singular": "des Studenten",
+    "word": "Uni",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Unis",
+    "genitive_singular": "der Uni",
     "sentences": [
-      { "languageCode": "de", "text": "Der Student lernt für die Prüfung." },
-      { "languageCode": "en", "text": "The student studies for the exam." },
-      { "languageCode": "bn", "text": "ছাত্রটি পরীক্ষার জন্য পড়াশোনা করছে।" }
+      { "languageCode": "de", "text": "Ich gehe zur Uni." },
+      { "languageCode": "en", "text": "I go to university." },
+      { "languageCode": "bn", "text": "আমি বিশ্ববিদ্যালয়ে যাই।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "student (male)" },
-      { "languageCode": "bn", "text": "ছাত্র" }
+      { "languageCode": "en", "text": "university (informal)" },
+      { "languageCode": "bn", "text": "বিশ্ববিদ্যালয়" }
     ]
   },
   {
+    "id": "8vqs8ua5",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Studium",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Studien",
+    "genitive_singular": "des Studiums",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Studium dauert drei Jahre." },
+      { "languageCode": "en", "text": "The studies last three years." },
+      { "languageCode": "bn", "text": "অধ্যয়নটি তিন বছর স্থায়ী হয়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "studies" },
+      { "languageCode": "bn", "text": "অধ্যয়ন" }
+    ]
+  },
+  {
+    "id": "p8x0hmlr",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "verb",
@@ -591,6 +163,47 @@
     ]
   },
   {
+    "id": "artd2il2",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Semester",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Semester",
+    "genitive_singular": "des Semesters",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Semester endet im Juli." },
+      { "languageCode": "en", "text": "The semester ends in July." },
+      { "languageCode": "bn", "text": "সেমিস্টারটি জুলাইতে শেষ হয়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "semester" },
+      { "languageCode": "bn", "text": "সেমিস্টার" }
+    ]
+  },
+  {
+    "id": "qv44o9tp",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Seminar",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Seminare",
+    "genitive_singular": "des Seminars",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Seminar findet montags statt." },
+      { "languageCode": "en", "text": "The seminar takes place on Mondays." },
+      { "languageCode": "bn", "text": "সেমিনারটি সোমবার অনুষ্ঠিত হয়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "seminar" },
+      { "languageCode": "bn", "text": "সেমিনার" }
+    ]
+  },
+  {
+    "id": "s604iwfr",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
@@ -610,25 +223,87 @@
     ]
   },
   {
+    "id": "cw0zocp7",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
-    "word": "Studium",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Studien",
-    "genitive_singular": "des Studiums",
+    "word": "Bibliothek",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Bibliotheken",
+    "genitive_singular": "der Bibliothek",
     "sentences": [
-      { "languageCode": "de", "text": "Das Studium dauert drei Jahre." },
-      { "languageCode": "en", "text": "The studies last three years." },
-      { "languageCode": "bn", "text": "অধ্যয়নটি তিন বছর স্থায়ী হয়।" }
+      { "languageCode": "de", "text": "In der Bibliothek ist es ruhig." },
+      { "languageCode": "en", "text": "It is quiet in the library." },
+      { "languageCode": "bn", "text": "গ্রন্থাগারে খুব শান্ত পরিবেশ।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "studies" },
-      { "languageCode": "bn", "text": "অধ্যয়ন" }
+      { "languageCode": "en", "text": "library" },
+      { "languageCode": "bn", "text": "গ্রন্থাগার" }
     ]
   },
   {
+    "id": "zpianzy5",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Mensa",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Mensen",
+    "genitive_singular": "der Mensa",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Essen in der Mensa ist günstig." },
+      { "languageCode": "en", "text": "The food in the cafeteria is cheap." },
+      { "languageCode": "bn", "text": "ক্যাফেটেরিয়ার খাবার সস্তা।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "cafeteria" },
+      { "languageCode": "bn", "text": "ক্যাফেটেরিয়া" }
+    ]
+  },
+  {
+    "id": "69f42gnl",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Student",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Studenten",
+    "genitive_singular": "des Studenten",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Student lernt für die Prüfung." },
+      { "languageCode": "en", "text": "The student studies for the exam." },
+      { "languageCode": "bn", "text": "ছাত্রটি পরীক্ষার জন্য পড়াশোনা করছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "student (male)" },
+      { "languageCode": "bn", "text": "ছাত্র" }
+    ]
+  },
+  {
+    "id": "2ikjvoxg",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Unterricht",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Unterrichte",
+    "genitive_singular": "des Unterrichts",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Unterricht ist interessant." },
+      { "languageCode": "en", "text": "The lesson is interesting." },
+      { "languageCode": "bn", "text": "পাঠটি আকর্ষণীয়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "lesson/class" },
+      { "languageCode": "bn", "text": "পাঠ" }
+    ]
+  },
+  {
+    "id": "goq0am1e",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
@@ -648,6 +323,179 @@
     ]
   },
   {
+    "id": "wggoyjsq",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Abschnitt",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Abschnitte",
+    "genitive_singular": "des Abschnitts",
+    "sentences": [
+      { "languageCode": "de", "text": "Lesen Sie den ersten Abschnitt." },
+      { "languageCode": "en", "text": "Read the first section." },
+      { "languageCode": "bn", "text": "প্রথম অংশটি পড়ুন।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "section" },
+      { "languageCode": "bn", "text": "অংশ" }
+    ]
+  },
+  {
+    "id": "w6p8cw3v",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "verb",
+    "word": "lehren",
+    "infinitive": "lehren",
+    "third_person_singular_present": "er lehrt",
+    "simple_past": "lehrte",
+    "past_participle": "hat gelehrt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Sie lehrt Mathematik." },
+      { "languageCode": "en", "text": "She teaches mathematics." },
+      { "languageCode": "bn", "text": "সে গণিত শেখায়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to teach" },
+      { "languageCode": "bn", "text": "শেখানো" }
+    ]
+  },
+  {
+    "id": "4ydn1vra",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "verb",
+    "word": "erklären",
+    "infinitive": "erklären",
+    "third_person_singular_present": "er erklärt",
+    "simple_past": "erklärte",
+    "past_participle": "hat erklärt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Können Sie das bitte erklären?" },
+      { "languageCode": "en", "text": "Can you please explain that?" },
+      { "languageCode": "bn", "text": "আপনি কি দয়া করে এটা ব্যাখ্যা করতে পারবেন?" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to explain" },
+      { "languageCode": "bn", "text": "ব্যাখ্যা করা" }
+    ]
+  },
+  {
+    "id": "ur6xm4qf",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "verb",
+    "word": "lernen",
+    "infinitive": "lernen",
+    "third_person_singular_present": "er lernt",
+    "simple_past": "lernte",
+    "past_participle": "hat gelernt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Ich lerne Deutsch." },
+      { "languageCode": "en", "text": "I learn German." },
+      { "languageCode": "bn", "text": "আমি জার্মান শিখছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to learn" },
+      { "languageCode": "bn", "text": "শেখা" }
+    ]
+  },
+  {
+    "id": "ro1hr8eh",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "verb",
+    "word": "auswendig lernen",
+    "infinitive": "auswendig lernen",
+    "third_person_singular_present": "er lernt auswendig",
+    "simple_past": "lernte auswendig",
+    "past_participle": "hat auswendig gelernt",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Sie lernt das Gedicht auswendig." },
+      { "languageCode": "en", "text": "She learns the poem by heart." },
+      { "languageCode": "bn", "text": "সে কবিতাটি মুখস্থ করছে।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to learn by heart" },
+      { "languageCode": "bn", "text": "মুখস্থ করা" }
+    ]
+  },
+  {
+    "id": "oaxohzfr",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Methode",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Methoden",
+    "genitive_singular": "der Methode",
+    "sentences": [
+      { "languageCode": "de", "text": "Das ist eine gute Methode." },
+      { "languageCode": "en", "text": "That is a good method." },
+      { "languageCode": "bn", "text": "এটা একটা ভালো পদ্ধতি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "method" },
+      { "languageCode": "bn", "text": "পদ্ধতি" }
+    ]
+  },
+  {
+    "id": "phet0ree",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Strategie",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Strategien",
+    "genitive_singular": "der Strategie",
+    "sentences": [
+      { "languageCode": "de", "text": "Wir brauchen eine Strategie." },
+      { "languageCode": "en", "text": "We need a strategy." },
+      { "languageCode": "bn", "text": "আমাদের একটা কৌশল দরকার।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "strategy" },
+      { "languageCode": "bn", "text": "কৌশল" }
+    ]
+  },
+  {
+    "id": "8vft9o0y",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Praxis",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Praxen",
+    "genitive_singular": "der Praxis",
+    "sentences": [
+      { "languageCode": "de", "text": "Theorie und Praxis sind wichtig." },
+      { "languageCode": "en", "text": "Theory and practice are important." },
+      { "languageCode": "bn", "text": "তত্ত্ব এবং অনুশীলন দুটোই গুরুত্বপূর্ণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "practice" },
+      { "languageCode": "bn", "text": "অনুশীলন" }
+    ]
+  },
+  {
+    "id": "3tuxkee6",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
@@ -667,60 +515,249 @@
     ]
   },
   {
+    "id": "u36yb0we",
     "level": "a1",
     "topic": "education-and-learning",
-    "part_of_speech": "noun",
-    "word": "Uni",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Unis",
-    "genitive_singular": "der Uni",
+    "part_of_speech": "verb",
+    "word": "mit lesen",
+    "infinitive": "mit lesen",
+    "third_person_singular_present": "er liest mit",
+    "simple_past": "las mit",
+    "past_participle": "hat mit gelesen",
+    "auxiliary_verb": "haben",
+    "verb_type": "irregular",
+    "separable_prefix": "mit",
     "sentences": [
-      { "languageCode": "de", "text": "Ich gehe zur Uni." },
-      { "languageCode": "en", "text": "I go to university." },
-      { "languageCode": "bn", "text": "আমি বিশ্ববিদ্যালয়ে যাই।" }
+      { "languageCode": "de", "text": "Ich lese mit der Klasse mit." },
+      { "languageCode": "en", "text": "I read along with the class." },
+      { "languageCode": "bn", "text": "আমি ক্লাসের সাথে সাথে পড়ছি।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "university (informal)" },
-      { "languageCode": "bn", "text": "বিশ্ববিদ্যালয়" }
+      { "languageCode": "en", "text": "to read along" },
+      { "languageCode": "bn", "text": "সাথে পড়া" }
     ]
   },
   {
+    "id": "m2b465jr",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
-    "word": "Universität",
+    "word": "Rollenkarte",
     "article": "die",
     "gender": "feminine",
-    "plural": "Universitäten",
-    "genitive_singular": "der Universität",
+    "plural": "Rollenkarten",
+    "genitive_singular": "der Rollenkarte",
     "sentences": [
-      { "languageCode": "de", "text": "Er studiert an der Universität." },
-      { "languageCode": "en", "text": "He studies at the university." },
-      { "languageCode": "bn", "text": "সে বিশ্ববিদ্যালয়ে অধ্যয়ন করে।" }
+      { "languageCode": "de", "text": "Jeder bekommt eine Rollenkarte." },
+      { "languageCode": "en", "text": "Everyone gets a role card." },
+      { "languageCode": "bn", "text": "সবাই একটা ভূমিকার কার্ড পায়।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "university" },
-      { "languageCode": "bn", "text": "বিশ্ববিদ্যালয়" }
+      { "languageCode": "en", "text": "role card" },
+      { "languageCode": "bn", "text": "ভূমিকার কার্ড" }
     ]
   },
   {
+    "id": "w8wklepd",
     "level": "a1",
     "topic": "education-and-learning",
     "part_of_speech": "noun",
-    "word": "Unterricht",
+    "word": "Projekt",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Projekte",
+    "genitive_singular": "des Projekts",
+    "sentences": [
+      { "languageCode": "de", "text": "Unser Projekt ist sehr interessant." },
+      { "languageCode": "en", "text": "Our project is very interesting." },
+      { "languageCode": "bn", "text": "আমাদের প্রকল্পটি খুব আকর্ষণীয়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "project" },
+      { "languageCode": "bn", "text": "প্রকল্প" }
+    ]
+  },
+  {
+    "id": "yst9hgg5",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Hausaufgabe",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Hausaufgaben",
+    "genitive_singular": "der Hausaufgabe",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich mache meine Hausaufgaben." },
+      { "languageCode": "en", "text": "I do my homework." },
+      { "languageCode": "bn", "text": "আমি আমার বাড়ির কাজ করছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "homework" },
+      { "languageCode": "bn", "text": "বাড়ির কাজ" }
+    ]
+  },
+  {
+    "id": "3gixad3g",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Heft",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Hefte",
+    "genitive_singular": "des Hefts",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Heft ist neu." },
+      { "languageCode": "en", "text": "The notebook is new." },
+      { "languageCode": "bn", "text": "খাতাটি নতুন।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "notebook" },
+      { "languageCode": "bn", "text": "খাতা" }
+    ]
+  },
+  {
+    "id": "qg7j4vv3",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Stift",
     "article": "der",
     "gender": "masculine",
-    "plural": "Unterrichte",
-    "genitive_singular": "des Unterrichts",
+    "plural": "Stifte",
+    "genitive_singular": "des Stifts",
     "sentences": [
-      { "languageCode": "de", "text": "Der Unterricht ist interessant." },
-      { "languageCode": "en", "text": "The lesson is interesting." },
-      { "languageCode": "bn", "text": "পাঠটি আকর্ষণীয়।" }
+      { "languageCode": "de", "text": "Der Stift ist blau." },
+      { "languageCode": "en", "text": "The pen is blue." },
+      { "languageCode": "bn", "text": "কলমটি নীল।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "lesson/class" },
-      { "languageCode": "bn", "text": "পাঠ" }
+      { "languageCode": "en", "text": "pen" },
+      { "languageCode": "bn", "text": "কলম" }
+    ]
+  },
+  {
+    "id": "3nkyb3bt",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Sprachnachricht",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Sprachnachrichten",
+    "genitive_singular": "der Sprachnachricht",
+    "sentences": [
+      { "languageCode": "de", "text": "Ich höre die Sprachnachricht." },
+      { "languageCode": "en", "text": "I listen to the voice message." },
+      { "languageCode": "bn", "text": "আমি ভয়েস মেসেজটি শুনছি।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "voice message" },
+      { "languageCode": "bn", "text": "ভয়েস মেসেজ" }
+    ]
+  },
+  {
+    "id": "52e3bugl",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Mathetest",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Mathetests",
+    "genitive_singular": "des Mathetests",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Mathetest ist morgen." },
+      { "languageCode": "en", "text": "The math test is tomorrow." },
+      { "languageCode": "bn", "text": "গণিত পরীক্ষা আগামীকাল।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "math test" },
+      { "languageCode": "bn", "text": "গণিত পরীক্ষা" }
+    ]
+  },
+  {
+    "id": "yxskvtqy",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Prüfung",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Prüfungen",
+    "genitive_singular": "der Prüfung",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Prüfung ist schwer." },
+      { "languageCode": "en", "text": "The exam is difficult." },
+      { "languageCode": "bn", "text": "পরীক্ষাটি কঠিন।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "exam" },
+      { "languageCode": "bn", "text": "পরীক্ষা" }
+    ]
+  },
+  {
+    "id": "inae0ald",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "verb",
+    "word": "korrigieren",
+    "infinitive": "korrigieren",
+    "third_person_singular_present": "er korrigiert",
+    "simple_past": "korrigierte",
+    "past_participle": "hat korrigiert",
+    "auxiliary_verb": "haben",
+    "verb_type": "regular",
+    "separable_prefix": null,
+    "sentences": [
+      { "languageCode": "de", "text": "Der Lehrer korrigiert die Tests." },
+      { "languageCode": "en", "text": "The teacher corrects the tests." },
+      { "languageCode": "bn", "text": "শিক্ষক পরীক্ষার খাতা সংশোধন করছেন।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "to correct" },
+      { "languageCode": "bn", "text": "সংশোধন করা" }
+    ]
+  },
+  {
+    "id": "xn7s36wu",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Ergebnis",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Ergebnisse",
+    "genitive_singular": "des Ergebnisses",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Ergebnis ist gut." },
+      { "languageCode": "en", "text": "The result is good." },
+      { "languageCode": "bn", "text": "ফলাফলটি ভালো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "result" },
+      { "languageCode": "bn", "text": "ফলাফল" }
+    ]
+  },
+  {
+    "id": "a5tkc4ai",
+    "level": "a1",
+    "topic": "education-and-learning",
+    "part_of_speech": "noun",
+    "word": "Statistik",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Statistiken",
+    "genitive_singular": "der Statistik",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Statistik zeigt interessante Zahlen." },
+      { "languageCode": "en", "text": "The statistics show interesting numbers." },
+      { "languageCode": "bn", "text": "পরিসংখ্যানে আকর্ষণীয় সংখ্যা দেখা যায়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "statistics" },
+      { "languageCode": "bn", "text": "পরিসংখ্যান" }
     ]
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "id": "zz1xvqom",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -17,6 +18,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/hello.png"
   },
   {
+    "id": "3g7xm34m",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
@@ -37,6 +39,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/excuse-me.png"
   },
   {
+    "id": "n6qhmcp1",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -56,6 +59,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/good-day.png"
   },
   {
+    "id": "b0rxk4bo",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -73,6 +77,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/please.png"
   },
   {
+    "id": "mkzs24qh",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
@@ -92,6 +97,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/heartfelt.png"
   },
   {
+    "id": "l8hel3mn",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
@@ -112,6 +118,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/thanks.png"
   },
   {
+    "id": "j5jbmu62",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
@@ -131,6 +138,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/grateful.png"
   },
   {
+    "id": "vt3ps42o",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "verb",
@@ -154,6 +162,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/to-thank.png"
   },
   {
+    "id": "noi78zml",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -171,6 +180,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/thank-you.png"
   },
   {
+    "id": "dmtdlia8",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -188,6 +198,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/thank-you-very-much.png"
   },
   {
+    "id": "nccktp30",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -205,6 +216,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/see-you-soon.png"
   },
   {
+    "id": "3hlluo3m",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
@@ -224,6 +236,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/likewise.png"
   },
   {
+    "id": "5ynd1oup",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -241,6 +254,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/bye.png"
   },
   {
+    "id": "5fl65030",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -258,6 +272,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/bye-too.png"
   },
   {
+    "id": "unc51dpl",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -275,6 +290,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/goodbye.png"
   },
   {
+    "id": "yqd1vr80",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -292,6 +308,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/come-on.png"
   },
   {
+    "id": "lckhhz6f",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -309,6 +326,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/okay.png"
   },
   {
+    "id": "o0bybyog",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
@@ -328,6 +346,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/friendly.png"
   },
   {
+    "id": "kteenedf",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
@@ -347,6 +366,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/genuine.png"
   },
   {
+    "id": "av11nb73",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -364,6 +384,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/hurray.png"
   },
   {
+    "id": "7tsl3zu1",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "interjection",
@@ -381,6 +402,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/cheers.png"
   },
   {
+    "id": "u2ldoj3q",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
@@ -400,6 +422,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/naturally-of-course.png"
   },
   {
+    "id": "km9do9to",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
@@ -419,6 +442,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/sure.png"
   },
   {
+    "id": "ukxtvokc",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
@@ -438,6 +462,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/honored.png"
   },
   {
+    "id": "3lcedcvt",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
@@ -457,6 +482,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/kind-dear.png"
   },
   {
+    "id": "ehkabctc",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
@@ -476,6 +502,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/bad.png"
   },
   {
+    "id": "tf4cgddn",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
@@ -495,6 +522,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/not-so-good.png"
   },
   {
+    "id": "8608lhju",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
@@ -514,6 +542,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/quite-good.png"
   },
   {
+    "id": "g6eeu5sv",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
@@ -533,6 +562,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/good.png"
   },
   {
+    "id": "ujududu1",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
@@ -552,6 +582,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/very-good.png"
   },
   {
+    "id": "vqadgqrh",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",
@@ -571,6 +602,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/excellent.png"
   },
   {
+    "id": "xoy8pplr",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
@@ -591,6 +623,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/salutation.png"
   },
   {
+    "id": "hd7d4br0",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
@@ -611,6 +644,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/salutation-formula.png"
   },
   {
+    "id": "7g31e3w3",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
@@ -631,6 +665,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/greeting.png"
   },
   {
+    "id": "5kzhzlro",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "noun",
@@ -651,6 +686,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/closing-phrase.png"
   },
   {
+    "id": "24vv79nt",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adverb",
@@ -670,6 +706,7 @@
     "image": "private/data/vocabulary/images/greetings-and-expressions/fortunately.png"
   },
   {
+    "id": "wzgrw9wl",
     "level": "a1",
     "topic": "greetings-and-expressions",
     "part_of_speech": "adjective",

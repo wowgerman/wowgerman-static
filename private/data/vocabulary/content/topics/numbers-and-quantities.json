@@ -1,5 +1,6 @@
 [
   {
+    "id": "m68ciesj",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -16,6 +17,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/zero.png"
   },
   {
+    "id": "4h5jmfdl",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -32,6 +34,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/one.png"
   },
   {
+    "id": "jrteijwx",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -48,6 +51,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/two.png"
   },
   {
+    "id": "nalaxbp5",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -64,6 +68,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/six.png"
   },
   {
+    "id": "5wzgpknx",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -80,6 +85,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/seven.png"
   },
   {
+    "id": "b71qts7v",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -96,6 +102,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/ten.png"
   },
   {
+    "id": "g391w6wo",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -112,6 +119,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/eleven.png"
   },
   {
+    "id": "dwu2xad4",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -128,6 +136,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/twelve.png"
   },
   {
+    "id": "qgwu0z7d",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -144,6 +153,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/sixteen.png"
   },
   {
+    "id": "skxgkywb",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -160,6 +170,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/seventeen.png"
   },
   {
+    "id": "gej4sh2r",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -176,6 +187,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/twenty.png"
   },
   {
+    "id": "dnayyxjb",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -192,6 +204,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/twenty-nine.png"
   },
   {
+    "id": "bjuzznzl",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -208,6 +221,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/thirty.png"
   },
   {
+    "id": "lggos30i",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -224,6 +238,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/forty.png"
   },
   {
+    "id": "7a06j73g",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -240,6 +255,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/fifty.png"
   },
   {
+    "id": "6f2v3b2v",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -256,6 +272,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/sixty.png"
   },
   {
+    "id": "t3l3qpjo",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -272,6 +289,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/seventy.png"
   },
   {
+    "id": "k4o9t6o3",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -288,6 +306,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/eighty.png"
   },
   {
+    "id": "w2jmpln2",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -304,6 +323,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/ninety.png"
   },
   {
+    "id": "6gy10kyd",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -320,6 +340,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/hundred.png"
   },
   {
+    "id": "em645bw2",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -336,6 +357,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/two-hundred.png"
   },
   {
+    "id": "zqwfbxwb",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -352,6 +374,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/thousand.png"
   },
   {
+    "id": "ilaocadw",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -368,6 +391,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/ten-thousand.png"
   },
   {
+    "id": "o4ha520s",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "noun",
@@ -388,6 +412,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/million.png"
   },
   {
+    "id": "mq9xn5jf",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "noun",
@@ -408,6 +433,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/billion.png"
   },
   {
+    "id": "ml7qbcw3",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -424,6 +450,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/first.png"
   },
   {
+    "id": "du3lav0z",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -440,6 +467,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/second.png"
   },
   {
+    "id": "qwcjzqaq",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -456,6 +484,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/third.png"
   },
   {
+    "id": "vurp0zmd",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -472,6 +501,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/fourth.png"
   },
   {
+    "id": "wcq3hzwz",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -488,6 +518,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/fifth.png"
   },
   {
+    "id": "rdnt9b6t",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -504,6 +535,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/sixth.png"
   },
   {
+    "id": "kfwdxha4",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -520,6 +552,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/seventh.png"
   },
   {
+    "id": "v0y5o9na",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -536,6 +569,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/eighth.png"
   },
   {
+    "id": "5q0mm5vm",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -552,6 +586,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/ninth.png"
   },
   {
+    "id": "r4qn64d7",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "numeral",
@@ -568,6 +603,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/tenth.png"
   },
   {
+    "id": "3jikugrh",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "pronoun",
@@ -589,6 +625,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/all.png"
   },
   {
+    "id": "qml7f1pa",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "pronoun",
@@ -610,6 +647,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/both.png"
   },
   {
+    "id": "xpnhcl0n",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "adverb",
@@ -629,6 +667,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/approximately.png"
   },
   {
+    "id": "0v0y3nj0",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "pronoun",
@@ -650,6 +689,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/some.png"
   },
   {
+    "id": "f3i1oyst",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "adverb",
@@ -669,6 +709,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/little.png"
   },
   {
+    "id": "28hxdht9",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "adjective",
@@ -688,6 +729,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/extra.png"
   },
   {
+    "id": "7acjhk8z",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "adverb",
@@ -707,6 +749,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/more.png"
   },
   {
+    "id": "zo7lakph",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "adverb",
@@ -726,6 +769,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/much.png"
   },
   {
+    "id": "niozv36s",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "adjective",
@@ -745,6 +789,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/full.png"
   },
   {
+    "id": "g2hd9ogw",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "preposition",
@@ -762,6 +807,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/without.png"
   },
   {
+    "id": "iyuub7yf",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "preposition",
@@ -779,6 +825,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/plus.png"
   },
   {
+    "id": "4juy5p7s",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "preposition",
@@ -796,6 +843,7 @@
     "image": "private/data/vocabulary/images/numbers-and-quantities/minus.png"
   },
   {
+    "id": "i4ay2t3s",
     "level": "a1",
     "topic": "numbers-and-quantities",
     "part_of_speech": "preposition",

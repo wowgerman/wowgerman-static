@@ -1,100 +1,6 @@
 [
   {
-    "level": "a1",
-    "topic": "other",
-    "part_of_speech": "noun",
-    "word": "Anhang",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Anhänge",
-    "genitive_singular": "des Anhangs",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Anhang ist wichtig." },
-      { "languageCode": "en", "text": "The attachment is important." },
-      { "languageCode": "bn", "text": "সংযুক্তিটি গুরুত্বপূর্ণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "attachment" },
-      { "languageCode": "bn", "text": "সংযুক্তি" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "other",
-    "part_of_speech": "noun",
-    "word": "Art",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Arten",
-    "genitive_singular": "der Art",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Art ist wichtig." },
-      { "languageCode": "en", "text": "The type is important." },
-      { "languageCode": "bn", "text": "ধরনটি গুরুত্বপূর্ণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "type" },
-      { "languageCode": "bn", "text": "ধরন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "other",
-    "part_of_speech": "noun",
-    "word": "Aufgabe",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Aufgaben",
-    "genitive_singular": "der Aufgabe",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Aufgabe ist schwer." },
-      { "languageCode": "en", "text": "The task is difficult." },
-      { "languageCode": "bn", "text": "কাজটি কঠিন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "task" },
-      { "languageCode": "bn", "text": "কাজ" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "other",
-    "part_of_speech": "noun",
-    "word": "Bewegung",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Bewegungen",
-    "genitive_singular": "der Bewegung",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Bewegung ist langsam." },
-      { "languageCode": "en", "text": "The movement is slow." },
-      { "languageCode": "bn", "text": "আন্দোলনটি ধীর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "movement" },
-      { "languageCode": "bn", "text": "আন্দোলন" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "other",
-    "part_of_speech": "noun",
-    "word": "Bild",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Bilder",
-    "genitive_singular": "des Bildes",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Bild ist schön." },
-      { "languageCode": "en", "text": "The picture is beautiful." },
-      { "languageCode": "bn", "text": "ছবিটি সুন্দর।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "picture" },
-      { "languageCode": "bn", "text": "ছবি" }
-    ]
-  },
-  {
+    "id": "cc0onzgg",
     "level": "a1",
     "topic": "other",
     "part_of_speech": "noun",
@@ -114,101 +20,27 @@
     ]
   },
   {
+    "id": "3h1sgdnv",
     "level": "a1",
     "topic": "other",
     "part_of_speech": "noun",
-    "word": "Experiment",
-    "article": "das",
-    "gender": "neuter",
-    "plural": "Experimente",
-    "genitive_singular": "des Experiments",
-    "sentences": [
-      { "languageCode": "de", "text": "Das Experiment ist spannend." },
-      { "languageCode": "en", "text": "The experiment is exciting." },
-      { "languageCode": "bn", "text": "পরীক্ষাটি উত্তেজনাপূর্ণ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "experiment" },
-      { "languageCode": "bn", "text": "পরীক্ষা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "other",
-    "part_of_speech": "noun",
-    "word": "Gruppe",
+    "word": "Art",
     "article": "die",
     "gender": "feminine",
-    "plural": "Gruppen",
-    "genitive_singular": "der Gruppe",
+    "plural": "Arten",
+    "genitive_singular": "der Art",
     "sentences": [
-      { "languageCode": "de", "text": "Die Gruppe ist groß." },
-      { "languageCode": "en", "text": "The group is big." },
-      { "languageCode": "bn", "text": "দলটি বড়।" }
+      { "languageCode": "de", "text": "Die Art ist wichtig." },
+      { "languageCode": "en", "text": "The type is important." },
+      { "languageCode": "bn", "text": "ধরনটি গুরুত্বপূর্ণ।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "group" },
-      { "languageCode": "bn", "text": "দল" }
+      { "languageCode": "en", "text": "type" },
+      { "languageCode": "bn", "text": "ধরন" }
     ]
   },
   {
-    "level": "a1",
-    "topic": "other",
-    "part_of_speech": "noun",
-    "word": "Individualist",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Individualisten",
-    "genitive_singular": "des Individualisten",
-    "sentences": [
-      { "languageCode": "de", "text": "Der Individualist ist anders." },
-      { "languageCode": "en", "text": "The individualist is different." },
-      { "languageCode": "bn", "text": "স্বতন্ত্রবাদীটি ভিন্ন।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "individualist" },
-      { "languageCode": "bn", "text": "স্বতন্ত্রবাদী" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "other",
-    "part_of_speech": "noun",
-    "word": "Individualistin",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Individualistinnen",
-    "genitive_singular": "der Individualistin",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Individualistin ist stark." },
-      { "languageCode": "en", "text": "The individualist is strong." },
-      { "languageCode": "bn", "text": "স্বতন্ত্রবাদী নারীটি শক্তিশালী।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "individualist (female)" },
-      { "languageCode": "bn", "text": "স্বতন্ত্রবাদী (মহিলা)" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "other",
-    "part_of_speech": "noun",
-    "word": "Liste",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Listen",
-    "genitive_singular": "der Liste",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Liste ist lang." },
-      { "languageCode": "en", "text": "The list is long." },
-      { "languageCode": "bn", "text": "তালিকাটি দীর্ঘ।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "list" },
-      { "languageCode": "bn", "text": "তালিকা" }
-    ]
-  },
-  {
+    "id": "9zaf1lih",
     "level": "a1",
     "topic": "other",
     "part_of_speech": "noun",
@@ -228,63 +60,67 @@
     ]
   },
   {
+    "id": "nxr2cw9k",
     "level": "a1",
     "topic": "other",
     "part_of_speech": "noun",
-    "word": "Möglichkeit",
-    "article": "die",
-    "gender": "feminine",
-    "plural": "Möglichkeiten",
-    "genitive_singular": "der Möglichkeit",
-    "sentences": [
-      { "languageCode": "de", "text": "Die Möglichkeit ist gut." },
-      { "languageCode": "en", "text": "The possibility is good." },
-      { "languageCode": "bn", "text": "সম্ভাবনাটি ভালো।" }
-    ],
-    "translations": [
-      { "languageCode": "en", "text": "possibility" },
-      { "languageCode": "bn", "text": "সম্ভাবনা" }
-    ]
-  },
-  {
-    "level": "a1",
-    "topic": "other",
-    "part_of_speech": "noun",
-    "word": "Plan",
+    "word": "Individualist",
     "article": "der",
     "gender": "masculine",
-    "plural": "Pläne",
-    "genitive_singular": "des Plans",
+    "plural": "Individualisten",
+    "genitive_singular": "des Individualisten",
     "sentences": [
-      { "languageCode": "de", "text": "Der Plan ist fertig." },
-      { "languageCode": "en", "text": "The plan is ready." },
-      { "languageCode": "bn", "text": "পরিকল্পনাটি প্রস্তুত।" }
+      { "languageCode": "de", "text": "Der Individualist ist anders." },
+      { "languageCode": "en", "text": "The individualist is different." },
+      { "languageCode": "bn", "text": "স্বতন্ত্রবাদীটি ভিন্ন।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "plan" },
-      { "languageCode": "bn", "text": "পরিকল্পনা" }
+      { "languageCode": "en", "text": "individualist" },
+      { "languageCode": "bn", "text": "স্বতন্ত্রবাদী" }
     ]
   },
   {
+    "id": "5kw76fi9",
     "level": "a1",
     "topic": "other",
     "part_of_speech": "noun",
-    "word": "Strategie",
+    "word": "Individualistin",
     "article": "die",
     "gender": "feminine",
-    "plural": "Strategien",
-    "genitive_singular": "der Strategie",
+    "plural": "Individualistinnen",
+    "genitive_singular": "der Individualistin",
     "sentences": [
-      { "languageCode": "de", "text": "Die Strategie ist gut." },
-      { "languageCode": "en", "text": "The strategy is good." },
-      { "languageCode": "bn", "text": "কৌশলটি ভালো।" }
+      { "languageCode": "de", "text": "Die Individualistin ist stark." },
+      { "languageCode": "en", "text": "The individualist is strong." },
+      { "languageCode": "bn", "text": "স্বতন্ত্রবাদী নারীটি শক্তিশালী।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "strategy" },
-      { "languageCode": "bn", "text": "কৌশল" }
+      { "languageCode": "en", "text": "individualist (female)" },
+      { "languageCode": "bn", "text": "স্বতন্ত্রবাদী (মহিলা)" }
     ]
   },
   {
+    "id": "uzgh96pg",
+    "level": "a1",
+    "topic": "other",
+    "part_of_speech": "noun",
+    "word": "Gruppe",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Gruppen",
+    "genitive_singular": "der Gruppe",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Gruppe ist groß." },
+      { "languageCode": "en", "text": "The group is big." },
+      { "languageCode": "bn", "text": "দলটি বড়।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "group" },
+      { "languageCode": "bn", "text": "দল" }
+    ]
+  },
+  {
+    "id": "15zq0pwd",
     "level": "a1",
     "topic": "other",
     "part_of_speech": "noun",
@@ -304,25 +140,87 @@
     ]
   },
   {
+    "id": "i8s7je4t",
     "level": "a1",
     "topic": "other",
     "part_of_speech": "noun",
-    "word": "Tipp",
-    "article": "der",
-    "gender": "masculine",
-    "plural": "Tipps",
-    "genitive_singular": "des Tipps",
+    "word": "Aufgabe",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Aufgaben",
+    "genitive_singular": "der Aufgabe",
     "sentences": [
-      { "languageCode": "de", "text": "Der Tipp ist hilfreich." },
-      { "languageCode": "en", "text": "The tip is helpful." },
-      { "languageCode": "bn", "text": "টিপসটি সহায়ক।" }
+      { "languageCode": "de", "text": "Die Aufgabe ist schwer." },
+      { "languageCode": "en", "text": "The task is difficult." },
+      { "languageCode": "bn", "text": "কাজটি কঠিন।" }
     ],
     "translations": [
-      { "languageCode": "en", "text": "tip" },
-      { "languageCode": "bn", "text": "টিপস" }
+      { "languageCode": "en", "text": "task" },
+      { "languageCode": "bn", "text": "কাজ" }
     ]
   },
   {
+    "id": "xmzun8si",
+    "level": "a1",
+    "topic": "other",
+    "part_of_speech": "noun",
+    "word": "Plan",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Pläne",
+    "genitive_singular": "des Plans",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Plan ist fertig." },
+      { "languageCode": "en", "text": "The plan is ready." },
+      { "languageCode": "bn", "text": "পরিকল্পনাটি প্রস্তুত।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "plan" },
+      { "languageCode": "bn", "text": "পরিকল্পনা" }
+    ]
+  },
+  {
+    "id": "qcj45246",
+    "level": "a1",
+    "topic": "other",
+    "part_of_speech": "noun",
+    "word": "Strategie",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Strategien",
+    "genitive_singular": "der Strategie",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Strategie ist gut." },
+      { "languageCode": "en", "text": "The strategy is good." },
+      { "languageCode": "bn", "text": "কৌশলটি ভালো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "strategy" },
+      { "languageCode": "bn", "text": "কৌশল" }
+    ]
+  },
+  {
+    "id": "f6zqiuad",
+    "level": "a1",
+    "topic": "other",
+    "part_of_speech": "noun",
+    "word": "Möglichkeit",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Möglichkeiten",
+    "genitive_singular": "der Möglichkeit",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Möglichkeit ist gut." },
+      { "languageCode": "en", "text": "The possibility is good." },
+      { "languageCode": "bn", "text": "সম্ভাবনাটি ভালো।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "possibility" },
+      { "languageCode": "bn", "text": "সম্ভাবনা" }
+    ]
+  },
+  {
+    "id": "1mpix53x",
     "level": "a1",
     "topic": "other",
     "part_of_speech": "noun",
@@ -342,6 +240,127 @@
     ]
   },
   {
+    "id": "kztxbimj",
+    "level": "a1",
+    "topic": "other",
+    "part_of_speech": "noun",
+    "word": "Liste",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Listen",
+    "genitive_singular": "der Liste",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Liste ist lang." },
+      { "languageCode": "en", "text": "The list is long." },
+      { "languageCode": "bn", "text": "তালিকাটি দীর্ঘ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "list" },
+      { "languageCode": "bn", "text": "তালিকা" }
+    ]
+  },
+  {
+    "id": "lvjk398z",
+    "level": "a1",
+    "topic": "other",
+    "part_of_speech": "noun",
+    "word": "Anhang",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Anhänge",
+    "genitive_singular": "des Anhangs",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Anhang ist wichtig." },
+      { "languageCode": "en", "text": "The attachment is important." },
+      { "languageCode": "bn", "text": "সংযুক্তিটি গুরুত্বপূর্ণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "attachment" },
+      { "languageCode": "bn", "text": "সংযুক্তি" }
+    ]
+  },
+  {
+    "id": "3fnn4kze",
+    "level": "a1",
+    "topic": "other",
+    "part_of_speech": "noun",
+    "word": "Bild",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Bilder",
+    "genitive_singular": "des Bildes",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Bild ist schön." },
+      { "languageCode": "en", "text": "The picture is beautiful." },
+      { "languageCode": "bn", "text": "ছবিটি সুন্দর।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "picture" },
+      { "languageCode": "bn", "text": "ছবি" }
+    ]
+  },
+  {
+    "id": "v5h6tjs8",
+    "level": "a1",
+    "topic": "other",
+    "part_of_speech": "noun",
+    "word": "Bewegung",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Bewegungen",
+    "genitive_singular": "der Bewegung",
+    "sentences": [
+      { "languageCode": "de", "text": "Die Bewegung ist langsam." },
+      { "languageCode": "en", "text": "The movement is slow." },
+      { "languageCode": "bn", "text": "আন্দোলনটি ধীর।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "movement" },
+      { "languageCode": "bn", "text": "আন্দোলন" }
+    ]
+  },
+  {
+    "id": "g7483fn9",
+    "level": "a1",
+    "topic": "other",
+    "part_of_speech": "noun",
+    "word": "Experiment",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Experimente",
+    "genitive_singular": "des Experiments",
+    "sentences": [
+      { "languageCode": "de", "text": "Das Experiment ist spannend." },
+      { "languageCode": "en", "text": "The experiment is exciting." },
+      { "languageCode": "bn", "text": "পরীক্ষাটি উত্তেজনাপূর্ণ।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "experiment" },
+      { "languageCode": "bn", "text": "পরীক্ষা" }
+    ]
+  },
+  {
+    "id": "p9gmpqzq",
+    "level": "a1",
+    "topic": "other",
+    "part_of_speech": "noun",
+    "word": "Tipp",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Tipps",
+    "genitive_singular": "des Tipps",
+    "sentences": [
+      { "languageCode": "de", "text": "Der Tipp ist hilfreich." },
+      { "languageCode": "en", "text": "The tip is helpful." },
+      { "languageCode": "bn", "text": "টিপসটি সহায়ক।" }
+    ],
+    "translations": [
+      { "languageCode": "en", "text": "tip" },
+      { "languageCode": "bn", "text": "টিপস" }
+    ]
+  },
+  {
+    "id": "feqpw79z",
     "level": "a1",
     "topic": "other",
     "part_of_speech": "noun",
